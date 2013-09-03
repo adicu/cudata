@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>DESC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>DNSC</subject_area_code>
+
+<subject_area_name>Dental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9000</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9001</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>DNSC G9000-G9001</course_identifier_cooked>
+
+<course_name>Directed Readings In Functional Craniology</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; Introduction to and discussion of relevant literature in the fields of functional anatomy, comparative anatomy, embryology, and growth and development of the cranial complex.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>DESC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>DNSC</subject_area_code>
+
+<subject_area_name>Dental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9002</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9003</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>DNSC G9002-G9003</course_identifier_cooked>
+
+<course_name>Directed Readings In Cell and Molecular Biology</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; Students present articles demonstrating an understanding of current research.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>DESC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>DNSC</subject_area_code>
+
+<subject_area_name>Dental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9004</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9005</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>DNSC G9004-G9005</course_identifier_cooked>
+
+<course_name>Directed Readings In Biology of the Dentin/Pulp Complex</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; Critique and discussion of relevant literature in the fields of physiology and cell biology related to the problems of the dentin/pulp complex.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>DESC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>DNSC</subject_area_code>
+
+<subject_area_name>Dental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9940</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>DNSC G9940</course_identifier_cooked>
+
+<course_name>Bioengineering Aspects of Dental Implants</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; Lectures and laboratory on various aspects of dental implants, including: materials and design, biomechanics, aspects of surgical technique, stress and failure analysis.&#38;nbsp; Term project with original research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

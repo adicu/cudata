@@ -1,0 +1,4505 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R1001x or y</course_identifier_cooked>
+
+<course_name>Basic Drawing</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The fundamentals of visual vocabulary. Students work from observation using still-life objects and the human figure. The relationship of lines and forms to each other and to the picture format is emphasized. Materials used: vine charcoal, compressed charcoal, pencil, pen, ink, and brushes. Class assignments are accompanied by discussions and critiques. Portfolio required at the end. If the class is full, sign up for the wait list at http://arts.columbia.edu/drawlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Craycroft, E. Smith, G. Ben-Ari, H. Rodman, J. Segall, N. Frank</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Craycroft, E. Smith, G. Ben-Ari, H. Rodman, J. Segall, N. Frank</course_instructors_full>
+
+<classes><class><call_number>26996</call_number>
+
+<class_name>BASIC DRAWING</class_name>
+
+<course_identifier>VIARR1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 12:30p - 3:00p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>J. Segall</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R1001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>28446</call_number>
+
+<class_name>BASIC DRAWING</class_name>
+
+<course_identifier>VIARR1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 9:30a - 12:00p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>G. Ben-Ari</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R1001-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>75505</call_number>
+
+<class_name>BASIC DRAWING</class_name>
+
+<course_identifier>VIARR1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 9:30a - 12:00p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>E. Smith</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R1001-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>64529</call_number>
+
+<class_name>BASIC DRAWING</class_name>
+
+<course_identifier>VIARR1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 1:00p - 3:30p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>N. Frank</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R1001-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>86349</call_number>
+
+<class_name>BASIC DRAWING</class_name>
+
+<course_identifier>VIARR1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 5:00p - 7:30p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>H. Rodman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R1001-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>88496</call_number>
+
+<class_name>BASIC DRAWING</class_name>
+
+<course_identifier>VIARR1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 1:00p - 3:30p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>A. Craycroft</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R1001-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S1001z</course_identifier_cooked>
+
+<course_name>Basic Drawing</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamentals of visual vocabulary. Students work from observation using still-life objects and the human figure. Emphasizes the relationship of lines and forms to each other and to the picture format. Materials used: vine charcoal, compressed charcoal, pencil, pen, ink, and brushes. Class assignments, discussions, and critiques.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>VIAR S1001z (Section 2)</course_identifier_cooked>
+
+<course_name>Basic Drawing</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamentals of visual vocabulary. Students work from observation using still-life objects and the human figure. Emphasizes the relationship of lines and forms to each other and to the picture format. Materials used: vine charcoal, compressed charcoal, pencil, pen, ink, and brushes. Class assignments, discussions, and critiques.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1201</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>VIAR S1201z (Section 1)</course_identifier_cooked>
+
+<course_name>Introduction to Painting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The fundamentals of painting. Students begin working from observation using still-life objects and graduate to figurative and imaginative compositions. Concepts of color, space, form, narrative, and structure are addressed and a variety of techniques are practiced.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1201</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S1201z</course_identifier_cooked>
+
+<course_name>Introduction to Painting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The fundamentals of painting. Students begin working from observation using still-life objects and graduate to figurative and imaginative compositions. Concepts of color, space, form, narrative, and structure are addressed and a variety of techniques are practiced.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>1401</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R1401x or y</course_identifier_cooked>
+
+<course_name>Introduction To Printmaking</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamentals of printmaking techniques introduced to individuals who have little or no prior experience. Individual and group critiques; portfolio required at end.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Bennett</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Bennett</course_instructors_full>
+
+<classes><class><call_number>81754</call_number>
+
+<class_name>INTRO TO PRINTMAKING</class_name>
+
+<course_identifier>VIARR1401</course_identifier>
+
+<course_number>1401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:30p - 5:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>D. Bennett</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R1401-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1401</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S1401z</course_identifier_cooked>
+
+<course_name>Introduction to Printmaking</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>May not be taken by majors.</course_points_notes>
+
+<course_points_cooked>3 pts.  May not be taken by majors.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamentals of printmaking techniques introduced to individuals who have little or no prior experience.&#38;nbsp; Individual and group critiques.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3001</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3001x or y</course_identifier_cooked>
+
+<course_name>Drawing II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>DRAWING II Course Description: Examines the potential of drawing as an expressive tool elaborating on the concepts and techniques presented in VIAR R1001. Studio practice emphasizes individual attitudes toward drawing while acquiring knowledge and skills from historical and cultural precedents. Portfolio required at the end. DRAWING II - Mixed Media Course Description: This course approaches drawing as an experimental and expressive tool. Students will be encouraged to push the parameters of drawing. Collage, assemblage and photomontage will be used in combination with more traditional appraches to drawing. The class will explore the role of the imagination, memory, language, mapping and text in drawing. Field trips will play an important role in the course. The course will culminate in a final project in which each student will choose one or more of the themes explored during the semester and create a drawing or series of drawing. If the class is full, sign up for the wait list at http://arts.columbia.edu/drawlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Jehly, D. Cooper</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Jehly, D. Cooper</course_instructors_full>
+
+<classes><class><call_number>82279</call_number>
+
+<class_name>DRAWING II</class_name>
+
+<course_identifier>VIARR3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>C. Jehly</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>81773</call_number>
+
+<class_name>DRAWING II - MIXED MEDIA</class_name>
+
+<course_identifier>VIARR3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:30a - 12:00p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>D. Cooper</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3001-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3021</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>R</school_bulletin_prefix_code_2>
+
+<course_number_2>3022</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3021x-R3022y</course_identifier_cooked>
+
+<course_name>Figure Drawing I and II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An exploration of a wide range of drawing experiences. Moves sequentially, engaging problems of line and mass; volume; chiaroscuro; figure/ground; one, two, and axonometric perspective in pictorial observation and improvisation. Classes focus on specific drawing issues engaging art-historical and contemporary methods and techniques. Individual and group critiques. Portfolio required at the end. If the class is full, sign up for the wait list at http://arts.columbia.edu/drawlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R1001</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Pheobus</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Pheobus</course_instructors_full>
+
+<classes><class><call_number>76783</call_number>
+
+<class_name>FIGURE DRAWING I</class_name>
+
+<course_identifier>VIARR3021</course_identifier>
+
+<course_number>3021</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;501 DODGE BUILDING</days_times>
+
+<instructors>A. Pheobus</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3021-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3040</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3040x or y</course_identifier_cooked>
+
+<course_name>Printmaking I: Lithography</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp;Introduction to the fundamentals of lithography. Students learn both stone and plate process while being presented many different printing materials to work with. Students are involved in a great deal of drawing for assigned projects. Personal development and visual language are strongly encouraged. Class projects are accompanied with discussion and critiques. Portfolio required at end.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3041</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3041x or y</course_identifier_cooked>
+
+<course_name>Printmaking II: Lithography</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Building on the fundamentals and techniques learned in VIAR R3040, students develop more involvement with stone and plate lithography. Introduction of color lithography and photo lithography. Class projects are accompanied by discussion and critiques. Portfolio required at end.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3040</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3130</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3130x or y</course_identifier_cooked>
+
+<course_name>Ceramics I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This studio course will provide the students with a foundation in the ceramic process, its history and its relevance to contemporary art making. The course is structured in two parts. The first centers on the fundamental and technical aspects of the material. Students will learn construction techniques, glazing and finishing methods, and particulars about firing procedures. This part of the course will move quickly in order to expose the students to a variety of ceramic processes. Weekly assignments, demonstrations and lectures will be given. The second centers on the issue of how to integrate ceramics into the students&#39; current practice. Asking the question of why we use ceramics as a material and further, why we choose the materials we do to make art. Rigorous group and individual critiques focusing on the above questions will be held. The goal of this course is to supply the students with the knowledge and skill necessary to work in ceramics and enough proficiency and understanding of the material to enable them to successfully incorporate it into their practice. If the class is full, sign up for the wait list at http://arts.columbia.edu/sculplist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Peet</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Peet</course_instructors_full>
+
+<classes><class><call_number>91196</call_number>
+
+<class_name>CERAMICS I</class_name>
+
+<course_identifier>VIARR3130</course_identifier>
+
+<course_number>3130</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 10:00a - 4:00p&#60;br /&#62;320 PRENTIS HALL</days_times>
+
+<instructors>J. Peet</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>12</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3130-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>63045</call_number>
+
+<class_name>CERAMICS I</class_name>
+
+<course_identifier>VIARR3130</course_identifier>
+
+<course_number>3130</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 10:00a - 4:00p&#60;br /&#62;336 PRENTIS HALL</days_times>
+
+<instructors>J. Peet</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>11</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3130-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3131</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3131x or y</course_identifier_cooked>
+
+<course_name>Ceramics II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will focus on using ceramics as a primary art making machine by breaking out of the constraints wedded to this traditional material. Building on the foundation set in Ceramics I VIAR R3130, this course will delve further into the technical and historical aspects of the ceramic process. Students will learn advanced construction techniques and finishing processes, including an introduction to mixing raw ceramic materials to create custom clay and glazes. The class will center around real world issues in the art world, this will happen with visiting artist lectures, gallery and museum visits as well as artists studio visits. An essential part to working with ceramics successfully is an understanding of its history, both where it comes from and how it has been used over the ages. Lectures and readings on these areas will be given throughout the course. Students will use a self-directed working process to facilitate the incorporation of ceramic materials into their existing art practice while allowing them room to go in their own conceptual direction. Rigorous group and individual critiques will be held on a regular basis. If the class is full, sign up for the wait list at http://arts.columbia.edu/sculplist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3130</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Peet</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Peet</course_instructors_full>
+
+<classes><class><call_number>28452</call_number>
+
+<class_name>CERAMICS II</class_name>
+
+<course_identifier>VIARR3131</course_identifier>
+
+<course_number>3131</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 10:00a - 4:00p&#60;br /&#62;336 PRENTIS HALL</days_times>
+
+<instructors>J. Peet</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>2</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3131-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3201</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3201x or y</course_identifier_cooked>
+
+<course_name>Painting I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction of the fundamental skills and concepts involved in painting. Problems are structured to provide students with a knowledge of visual language along with a development of expressive content. Individual and group critiques. Portfolio required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/paintlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R1001</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Hunt, G. Ben-Ari, K. Mayerson, M. Dancy</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Hunt, G. Ben-Ari, K. Mayerson, M. Dancy</course_instructors_full>
+
+<classes><class><call_number>72191</call_number>
+
+<class_name>PAINTING I</class_name>
+
+<course_identifier>VIARR3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:00p - 10:00p&#60;br /&#62;401 DODGE BUILDING</days_times>
+
+<instructors>C. Hunt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>17</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3201-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>90941</call_number>
+
+<class_name>PAINTING I</class_name>
+
+<course_identifier>VIARR3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 4:00p - 10:00p&#60;br /&#62;401 DODGE BUILDING</days_times>
+
+<instructors>M. Dancy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>17</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3201-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>75944</call_number>
+
+<class_name>PAINTING I</class_name>
+
+<course_identifier>VIARR3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 10:00a - 4:00p&#60;br /&#62;401 DODGE BUILDING</days_times>
+
+<instructors>K. Mayerson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3201-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>13037</call_number>
+
+<class_name>PAINTING I</class_name>
+
+<course_identifier>VIARR3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 10:00a - 4:00p&#60;br /&#62;401 DODGE BUILDING</days_times>
+
+<instructors>G. Ben-Ari</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3201-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3202</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3202x or y</course_identifier_cooked>
+
+<course_name>Painting II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Extension of VIAR R3201 with greater emphasis on notions of meaning and context in work as well as more speculative aspects of image-making and structure (again using historical precedents as examples) and an increased range of personal choice and expression in the execution of classroom assignments. Individual and group critiques. Portfolio required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/paintlist &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R1001, and VIAR R3201</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Dancy</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Dancy</course_instructors_full>
+
+<classes><class><call_number>84695</call_number>
+
+<class_name>PAINTING II</class_name>
+
+<course_identifier>VIARR3202</course_identifier>
+
+<course_number>3202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 10:00a - 4:00p&#60;br /&#62;401 DODGE BUILDING</days_times>
+
+<instructors>M. Dancy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>13</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3202-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3210</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3210x or y</course_identifier_cooked>
+
+<course_name>Figure Painting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course provides the experience of employing a wide range of figurative applications that serve as useful tools for the contemporary artist. Non-Western applications, icon painting, and the European/American traditions are presented. Individual and group critiques.Portfolio required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/paintlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R1001, and VIAR R3201</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Stanley</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Stanley</course_instructors_full>
+
+<classes><class><call_number>60780</call_number>
+
+<class_name>FIGURE PAINTING</class_name>
+
+<course_identifier>VIARR3210</course_identifier>
+
+<course_number>3210</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;401 DODGE BUILDING</days_times>
+
+<instructors>J. Stanley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3210-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3220</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3220x</course_identifier_cooked>
+
+<course_name>Plein Air Painting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Enrollment limited to 12. Each class students will set up easels and paint outside in various locations in the city and environs. The class will also include on-site painting in public interior spaces. The world is the painters studio. Painting &#34;in the open air&#34; was first popularized in Paris in the mid-nineteenth century, when tubed paint became easily available. At the time, this avant garde practice brought to life some of the greatest works of art and histories most cherished paintings. The act of Plein Air painting is a physical one, it challenges and invigorates any painters practice, resulting in a fine tuned eye, better skilled hands and a deeper awareness of space. The painter, immersed in nature must shift the painting process, in a situation where the subject is no longer fixed, the painter must bend, making the divide between eye and object clear. It is a fascinating process with results unlike any other artistic practice. It brings a single moment into focus with such clarity that one&#39;s relationship to time shifts. Portfolio required at end.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R1001, and VIAR R3201</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>V. Hanos</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>V. Hanos</course_instructors_full>
+
+<classes><class><call_number>22191</call_number>
+
+<class_name>PLEIN AIR PAINTING</class_name>
+
+<course_identifier>VIARR3220</course_identifier>
+
+<course_number>3220</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;401 DODGE BUILDING</days_times>
+
+<instructors>V. Hanos</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>12</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3220-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3312</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3312x or y</course_identifier_cooked>
+
+<course_name>Sculpture II: Mixed Media</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will use the urban environment of New York City as its catalyst. The focus will be on the &#38;ldquo;undocumented architecture&#38;rdquo; surrounding us &#38;ndash; construction barriers, traffic cones, construction machinery, scaffolding, building sites &#38;ndash; and the temporary landscapes it creates.&#38;nbsp; The aim of the course is to explore the relation between the creative process in art and the makeshift nature of seemingly orderly things, their precariousness and fragility.&#38;nbsp; All media are welcome with emphasis on drawing, sculpture, installation, and photography.&#38;nbsp; Field trips and films will also play an important role in this course.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3330</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3330x or y</course_identifier_cooked>
+
+<course_name>Sculpture I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The fundamentals of sculpture are investigated through a series of conceptual and technical projects. 3 material processes are introduced, including wood, metal and paster casting. Issues pertinent to contemporary sculpture are introduced through lectures, group critiques, discussions, and field trips that accompany class assignments. If the class is full, sign up for the wait list at http://arts.columbia.edu/sculplist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Ruais, J. Kessler, S. Biggers</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Ruais, J. Kessler, S. Biggers</course_instructors_full>
+
+<classes><class><call_number>82196</call_number>
+
+<class_name>SCULPTURE I</class_name>
+
+<course_identifier>VIARR3330</course_identifier>
+
+<course_number>3330</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 10:00a - 4:00p&#60;br /&#62;320 PRENTIS HALL</days_times>
+
+<instructors>S. Biggers</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>17</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3330-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>85996</call_number>
+
+<class_name>SCULPTURE I</class_name>
+
+<course_identifier>VIARR3330</course_identifier>
+
+<course_number>3330</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;320 PRENTIS HALL</days_times>
+
+<instructors>J. Kessler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3330-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>81280</call_number>
+
+<class_name>SCULPTURE I</class_name>
+
+<course_identifier>VIARR3330</course_identifier>
+
+<course_number>3330</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>M 4:00p - 10:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>B. Ruais</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3330-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>61447</call_number>
+
+<class_name>SCULPTURE I</class_name>
+
+<course_identifier>VIARR3330</course_identifier>
+
+<course_number>3330</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 10:00a - 4:00p&#60;br /&#62;336 PRENTIS HALL</days_times>
+
+<instructors>S. Biggers</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>13</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3330-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3331</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3331x or y</course_identifier_cooked>
+
+<course_name>Sculpture II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Continuation of VIAR R3330. The objective of the class is to engage in in-depth research and hands on studio projects related to a specific theme to be determined by each student. Each student is expected to complete class with four fully realized and thematically linked works. Wood, metal, and plaster will be provided for this class but video, sound, performance and various mixed media approaches are highly encouraged. In addition, lecture and field trips will be part of the course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3330</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3332</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3332x or y</course_identifier_cooked>
+
+<course_name>Sculpture III</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course explores multi-media installation art methodologies, including digital and analog solutions for creating sound, light and mechanical components. We will use technology as a common theme as we explore contemporary and historical multi-media artworks and learn the tools and techniques needed to integrate the strategies into our own work. The projects are expected to have an engagement with technology that is physical, not purely virtual. We will cover theoretical and historical materials as well as practical, hands-on topics. If the class is full, sign up for the wait list at http://arts.columbia.edu/sculplist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3330</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Kessler, R. Tiravanija</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Kessler, R. Tiravanija</course_instructors_full>
+
+<classes><class><call_number>93346</call_number>
+
+<class_name>SCULPTURE III</class_name>
+
+<course_identifier>VIARR3332</course_identifier>
+
+<course_number>3332</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 10:00a - 4:00p&#60;br /&#62;315 PRENTIS HALL</days_times>
+
+<instructors>R. Tiravanija</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3332-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>71147</call_number>
+
+<class_name>SCULPTURE III</class_name>
+
+<course_identifier>VIARR3332</course_identifier>
+
+<course_number>3332</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;336 PRENTIS HALL</days_times>
+
+<instructors>J. Kessler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>13</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3332-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3401</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3401x or y</course_identifier_cooked>
+
+<course_name>Printmaking I: Intaglio</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Enables the student to realize concepts and visual ideas in a printed form. Basic techniques are introduced and utilized: the history and development of the intaglio process; demonstrations and instruction in line etching, relief, and dry point. Individual and group critiques. Portfolio required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/printlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Austin, R. Ostrow</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Austin, R. Ostrow</course_instructors_full>
+
+<classes><class><call_number>16796</call_number>
+
+<class_name>PRINTMAKING I: INTAGLIO</class_name>
+
+<course_identifier>VIARR3401</course_identifier>
+
+<course_number>3401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:00p - 9:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>R. Ostrow</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3401-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>75797</call_number>
+
+<class_name>PRINTMAKING I: INTAGLIO</class_name>
+
+<course_identifier>VIARR3401</course_identifier>
+
+<course_number>3401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:00p - 9:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>A. Austin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>12</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3401-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3402</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3402x or y</course_identifier_cooked>
+
+<course_name>Printmaking II: Intaglio</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Continues instruction and demonstration of further techniques in intaglio. Encourages students to think visually more in the character of the medium, and personal development is stressed. Individual and group critiques. Portfolio required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/printlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3401</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Austin, R. Ostrow</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Austin, R. Ostrow</course_instructors_full>
+
+<classes><class><call_number>17946</call_number>
+
+<class_name>PRINTMAKING II: INTAGLIO</class_name>
+
+<course_identifier>VIARR3402</course_identifier>
+
+<course_number>3402</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:00p - 9:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>R. Ostrow</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>2</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3402-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>92078</call_number>
+
+<class_name>PRINTMAKING II: INTAGLIO</class_name>
+
+<course_identifier>VIARR3402</course_identifier>
+
+<course_number>3402</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:00p - 9:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>A. Austin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>2</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3402-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3411</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3411x or y</course_identifier_cooked>
+
+<course_name>Printmaking I: Relief</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Printmaking I: Relief Introduces woodcut and other relief techniques. Given the direct quality of the process, the class focuses on the student&#39;s personal vision through experimentation with this print medium. Individual and group critiques. Portfolio required at end.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Catlin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Catlin</course_instructors_full>
+
+<classes><class><call_number>11279</call_number>
+
+<class_name>PRINTMAKING I: RELIEF</class_name>
+
+<course_identifier>VIARR3411</course_identifier>
+
+<course_number>3411</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:30a - 12:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>N. Catlin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3411-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>3411</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>VIAR S3411z (Section 1)</course_identifier_cooked>
+
+<course_name>Printmaking: Silkscreen</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the fundamentals of silkscreen techniques. Students gain familiarity with the technical processes of silkscreen and are encouraged to use the processes to develop their visual language. Students are involved in a great deal of drawing for assigned projects. Portfolio required at end.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>3411</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>VIAR S3411z (Section 1)</course_identifier_cooked>
+
+<course_name>Printmaking: Silkscreen</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the fundamentals of silkscreen techniques. Students gain familiarity with the technical processes of silkscreen and are encouraged to use the processes to develop their visual language. Students are involved in a great deal of drawing for assigned projects. Portfolio required at end.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>3411</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>VIAR S3411z (Section 2)</course_identifier_cooked>
+
+<course_name>Printmaking: Relief/Woodcut</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduces woodcut and other relief techniques. Given the direct quality of the process, the class focuses on the student&#39;s personal vision through experimentation with this print medium. Individual and group critiques. Portfolio required at end.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3412</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3412x or y</course_identifier_cooked>
+
+<course_name>Printmaking II: Relief</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Printmaking II: Relief Continues instruction and demonstration of further techniques in woodcut. Encourages students to think visually more in the character of the medium, and personal development is stressed. Individual and group critiques. Portfolio required at end.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3411</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Catlin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Catlin</course_instructors_full>
+
+<classes><class><call_number>10896</call_number>
+
+<class_name>PRINTMAKING II: RELIEF</class_name>
+
+<course_identifier>VIARR3412</course_identifier>
+
+<course_number>3412</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:30a - 12:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>N. Catlin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>2</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3412-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3413</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3413x or y</course_identifier_cooked>
+
+<course_name>Printmaking I: Silkscreen</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Printmaking I: Silkscreen Introduces silkscreen and other silkscreen techniques. Given the direct quality of the process, the class focuses on the student&#39;s personal vision through experimentation with this print medium. Individual and group critiques. Portfolio required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/printlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Arunanondchai</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Arunanondchai</course_instructors_full>
+
+<classes><class><call_number>22191</call_number>
+
+<class_name>PRINTMAKING I: SILKSCREEN</class_name>
+
+<course_identifier>VIARR3413</course_identifier>
+
+<course_number>3413</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:30p - 5:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>K. Arunanondchai</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>13</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3413-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3414</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3414x or y</course_identifier_cooked>
+
+<course_name>Printmaking II: Silkscreen</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Printmaking II: Silkscreen Continues instruction and demonstration of further techniques in silkscreen. Encourages students to think visually more in the character of the medium, and personal development is stressed. Individual and group critiques. Portfolio required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/printlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3413</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Arunanondchai</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Arunanondchai</course_instructors_full>
+
+<classes><class><call_number>66246</call_number>
+
+<class_name>PRINTMAKING II:SILKSCREEN</class_name>
+
+<course_identifier>VIARR3414</course_identifier>
+
+<course_number>3414</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:30p - 5:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>K. Arunanondchai</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>2</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3414-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3415</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3415x or y</course_identifier_cooked>
+
+<course_name>Advanced Printmaking</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed for students who have already taken one semester of a printmaking course and are interested in continuing on an upper level. Students are encouraged to work in all areas, separate or combined, using their own vocabulary and imagery to create a body of work by the end of the semester. If the class is full, sign up for the wait list at http://arts.columbia.edu/printlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3040, VIAR R3401, or VIAR R3411.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>V. Hammond</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>V. Hammond</course_instructors_full>
+
+<classes><class><call_number>69267</call_number>
+
+<class_name>ADVANCED PRINTMAKING</class_name>
+
+<course_identifier>VIARR3415</course_identifier>
+
+<course_number>3415</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>V. Hammond</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>13</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3415-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3416</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3416x or y</course_identifier_cooked>
+
+<course_name>Printmaking I: Graphic Novel</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Printmaking I: Graphic Novel The objective of the course is to provide students with an interdisciplinary link between drawing, printmaking, and graphic narrative. The course will probe the relation of language to image through three projects: an intensive drawing project, a &#34;zine&#34;, and finally, a graphic novel. The course work will guide students through a natural progression beginning with pure image (drawing), transitioning to non-narrative linkage text (the graphic novel). We will primarily explore the graphic novel as a medium for creating art. While graphic novel can certainly be used to tell a simple story, there are many other ways in which an artist can use the medium to convey complex ideas and to create and share their own world. In this course, students will develop and refine their drawing sensibility, and are encouraged to experiment with various forms of non-traditional printmaking.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3040, VIAR R3401, or VIAR R3411.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Vu Daniel</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Vu Daniel</course_instructors_full>
+
+<classes><class><call_number>62279</call_number>
+
+<class_name>PRINTMAKING I: GRAPHIC NO</class_name>
+
+<course_identifier>VIARR3416</course_identifier>
+
+<course_number>3416</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 4:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>T. Vu Daniel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3416-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3417</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3417x or y</course_identifier_cooked>
+
+<course_name>Printmaking I: Photogravure</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Printmaking I: Photogravure A concise study and application of the copper plate photogravure process. Usage of current available resources substituting for materials that are no longer available for photogravure. This is a 19th century obsolete photomechanical reproduction process that is constantly challenging the ingenuity of it&#39;s practitioners to keep it alive and a viable technique in the 21st century.&#38;nbsp; The course objectives are understanding and demonstrating proficiency in the photogravure process and creation of finished printed images from the process learned. It is important for the future of this process that the students understand not only the &#34;how&#34;, but the &#34;why&#34; of going through all of these procedures.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Zammiello</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Zammiello</course_instructors_full>
+
+<classes><class><call_number>27696</call_number>
+
+<class_name>PRINTMAKING I: PHOTOGRAVU</class_name>
+
+<course_identifier>VIARR3417</course_identifier>
+
+<course_number>3417</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:30a - 3:30p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>C. Zammiello</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3417-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3420</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3420x or y</course_identifier_cooked>
+
+<course_name>Drawing into Print</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The objective of the course is to provide students with an interdisciplinary link between drawing, photography and printmaking through an integrated studio project. Students will use drawing, printmaking and collage to create a body of work to be presented in a folio format. In the course, students develop and refine their drawing sensibility, and are encouraged to experiment with various forms of non-traditional printmaking. If the class is full, sign up for the wait list at http://arts.columbia.edu/printlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3040, VIAR R3401, or VIAR R3411</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Riddell</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Riddell</course_instructors_full>
+
+<classes><class><call_number>63748</call_number>
+
+<class_name>PRINTMAKING:DRAWING INTO</class_name>
+
+<course_identifier>VIARR3420</course_identifier>
+
+<course_number>3420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:30p - 5:00p&#60;br /&#62;210 DODGE BUILDING</days_times>
+
+<instructors>C. Riddell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3420-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>3420</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S3420z</course_identifier_cooked>
+
+<course_name>Drawing into Print</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Class limited to 15 students.</course_points_notes>
+
+<course_points_cooked>3 pts.  Class limited to 15 students.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The objective of the course is to provide students with an interdisciplinary link between drawing and printmaking through an integrated studio project. Students will use drawing, printmaking and collage to create a body of work to be presented in a folio format. In the course, students develop and refine their drawing sensibility, and are encouraged to experiment with various forms of non-traditional printmaking.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One printmaking or drawing class in the Visual Arts department.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>T. Vu Daniel</course_instructors_expected>
+
+<course_instructors_full>T. Vu Daniel</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3503</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3503x</course_identifier_cooked>
+
+<course_name>Beginning Video</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Beginning Video is an introductory class on the production and editing of digital video. Designed as an intensive hands-on production/post-production workshop, the apprehension of technical and aesthetic skills in shooting, sound and editing will be emphasized. Assignments are developed to allow students to deepen their familiarity with the language of the moving image medium. Over the course of the term, the class will explore the language and syntax of the moving image, including fiction, documentary and experimental and experimental approaches. Importance will be placed on the decision making behind the production of a work; why it was conceived of, shot, and edited in a certain way. Class time will be divided between technical workshops, viewing and discussing films and videos by independent producers/artists and discussing and critiquing students projects. Readings will be assigned on technical, aesthetic and theoretical issues. NOTE : Beginning Video is a full day class 930-330pm. There is only one section offered per semester.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Silver</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Silver</course_instructors_full>
+
+<classes><class><call_number>10779</call_number>
+
+<class_name>BEGINNING VIDEO</class_name>
+
+<course_identifier>VIARR3503</course_identifier>
+
+<course_number>3503</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:30p - 3:30p&#60;br /&#62;101 PRENTIS HALL&#60;br /&#62;Tu 9:30a - 12:30p&#60;br /&#62;558 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Silver</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>11</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3503-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3701</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3701x or y</course_identifier_cooked>
+
+<course_name>Photography: Photo I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introductory course in black-and-white photography, Photography I is required for admission to all other photo classes. Students are initially instructed in proper camera use and basic film exposure and development. Then the twice weekly meetings are divided into lab days where students learn and master the fundamental tools and techniques of traditional darkroom work used in 8x10 print production and classroom days where students present their work and through the language of photo criticism gain an understanding of photography as a medium of expression. Admitted students must obtain a manually focusing 35mm camera with adjustable f/stops and shutter speeds. No prior photography experience is required. Due to the necessity of placing a cap on the number of students who can register for our photography courses, the department provides a wait list to identify and give priority to students interested in openings that become available on the first day of class. If the class is full, sign up for the wait list at http://arts.columbia.edu/photolist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Santella, I. Abergil, L. Sellers, T. Roma</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Santella, I. Abergil, L. Sellers, T. Roma</course_instructors_full>
+
+<classes><class><call_number>29566</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO I</class_name>
+
+<course_identifier>VIARR3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:30a - 12:00p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>T. Roma</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3701-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>60279</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO I</class_name>
+
+<course_identifier>VIARR3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:30p - 5:00p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>T. Roma</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3701-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>61096</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO I</class_name>
+
+<course_identifier>VIARR3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 9:30a - 12:00p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>I. Abergil</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3701-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>62783</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO I</class_name>
+
+<course_identifier>VIARR3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:30a - 12:00p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>T. Roma</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3701-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>83032</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO I</class_name>
+
+<course_identifier>VIARR3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:30p - 5:00p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>D. Santella</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3701-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>99783</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO I</class_name>
+
+<course_identifier>VIARR3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 9:30a - 12:00p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>L. Sellers</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3701-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>3701</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S3701z</course_identifier_cooked>
+
+<course_name>Photo, I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to photographic tools, techniques, and the language of photo criticism. Work includes camera operations and black-and-white darkroom work, 8x10 print production, and critiques of student work.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>3701</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S3701z</course_identifier_cooked>
+
+<course_name>Photo, I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to photographic tools, techniques, and the language of photo criticism. Work includes camera operations and black-and-white darkroom work, 8x10 print production, and critiques of student work.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3702</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3702x or y</course_identifier_cooked>
+
+<course_name>Photography: Photo II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course expands on concerns first encountered in Photography I and addresses aspects of creative photography through project development and advanced camera and lab techniques. Over the course of the semester students are introduced to color photography, the use of medium format cameras, pinhole cameras, flash and studio lighting in addition to emphasizing the refinement of black-and-white printing: contrast control, burning and dodging, and the production of larger prints. Note: Photography I is a prerequisite.&#38;nbsp; Due to the necessity of placing a cap on the number of students who can register for our photography courses, the department provides a wait list to identify and give priority to students interested in openings that become available on the first day of class.&#38;nbsp;&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3701</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. McBride</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. McBride</course_instructors_full>
+
+<classes><class><call_number>94691</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO II</class_name>
+
+<course_identifier>VIARR3702</course_identifier>
+
+<course_number>3702</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:00p - 3:30p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>K. McBride</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3702-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3901</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>R</school_bulletin_prefix_code_2>
+
+<course_number_2>3902</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3901x-R3902y</course_identifier_cooked>
+
+<course_name>Senior Thesis I and II</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students must enroll in both semesters of the course (R3901 and R3902). The student is required to produce a significant body of work in which the ideas, method of investigation, and execution are determined by the student. A plan is developed in consultation with the faculty. Seminars; presentations. At the end an exhibition or other public venue is presented for evaluation. Studio space is provided.</course_description>
+
+<corequisites>R3921 is corequisite for R3901 and R3922 is corequisite for R3902.</corequisites>
+
+<prerequisites>Instructors permission. See requirements for a major in visual arts. R3901 is the prerequisite for R3902.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Mayerson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Mayerson</course_instructors_full>
+
+<classes><class><call_number>17396</call_number>
+
+<class_name>SENIOR THESIS I</class_name>
+
+<course_identifier>VIARR3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Mayerson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3901-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3921</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>R</school_bulletin_prefix_code_2>
+
+<course_number_2>3922</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3921x-R3922y</course_identifier_cooked>
+
+<course_name>Visiting Critic I and II</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students are required to enroll in both semesters (R3921 and R3922). A second opinion is provided to the senior students regarding the development of their senior project. Critics consist of distinguished visitors and faculty. Issues regarding the premise, methodology, or presentation of the student&#39;s ideas are discussed and evaluated on an ongoing basis.</course_description>
+
+<corequisites>R3901 is corequisite for R3921 and R3902 is corequisite for R3922.</corequisites>
+
+<prerequisites>Instructors permission. See requirements for a major in visual arts. R3921 is a prerequisite for R3922.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Henretta</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Henretta</course_instructors_full>
+
+<classes><class><call_number>20846</call_number>
+
+<class_name>VISITING CRITIC I</class_name>
+
+<course_identifier>VIARR3921</course_identifier>
+
+<course_number>3921</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 5:00p - 10:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>E. Henretta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3921-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>26781</call_number>
+
+<class_name>VISITING CRITIC II</class_name>
+
+<course_identifier>VIARR3922</course_identifier>
+
+<course_number>3922</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 5:00p - 10:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>E. Henretta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>13</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R3922-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>R</school_bulletin_prefix_code_2>
+
+<course_number_2>3932</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R3931x-R3932y</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: permission of the chair.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>4005</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R4005y</course_identifier_cooked>
+
+<course_name>Problems in Drawing: Cast Drawing</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will connect with the very heart of the Western Art tradition, engaging in this critical activity that was the pillar of draftsmanship training from the Renaissance on through the early Modern Era. This pursuit is the common thread that links artists from Michelangelo and Rubens to Van Gogh and Picasso. Rigorous studies will be executed from plaster casts of antique sculptures, and pedagogical engravings. Students will confront foundational issues of academic training; assessing proportion and tonal value, structure and form. Hours will be spent on a single drawing pushing to the highest degree of accuracy in order develop a means for looking at nature. There is a focus on precision and gaining a thorough understanding of the interaction between light and a surface. This approach emphasizes drawing by understanding the subject and the physical world that defines it. While this training has allowed great representational artists of the past to unlock the poetry from the world around them and continues to inspire a surging new realist movement, it can also serve as a new way of seeing and a launching point for achieving creative goals.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R1001</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>4101</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R4101x or y</course_identifier_cooked>
+
+<course_name>Painting III</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An advanced painting course that explores issues in contemporary painting and provides exposure to the most recent theoretical and technical applications of painting. Investigations into subject, scale, and materials are encouraged. Portfolio and term paper required at end. If the class is full, sign up for the wait list at http://arts.columbia.edu/paintlist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R1001, VIAR R3201, and VIAR R3202.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4105</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S4105z</course_identifier_cooked>
+
+<course_name>Advanced Painting Intensive</course_name>
+
+<course_points_min>6</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The Advanced Painting Intensive will engage a group of up to twelve students in individual and group critique, technical tutorials, exposure to the New York gallery and museum worlds, and lectures by nationally-known visiting artists. The workshop will be tailored to those who are interested in challenging and advancing their work in an immersive and nurturing environment. Additionally, the workshop will be geared to those who desire to develop both a strong visual portfolio and a written package appropriate for applications to MFA programs.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>4510</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>VIAR R4510y</course_identifier_cooked>
+
+<course_name>Advanced Video</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced Video is an advanced, intensive project-based class on the production of digital video. The class is designed for advanced students to develop an ambitious project or series of projects during the course of the class. Through this production, students will fine-tune shooting and editing skills as well as become more sophisticated in terms of their aesthetic and theoretical approach to the moving image. The class will follow each student through proposal, dailies, rough-cut and fine cut stage. The course is organized for knowledge to be shared and cumulative, so that each student will learn both from her/his own process, as well as the processes of all the other students. Additional screenings and readings will be organized around the problematics of the moving image, as well as particular issues that are raised by individual student projects. NOTE : Advanced Video is a full day class 930-330pm. There is only one section offered per semester. If the class is full, sign up for the wait list at http://arts.columbia.edu/videolist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3503</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Silver</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Silver</course_instructors_full>
+
+<classes><class><call_number>27450</call_number>
+
+<class_name>ADVANCED VIDEO</class_name>
+
+<course_identifier>VIARR4510</course_identifier>
+
+<course_number>4510</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:30p - 3:30p&#60;br /&#62;101 PRENTIS HALL&#60;br /&#62;Tu 9:30a - 12:30p&#60;br /&#62;558 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Silver</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>11</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R4510-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>4601</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R4601y</course_identifier_cooked>
+
+<course_name>Eye and Idea</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>New York City is the most abundant visual arts resource in the world. Visits to museums, galleries, and studios on a weekly basis. Students encounter a broad cross-section of art and are encouraged to develop ideas about what is seen. The seminar is led by a practicing artist and utilizes this perspective. Columbia College and General Studies Visual Arts Majors must take this class during their Junior year. If the class is full, sign up for the wait list at http://arts.columbia.edu/eyelist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Simpson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Simpson</course_instructors_full>
+
+<classes><class><call_number>61947</call_number>
+
+<class_name>EYE AND IDEA</class_name>
+
+<course_identifier>VIARR4601</course_identifier>
+
+<course_number>4601</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 1:00p - 4:00p&#60;br /&#62;101 PRENTIS HALL</days_times>
+
+<instructors>M. Simpson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>13</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R4601-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4701</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR S4701z</course_identifier_cooked>
+
+<course_name>Photo, II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Primarily a critique class for students who have a good working knowledge of the black-and-white darkroom&#38;nbsp;or who have completed Visual Arts S3701. Darkroom demonstrations and readings are important elements in class. Self-generated projects are encouraged.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>4702</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R4702x or y</course_identifier_cooked>
+
+<course_name>Digital Documentary Photography</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The goal of the course is for each student to create small-scale documentary projects using photography and writing with an eye towards web publishing. Taking advantage of the ease and speed of image production and distribution, students will propose and workshop projects that can be quickly completed and uploaded to a class website.&#38;nbsp; Assignments, readings and discussions will focus on the role of the documentary tradition in the history of photographic art practice.&#38;nbsp; Students must provide their own laptop and digital camera. Note: Photo I is a prerequisite. If the class is full, sign up for the wait list at http://arts.columbia.edu/photolist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>VIAR R3701</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. McBride</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. McBride</course_instructors_full>
+
+<classes><class><call_number>91601</call_number>
+
+<class_name>PHOTO:DIGITAL DOCUMENTARY</class_name>
+
+<course_identifier>VIARR4702</course_identifier>
+
+<course_number>4702</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:00p - 3:30p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>K. McBride</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R4702-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>VIAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<subject_area_name>Visual Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>R</school_bulletin_prefix_code_1>
+
+<course_number_1>4710</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>VIAR R4710x or y</course_identifier_cooked>
+
+<course_name>Photography: Advanced Photo III Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The photo book as a central medium of contemporary photographic practice is explored in this course. Students are exposed to a variety of approaches and viewpoints through presentations by guest photographers, curators, critics, editors, graphic designers, etc... Students will cooperatively shoot 8mm movie films to explore issues of narrative and timing. Each student will propose, develop, and produce a maquette of their work as a final project. Note: Photography I is a prerequisite. Due to the necessity of placing a cap on the number of students who can register for our photography courses, the department provides a wait list to identify and give priority to students interested in openings that become available on the first day of class. If the class is full, sign up for the wait list at http://arts.columbia.edu/photolist</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Roma</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Roma</course_instructors_full>
+
+<classes><class><call_number>80032</call_number>
+
+<class_name>PHOTOGRAPHY: PHOTO III SE</class_name>
+
+<course_identifier>VIARR4710</course_identifier>
+
+<course_number>4710</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:30p - 5:00p&#60;br /&#62;212 DODGE BUILDING</days_times>
+
+<instructors>T. Roma</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>R</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>31</student_enrollment_count>
+
+<subject_area_code>VIAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/VIAR/R4710-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

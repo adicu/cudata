@@ -1,0 +1,3989 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1234</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>C</school_bulletin_prefix_code_2>
+
+<course_number_2>1235</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1234-C1235</course_identifier_cooked>
+
+<course_name>The Universal Timekeeper: an Introduction To Scientific Habits of Mind</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Facility with high school algebra is assumed. C1234 is highly recommended as a prerequisite for C1235. Introduction to ideas and models of thought in the physical sciences, using the atomz as an imperturbable clock to explore applications such as measuring the age of the Shroud of Turin, determining the diets of ancient civilizations, charting the history of earth&#39;s climate, and unraveling the history of the universe.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1403</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1403x and y</course_identifier_cooked>
+
+<course_name>Earth, Moon and Planets  (Lecture)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Recommended preparation: a working knowledge of high school algebra. The overall architecture of the solar system. Motions of the celestial sphere. Time and the calendar. Major planets, the earth-moon system, minor planets, comets. Life in the solar system and beyond.&#38;nbsp; This course is similar to ASTR BC 1753. You cannot enroll in both courses and receive credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, M. Agueros</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, M. Agueros</course_instructors_full>
+
+<classes><class><call_number>61534</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS-</class_name>
+
+<course_identifier>ASTRC1403</course_identifier>
+
+<course_number>1403</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Agueros</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>50</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1403-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>22173</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS</class_name>
+
+<course_identifier>ASTRC1403</course_identifier>
+
+<course_number>1403</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>99</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1403-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1403</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>ASTR S1403z (Section 1)</course_identifier_cooked>
+
+<course_name>Earth, Moon, and Planets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>May be counted toward the science requirement for most Columbia University undergraduate students. The overall architecture of the solar system. Motions of the celestial sphere. Time and the calendar. Major planets, the earth-moon system, minor planets, comets. Life in the solar system and beyond.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Recommended preparation: a working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Applegate</course_instructors_expected>
+
+<course_instructors_full>J. Applegate</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1403</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1403x and y</course_identifier_cooked>
+
+<course_name>Earth, Moon and Planets  (Lecture)</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Recommended preparation: a working knowledge of high school algebra. The overall architecture of the solar system. Motions of the celestial sphere. Time and the calendar. Major planets, the earth-moon system, minor planets, comets. Life in the solar system and beyond.&#38;nbsp; This course is similar to ASTR BC 1753. You cannot enroll in both courses and receive credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, M. Agueros</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, M. Agueros</course_instructors_full>
+
+<classes><class><call_number>86001</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS</class_name>
+
+<course_identifier>AUATO1403</course_identifier>
+
+<course_number>1403</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1403-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1403</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>AUAT O1403z (Section 1)</course_identifier_cooked>
+
+<course_name>Earth, Moon, and Planets</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>May be counted toward the science requirement for most Columbia University undergraduate students. The overall architecture of the solar system. Motions of the celestial sphere. Time and the calendar. Major planets, the earth-moon system, minor planets, comets. Life in the solar system and beyond.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Recommended preparation: a working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Applegate</course_instructors_expected>
+
+<course_instructors_full>J. Applegate</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1404</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1404x and y</course_identifier_cooked>
+
+<course_name>Stars, Galaxies and Cosmology (Lecture)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Distances to, and fundamental properties of, nearby stars; nucleosynthesis and stellar evolution; novae and supernovae; galaxies; the structure of the universe and theories concerning its origin, evolution, and ultimate fate. You cannot enroll in ASTR C1404 in addition to one of the following ASTR BC1754, ASTR C1420 or ASTR C1836 and received credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, J. van Gorkom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, J. van Gorkom</course_instructors_full>
+
+<classes><class><call_number>64024</call_number>
+
+<class_name>STARS, GALAXIES &#38; COSMO</class_name>
+
+<course_identifier>ASTRC1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>120</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>63</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1404-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>10014</call_number>
+
+<class_name>STARS, GALAXIES &#38; COSMO</class_name>
+
+<course_identifier>ASTRC1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. van Gorkom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>48</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1404-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1404</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR S1404z</course_identifier_cooked>
+
+<course_name>Beyond the Solar System</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Distances to, and fundamental properties of, nearby stars; nucleosynthesis and stellar evolution; novae and supernovae; galaxies; the structure of the universe and theories concerning its origin, evolution, and ultimate fate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Recommended preparation: a working knowledge of high-school algebra.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1404</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1404x and y</course_identifier_cooked>
+
+<course_name>Stars, Galaxies and Cosmology (Lecture)</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Distances to, and fundamental properties of, nearby stars; nucleosynthesis and stellar evolution; novae and supernovae; galaxies; the structure of the universe and theories concerning its origin, evolution, and ultimate fate. You cannot enroll in ASTR C1404 in addition to one of the following ASTR BC1754, ASTR C1420 or ASTR C1836 and received credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, J. van Gorkom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, J. van Gorkom</course_instructors_full>
+
+<classes><class><call_number>75799</call_number>
+
+<class_name>STARS,GALAXIES &#38; COSMOLOG</class_name>
+
+<course_identifier>AUATO1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1404-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>97050</call_number>
+
+<class_name>STARS,GALAXIES &#38; COSMOLOG</class_name>
+
+<course_identifier>AUATO1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;TBA</days_times>
+
+<instructors>J. van Gorkom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1404-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1404</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1404z</course_identifier_cooked>
+
+<course_name>Beyond the Solar System</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Distances to, and fundamental properties of, nearby stars; nucleosynthesis and stellar evolution; novae and supernovae; galaxies; the structure of the universe and theories concerning its origin, evolution, and ultimate fate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Recommended preparation: a working knowledge of high-school algebra.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1420</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1420y</course_identifier_cooked>
+
+<course_name>Galaxies and Cosmology.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Galaxies contain stars, gas dust and (usually) super-massive black holes. They are found throughout the Universe, traveling through space and occasionally crashing into each other. This course will look at how these magnificent systems form and evolved,&#38;nbsp; and what can they tells us about the formation and evolution of the Universe itself. You cannot enroll in ASTR C1420 in addition to ASTR BC1754 or ASTR C1404 and receive credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Putman</course_instructors_full>
+
+<classes><class><call_number>77380</call_number>
+
+<class_name>GALAXIES AND COSMOLOGY</class_name>
+
+<course_identifier>ASTRC1420</course_identifier>
+
+<course_number>1420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>42</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1420-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1420</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1420y</course_identifier_cooked>
+
+<course_name>Galaxies and Cosmology.</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Galaxies contain stars, gas dust and (usually) super-massive black holes. They are found throughout the Universe, traveling through space and occasionally crashing into each other. This course will look at how these magnificent systems form and evolved,&#38;nbsp; and what can they tells us about the formation and evolution of the Universe itself. You cannot enroll in ASTR C1420 in addition to ASTR BC1754 or ASTR C1404 and receive credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Putman</course_instructors_full>
+
+<classes><class><call_number>89541</call_number>
+
+<class_name>GALAXIES AND COSMOLOGY</class_name>
+
+<course_identifier>AUATO1420</course_identifier>
+
+<course_number>1420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1420-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1610</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1610x</course_identifier_cooked>
+
+<course_name>Theories of the Universe:  From Babylon to the Big Bang</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Milestones in the science of cosmology over the past 6000 years. Skylore and observation in ancient cultures. The twin revolutions of the Greeks: Pythagoras and Ptolemy. Aristotle, Aquinas, and the Great Chain of Being. The &#34;scientific revolution&#34;: the impersonal and deterministic world-order of Newton, Laplace, and Kelvin. The erosion of that world-order by mathematics and experiment in the 20th century (relativity, quantum physics, dark matter, and the expanding universe). Today&#39;s searches for a new grand order in the Universe, which can cope-or maybe not-with these blows to yesterday&#39;s comfortable wisdom.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Patterson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Patterson</course_instructors_full>
+
+<classes><class><call_number>64289</call_number>
+
+<class_name>THEOR-UNIVERS:BABYLON-</class_name>
+
+<course_identifier>ASTRC1610</course_identifier>
+
+<course_number>1610</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>51</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1610-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1610</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1610x</course_identifier_cooked>
+
+<course_name>Theories of the Universe:  From Babylon to the Big Bang</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Milestones in the science of cosmology over the past 6000 years. Skylore and observation in ancient cultures. The twin revolutions of the Greeks: Pythagoras and Ptolemy. Aristotle, Aquinas, and the Great Chain of Being. The &#34;scientific revolution&#34;: the impersonal and deterministic world-order of Newton, Laplace, and Kelvin. The erosion of that world-order by mathematics and experiment in the 20th century (relativity, quantum physics, dark matter, and the expanding universe). Today&#39;s searches for a new grand order in the Universe, which can cope-or maybe not-with these blows to yesterday&#39;s comfortable wisdom.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Patterson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Patterson</course_instructors_full>
+
+<classes><class><call_number>88096</call_number>
+
+<class_name>THEOR-UNIVERS:BABYLON-</class_name>
+
+<course_identifier>AUATO1610</course_identifier>
+
+<course_number>1610</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1610-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1753</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR BC1753x</course_identifier_cooked>
+
+<course_name>Life in the Universe</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Recommended preparation: a working knowledge of high school algebra. Introduction to astronomy intended primarily for nonscience majors. Includes the history of astronomy; the apparent motions of the moon, sun, stars, and planets; gravitation and planetary orbits; the physics of the earth and its atmosphere; and the exploration of the solar system.&#38;nbsp; This course is similar to ASTR C1403.&#38;nbsp; You cannot enroll in both courses and receive credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Putman</course_instructors_full>
+
+<classes><class><call_number>03751</call_number>
+
+<class_name>LIFE IN THE UNIVERSE</class_name>
+
+<course_identifier>ASTRX1753</course_identifier>
+
+<course_number>1753</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>96</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/BC1753-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1754</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR BC1754y</course_identifier_cooked>
+
+<course_name>Stars, Galaxies and Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Recommended preparation: a working knowledge of high school algebra. The properties of stars, star formation, stellar evolution and nucleosynthesis, the Milky Way and other galaxies, and the origin and evolution of the universe. You cannot enroll in ASTR BC1754 in addition to one of the following ASTR C1404, ASTR C1420 or ASTR C1836 and received credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Kay</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Kay</course_instructors_full>
+
+<classes><class><call_number>05649</call_number>
+
+<class_name>STARS, GALAXIES AND COSMO</class_name>
+
+<course_identifier>ASTRX1754</course_identifier>
+
+<course_number>1754</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>L. Kay</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>98</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/BC1754-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1836</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1836x</course_identifier_cooked>
+
+<course_name>Stars and atoms</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Recommended preparation: a working knowledge of high school algebra.&#38;nbsp; A study of the life cycles of stars, from their birth in cold gas clouds to their final throes in supernova explosions.&#38;nbsp; The turn-of-the-century revolution in physics: X-rays, radioactivity, the nuclear atom, and the quantum theory.&#38;nbsp; Energy production by nuclear fission and fusion, and its consequences. You cannot enroll in ASTR C1836 in addition to ASTR BC1754 or ASTR C1404 and receive credit for both.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Johnston</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Johnston</course_instructors_full>
+
+<classes><class><call_number>24208</call_number>
+
+<class_name>STARS AND ATOMS</class_name>
+
+<course_identifier>ASTRC1836</course_identifier>
+
+<course_number>1836</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;503 HAMILTON HALL</days_times>
+
+<instructors>K. Johnston</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1836-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1903</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1903x</course_identifier_cooked>
+
+<course_name>Astronomy Lab 1</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory for ASTR C1403. Projects include observations with the department&#39;s telescopes, computer simulation, laboratory experiments in spectroscopy, and the analysis of astronomical data. Lab 1 ASTR C1903 - goes with ASTR BC1753 or ASTR C1403.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Price-Whelan, D. Hendel, G. Bryan, J. Lemonias, J. Liu, L. Kay, M. Li, R.
+Fernandez</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Price-Whelan, D. Hendel, G. Bryan, J. Lemonias, J. Liu, L. Kay, M. Li, R.
+Fernandez</course_instructors_full>
+
+<classes><class><call_number>78280</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+R. Fernandez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>80781</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+M. Li</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>83030</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Price-Whelan&#60;br /&#62;
+G. Bryan&#60;br /&#62;
+J. Lemonias</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>84531</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>W 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+J. Liu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>86029</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>Th 6:00p - 9:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>D. Hendel&#60;br /&#62;
+G. Bryan&#60;br /&#62;
+J. Lemonias</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>05686</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS-</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Li</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1904</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1904y</course_identifier_cooked>
+
+<course_name>Astronomy Lab 2</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory for ASTR C1404. Projects include use of telescopes, laboratory experiments in the nature of light, spectroscopy, and the analysis of astronomical data. Lab 2 ASTR C1904 - goes with ASTR BC1754 or ASTR C1404 (or ASTR C1836).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Hendel, G. Bryan, J. Lemonias, L. Corlies, L. Kay, M. Charisi, M. Fernandez
+Betancourt, M. Salem, R. Fernandez</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Hendel, G. Bryan, J. Lemonias, L. Corlies, L. Kay, M. Charisi, M. Fernandez
+Betancourt, M. Salem, R. Fernandez</course_instructors_full>
+
+<classes><class><call_number>19700</call_number>
+
+<class_name>INTRO LAB:BEYOND-SOLAR SY</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+M. Fernandez Betancourt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>12</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09992</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>D. Hendel&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+L. Kay</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06723</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 7:10p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Fernandez Betancourt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03099</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 6:10p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Charisi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>05672</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>W 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+R. Fernandez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>07772</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>W 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Salem</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>01887</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 6:00p - 9:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Corlies&#60;br /&#62;
+L. Kay</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C2001x</course_identifier_cooked>
+
+<course_name>Introduction To Astrophysics, I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: a working knowledge of calculus. Corequisite: a course in calculus-based general physics. First term of a two-term calculus-based introduction to astronomy and astrophysics. Topics include the physics of stellar interiors, stellar atmospheres and spectral classifications, stellar energy generation and nucleosynthesis, supernovae, neutron stars, white dwarfs, and interacting binary stars.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Paerels</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>F. Paerels</course_instructors_full>
+
+<classes><class><call_number>78648</call_number>
+
+<class_name>INTRO TO ASTROPHYSICS I</class_name>
+
+<course_identifier>ASTRC2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>F. Paerels</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>32</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C2001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C2002y</course_identifier_cooked>
+
+<course_name>Introduction To Astrophysics, II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: a working knowledge of calculus. Corequisite: the second term of a course in calculus-based general physics. Continuation of ASTR C2001; these two courses constitute a full year of calculus-based introduction to astrophysics. Topics include the structure of our galaxy, the interstellar medium, star clusters, properties of external galaxies, clusters of galaxies, active galactic nuclei, and cosmology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Johnston</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Johnston</course_instructors_full>
+
+<classes><class><call_number>20569</call_number>
+
+<class_name>INTRO TO ASTROPHYSICS</class_name>
+
+<course_identifier>ASTRC2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>K. Johnston</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C2002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>2002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O2002y</course_identifier_cooked>
+
+<course_name>Introduction To Astrophysics, II</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: a working knowledge of calculus. Corequisite: the second term of a course in calculus-based general physics. Continuation of ASTR C2001; these two courses constitute a full year of calculus-based introduction to astrophysics. Topics include the structure of our galaxy, the interstellar medium, star clusters, properties of external galaxies, clusters of galaxies, active galactic nuclei, and cosmology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Johnston</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Johnston</course_instructors_full>
+
+<classes><class><call_number>73455</call_number>
+
+<class_name>INTRO TO ASTROPHYSICS II</class_name>
+
+<course_identifier>AUATO2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>K. Johnston</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O2002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2900</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C2900y</course_identifier_cooked>
+
+<course_name>Frontiers of Astrophysics</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Several members of the faculty each offer a brief series of talks providing context for a current research topic in the field and then present results of their ongoing research. Opportunities for future student research collaboration are offered. Grading is Pass/Fail.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Patterson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Patterson</course_instructors_full>
+
+<classes><class><call_number>29529</call_number>
+
+<class_name>FRONTIERS OF ASTROPHYSICS</class_name>
+
+<course_identifier>ASTRC2900</course_identifier>
+
+<course_number>2900</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:10a - 11:25a&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C2900-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3101</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3101y</course_identifier_cooked>
+
+<course_name>Stellar Structure and Evolution</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topics include the physics of stellar, structure, stellar atmospheres, nucleosynthesis, stellar evolution, interacting binary stars, white dwarfs, and neutron stars.&#38;nbsp; Offered in alternate years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>one year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Agueros</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Agueros</course_instructors_full>
+
+<classes><class><call_number>73141</call_number>
+
+<class_name>MODERN STELLAR ASTROPHYSI</class_name>
+
+<course_identifier>ASTRC3101</course_identifier>
+
+<course_number>3101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Agueros</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3101-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3102</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3102y</course_identifier_cooked>
+
+<course_name>Planetary Dynamics &#38; Physics of the Solar System</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The physics and astrophysics of planets, comets, asteroids, natural and artificial satellites, and pretty much anything in the Solar System - including the Sun.&#38;nbsp; Detailed study of the Earth&#39;s atmosphere and oceans:&#38;nbsp; circulations, climate, and weather.&#38;nbsp; Orbital dynamics.&#38;nbsp; The emerging science of extrasolar planets.&#38;nbsp; The origin, evolution, and eventual fate of planets.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of Physics.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crotts</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Crotts</course_instructors_full>
+
+<classes><class><call_number>14935</call_number>
+
+<class_name>PLANETARY DYNAMICS &#38; PHYS</class_name>
+
+<course_identifier>ASTRC3102</course_identifier>
+
+<course_number>3102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Crotts</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3102-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3103</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3103</course_identifier_cooked>
+
+<course_name>The Galaxy and the Interstellar Medium</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The structure of galaxies and the physical processes that underlie it. Topics include: current galactic structure, the interstellar medium, dark matter, gas dynamics, shocks, gravitational collapse, star formation, supernovae remnants, stellar dynamics, spiral arms, galaxy formation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>one year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3105</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3105</course_identifier_cooked>
+
+<course_name>Extrasolar Planets and Astrobiology (Lecture)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The emerging field of extrasolar planets and astrobiology will be covered at a quantitative level, with a major emphasis on astrophysical phenomenae and techniques. The subject will be introduced through an investigation of current planetary formation theories and approaches to planet detection, including what we currently know about extrasolar planets and detailed reference to state-of-the-art studies. An astronomer&#39;s view of the origin of life and extreme biology will be developed and applied to questions of cosmo-chemistry, observable life-signatures, habitable zones and other astrophysical constraints on the development of organisms.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>one year of calculus based physics.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3273</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3273</course_identifier_cooked>
+
+<course_name>High Energy Astrophysics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: one year of calculus-based general physics. Physics majors could take this course with no previous astronomy background. The properties of compact astronomical objects such as white dwarfs, neutron stars, and black holes; and their manifestations in pulsars, novae, supernova remnants, quasars, and active galactic nuclei. High-energy radiation mechanism and the instrumentation of high-energy astrophysics are also covered.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3601</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3601</course_identifier_cooked>
+
+<course_name>General Relativity, Black Holes, and Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Einstein&#39;s General Theory of Relativity replaced Newtonian gravity with an elegant theory of curved spacetime. Einstein&#39;s theory led to unforseen and unnerving predictions of singularities and cosmological instabilities. Nearly a century later, these mathematical oddities have been confirmed astrophysically in the existence of black holes, an expanding universe, and a big bang. The course will cover Einstein&#39;s General Theory, beginning with special relativity, with an emphasis on black holes and the big bang.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>one year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3602</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3602x</course_identifier_cooked>
+
+<course_name>Physical Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The standard hot big bang cosmological model and modern observational results that test it.&#38;nbsp; Topics include the Friedmann equations and the expansion of the universe, dark matter, dark energy, inflation, primordial nucleosynthesis, the cosmic microwave background, the formation of large-scale cosmic structures, and modern cosmological observations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Z. Haiman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Z. Haiman</course_instructors_full>
+
+<classes><class><call_number>66423</call_number>
+
+<class_name>PHYSICAL COSMOLOGY</class_name>
+
+<course_identifier>ASTRC3602</course_identifier>
+
+<course_number>3602</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>Z. Haiman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3602-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3646</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3646x</course_identifier_cooked>
+
+<course_name>Observational Astronomy Lecture &#38; Lab.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the basic techniques used in obtaining and analyzing astronomical data. Focus on &#34;ground-based&#34; methods, at optical, infrared, and&#38;nbsp;ultraviolet wavelengths. Regular use of the telescope facilities atop the roof of the Pupin Labs, to acquire photometry and spectroscopy of stars, planets, and nebulae.&#38;nbsp; There will also be apportunity to acquire and analyze data from National Observatories, and from spacecraft. Given in alternate years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of general astronomy.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crotts</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Crotts</course_instructors_full>
+
+<classes><class><call_number>65016</call_number>
+
+<class_name>OBSERVATIONAL ASTRONOMY</class_name>
+
+<course_identifier>ASTRC3646</course_identifier>
+
+<course_number>3646</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Crotts</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3646-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>C</school_bulletin_prefix_code_2>
+
+<course_number_2>3998</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3997x-C3998y</course_identifier_cooked>
+
+<course_name>Independent Research</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A variety of research projects conducted under the supervision of members of the faculty. Observational, theoretical, and experimental work in galactic and extragalactic astronomy and cosmology. The topic and scope of the work must be arranged with a faculty member in advance; a written paper describing the results of the project is required at its completion (note that a two-term project can be designed such that the grade YC is given after the first term). Senior majors in astronomy or astrophysics wishing to do a senior thesis should make arrangements in May of their junior year and sign up for a total of 6 points over their final two terms. Both a substantial written document and an oral presentation of thesis results are required.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>This class requires the Instructor&#39;s permission to register. For an independent research project or independent study, a brief description of the proposed project or reading, with the supervising faculty member&#39;s endorsement, is required for registration.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Putman</course_instructors_full>
+
+<classes><class><call_number>29614</call_number>
+
+<class_name>INDEPENDENT RESEARCH</class_name>
+
+<course_identifier>ASTRC3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3997-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>15455</call_number>
+
+<class_name>INDEPENDENT RESEARCH</class_name>
+
+<course_identifier>ASTRC3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3998-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4260</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR W4260</course_identifier_cooked>
+
+<course_name>Modeling the Universe</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The goal of this course is to provide a basic hands-on introduction to the practice and theory of scientific computing with applications in astronomy and astrophysics. The course will include an introduction to programming as well as a sampling of methods and tools from the field of scientific computing. The course will include a hands-on project in which students use numerical methods to solve a research problem. Students who are interested in participating in research projects are strongly encouraged to take the course in their sophomore or junior year.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6001</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G6001</course_identifier_cooked>
+
+<course_name>Radiative Processes</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Radiation mechanisms and interaction of radiation with matter. Applications of classical and semiclassical radiation theory and atomic physics to astrophysical settings. Radiative transfer, polarization, scattering, line radiation, special relativity, bremsstrahlung, synchrotron radiation, inverse compton scattering, ionization losses, shocks and particle acceleration, plasma processes, atomic structure and spectroscopic terms, radiative transitions and oscillator strengths, curve of growth, molecular spectra.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>3000-level electromagnetic theory and quantum mechanics.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6002</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G6002</course_identifier_cooked>
+
+<course_name>Physics of The Interstellar Medium and Intergalactic Medium</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A survey of diffuse matter in the universe with emphasis on astrophysical processes and their observational consequences. Topics include radiative transfer, dust, ionization, thermal balance, magnetic fields, hydrodynamics, shocks and star formaion in the context of gaseous nebulae and the multi-phase ISM, ICM and IGM.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6003</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G6003x</course_identifier_cooked>
+
+<course_name>Stellar and Galactic Dynamics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The theory and observations of stellar and galactic dynamics, with emphasis on study of the formation and evolution of galactic structure and the distribution of dark matter.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. van Gorkom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. van Gorkom</course_instructors_full>
+
+<classes><class><call_number>28415</call_number>
+
+<class_name>STELLAR &#38; GALACTIC DYNAM</class_name>
+
+<course_identifier>ASTRG6003</course_identifier>
+
+<course_number>6003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:30a - 10:45a&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>J. van Gorkom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/G6003-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6004</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G6004x</course_identifier_cooked>
+
+<course_name>Stellar Structure and Evolution</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topics include the physics of stellar structure, stellar atmospheres, radiation transport, nucleosynthesis, stellar evolution, star formation, pulsation, interacting binary stars, white dwarfs, and neutron stars.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Bryan</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Bryan</course_instructors_full>
+
+<classes><class><call_number>23102</call_number>
+
+<class_name>STELLAR STRUCTURE AND EVO</class_name>
+
+<course_identifier>ASTRG6004</course_identifier>
+
+<course_number>6004</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/G6004-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6005</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G6005y</course_identifier_cooked>
+
+<course_name>Physical Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topics include the extragalactic distance scale, Friedmann models, the microwave background, primordial nucleosynthesis, the formation of bound structures, clusters and superclusters of galaxies, measures of the mean density of the university, dark matter, baryosynthesis, inflation, galaxy formation, the particle physics connection.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Z. Haiman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Z. Haiman</course_instructors_full>
+
+<classes><class><call_number>73218</call_number>
+
+<class_name>PHYSICAL COSMOLOGY LEC</class_name>
+
+<course_identifier>ASTRG6005</course_identifier>
+
+<course_number>6005</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>Z. Haiman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/G6005-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8001</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G8001</course_identifier_cooked>
+
+<course_name>Observational Astronomy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Detailed introduction to the instrumentation used in astronomy and the methods used to obtain and analyze data. Six main topics are included: the effects of the earth&#39;s atmosphere on radiation; astronomical optics and telescopes; detectors; observational methods; data reduction; and statistical methods. All the main observational methods (imaging, photometry, polarimetry, and spectroscopy) are treated.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>one year of general astronomy</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8002</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G8002</course_identifier_cooked>
+
+<course_name>Extragalactic Astronomy</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8003</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G8003</course_identifier_cooked>
+
+<course_name>Astrophysical fluid Dynamics (Lecture)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the fundamental concepts of fluid dynamics with focus on standad applications of the theory to a variety of important astrophysical situations and objects. A brief introduction to several key numberical concepts. A brief description of the complications that arise when a fluid is magnetized.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8110</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G8110</course_identifier_cooked>
+
+<course_name>The Local Group</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8125</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G8125</course_identifier_cooked>
+
+<course_name>Extrasolar Planets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9001</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G9001</course_identifier_cooked>
+
+<course_name>Exoplanets (Topic for Fall&#39;11)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G9002y</course_identifier_cooked>
+
+<course_name>Graduate Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Halpern</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Halpern</course_instructors_full>
+
+<classes><class><call_number>76589</call_number>
+
+<class_name>GRADUATE SEMINAR</class_name>
+
+<course_identifier>ASTRG9002</course_identifier>
+
+<course_number>9002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Halpern</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/G9002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9003</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9004</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G9003x-G9004y</course_identifier_cooked>
+
+<course_name>Research, I and II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Paerels, J. Ostriker</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>F. Paerels, J. Ostriker</course_instructors_full>
+
+<classes><class><call_number>71119</call_number>
+
+<class_name>RESEARCH SEMINAR I</class_name>
+
+<course_identifier>ASTRG9003</course_identifier>
+
+<course_number>9003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 11:00a - 12:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Ostriker</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/G9003-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>68663</call_number>
+
+<class_name>RESEARCH SEMINAR II</class_name>
+
+<course_identifier>ASTRG9004</course_identifier>
+
+<course_number>9004</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>F. Paerels</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/G9004-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9201</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9202</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G9201-G9202</course_identifier_cooked>
+
+<course_name>Seminar In Stellar Astrophysics</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ASTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9203</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9204</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR G9203-G9204</course_identifier_cooked>
+
+<course_name>Seminar In Radio Astronomy and Galactic Astrophysics.</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes>Members of the staff.</course_points_notes>
+
+<course_points_cooked>2-4 pts.  Members of the staff.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

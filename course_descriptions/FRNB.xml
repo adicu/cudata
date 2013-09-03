@@ -1,0 +1,4962 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>1002</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC1001x-BC1002y</course_identifier_cooked>
+
+<course_name>Elementary Full-Year Course</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Basic elements of French grammar. Oral, writing, and reading skills. Students may take either or both of these courses at Columbia.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Santos Da Silva, L. Wolfe</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Santos Da Silva, L. Wolfe</course_instructors_full>
+
+<classes><class><call_number>07799</call_number>
+
+<class_name>ELEMENTARY FRENCH I</class_name>
+
+<course_identifier>FRENX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MTuWThF 10:00a - 10:50a&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>L. Wolfe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06486</call_number>
+
+<class_name>ELEMENTARY FRENCH I</class_name>
+
+<course_identifier>FRENX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MTuWThF 11:00a - 11:50a&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>K. Santos Da Silva</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1001-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>06364</call_number>
+
+<class_name>ELEMENTARY FRENCH I</class_name>
+
+<course_identifier>FRENX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MTuWThF 12:00p - 12:50p&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>K. Santos Da Silva</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1001-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>02266</call_number>
+
+<class_name>ELEMENTARY FRENCH I</class_name>
+
+<course_identifier>FRENX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MTuWThF 9:00a - 9:50a&#60;br /&#62;203 Diana Center</days_times>
+
+<instructors>L. Wolfe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1001-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>03849</call_number>
+
+<class_name>ELEMENTARY FRENCH II</class_name>
+
+<course_identifier>FRENX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MTuWThF 10:00a - 10:50a&#60;br /&#62;225 MILBANK HALL</days_times>
+
+<instructors>L. Wolfe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1002-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>08269</call_number>
+
+<class_name>ELEMENTARY FRENCH II</class_name>
+
+<course_identifier>FRENX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MTuWThF 11:00a - 11:50a&#60;br /&#62;225 MILBANK HALL</days_times>
+
+<instructors>K. Santos Da Silva</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1002-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>05507</call_number>
+
+<class_name>ELEMENTARY FRENCH II</class_name>
+
+<course_identifier>FRENX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MTuWThF 12:00p - 12:50p&#60;br /&#62;225 MILBANK HALL</days_times>
+
+<instructors>K. Santos Da Silva</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1002-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>03295</call_number>
+
+<class_name>ELEMENTARY FRENCH II</class_name>
+
+<course_identifier>FRENX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MTuWThF 9:00a - 9:50a&#60;br /&#62;225 MILBANK HALL</days_times>
+
+<instructors>L. Wolfe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1002-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1102</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC1102x</course_identifier_cooked>
+
+<course_name>Review of French Fundamentals</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Oral and written review of basic grammar and syntax. Readings in modern French and Francophone literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Primarily for students who need further instruction to qualify for the intermediate course. Credit cannot be granted for both FREN BC1002 and BC1102 (or its equivalent). Enrollment limited to 20 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Jouanneau-Fertig, S. Bloom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>I. Jouanneau-Fertig, S. Bloom</course_instructors_full>
+
+<classes><class><call_number>07802</call_number>
+
+<class_name>REVIEW OF FRENCH FUNDAMEN</class_name>
+
+<course_identifier>FRENX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;610 LEWISOHN HALL</days_times>
+
+<instructors>I. Jouanneau-Fertig</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1102-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07805</call_number>
+
+<class_name>REVIEW OF FRENCH FUNDAMEN</class_name>
+
+<course_identifier>FRENX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;202 MILBANK HALL</days_times>
+
+<instructors>S. Bloom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1102-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1203</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC1203x and y</course_identifier_cooked>
+
+<course_name>Intermediate I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Further development of oral and written communication skills. Readings in French literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC1001, BC1002, BC1102, C1101 and C1102, or an appropriate score on the placement test.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Jouanneau-Fertig, K. Evanson, L. Postlewate, S. Bloom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>I. Jouanneau-Fertig, K. Evanson, L. Postlewate, S. Bloom</course_instructors_full>
+
+<classes><class><call_number>02609</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>S. Bloom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07074</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 5:40p - 6:55p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>K. Evanson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>08004</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;610 LEWISOHN HALL</days_times>
+
+<instructors>I. Jouanneau-Fertig</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>08943</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>K. Evanson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>00138</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;237 MILBANK HALL</days_times>
+
+<instructors>S. Bloom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>02609</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;225 MILBANK HALL</days_times>
+
+<instructors>S. Bloom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07074</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>L. Postlewate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>08004</call_number>
+
+<class_name>INTERMEDIATE FRENCH I</class_name>
+
+<course_identifier>FRENX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;610 LEWISOHN HALL</days_times>
+
+<instructors>I. Jouanneau-Fertig</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1203-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1204</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC1204x and y</course_identifier_cooked>
+
+<course_name>Intermediate II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced work in language skills. Readings in French literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC1203 or an appropriate score on the placement test.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. O&#39;Keeffe, K. Evanson, L. Wolfe, M. Mimran</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. O&#39;Keeffe, K. Evanson, L. Wolfe, M. Mimran</course_instructors_full>
+
+<classes><class><call_number>06200</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;327 MILBANK HALL</days_times>
+
+<instructors>M. Mimran</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07522</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>L. Wolfe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03061</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>B. O&#39;Keeffe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>06207</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>B. O&#39;Keeffe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>08478</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>M. Mimran</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>03207</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;327 MILBANK HALL</days_times>
+
+<instructors>M. Mimran</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01754</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>B. O&#39;Keeffe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>28</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03061</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>K. Evanson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>06207</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>M. Mimran</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>03984</call_number>
+
+<class_name>INTERMEDIATE FRENCH II</class_name>
+
+<course_identifier>FRENX1204</course_identifier>
+
+<course_number>1204</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;225 MILBANK HALL</days_times>
+
+<instructors>K. Evanson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1204-20131-005</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1205</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC1205y</course_identifier_cooked>
+
+<course_name>Intermediate Oral French</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive oral work, vocabulary enrichment, discussions on prepared topics relating to contemporary France and the French-speaking world, oral presentations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 12 students. This course does not satisfy the language requirement.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Jouanneau-Fertig</course_instructors_actual>
+
+<course_instructors_expected>I. Jouanneau-Fertig</course_instructors_expected>
+
+<course_instructors_full>I. Jouanneau-Fertig</course_instructors_full>
+
+<classes><class><call_number>06748</call_number>
+
+<class_name>INTERMEDIATE ORAL FRENCH</class_name>
+
+<course_identifier>FRENX1205</course_identifier>
+
+<course_number>1205</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;610 LEWISOHN HALL</days_times>
+
+<instructors>I. Jouanneau-Fertig</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC1205-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3006</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3006x and y</course_identifier_cooked>
+
+<course_name>Composition and Conversation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussions on contemporary issues and oral presentations. Creative writing assignments designed to improve writing skills and vocabulary development.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 12 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Jouanneau-Fertig, K. Santos Da Silva, L. Wolfe, M. Mimran, S. Bloom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>I. Jouanneau-Fertig, K. Santos Da Silva, L. Wolfe, M. Mimran, S. Bloom</course_instructors_full>
+
+<classes><class><call_number>01886</call_number>
+
+<class_name>COMPOSITION AND CONVERSAT</class_name>
+
+<course_identifier>FRENX3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>K. Santos Da Silva</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3006-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06198</call_number>
+
+<class_name>COMPOSITION AND CONVERSAT</class_name>
+
+<course_identifier>FRENX3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;610 LEWISOHN HALL</days_times>
+
+<instructors>I. Jouanneau-Fertig</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3006-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04846</call_number>
+
+<class_name>COMPOSITION AND CONVERSAT</class_name>
+
+<course_identifier>FRENX3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;327 MILBANK HALL</days_times>
+
+<instructors>M. Mimran</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3006-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>04086</call_number>
+
+<class_name>COMPOSITION AND CONVERSAT</class_name>
+
+<course_identifier>FRENX3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;106B LEWISOHN HALL</days_times>
+
+<instructors>L. Wolfe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3006-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04094</call_number>
+
+<class_name>COMPOSITION AND CONVERSAT</class_name>
+
+<course_identifier>FRENX3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>K. Santos Da Silva</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3006-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>01172</call_number>
+
+<class_name>COMPOSITION AND CONVERSAT</class_name>
+
+<course_identifier>FRENX3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;202 MILBANK HALL</days_times>
+
+<instructors>S. Bloom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3006-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3007</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3007y</course_identifier_cooked>
+
+<course_name>Commercial-Economic French</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The socioeconomic language of contemporary French society. Practice of oral and written communications based on documents from the French press. Students who have completed the course may wish to take the Diplome du Francais des Affaires given by the Chambre de Commerce et d Industrie de Paris.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Fourth year French students only; Seniors have priority.
+Enrollment limited to 12 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Jouanneau-Fertig</course_instructors_actual>
+
+<course_instructors_expected>I. Jouanneau-Fertig</course_instructors_expected>
+
+<course_instructors_full>I. Jouanneau-Fertig</course_instructors_full>
+
+<classes><class><call_number>00575</call_number>
+
+<class_name>COMMERCIAL-ECONOMIC FRENC</class_name>
+
+<course_identifier>FRENX3007</course_identifier>
+
+<course_number>3007</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;610 LEWISOHN HALL</days_times>
+
+<instructors>I. Jouanneau-Fertig</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3007-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3008</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3008x</course_identifier_cooked>
+
+<course_name>Workshop on Contemporary France</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of contemporary France covering a wide range of topics (history, geography, politics, economics, society, culture). France&#39;s position in the European Union and the world will also be discussed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Preference given to upper-class students (juniors and seniors) with two courses of college French beyond the language requirement.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3011</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3011x or y</course_identifier_cooked>
+
+<course_name>History of the French Language</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Transformation and evolution of the French languages from the early Middle Ages to the present are studied from a socio-historical perspective. Primary texts include literary, legal, political, scientific, administrative, liturgical, and epistolary documents. Includes consideration of French outside of France and variations on the continent in the 20th century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Postlewate</course_instructors_actual>
+
+<course_instructors_expected>L. Postelwate</course_instructors_expected>
+
+<course_instructors_full>L. Postelwate, L. Postlewate</course_instructors_full>
+
+<classes><class><call_number>02283</call_number>
+
+<class_name>HISTORY OF THE FRENCH LAN</class_name>
+
+<course_identifier>FRENX3011</course_identifier>
+
+<course_number>3011</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>L. Postlewate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3011-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3012</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3012x</course_identifier_cooked>
+
+<course_name>Advanced Grammar and Composition</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Systematic study of morphology, syntax, and idiomatic expressions. Weekly writing assignments.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Postlewate</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Postlewate</course_instructors_full>
+
+<classes><class><call_number>01277</call_number>
+
+<class_name>ADV COMP &#38; GRAMMAR REVIEW</class_name>
+
+<course_identifier>FRENX3012</course_identifier>
+
+<course_number>3012</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>L. Postlewate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3012-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01030</call_number>
+
+<class_name>ADV COMP &#38; GRAMMAR REVIEW</class_name>
+
+<course_identifier>FRENX3012</course_identifier>
+
+<course_number>3012</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>L. Postlewate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3012-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3013</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3013y</course_identifier_cooked>
+
+<course_name>Advanced Writing</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; Workshop format course to perfect writing skills in French. Writing formats that will be used over the semester include narration, portait, essai, dissertation, film and book reviews, and correspondence.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>The French language requirement and approval of the instructor. Enrollment limited to 12 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Postlewate</course_instructors_actual>
+
+<course_instructors_expected>L. Postlewate</course_instructors_expected>
+
+<course_instructors_full>L. Postlewate</course_instructors_full>
+
+<classes><class><call_number>04651</call_number>
+
+<class_name>ADVANCED WRITING IN FRENC</class_name>
+
+<course_identifier>FRENX3013</course_identifier>
+
+<course_number>3013</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;202 MILBANK HALL</days_times>
+
+<instructors>L. Postlewate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3013-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3014</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3014x</course_identifier_cooked>
+
+<course_name>Advanced Translation into English</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Translation of various styles of prose and poetry from French to English.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Boyman</course_instructors_actual>
+
+<course_instructors_expected>A. Boyman</course_instructors_expected>
+
+<course_instructors_full>A. Boyman</course_instructors_full>
+
+<classes><class><call_number>03813</call_number>
+
+<class_name>ADVANCED TRANSLATION</class_name>
+
+<course_identifier>FRENX3014</course_identifier>
+
+<course_number>3014</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>A. Boyman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3014-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3016</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3016x and y</course_identifier_cooked>
+
+<course_name>Advanced Oral French</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Oral presentations and discussions of French films aimed at increasing fluency, acquiring vocabulary, and perfecting pronunciation skills.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least one French course after completion of the language requirement and permission of the instructor. Enrollment limited to 12 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Boyman</course_instructors_actual>
+
+<course_instructors_expected>A. Boyman</course_instructors_expected>
+
+<course_instructors_full>A. Boyman</course_instructors_full>
+
+<classes><class><call_number>04113</call_number>
+
+<class_name>ADVANCED ORAL FRENCH</class_name>
+
+<course_identifier>FRENX3016</course_identifier>
+
+<course_number>3016</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>A. Boyman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3016-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02607</call_number>
+
+<class_name>ADVANCED ORAL FRENCH</class_name>
+
+<course_identifier>FRENX3016</course_identifier>
+
+<course_number>3016</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>A. Boyman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>28</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3016-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3017</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3017y</course_identifier_cooked>
+
+<course_name>Rapid Reading and Translation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Using selected French texts from a variety of sources, this course aims at enhancing reading and comprehension skills through translation into English.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Boyman</course_instructors_expected>
+
+<course_instructors_full>A. Boyman</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3019</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3019x</course_identifier_cooked>
+
+<course_name>Advanced Phonetics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Detailed study of all aspects of French pronunciation; theoretical linguistic concepts will be followed up with intensive oral drills.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or the equivalent. Enrollment limited to 12 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Boyman</course_instructors_actual>
+
+<course_instructors_expected>A. Boyman</course_instructors_expected>
+
+<course_instructors_full>A. Boyman</course_instructors_full>
+
+<classes><class><call_number>04162</call_number>
+
+<class_name>ADVANCED PHONETICS</class_name>
+
+<course_identifier>FRENX3019</course_identifier>
+
+<course_number>3019</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;202 MILBANK HALL</days_times>
+
+<instructors>A. Boyman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3019-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3021</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3021x</course_identifier_cooked>
+
+<course_name>Major French Texts I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Medieval, Renaissance, and Classical literature in their cultural context.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Usher</course_instructors_actual>
+
+<course_instructors_expected>P. Usher</course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+<classes><class><call_number>04912</call_number>
+
+<class_name>MAJOR FRENCH TEXTS I</class_name>
+
+<course_identifier>FRENX3021</course_identifier>
+
+<course_number>3021</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>P. Usher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3021-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3022</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3022y</course_identifier_cooked>
+
+<course_name>Major French Texts II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The Age of Enlightenment, Romanticism, Realism, and Symbolism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or the equivalent. FREN BC3021 may be taken for credit without completion of FREN BC3022.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. O&#39;Keeffe</course_instructors_actual>
+
+<course_instructors_expected>D. Macklovitch</course_instructors_expected>
+
+<course_instructors_full>B. O&#39;Keeffe, D. Macklovitch</course_instructors_full>
+
+<classes><class><call_number>05287</call_number>
+
+<class_name>MAJOR FRENCH TEXTS II</class_name>
+
+<course_identifier>FRENX3022</course_identifier>
+
+<course_number>3022</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>B. O&#39;Keeffe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>42</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3022-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3023</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3023x</course_identifier_cooked>
+
+<course_name>The Culture of France I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Historical analysis of mentalites from the Middle Ages to the reign of Louis XIV through symbol, structure, and self-presentation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3024</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3024y</course_identifier_cooked>
+
+<course_name>The Culture of France II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Major cultural and institutional events in France from the 18th century to the present. Topics include the revolutionary tradition, left-right and secular-religious conflicts over the identity of France: its history, its mission, its people and policies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>B. O&#39;Keeffe</course_instructors_expected>
+
+<course_instructors_full>B. O&#39;Keeffe</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3027</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>FREN BC3027y (Section 01)</course_identifier_cooked>
+
+<course_name>How to Doubt Everything: Montaigne, Skepticism, and the Renaissance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>How do we doubt? Why do we doubt? And if we doubt what we think and what we should &#38;lsquo;do,&#38;rsquo; then how can we know ourselves? These are (some of) this course&#38;rsquo;s central questions, to be explored by careful reading and analysis of Montaigne&#38;rsquo;s the Essais (1580-92). In French.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Usher</course_instructors_actual>
+
+<course_instructors_expected>P. Usher</course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+<classes><class><call_number>02870</call_number>
+
+<class_name>HOW TO DOUBT: MONTAIGNE</class_name>
+
+<course_identifier>FRENX3027</course_identifier>
+
+<course_number>3027</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>P. Usher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3027-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3028</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3028y</course_identifier_cooked>
+
+<course_name>Performance in France</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sociohistorical survey of theatrical performance in France from the Middle Ages to the present. Course &#34;texts&#34; include liturgical drama, a variety of plays, ceremonies, sermons, cabaret and puppet theatre, as well as contemporary experimental performance. Discussion to include the politics and economics of French theatre in the broadest sense.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement in French or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Postlewate</course_instructors_expected>
+
+<course_instructors_full>L. Postlewate</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3029</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3029x or y</course_identifier_cooked>
+
+<course_name>Laughter in the Middle Ages and Renaissance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores both the traditional comic forms of early French literature (farce, sottie, fabliau, burlesque, grotesque) and comedic elements of serious genres such as chanson de geste, saint&#39;s lives, and romance. An investigation into the mentalites of the Middle Ages and Renaissance through an understanding of what made people laugh.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3030</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3030x or y</course_identifier_cooked>
+
+<course_name>Medieval Theatre</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines a variety of kinds of theatrical representations (liturgical drama, comic farce and &#34;sottie,&#34; court entertainments, pageants, religious mystery plays). Lectures and readings will be in English; French majors do written work in French.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3031</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3031x or y</course_identifier_cooked>
+
+<course_name>History, Literature and Culture of the Middle Ages</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Development and evolution of literary expression in France from the Crusades through the High Middle Ages.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3032</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3032x or y</course_identifier_cooked>
+
+<course_name>Women and Writing in Early Modern France</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of cultural and literary phenomena in 15th through17th century France, focusing on writings by and about women.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3033</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3033x or y</course_identifier_cooked>
+
+<course_name>Literature of the French Renaissance and the Baroque</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Experimentation and discovery in the arts, in science and technology, and in the understanding of the human experience. Explores how the works of French poets, prosateurs, and playwrights reflect both the vibrancy and splendor of the time, as well as the struggle of an era preoccupied with death and rebirth.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3034</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3034y</course_identifier_cooked>
+
+<course_name>French Baroque and Classical Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Interdisciplinary exploration of the literature and culture of the Grand Siecle.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3035</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3035x</course_identifier_cooked>
+
+<course_name>Eighteenth-Century French Fiction</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Readings of novels and novellas by Prevost, Rousseau, Diderot, Charriere, Laclos, and Sade, with a particular focus on issues of selfhood, gender, sexuality, authority, and freedom.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Weber</course_instructors_actual>
+
+<course_instructors_expected>C. Weber</course_instructors_expected>
+
+<course_instructors_full>C. Weber</course_instructors_full>
+
+<classes><class><call_number>05076</call_number>
+
+<class_name>18TH CENTURY FRENCH FICTI</class_name>
+
+<course_identifier>FRENX3035</course_identifier>
+
+<course_number>3035</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;409 BARNARD HALL</days_times>
+
+<instructors>C. Weber</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3035-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3036</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3036y</course_identifier_cooked>
+
+<course_name>The Age of Enlightenment/L&#39;AGE DES LUMIERES</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Dans ce cours, nous examinerons le ph&#38;eacute;nom&#38;egrave;ne qui domine&#38;mdash;et r&#38;eacute;volutionne&#38;mdash;le discours philosophique, religieux, anthropologique, sociologique, et politique au 18e si&#38;egrave;cle en Occident: les Lumi&#38;egrave;res. Visant les dogmes jusque-l&#38;agrave; incontestables d&#39;un Etat monarchique et d&#39;une Eglise catholique autoritaires, ce mouvement r&#38;eacute;clame la libert&#38;eacute; de la pens&#38;eacute;e et du culte; condamne l&#39;intol&#38;eacute;rance eccl&#38;eacute;siastique et le pr&#38;eacute;jug&#38;eacute; culturel aveugles; expose et d&#38;eacute;plore les in&#38;eacute;galit&#38;eacute;s sociales et sexuelles; examine les formes de gouvernement diff&#38;eacute;rentes, du despotisme tyrannique au contrat social proto-&#38;eacute;galitaire; et subvertit par ses propos l&#39;id&#38;eacute;ologie injuste et souvent hypocrite de l&#39;ancien r&#38;eacute;gime. Ainsi, les &#38;eacute;crivains des Lumi&#38;egrave;res pr&#38;eacute;parent-ils le chemin aux R&#38;eacute;volutions am&#38;eacute;ricaine et fran&#38;ccedil;aise de 1776 et de 1789, respectivement: deux points-tournant dans l&#39;histoire du suffrage universel en Occident. A l&#39;exception d&#39;un texte de l&#39;Allemand Immanuel Kant, nous nous bornerons &#38;agrave; des &#38;eacute;crits des principaux philosophes francophones des Lumi&#38;egrave;res: Montesquieu, Voltaire, Diderot, et Rousseau; aussi bien qu&#38;rsquo;&#38;agrave; deux romanciers &#38;ldquo;dystopiques&#38;rdquo;: Charri&#38;egrave;re et Sade. A l&#38;rsquo;exception aussi de Kant (dont on lira l&#38;rsquo;essai traduit en anglais), tout le travail pour ce cours&#38;mdash;la lecture, la discussion, les redactions, l&#38;rsquo;examen&#38;mdash;se fera en fran&#38;ccedil;ais.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Weber</course_instructors_actual>
+
+<course_instructors_expected>C. Weber</course_instructors_expected>
+
+<course_instructors_full>C. Weber</course_instructors_full>
+
+<classes><class><call_number>06554</call_number>
+
+<class_name>THE AGE OF ENLIGHTENMENT</class_name>
+
+<course_identifier>FRENX3036</course_identifier>
+
+<course_number>3036</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>C. Weber</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3036-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3037</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3037y</course_identifier_cooked>
+
+<course_name>Nineteenth-Century French Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Readings of poems by Lamartine, Hugo, Baudelaire, Rimbaud, and Mallarm&#38;eacute;. Focuses on the turn from Romanticism to Modernism in the 19th century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Boyman</course_instructors_expected>
+
+<course_instructors_full>A. Boyman</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3038</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3038x</course_identifier_cooked>
+
+<course_name>The Nineteenth-Century French Novel</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Evolution of the novel, aesthetics of Romanticism, Realism, Naturalism, and Symbolism. Particular attention is paid to the formal problems of narrative, the rhetoric of sentiment, decadence, and issues of sexual identity.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Connor</course_instructors_actual>
+
+<course_instructors_expected>P. Connor</course_instructors_expected>
+
+<course_instructors_full>P. Connor</course_instructors_full>
+
+<classes><class><call_number>01590</call_number>
+
+<class_name>19TH CENTURY FRENCH NOVEL</class_name>
+
+<course_identifier>FRENX3038</course_identifier>
+
+<course_number>3038</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;409 BARNARD HALL</days_times>
+
+<instructors>P. Connor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3038-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3040</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3040x</course_identifier_cooked>
+
+<course_name>Twentieth-Century French Fiction</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topics will include the theory of the gratuitous act, literature and the rise of Fascism, war and the literature of commitment, erotic violence.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Connor</course_instructors_expected>
+
+<course_instructors_full>P. Connor</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3041</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3041y</course_identifier_cooked>
+
+<course_name>Twentieth-Century French Thought</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Thorough study of the major intellectual movements in France from Surrealism to post-structuralism. Particular attention given to theories of political commitment, texuality and deconstruction. Readings include works by Breton, Senghor, Sartre, Levi Strauss, and Derrida.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Gavronsky</course_instructors_expected>
+
+<course_instructors_full>S. Gavronsky</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3042</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3042x or y</course_identifier_cooked>
+
+<course_name>Twentieth-Century French and Francophone Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis of some of the major poets in France and in Francophone countries emphasizing theories of the avant-garde and traditional interests in politics, race, and gender. Poets include Cendrars, Saint John Perse, C&#239;&#191;&#189;saire, Depestre, Aragon, Risset, Albiach, Roubaud, and Tahar Ben Jelloun.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3043</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3043x or y</course_identifier_cooked>
+
+<course_name>Twentieth-Century French Women Writers</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Writings by women will be analyzed in the changing philosophical and literary contexts of the 20th century: Simone de Beauvoir, Nathalie Sarraute, Marguerite Duras, H&#232;l&#233;ne Cixous, and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3044</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3044y</course_identifier_cooked>
+
+<course_name>Theater of the Absurd</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Close reading and occasional screening of major plays associated with the Theater of the Absurd. Philosophical and literary origins of the concept of the absurd; social and political context of its emergence; theatrical conventions of early performances; popular and critical reception. Authors include: Jarry, Adamov, Arrabal, Beckett, Genet, Ionesco, Maeterlinck, Sartre, Camus.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Connor</course_instructors_expected>
+
+<course_instructors_full>P. Connor</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3056</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3056y</course_identifier_cooked>
+
+<course_name>Proust</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In this course, we will read the whole of Marcel Proust&#39;s 7-volume novel, A la Recherche du temps perdu. One of the greatest novels of all time, the Recherche addresses issues of: romantic and familial love; hetero- and homosexuality; social class; anti-Semitism; social life and friendship; the persistence of memory; and the relationship between art and life.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN BC3021, BC3022, BC3023, BC3024, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Weber</course_instructors_expected>
+
+<course_instructors_full>C. Weber</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3061</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3061x or y</course_identifier_cooked>
+
+<course_name>Marx in France</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the persistence and transformation of the sign &#34;Marx&#34; in multiple aspects of 20th-century French thought. Areas covered will include ethics, aesthetics, history, philosophy, and ideologies as of Surrealism through N&#38;eacute;gritude, existentialism, structuralism and post-structuralism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3062</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3062y</course_identifier_cooked>
+
+<course_name>Women in French Cinema since the 60s</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course traces the evolving nature of the relationship between women and society in French cinema from the New Wave of the 60&#39;s to the present. Attitudes of women and towards women will be examined in the light of the changing social, political, and intellectual context.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Boyman</course_instructors_actual>
+
+<course_instructors_expected>A. Boyman</course_instructors_expected>
+
+<course_instructors_full>A. Boyman</course_instructors_full>
+
+<classes><class><call_number>08307</call_number>
+
+<class_name>WOMEN IN FRENCH CINEMA</class_name>
+
+<course_identifier>FRENX3062</course_identifier>
+
+<course_number>3062</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;202 MILBANK HALL</days_times>
+
+<instructors>A. Boyman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3062-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3063</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3063x or y</course_identifier_cooked>
+
+<course_name>Critical Theory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the conceptual foundations of structuralism and post structuralism or to what is known as French Theory. Readings include works by Saussure, Levi Strauss, Lacan, Foucault, Cixous, and Deleuze.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3064</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3064x</course_identifier_cooked>
+
+<course_name>France on Film</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Films on and of the period from the 1930s to the present, focusing on the interplay between history, ideology, and culture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Reading ability in French required for all students.  French majors must write their papers in French.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Gavronsky</course_instructors_expected>
+
+<course_instructors_full>S. Gavronsky</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3065</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3065y</course_identifier_cooked>
+
+<course_name>Surrealism</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An examination of the relationship between traditional &#38;amp; avant-garde literature and visual culture; the use of word-play &#38;amp; language games as tools of artistic expression; the thematization of the unconscious and dreams; the vexed relationship between aesthetics &#38;amp; politics; the poetics and politics of sexuality &#38;amp; gender.&#38;nbsp; Authors and artists will include Andre Breton, Louis Aragon, Man Ray, Dorothea Tanning, and Salvador Dali.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Reading ability in French required for all students.  French majors must write their papers in French.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Weber</course_instructors_actual>
+
+<course_instructors_expected>C. Weber</course_instructors_expected>
+
+<course_instructors_full>C. Weber</course_instructors_full>
+
+<classes><class><call_number>07149</call_number>
+
+<class_name>SURREALISM</class_name>
+
+<course_identifier>FRENX3065</course_identifier>
+
+<course_number>3065</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>C. Weber</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3065-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3068</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3068y</course_identifier_cooked>
+
+<course_name>Jews in France from Dreyfus to Vichy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Jews in France from the Revolution to Vichy. Materials include newspapers, documentaries, films, historical texts and literary works.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Reading ability in French required for all students. French majors must write their papers in French.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Gavronsky</course_instructors_expected>
+
+<course_instructors_full>S. Gavronsky</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3069</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3069x</course_identifier_cooked>
+
+<course_name>Blacks, Jews, and Arabs in Modern France</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>From negritude to World War II antisemitism, to contemporary French reactions to North African immigration.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Reading ability in French required for all students.  French majors must their papers in French.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3070</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3070x</course_identifier_cooked>
+
+<course_name>Negritude</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis of the theoretical and literary precursors of n&#233;gritude; major figures of the movement; relations with the Harlem Renaissance; and the formulation of creolity by contemporary Caribbean writers and thinkers. Authors will include Gobineau, Maran, PriceMars, Hughes, McKay, C&#233;saire, Senghor, Damas, Fanon, Sartre, Glissant, and Chamoiseau. Taught in French.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Reading ability in French required for all students.  French majors must write their papers in French.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Gavronsky</course_instructors_expected>
+
+<course_instructors_full>S. Gavronsky</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3071</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3071x</course_identifier_cooked>
+
+<course_name>Major Literary Works of the French-Speaking World</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to major works of fiction from the French speaking countries of the Caribbean, West Africa, North Africa and Indochina. Considers some of the principal authors of these regions, and examines the sociopolitical, historical, and aesthetic considerations that have influenced Francophone literary production in the twentieth century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of the language requirement in French or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Glover</course_instructors_expected>
+
+<course_instructors_full>K. Glover</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3072</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3072x</course_identifier_cooked>
+
+<course_name>Francophone Fiction: Unhomely Women of the Caribbean</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Looks at the portrayal of women as unsettling figures in the Francophone Caribbean literary universe. Examining the uncanny heroines in the novels of both male and female writers, students will identify the thematic commonalities and specific configurative strategies that emerge in the fictional representation of women in the region. The symbolic import of zombies, schizophrenics, and other &#34;disordering&#34; characters will be analyzed as indicators of and reflections on broader social realities.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Glover</course_instructors_expected>
+
+<course_instructors_full>K. Glover</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3073</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3073x</course_identifier_cooked>
+
+<course_name>Africa in Cinema</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Considerations of African-directed twentieth century films concerning French-speaking, sub-Saharan West Africa. Reflections on tradition and modernity, politics and popular culture, the status of women, youth problems, identity construction. Placement of African film within its own tradition. Class taught in English.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Glover</course_instructors_actual>
+
+<course_instructors_expected>K. Glover</course_instructors_expected>
+
+<course_instructors_full>K. Glover</course_instructors_full>
+
+<classes><class><call_number>07161</call_number>
+
+<class_name>AFRICA IN CINEMA</class_name>
+
+<course_identifier>FRENX3073</course_identifier>
+
+<course_number>3073</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>K. Glover</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>28</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3073-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3074</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3074x or y</course_identifier_cooked>
+
+<course_name>Women in Francophone Africa: Historical and Cultural Perspectives</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Emphasizes cultural and historical representation of Francophone women by both women and men. Works will include novels, films, and poems, by authors such as Semb&#233;ne Ousmane, Mariama Ba, Amadou Kourouma, Camara Laye, Calixthe Beyala.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3075</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3075x or y</course_identifier_cooked>
+
+<course_name>Major African Texts: Orality and Ecriture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Writing from the different parts of the continent. Focus on self-identity and the African experience as conveyed in a variety of genres: poetry, drama, the novel, and film.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3077</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>FREN BC3077y (Section 01)</course_identifier_cooked>
+
+<course_name>La Jalousie dans la Litterature Francais</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course takes jealousy-in its psychosexual, socio-political, ontological dimensions, and in its formal implications-as a lens through which to view a series of seminal works of French literature from the Middle Ages to the 21st century. These works include: 12th-century Arthurian legend (B&#38;eacute;roul); a late-medieval, proto-feminist short story (Navarre); 17th-century neo-classical tragedy (Corneille); 12th and 17th-century folkloric forms (Marie de France&#39;s lai and Perrault&#39;s fairy tale, respectively); the Enlightenment &#34;philosophical&#34; novel (Montesquieu); the 19th-century realist novel (Balzac); the early 20th-century modernist novel (Proust); and the nouveau roman (Robbe-Grillet). Two contemporary adaptations (Singer&#39;s 2008 novel based on the Navarre story, and Chabrol&#39;s 1996 film based on Proust&#39;s novel) will also be studied. In addition, a selection of highly condensed, relevant secondary readings (excerpts of 10 pages of less) will provide students with an introduction to an array of theoretical approaches to literary study: most notably, psychoanalysis, political philosophy, and literary theory.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Weber</course_instructors_actual>
+
+<course_instructors_expected>C. Weber</course_instructors_expected>
+
+<course_instructors_full>C. Weber</course_instructors_full>
+
+<classes><class><call_number>03720</call_number>
+
+<class_name>JALOUSIE-LITTERATURE FRAN</class_name>
+
+<course_identifier>FRENX3077</course_identifier>
+
+<course_number>3077</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;327 MILBANK HALL</days_times>
+
+<instructors>C. Weber</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3077-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3080</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3080x</course_identifier_cooked>
+
+<course_name>Advanced Seminar: Baudelaire</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course focuses on the crucial role played by Baudelaire in the transition from Romanticism to Modernism in the mid 19th century. Through close readings of his poetry and his writings on art we will examine how he radically reconfigured questions of language, art, sexuality, and subjectivity.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Boyman</course_instructors_expected>
+
+<course_instructors_full>A. Boyman</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3091</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3091y</course_identifier_cooked>
+
+<course_name>Senior Seminar Thesis</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>French majors will write their senior thesis under the supervision of the instructor.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Usher</course_instructors_actual>
+
+<course_instructors_expected>P. Usher</course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+<classes><class><call_number>02883</call_number>
+
+<class_name>SENIOR THESIS</class_name>
+
+<course_identifier>FRENX3091</course_identifier>
+
+<course_number>3091</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>P. Usher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/BC3091-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3420</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN V3420x or y</course_identifier_cooked>
+
+<course_name>Introduction to French and Francophone Studies I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Conceptions of culture and civilization in France from the Enlightenment to the Exposition Coloniale of 1931. Emphasis on the issue of universalism versus relativism and the ideological foundations of French colonialism. Authors and texts will include selections from the Encyclopedie, the Declaration des droits de l homme et du citoyen, the Code Napoleon, Diderot, Chateaubriand, de Tocqueville, Drumont.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of French language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3421</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN W3421y</course_identifier_cooked>
+
+<course_name>Introduction to French and Francophone Studies II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Universalism vs. exceptionalism, tradition vs. modernity, integration and exclusion, racial, gender, regional and national identities will be considered in this introduction to the contemporary French speaking world in Europe, the Americas and Africa. Authors include Aim&#38;eacute; C&#38;eacute;saire, L&#38;eacute;opold Senghor, Maryse Cond&#38;eacute;, and Frantz Fanon.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Satisfaction of French language requirement or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Glover</course_instructors_actual>
+
+<course_instructors_expected>K. Glover</course_instructors_expected>
+
+<course_instructors_full>K. Glover</course_instructors_full>
+
+<classes><class><call_number>09044</call_number>
+
+<class_name>INTRO-FRANCOPHONE STUDIES</class_name>
+
+<course_identifier>FRENW3421</course_identifier>
+
+<course_number>3421</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>K. Glover</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3421-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3760</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN W3760x or y</course_identifier_cooked>
+
+<course_name>French Theory After 1968</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores diverse schools of French literary theory and philosophy after 1968, including but not limited to Marxism, psychoanalysis, situationism, deconstruction, and post-structuralism. Authors studied include Foucault, Barthes, Althursser, Debord, Derrida, Lacan, Kristeva, Irigaray, Deleuze, and Baudrillary. All reading, writing, and discussion in French.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor. Enrollment limited to 12 students. Advanced undergraduates and graduate students only.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FRNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4203</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN G4203y</course_identifier_cooked>
+
+<course_name>French Literature of the 16th Century I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the French Renaissance, the time when French first became a national language as a moment of generic renewal (epic, tragedy, the novel, the essay, etc.) Authors to be studied include: d&#38;iuml;&#38;iquest;&#38;frac12;Aubign&#38;iuml;&#38;iquest;&#38;frac12;, Du Ba&#38;iuml;&#38;iquest;&#38;frac12;f, De B&#38;iuml;&#38;iquest;&#38;frac12;ze, Dolet, Du Bellay, Garnier, Jodelle, L&#38;iuml;&#38;iquest;&#38;frac12;ry, Montaigne, Rabelais, and Ronsard, and others.</course_description>
+
+<corequisites>This is a Columbia graduate course open to advanced undergraduates with written permission from the instructor.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Usher</course_instructors_actual>
+
+<course_instructors_expected>P. Usher</course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+<classes><class><call_number>06591</call_number>
+
+<class_name>RENAISSANCE</class_name>
+
+<course_identifier>FRENG4203</course_identifier>
+
+<course_number>4203</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>P. Usher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/G4203-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

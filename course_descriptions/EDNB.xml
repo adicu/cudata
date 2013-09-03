@@ -1,0 +1,921 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2032</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC2032x</course_identifier_cooked>
+
+<course_name>Contemporary Issues in Education</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Study of critical issues confronting education today and their relation to contemporary society. Topics include equity in learning experiences for bilingual, culturally diverse, gifted, and disabled students - girls and boys. The impact of technology, school choice, and standards will be addressed. Fieldwork required.CourseWorks page</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 25 students. Permission of instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Rivera Maulucci, R. Kliegman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Rivera Maulucci, R. Kliegman</course_instructors_full>
+
+<classes><class><call_number>06162</call_number>
+
+<class_name>CONTEMPORARY ISSUES IN ED</class_name>
+
+<course_identifier>EDUCX2032</course_identifier>
+
+<course_number>2032</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>M. Rivera Maulucci</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC2032-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06110</call_number>
+
+<class_name>CONTEMPORARY ISSUES IN ED</class_name>
+
+<course_identifier>EDUCX2032</course_identifier>
+
+<course_number>2032</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>R. Kliegman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>52</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC2032-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2045</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC2045x</course_identifier_cooked>
+
+<course_name>COLLOQUIUM:CURRENT ISSUES IN STEM EDUCATION</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course introduces students to current topics in mathematics education through the Teachers College Mathematics Colloquium Series and lunchtime discussions. Students will explore the sociopolitical contexts in which mathematics education takes place, and consider the implication of these contexts for mathematics teaching and learning in light of the topics presented.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Edstrom</course_instructors_actual>
+
+<course_instructors_expected>Lisa Edstrom</course_instructors_expected>
+
+<course_instructors_full>L. Edstrom</course_instructors_full>
+
+<classes><class><call_number>03197</call_number>
+
+<class_name>COLL: STEM &#38; EDUCATION</class_name>
+
+<course_identifier>EDUCX2045</course_identifier>
+
+<course_number>2045</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:30p - 9:00p&#60;br /&#62;207 MILBANK HALL&#60;br /&#62;Th 12:00p - 1:00p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>L. Edstrom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC2045-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2052</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC2052y</course_identifier_cooked>
+
+<course_name>Seminar in  Multicultural Elementary Pedagogy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Provides prospective teachers with theory and methods for teaching elementary school subjects (grades 1-6) to meet intellectual, social and emotional needs of diverse learners. Topics include foundations of multicultural, student-centered and critical pedagogies, all aspects of literacy, utilizing literacy across content areas, constructivist mathematics instruction, authentic assessment, diversity and inclusion.</course_description>
+
+<corequisites>This course should be taken in the spring term of the junior year with corequisite EDUC BC2055, Elementary Urban School Practicum.</corequisites>
+
+<prerequisites>This course is a pre-requisite for student teaching in elementary schools. Open to Education Program applicants; others only with permission of instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Edstrom</course_instructors_actual>
+
+<course_instructors_expected>J. Broderick</course_instructors_expected>
+
+<course_instructors_full>J. Broderick, L. Edstrom</course_instructors_full>
+
+<classes><class><call_number>06321</call_number>
+
+<class_name>SEM: MULTICUL ELEM PEDAGO</class_name>
+
+<course_identifier>EDUCX2052</course_identifier>
+
+<course_number>2052</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;302 LEHMAN HALL</days_times>
+
+<instructors>L. Edstrom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC2052-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2055</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC2055y</course_identifier_cooked>
+
+<course_name>Urban School Practicum</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Consists of weekly class meetings combined with elementary, middle or high school classroom internship (depending on desired certification level). Students observe and apply theoretical principles of pedagogy to teaching and learning. Class meetings provide opportunities to reflect on internship and focus on instructional strategies and classroom management techniques.</course_description>
+
+<corequisites>Section 1, Elementary, EDUC BC2052 or Section 2, Secondary, EDUC BC2062. Meets for two hours per week, plus a minimum of six hours per week in the field.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Edstrom, M. Rivera Maulucci</course_instructors_actual>
+
+<course_instructors_expected>Section 1: J. Broderick; Section 2: M. Rivera Maulucci</course_instructors_expected>
+
+<course_instructors_full>L. Edstrom, M. Rivera Maulucci, S. 1: J. Broderick; Section 2: M. Rivera
+Maulucci</course_instructors_full>
+
+<classes><class><call_number>06477</call_number>
+
+<class_name>URBAN SCHOOL PRACTICUM</class_name>
+
+<course_identifier>EDUCX2055</course_identifier>
+
+<course_number>2055</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>L. Edstrom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC2055-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00161</call_number>
+
+<class_name>URBAN SCHOOL PRACTICUM</class_name>
+
+<course_identifier>EDUCX2055</course_identifier>
+
+<course_number>2055</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>M. Rivera Maulucci</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC2055-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2062</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC2062y</course_identifier_cooked>
+
+<course_name>Seminar in Multicultural Secondary Pedagogy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prospective teachers explore methods for teaching English, social studies, the sciences (biology, physics, earth science and chemistry), mathematics, ancient and foreign languages (Grades 7-12). Topics include multicultural, critical pedagogical methods appropriate to specific content areas, content area standards and literacy, diversity, inclusion, and assessment.</course_description>
+
+<corequisites>This course should be taken in the spring term of the junior year with corequisite EDUC BC2055. Open to Education Program applicants; others only with permission of instructor.</corequisites>
+
+<prerequisites>This course is a prerequisite for student teaching in secondary schools; grade of B or better required to continue.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Rivera Maulucci</course_instructors_actual>
+
+<course_instructors_expected>M. Rivera Maulucci</course_instructors_expected>
+
+<course_instructors_full>M. Rivera Maulucci</course_instructors_full>
+
+<classes><class><call_number>06496</call_number>
+
+<class_name>SEM: MULTICUL SEC PEDAGOG</class_name>
+
+<course_identifier>EDUCX2062</course_identifier>
+
+<course_number>2062</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>M. Rivera Maulucci</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC2062-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3050</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC3050x</course_identifier_cooked>
+
+<course_name>Science in the City</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In partnership with the American Museum of Natural History students investigate science, science pedagogical methods, and ways to use New York City as a resource for science teaching and learning. Sessions will be held at Barnard and the museum. Field trips and fieldwork required. Non-science majors and pre-service elementary students welcome.Note: Students in the Childhood Program may use this course as a second foundations course.CourseWorks page</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Rivera Maulucci</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Rivera Maulucci</course_instructors_full>
+
+<classes><class><call_number>04403</call_number>
+
+<class_name>SCIENCE IN THE CITY</class_name>
+
+<course_identifier>EDUCX3050</course_identifier>
+
+<course_number>3050</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:30p - 6:20p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>M. Rivera Maulucci</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC3050-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3052</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC3052y</course_identifier_cooked>
+
+<course_name>Math and the City</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In partnership with NYC public school teachers, students will have opportunities to engage in mathematical learning, lesson study, curriculum development, and implementation, with a focus on using the City as a resource. Students will explore implications for working with diverse populations.Note: Students in the Childhood Program may use this course as a second foundations course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Broderick</course_instructors_actual>
+
+<course_instructors_expected>L. Edstrom</course_instructors_expected>
+
+<course_instructors_full>J. Broderick, L. Edstrom</course_instructors_full>
+
+<classes><class><call_number>04696</call_number>
+
+<class_name>MATH AND THE CITY</class_name>
+
+<course_identifier>EDUCX3052</course_identifier>
+
+<course_number>3052</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>J. Broderick</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC3052-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3063</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC3063x and y</course_identifier_cooked>
+
+<course_name>Student Teaching in Urban Schools</course_name>
+
+<course_points_min>6</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Supervised student teaching in elementary or secondary schools includes creating lesson plans, involving students in active learning, using cooperative methods, developmentally appropriate assessment, and meeting the needs of diverse learners in urban schools. Teaching skills developed through weekly individual and/or group supervision meetings (to be scheduled at the beginning of the semester), conferences, and portfolio design. Requires 100 hours of teaching at two different grade levels, full-time for one semester. Note: Students are only permitted to leave their student teaching placements early twice a week, once for EDUCBC3064 and one other day for one additional course having a start time of 2 pm or later. CourseWorks page</course_description>
+
+<corequisites>EDUC BC3064. Enrollment limited.</corequisites>
+
+<prerequisites>Completion of EDUC BC2052 or BC2062 and BC2055.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Bell, L. Edstrom, R. Kliegman</course_instructors_actual>
+
+<course_instructors_expected>L. Bell, M. Rivera Maulucci, L. Edstrom,</course_instructors_expected>
+
+<course_instructors_full>L. Bell, L. Edstrom, M. Rivera Maulucci, R. Kliegman</course_instructors_full>
+
+<classes><class><call_number>07750</call_number>
+
+<class_name>STUDENT TEACHING/URBAN</class_name>
+
+<course_identifier>EDUCX3063</course_identifier>
+
+<course_number>3063</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>L. Bell&#60;br /&#62;
+L. Edstrom&#60;br /&#62;
+R. Kliegman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC3063-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07750</call_number>
+
+<class_name>STUDENT TEACHNG/URBAN SCH</class_name>
+
+<course_identifier>EDUCX3063</course_identifier>
+
+<course_number>3063</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>L. Edstrom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC3063-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>EDNB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<subject_area_name>Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3064</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EDUC BC3064x and y</course_identifier_cooked>
+
+<course_name>Senior Seminar on Issues in Urban Teaching</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed to help student teachers develop as reflective practictioners who can think critically about issues facing urban schools, particularly how race, class and gender influence schooling; and to examine the challenges and possibilities for providing intellectually engaging, meaningful curriculum to all students in urban classrooms.CourseWorks page</course_description>
+
+<corequisites>EDUC BC3063x,y. Enrollment limited to student teachers enrolled in the Education Program.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Bell, L. Edstrom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Bell, L. Edstrom</course_instructors_full>
+
+<classes><class><call_number>01248</call_number>
+
+<class_name>SEM: ISSUES URBAN TEACH</class_name>
+
+<course_identifier>EDUCX3064</course_identifier>
+
+<course_number>3064</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>L. Bell&#60;br /&#62;
+L. Edstrom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC3064-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01248</call_number>
+
+<class_name>SEM: ISSUES URBAN TEACHIN</class_name>
+
+<course_identifier>EDUCX3064</course_identifier>
+
+<course_number>3064</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;21 LEHMAN HALL</days_times>
+
+<instructors>L. Bell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>EDUC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EDUC/BC3064-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

@@ -1,0 +1,3356 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1100</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1100x and y</course_identifier_cooked>
+
+<course_name>Wellness</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An exploration of the dimensions of wellness. Class format will consist of discussion and limited physical activity. Presentations by health and wellness specialists within the Barnard community will be an integral part of the class.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Padilla</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Padilla</course_instructors_full>
+
+<classes><class><call_number>09248</call_number>
+
+<class_name>WELLNESS</class_name>
+
+<course_identifier>PHEDX1100</course_identifier>
+
+<course_number>1100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 5:50p&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>WELLNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1100-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1102</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1102x and y</course_identifier_cooked>
+
+<course_name>Personal Fitness</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Participation in fitness activities addressing cardio-respiratory endurance, muscular strength, flexibility, and muscular endurance.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Padilla, L. Rosalia</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Padilla, L. Rosalia</course_instructors_full>
+
+<classes><class><call_number>09470</call_number>
+
+<class_name>PERSONAL FITNESS</class_name>
+
+<course_identifier>PHEDX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:10p - 3:00p&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>PERSONAL FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1102-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06161</call_number>
+
+<class_name>PERSONAL FITNESS</class_name>
+
+<course_identifier>PHEDX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 4:10p - 5:00p&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>PERSONAL FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1102-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07460</call_number>
+
+<class_name>PERSONAL FITNESS</class_name>
+
+<course_identifier>PHEDX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 9:00a - 9:50a&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>PERSONAL FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1102-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>04591</call_number>
+
+<class_name>PERSONAL FITNESS</class_name>
+
+<course_identifier>PHEDX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 11:00a - 11:50a&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>PERSONAL FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1102-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>08425</call_number>
+
+<class_name>PERSONAL FITNESS</class_name>
+
+<course_identifier>PHEDX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:00p&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>PERSONAL FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1102-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06430</call_number>
+
+<class_name>PERSONAL FITNESS</class_name>
+
+<course_identifier>PHEDX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 9:00a - 9:50a&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>PERSONAL FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1102-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1103</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1103x and y</course_identifier_cooked>
+
+<course_name>Fitness Instructor</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Learn all the basics of fitness training including how to teach group fitness activities (aerobics, step, sculpt) and one-on-one program design.  Other topics include anatomy, nutrition, injury prevention and flexibility training.  Students prepare for national certification.  Course is part lecture and part activity; teaching presentations are built into the course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Masone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Masone</course_instructors_full>
+
+<classes><class><call_number>01512</call_number>
+
+<class_name>FITNESS INSTRUCTOR</class_name>
+
+<course_identifier>PHEDX1103</course_identifier>
+
+<course_number>1103</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 5:50p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>FITNESS INSTRUCTOR</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1103-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1120</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1120x and y</course_identifier_cooked>
+
+<course_name>Beginning Swimming</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students develop comfort and confidence in basic aquatic skills.&#38;nbsp; Students learn front crawl, back crawl, elementary backstroke, breaststroke, and sidestroke.&#38;nbsp; No prior swimming experience necessary. Women only.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Rosalia</course_instructors_actual>
+
+<course_instructors_expected>L. Rosalia</course_instructors_expected>
+
+<course_instructors_full>L. Rosalia</course_instructors_full>
+
+<classes><class><call_number>08031</call_number>
+
+<class_name>BEGINNING SWIMMING</class_name>
+
+<course_identifier>PHEDX1120</course_identifier>
+
+<course_number>1120</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:00a - 10:50a&#60;br /&#62;POOL BARNARD HALL</days_times>
+
+<instructors>BEGINNING SWIMMING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1120-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04591</call_number>
+
+<class_name>BEGINNING SWIMMING</class_name>
+
+<course_identifier>PHEDX1120</course_identifier>
+
+<course_number>1120</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 3:10p - 4:00p&#60;br /&#62;POOL BARNARD HALL</days_times>
+
+<instructors>BEGINNING SWIMMING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1120-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1121</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1121x and y</course_identifier_cooked>
+
+<course_name>Advanced Beginning Swimming</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students enhance basic swimming technique of all swimming strokes and begin to swim continuous laps. Students learn proper swimming etiquette and emergency procedures for the water.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1353</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1353x and y</course_identifier_cooked>
+
+<course_name>Badminton</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the basic strokes, rules, etiquette, and strategies of singles and doubles play. Advanced skills and strategies introduced as appropriate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Padilla</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Padilla</course_instructors_full>
+
+<classes><class><call_number>07073</call_number>
+
+<class_name>BADMINTON</class_name>
+
+<course_identifier>PHEDX1353</course_identifier>
+
+<course_number>1353</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:00a - 10:50a&#60;br /&#62;GYM BARNARD HALL</days_times>
+
+<instructors>BADMINTON</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1353-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1362</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1362x and y</course_identifier_cooked>
+
+<course_name>Golf</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the game of golf through a variety of indoor drills to develop all facets of the game. Includes building an effective swing, the long and short game, and rules of play. Field trip included.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1363</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1363x or y</course_identifier_cooked>
+
+<course_name>Soccer</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction and development of the fundamental skills used in soccer, including ball control, passing and shooting. Introduction to the rules, terminology and etiquette of the game of soccer. Instruction on strategies to be applied within the game of soccer. Sport-specific training for increased muscular strength and endurance, flexibility and cardiovascular conditioning.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Cheatham</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Cheatham</course_instructors_full>
+
+<classes><class><call_number>07414</call_number>
+
+<class_name>INDOOR SOCCER</class_name>
+
+<course_identifier>PHEDX1363</course_identifier>
+
+<course_number>1363</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:10p - 3:00p&#60;br /&#62;GYM BARNARD HALL</days_times>
+
+<instructors>INDOOR SOCCER</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1363-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1364</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1364x and y</course_identifier_cooked>
+
+<course_name>Tennis</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the basic groundstrokes, serve, rules, scoring, strategy, and etiquette of singles and doubles play.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Cheatham</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Cheatham</course_instructors_full>
+
+<classes><class><call_number>03299</call_number>
+
+<class_name>BEGINNING TENNIS</class_name>
+
+<course_identifier>PHEDX1364</course_identifier>
+
+<course_number>1364</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:00a - 11:50a&#60;br /&#62;GYM BARNARD HALL</days_times>
+
+<instructors>BEGINNING TENNIS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1364-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1455</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1455x and y</course_identifier_cooked>
+
+<course_name>Basketball</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Emphasis on the development of fundamental skills and sport-specific conditioning; rules, team play, and strategies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Cheatham</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Cheatham</course_instructors_full>
+
+<classes><class><call_number>09911</call_number>
+
+<class_name>BASKETBALL</class_name>
+
+<course_identifier>PHEDX1455</course_identifier>
+
+<course_number>1455</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:00p&#60;br /&#62;GYM BARNARD HALL</days_times>
+
+<instructors>BASKETBALL</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1455-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1465</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1465x and y</course_identifier_cooked>
+
+<course_name>Lacrosse</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Development of the fundamental skills and strategies used in lacrosse; rules, team play, and sport specific conditioning.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1470</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1470x and y</course_identifier_cooked>
+
+<course_name>Volleyball</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Development of the fundamental skills and strategies of volleyball. Serving, passing, attacking, blocking, team offense, and defense.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1532</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1532x and y</course_identifier_cooked>
+
+<course_name>Core Strength</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A combination of Pilates-based mat exercises class to strengthen &#38;quot;core&#38;quot; (abs, back and hips) and sculpting techniques for entire body using various equipment.&#38;nbsp; Emphasis on proper breathing and alignment.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Northrop</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Northrop</course_instructors_full>
+
+<classes><class><call_number>04589</call_number>
+
+<class_name>CORE STRENGTH</class_name>
+
+<course_identifier>PHEDX1532</course_identifier>
+
+<course_number>1532</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:00a - 11:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>CORE STRENGTH</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1532-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09785</call_number>
+
+<class_name>CORE STRENGTH</class_name>
+
+<course_identifier>PHEDX1532</course_identifier>
+
+<course_number>1532</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:00a - 11:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>CORE STRENGTH</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1532-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1581</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1581x and y</course_identifier_cooked>
+
+<course_name>Body Sculpting</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Muscle definition exercises using weights, bands and bars for the whole body, set to music.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Masone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Masone</course_instructors_full>
+
+<classes><class><call_number>03608</call_number>
+
+<class_name>BODY SCULPTING</class_name>
+
+<course_identifier>PHEDX1581</course_identifier>
+
+<course_number>1581</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 3:10p - 4:00p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BODY SCULPTING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1581-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07876</call_number>
+
+<class_name>BODY SCULPTING</class_name>
+
+<course_identifier>PHEDX1581</course_identifier>
+
+<course_number>1581</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:00a - 10:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BODY SCULPTING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1581-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04252</call_number>
+
+<class_name>BODY SCULPTING</class_name>
+
+<course_identifier>PHEDX1581</course_identifier>
+
+<course_number>1581</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 3:10p - 4:00p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BODY SCULPTING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1581-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07659</call_number>
+
+<class_name>BODY SCULPTING</class_name>
+
+<course_identifier>PHEDX1581</course_identifier>
+
+<course_number>1581</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:00a - 10:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BODY SCULPTING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1581-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1582</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1582x and y</course_identifier_cooked>
+
+<course_name>Cardio Mix</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Choreographed cardiovascular exercises performed to a variety of music. Examples include high, low, step, hip hop, kickbox. Abdominal exercises and stretching included. All levels.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1585</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1585x and y</course_identifier_cooked>
+
+<course_name>Weight Training</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to principles of weight training; use of the Cybex resistance machines and free weights. Programs tailored to individual needs.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Padilla, T. Cheatham</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Padilla, T. Cheatham</course_instructors_full>
+
+<classes><class><call_number>04772</call_number>
+
+<class_name>BEGINNING WEIGHT TRAINING</class_name>
+
+<course_identifier>PHEDX1585</course_identifier>
+
+<course_number>1585</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:00a - 10:50a&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>BEGINNING WEIGHT TRAINING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1585-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00881</call_number>
+
+<class_name>BEGINNING WEIGHT TRAINING</class_name>
+
+<course_identifier>PHEDX1585</course_identifier>
+
+<course_number>1585</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 3:10p - 4:00p&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>BEGINNING WEIGHT TRAINING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1585-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09259</call_number>
+
+<class_name>BEGINNING WEIGHT TRAINING</class_name>
+
+<course_identifier>PHEDX1585</course_identifier>
+
+<course_number>1585</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:00a - 9:50a&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>BEGINNING WEIGHT TRAINING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1585-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07847</call_number>
+
+<class_name>BEGINNING WEIGHT TRAINING</class_name>
+
+<course_identifier>PHEDX1585</course_identifier>
+
+<course_number>1585</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 3:10p - 4:00p&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>BEGINNING WEIGHT TRAINING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1585-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03036</call_number>
+
+<class_name>BEGINNING WEIGHT TRAINING</class_name>
+
+<course_identifier>PHEDX1585</course_identifier>
+
+<course_number>1585</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 4:10p - 5:00p&#60;br /&#62;WTRM BARNARD HALL</days_times>
+
+<instructors>BEGINNING WEIGHT TRAINING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1585-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1586</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1586x or y</course_identifier_cooked>
+
+<course_name>Intermediate Weight Training</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In depth examination into the principles of strength training.&#38;nbsp; Advanced instruction on the use of free weights, resistance machines and other strength training equipment for the development of muscular strength and endurance.&#38;nbsp; Students will development and implement individualized training program based on personal strength training goals.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1590</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>1591</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1590x and y-BC1591</course_identifier_cooked>
+
+<course_name>Step Sculpt, Cardio Sculpt</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Combination class combining cardiovascular workouts with muscle-toning workouts performed to a variety of music. Step Sculpt requires some fitness experience.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Masone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Masone</course_instructors_full>
+
+<classes><class><call_number>04949</call_number>
+
+<class_name>CARDIO/BODY SCULPT</class_name>
+
+<course_identifier>PHEDX1591</course_identifier>
+
+<course_number>1591</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:00p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>CARDIO/BODY SCULPT</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1591-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06531</call_number>
+
+<class_name>CARDIO/BODY SCULPT</class_name>
+
+<course_identifier>PHEDX1591</course_identifier>
+
+<course_number>1591</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 9:00a - 9:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>CARDIO/BODY SCULPT</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1591-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07079</call_number>
+
+<class_name>CARDIO/BODY SCULPT</class_name>
+
+<course_identifier>PHEDX1591</course_identifier>
+
+<course_number>1591</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:00p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>CARDIO/BODY SCULPT</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1591-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01867</call_number>
+
+<class_name>CARDIO/BODY SCULPT</class_name>
+
+<course_identifier>PHEDX1591</course_identifier>
+
+<course_number>1591</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 9:00a - 9:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>CARDIO/BODY SCULPT</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1591-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1690</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1690x and y</course_identifier_cooked>
+
+<course_name>Self-Defense</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the essentials of street self-defense; physical activities and mental preparation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Padilla</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Padilla</course_instructors_full>
+
+<classes><class><call_number>04587</call_number>
+
+<class_name>BEGINNING SELF DEFENSE</class_name>
+
+<course_identifier>PHEDX1690</course_identifier>
+
+<course_number>1690</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:00p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING SELF DEFENSE</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1690-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09543</call_number>
+
+<class_name>BEGINNING SELF DEFENSE</class_name>
+
+<course_identifier>PHEDX1690</course_identifier>
+
+<course_number>1690</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:00a - 11:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING SELF DEFENSE</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1690-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1692</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1692x and y</course_identifier_cooked>
+
+<course_name>Qigong/Chinese Yoga</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to Chinese Yoga which emphasizes the harmony of breathing and movement; typically used for health promotion, martial arts and in combination with meditative techniques.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Padilla</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Padilla</course_instructors_full>
+
+<classes><class><call_number>09810</call_number>
+
+<class_name>QIGONG</class_name>
+
+<course_identifier>PHEDX1692</course_identifier>
+
+<course_number>1692</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:00p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>QIGONG</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1692-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09389</call_number>
+
+<class_name>QIGONG</class_name>
+
+<course_identifier>PHEDX1692</course_identifier>
+
+<course_number>1692</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:00p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>QIGONG</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1692-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1693</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1693x and y</course_identifier_cooked>
+
+<course_name>Yoga</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to Hatha Yoga focusing on the development of the physical body to increase flexibility and strength. Breathing practices and meditation techniques that relax and revitalize the mind and body are included.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Northrop</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Northrop</course_instructors_full>
+
+<classes><class><call_number>03036</call_number>
+
+<class_name>BEGINNING YOGA</class_name>
+
+<course_identifier>PHEDX1693</course_identifier>
+
+<course_number>1693</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:00a - 9:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING YOGA</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1693-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07764</call_number>
+
+<class_name>BEGINNING YOGA</class_name>
+
+<course_identifier>PHEDX1693</course_identifier>
+
+<course_number>1693</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 10:00a - 10:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING YOGA</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1693-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>05174</call_number>
+
+<class_name>BEGINNING YOGA</class_name>
+
+<course_identifier>PHEDX1693</course_identifier>
+
+<course_number>1693</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 12:00p - 12:50p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING YOGA</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1693-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>07764</call_number>
+
+<class_name>BEGINNING YOGA</class_name>
+
+<course_identifier>PHEDX1693</course_identifier>
+
+<course_number>1693</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:00a - 9:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING YOGA</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1693-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07762</call_number>
+
+<class_name>BEGINNING YOGA</class_name>
+
+<course_identifier>PHEDX1693</course_identifier>
+
+<course_number>1693</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 10:00a - 10:50a&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING YOGA</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1693-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>08333</call_number>
+
+<class_name>BEGINNING YOGA</class_name>
+
+<course_identifier>PHEDX1693</course_identifier>
+
+<course_number>1693</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 12:00p - 12:50p&#60;br /&#62;STU2 BARNARD HALL</days_times>
+
+<instructors>BEGINNING YOGA</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC1693-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1694</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1694x and y</course_identifier_cooked>
+
+<course_name>Yoga Sculpt</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A combination of muscle toning and yoga for greater strength and flexibility.&#38;nbsp; Basic yoga postures and relaxation are taught in addition to Body Sculpting with weights, bands and bars.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1696</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC1696x and y</course_identifier_cooked>
+
+<course_name>Yoga-Meditation</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Instruction in beginning levels of Hatha Yoga postures, with greater attention on breath work and concentration, to prepare for sitting meditation.&#38;nbsp; Every class will eventually include 5-10 minutes of silent contemplation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2122</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2122x and y</course_identifier_cooked>
+
+<course_name>Intermediate Swimming</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Refinement of all major swimming strokes and turns.&#38;nbsp; Students increase endurance and develop skills to swim laps continuously.&#38;nbsp; Prior swimming experience required.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2510</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2510y</course_identifier_cooked>
+
+<course_name>Self-Paced Weight Training</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Individualized weight room program. Pretest: 1 RM Bench Press and Leg Press.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>PHED BC 1585x,y Weight Training, PHED BC 1102x,y Personal Fitness or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2512</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2512y</course_identifier_cooked>
+
+<course_name>Self-Paced Running</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Indoor/outdoor running. No treadmill. Group runs throughout the semester. Pretest: 1.5 mile run in 15 minutes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Cheatham</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Cheatham</course_instructors_full>
+
+<classes><class><call_number>02725</call_number>
+
+<class_name>SELF-PACED RUNNING</class_name>
+
+<course_identifier>PHEDX2512</course_identifier>
+
+<course_number>2512</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>SELF-PACED RUNNING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC2512-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2514</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2514x and y</course_identifier_cooked>
+
+<course_name>Self-Paced Cardio</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Cardiovascular workouts on Stairmaster, stationary bike, elliptical, arc trainer or treadmill. Pretest: 4.0 miles on a stationary bike in 16 minutes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2516</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2516x and y</course_identifier_cooked>
+
+<course_name>Self-Paced Cycling</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Aerobic workouts on stationary bike. Pretest: 2.5 miles on a stationary bike in 12 minutes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2518</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2518x and y</course_identifier_cooked>
+
+<course_name>Self-Paced Fitness</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Participation in fitness activities addressing cardio-respiratory endurance, muscular strength, flexibility, and muscular endurance. Pre-tests: 1RM Chest Press, 1 RM Leg Press, Crunches/minute</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Requires interview and audition</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Padilla, L. Masone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Padilla, L. Masone</course_instructors_full>
+
+<classes><class><call_number>09259</call_number>
+
+<class_name>SELF PACED FITNESS</class_name>
+
+<course_identifier>PHEDX2518</course_identifier>
+
+<course_number>2518</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>SELF PACED FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC2518-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05877</call_number>
+
+<class_name>SELF PACED FITNESS</class_name>
+
+<course_identifier>PHEDX2518</course_identifier>
+
+<course_number>2518</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>SELF PACED FITNESS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC2518-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2694</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2694x and y</course_identifier_cooked>
+
+<course_name>Intermediate Yoga</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intermediate and advanced Hatha Yoga, with emphasis on increasing muscular endurance and flexibility required to maintain the poses. Breathing practices and meditation techniques are included.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2799</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC2799x and y</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Enrollment in a course of instruction not offered by the Barnard or Columbia Physical Education Departments. No first-year students are permitted. Department approval required prior to the first day of the Physical Education registration period.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Masone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Masone</course_instructors_full>
+
+<classes><class><call_number>03038</call_number>
+
+<class_name>INDEPENDENT STUDY</class_name>
+
+<course_identifier>PHEDX2799</course_identifier>
+
+<course_number>2799</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>INDEPENDENT STUDY</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC2799-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3125</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC3125x and y</course_identifier_cooked>
+
+<course_name>Self-Paced Lap Swim</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students develop an individualized swimming program with an instructor. Stroke and turn clinics will be offered throughout the course. Pretest: 500 yards (25 pool lengths) in 12 minutes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Rosalia</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Rosalia</course_instructors_full>
+
+<classes><class><call_number>03559</call_number>
+
+<class_name>SELF-PACED LAP SWIMMING</class_name>
+
+<course_identifier>PHEDX3125</course_identifier>
+
+<course_number>3125</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>SELF-PACED LAP SWIMMING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC3125-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3129</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC3129y</course_identifier_cooked>
+
+<course_name>Water Safety Instructor</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>American Red Cross course prepares instructors to teach swimming lessons to individuals of all ages. Students receive ARC certification in WSI at completion of the course. Swimming test given during the first class meeting; at the pre-test, student must demonstrate front crawl, backstroke, breaststroke, sidestroke, butterfly and basic rescue skills.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Rosalia</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Rosalia</course_instructors_full>
+
+<classes><class><call_number>00644</call_number>
+
+<class_name>WATER SAFETY INSTRUCTORS</class_name>
+
+<course_identifier>PHEDX3129</course_identifier>
+
+<course_number>3129</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:00p&#60;br /&#62;409 BARNARD HALL</days_times>
+
+<instructors>WATER SAFETY INSTRUCTORS</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC3129-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PEDB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHED</subject_area_code>
+
+<subject_area_name>Physical Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3131</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHED BC3131x</course_identifier_cooked>
+
+<course_name>Lifeguard Training</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Preventive lifeguarding and swimming rescues taught. Leads to American Red Cross certification in Lifeguard Training, First Aid, and CPR for the Professional Rescuer. Swimming test for class admission given during first class meeting.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Rosalia</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Rosalia</course_instructors_full>
+
+<classes><class><call_number>00796</call_number>
+
+<class_name>LIFEGUARD TRAINING</class_name>
+
+<course_identifier>PHEDX3131</course_identifier>
+
+<course_number>3131</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 9:00p&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>LIFEGUARD TRAINING</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>PHED</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHED/BC3131-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

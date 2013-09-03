@@ -1,0 +1,2328 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1101</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM V1101x and y</course_identifier_cooked>
+
+<course_name>Elementary Full-Year Course I</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>No credit is given for V1101 unless V1102 has been satisfactorily completed.</course_points_notes>
+
+<course_points_cooked>4 pts.  No credit is given for V1101 unless V1102 has been satisfactorily completed.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamentals of German grammar, comprehension of the spoken language, reading, writing, and speaking. Intensive aural-oral practice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Dorvel, M. Swellander, R. Korb, R. Shields, S. Alexander</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Dorvel, M. Swellander, R. Korb, R. Shields, S. Alexander</course_instructors_full>
+
+<classes><class><call_number>29084</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 10:10a - 11:25a&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>M. Swellander</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>19487</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>R. Shields</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>66949</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MWF 2:40p - 3:55p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>S. Alexander</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>13050</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuThF 6:10p - 7:25p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>B. Dorvel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>66408</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 10:10a - 11:25a&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>M. Swellander</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>15845</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;318 HAMILTON HALL</days_times>
+
+<instructors>R. Korb</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>26335</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuThF 2:40p - 3:55p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>R. Korb</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>66874</call_number>
+
+<class_name>ELEMENTARY GERMAN I</class_name>
+
+<course_identifier>GERMV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>R. Shields</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1101-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1102</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM V1102x and y</course_identifier_cooked>
+
+<course_name>Elementary Course II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>No credit is given for V1101 unless V1102 has been satisfactorily completed.</course_points_notes>
+
+<course_points_cooked>4 pts.  No credit is given for V1101 unless V1102 has been satisfactorily completed.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Similar to Elementary Course I, but different course material.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Dorvel, H. Bajohr, J. Schmiers-Heller, M. Lipkin, P. Walsh, S. Alexander, V.
+Hessling</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Dorvel, H. Bajohr, J. Schmiers-Heller, M. Lipkin, P. Walsh, S. Alexander, V.
+Hessling</course_instructors_full>
+
+<classes><class><call_number>14537</call_number>
+
+<class_name>ELEMENTARY GERMAN II</class_name>
+
+<course_identifier>GERMV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 10:10a - 11:25a&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>V. Hessling</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1102-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>13619</call_number>
+
+<class_name>ELEMENTARY GERMAN II</class_name>
+
+<course_identifier>GERMV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;318 HAMILTON HALL</days_times>
+
+<instructors>M. Lipkin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1102-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>60089</call_number>
+
+<class_name>ELEMENTARY GERMAN II</class_name>
+
+<course_identifier>GERMV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MWF 2:40p - 3:55p&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>H. Bajohr</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1102-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>60990</call_number>
+
+<class_name>ELEMENTARY GERMAN II</class_name>
+
+<course_identifier>GERMV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuThF 6:10p - 7:25p&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>P. Walsh</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1102-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>21578</call_number>
+
+<class_name>ELEMENTARY GERMAN II</class_name>
+
+<course_identifier>GERMV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 10:10a - 11:25a&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>S. Alexander</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1102-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>16070</call_number>
+
+<class_name>ELEMENTARY GERMAN II</class_name>
+
+<course_identifier>GERMV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>J. Schmiers-Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1102-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>73766</call_number>
+
+<class_name>ELEMENTARY GERMAN II</class_name>
+
+<course_identifier>GERMV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;318 HAMILTON HALL</days_times>
+
+<instructors>B. Dorvel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1102-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1201</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM V1201x and y</course_identifier_cooked>
+
+<course_name>Intermediate Course I</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Complete grammar review through regular exercises. Wide range of texts are used for close and rapid reading and writing exercises. Practice in conversation aims at enlarging the vocabulary necessary for daily communication.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GERM V1102 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Motyl, J. Schmiers-Heller, J. Urzedowski, R. Korb, T. Weitz, V. Hessling, Y.
+Zivkovic</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>I. Motyl, J. Schmiers-Heller, J. Urzedowski, R. Korb, T. Weitz, V. Hessling, Y.
+Zivkovic</course_instructors_full>
+
+<classes><class><call_number>76689</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 8:40a - 9:55a&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>R. Korb</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>67596</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 11:40a - 12:55p&#60;br /&#62;316 HAMILTON HALL</days_times>
+
+<instructors>J. Schmiers-Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>08323</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>I. Motyl</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>60635</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuThF 6:10p - 7:25p&#60;br /&#62;316 HAMILTON HALL</days_times>
+
+<instructors>T. Weitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>13147</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 10:10a - 11:25a&#60;br /&#62;316 HAMILTON HALL</days_times>
+
+<instructors>J. Urzedowski</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>29291</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 11:40a - 12:55p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>V. Hessling</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>13295</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuThF 2:40p - 3:55p&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>J. Schmiers-Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>77745</call_number>
+
+<class_name>INTERMEDIATE GERMAN I</class_name>
+
+<course_identifier>GERMV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>Y. Zivkovic</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1201-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1202</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM V1202x and y</course_identifier_cooked>
+
+<course_name>Intermediate Course II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Language study based on texts concerning culture and literature. Assignments include compositions in German and exercises of grammatical forms, both related to the texts. Class discussions in German provide oral and aural practice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GERM V1201 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Smith, J. Schmiers-Heller, J. Urzedowski, M. Emre, S. Vaidean, T. Weitz</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Smith, J. Schmiers-Heller, J. Urzedowski, M. Emre, S. Vaidean, T. Weitz</course_instructors_full>
+
+<classes><class><call_number>65812</call_number>
+
+<class_name>INTERMEDIATE GERMAN II</class_name>
+
+<course_identifier>GERMV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 8:40a - 9:55a&#60;br /&#62;315 HAMILTON HALL</days_times>
+
+<instructors>J. Urzedowski</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1202-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>81029</call_number>
+
+<class_name>INTERMEDIATE GERMAN II</class_name>
+
+<course_identifier>GERMV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;316 HAMILTON HALL</days_times>
+
+<instructors>J. Schmiers-Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1202-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04610</call_number>
+
+<class_name>INTERMEDIATE GERMAN II</class_name>
+
+<course_identifier>GERMV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MWF 10:10a - 11:25a&#60;br /&#62;602 LEWISOHN HALL</days_times>
+
+<instructors>M. Emre</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1202-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>00407</call_number>
+
+<class_name>INTERMEDIATE GERMAN II</class_name>
+
+<course_identifier>GERMV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;903 ALTSCHUL HALL&#60;br /&#62;F 10:10a - 11:25a&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>C. Smith</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1202-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>64819</call_number>
+
+<class_name>INTERMEDIATE GERMAN II</class_name>
+
+<course_identifier>GERMV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>S. Vaidean</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1202-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>10945</call_number>
+
+<class_name>INTERMEDIATE GERMAN II</class_name>
+
+<course_identifier>GERMV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;316 HAMILTON HALL</days_times>
+
+<instructors>T. Weitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1202-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1210</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC1210x</course_identifier_cooked>
+
+<course_name>German Grammar Review</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An intensive study of key features of German grammar, with an emphasis on skill-building exercises and practical solutions to common problems of writing and speaking on the intermediate level; aims at building confidence in using simple and more complex sentence structures.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Motyl</course_instructors_actual>
+
+<course_instructors_expected>I. Motyl</course_instructors_expected>
+
+<course_instructors_full>I. Motyl</course_instructors_full>
+
+<classes><class><call_number>07495</call_number>
+
+<class_name>INTERM GRAMMAR REV &#38; PRON</class_name>
+
+<course_identifier>GERMX1210</course_identifier>
+
+<course_number>1210</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 12:00p - 1:50p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>I. Motyl</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/BC1210-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1225</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM V1225y</course_identifier_cooked>
+
+<course_name>Accelerated Intermediate German I, II</course_name>
+
+<course_points_min>8</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>8 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Accelerated language study as preparation for Study Abroad in Berlin.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>German V1102 Elementary  II</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Motyl</course_instructors_actual>
+
+<course_instructors_expected>I. Motyl</course_instructors_expected>
+
+<course_instructors_full>I. Motyl</course_instructors_full>
+
+<classes><class><call_number>09862</call_number>
+
+<class_name>ACCELERATED INTER GERMAN</class_name>
+
+<course_identifier>GERMV1225</course_identifier>
+
+<course_number>1225</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MTuWTh 12:10p - 2:00p&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>I. Motyl</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V1225-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM V3001x</course_identifier_cooked>
+
+<course_name>Advanced German: Berlin</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive practice in oral and written German. Discussions, oral reports, and weekly written assignments, based on material of topical and stylistic variety taken from the German press and from literary sources.</course_description>
+
+<corequisites>Course either taken before or after GERM V3002.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Korb</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Korb</course_instructors_full>
+
+<classes><class><call_number>66316</call_number>
+
+<class_name>ADVANCED GERMAN I</class_name>
+
+<course_identifier>GERMV3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>R. Korb</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V3001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM V3002y</course_identifier_cooked>
+
+<course_name>Advanced German II: Vienna</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive practice in oral and written German. Discussions, oral reports, and weekly written assignments, based on material of topical and stylistic variety taken from German press and from literary sourses.</course_description>
+
+<corequisites>Course either taken before or after GERM V3001.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Motyl</course_instructors_actual>
+
+<course_instructors_expected>I. Motyl</course_instructors_expected>
+
+<course_instructors_full>I. Motyl</course_instructors_full>
+
+<classes><class><call_number>07100</call_number>
+
+<class_name>ADVANCED GERMAN II</class_name>
+
+<course_identifier>GERMV3002</course_identifier>
+
+<course_number>3002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>I. Motyl</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/V3002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3009</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3009x</course_identifier_cooked>
+
+<course_name>News and Views: Reception, Reporting, and Video Production</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced students practice and perfect their speaking, writing, and comprehension skills by viewing and analyzing Germanlanguage TV broadcastsnews and documentariesand by researching, writing, producing, and filming their own video programs.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3010</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3010x</course_identifier_cooked>
+
+<course_name>Current Issues: Media and Politics in Germany and Austria</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced students improve language skills through exploration of political, cultural and intellectual debates and self perceptions in Germany and Austria. Discussion and analysis of print media, Internet, film and T.V.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GERM V1202 or equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Motyl</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>I. Motyl</course_instructors_full>
+
+<classes><class><call_number>07147</call_number>
+
+<class_name>CURRENT ISSUES: GER &#38; AUS</class_name>
+
+<course_identifier>GERMX3010</course_identifier>
+
+<course_number>3010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>I. Motyl</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/BC3010-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3012</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3012x</course_identifier_cooked>
+
+<course_name>In Love with Telenovelas</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines popular culture and language through a German TV series. Advanced students practice and perfect their language skills by examining typical features and intercultural aspects of a German telenovela. Focus on main elements of genre, language, cultural context by comparing different versions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Intermediate German II (V1202 or V1225) or equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Motyl</course_instructors_expected>
+
+<course_instructors_full>I. Motyl</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3028</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3028y</course_identifier_cooked>
+
+<course_name>Contemporary German Prose Fiction (English)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>In ENGLISH</course_preface>
+
+<course_description>Study of short prose texts and recent literary developments. Discussions of aspects such as: memory and Germany identity; fantasy and storytelling; borderlands and Berlin in contemporary literature. Readings include works by major writers and younger generations, from Grass and Christa Wolf to Biller, Honigmann, Johnson, Schneider, and Sebald.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3031</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3031y</course_identifier_cooked>
+
+<course_name>Major German Poets</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of major poets in the German language from classicism to modernism and postmodernism, paying attention to the transition from traditional verse to avant garde forms. Readings from Goethe, Heine, Rilke, Celan, Bachmann. Relevant areas of literary theory will be included.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GERM V1202, the equivalent, or sophomore standing.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3050</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3050y</course_identifier_cooked>
+
+<course_name>German Migrant Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of migration and the nomadic experience in the 19th and 20th centuries. Emphasis on the comprehension and construction of the&#34;other&#34; culture by travelers and migrants in fictional texts; and on questions of orientalism, colonialism, and multiculturalism. Texts by Chamisso, Heine, Seghers, Th. Mann, &#38;Ouml;ren, Atabay, Deleuze, Said, and Sassen.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GERM V1202, Sophomore standing or the equivalent or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Grimm</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+<classes><class><call_number>07080</call_number>
+
+<class_name>GERMAN MIGRANT LITERATURE</class_name>
+
+<course_identifier>GERMX3050</course_identifier>
+
+<course_number>3050</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>E. Grimm</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/BC3050-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3057</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3057y</course_identifier_cooked>
+
+<course_name>Close-ups: German Literature and Photography</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discusses the profound influence of photography on modern literature and intellectual debates in the 20th century. Emphasis on creative and critical responses to documentary and aesthetic traditions of this visual medium. Foci are photographic evidence, montage, memory, sensationalism. Authors/Photographers: Benjamin, Rilke, Th. Mann, Tucholsky, Chr. Wolf, Sebald, Sander, Blossfeldt.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3062</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3062y</course_identifier_cooked>
+
+<course_name>Senior Essay: Literature or German Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Supervised research into German literatures and cultures culminating in a critical paper. Regular consultations with the instructor at hours to be arranged.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to senior majors. Permission of instructor required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Grimm</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+<classes><class><call_number>05158</call_number>
+
+<class_name>SENIOR ESSAY</class_name>
+
+<course_identifier>GERMX3062</course_identifier>
+
+<course_number>3062</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Grimm</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GERM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GERM/BC3062-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3215</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3215x</course_identifier_cooked>
+
+<course_name>From Text to Screen: German Literature and Film</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of screen adaptations of literary texts beginning with Weimar cinema and proceeding through to the present with a particular focus on cinematic modes of narration, spectatorship, and visual pleasure, as well as on the role of institutional frameworks. Readings in neo-Marxist, psychoanalytic and semiotic film theory. Texts by Wedekind, Fontane, H. Mann, and Musil and films by Pabst, Fassbinder, Wenders, and Trotta. [In English, extra sessions for German majors.]</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Sophomore standing or the equivalent or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3224</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3224x</course_identifier_cooked>
+
+<course_name>Germany&#39;s Traveling Cultures</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines accounts of traveling or living in South America, Africa, and Germany from a postcolonial and transnational perspective. Discussion of German explorers, colonialism, global tourism, multiculturalism, focusing on the relationship between mobility and the formation of African, Jewish, Turkish bicultural identities in different historical contexts and geographical settings. Close attention to the role of language, ideology, and itinerary in visual, aural, and written records by A.v.Humboldt, Merian, J. Baker, Massaquoi, Wackwitz, Oezdamar, Akin. [In English]</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3225</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3225x</course_identifier_cooked>
+
+<course_name>Germany&#39;s Traveling Cultures</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines accounts of traveling or living in South America, Africa, and Germany from a postcolonial and transnational perspective. Discussion of German explorers, colonialism, global tourism, multiculturalism, focusing on the relationship between mobility and the formation of African, Jewish, Turkish bicultural identities in different historical contexts and geographical settings. Close attention to the role of language, ideology, and itinerary in visual, aural, and written records by A.v.Humboldt, Merian, J. Baker, Massaquoi, Wackwitz, Oezdamar, Akin.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3232</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3232x or y</course_identifier_cooked>
+
+<course_name>From Decadence to Dada</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the transition from Viennese Modernism to Expressionism and Dada. Topics include: the emergence of the modern psyche, the play of word and image, and the relationship between ecstatic experience and social unrest. Texts by Schnitzler, Hofmannsthal, D&#38;ouml;blin, Kafka, Freud, and Salom&#38;eacute;. Film and montage by Hannah H&#38;ouml;ch, and others. (In English.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>GRMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GERM</subject_area_code>
+
+<subject_area_name>German</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3233</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GERM BC3233x or y</course_identifier_cooked>
+
+<course_name>From Decadence to Dada</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the transition from Viennese Modernism to Expressionism and Dada. Topics include the emergence of the modern psyche, the play of word and image, and the relationship between ecstatic experience and social unrest. Texts by Schnitzler, Hofmannsthal, D&#38;ouml;blin, Kafka, Freud, and Salome. Film and montage by Richter, H&#38;ouml;ch, and Hausmann. The same course as BC3232 (in English), with weekly discussion sections for majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course></courses>

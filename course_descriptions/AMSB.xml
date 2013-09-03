@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>AMSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3300</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST BC3300x</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Pedagogy of the Dispossessed</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AMSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3401</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>AMST BC3401x (Section 001)</course_identifier_cooked>
+
+<course_name>Colloquium in American Studies: Cultural Approaches to the American Past</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the theoretical approaches of American Studies, as well as the methods and materials used in the interdisciplinary study of American society. Through close reading of a variety of texts (e.g., novels, films, essays), we will analyze the creation, maintenance, and transmission of cultural meaning within American society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Esch</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Esch</course_instructors_full>
+
+<classes><class><call_number>01003</call_number>
+
+<class_name>CULTURAL APPRCHES-AMERCN</class_name>
+
+<course_identifier>AMSTX3401</course_identifier>
+
+<course_number>3401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>E. Esch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/BC3401-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3703</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3704</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST BC3703x-BC3704y</course_identifier_cooked>
+
+<course_name>Senior Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Individual research on topic related to major thematic concentration and preparation of senior thesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to senior majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Esch, J. Kassanoff</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Esch, J. Kassanoff</course_instructors_full>
+
+<classes><class><call_number>02181</call_number>
+
+<class_name>SENIOR SEMINAR I</class_name>
+
+<course_identifier>AMSTX3703</course_identifier>
+
+<course_number>3703</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;413 BARNARD HALL</days_times>
+
+<instructors>J. Kassanoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/BC3703-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00373</call_number>
+
+<class_name>SENIOR SEMINAR I</class_name>
+
+<course_identifier>AMSTX3703</course_identifier>
+
+<course_number>3703</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>E. Esch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/BC3703-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>01096</call_number>
+
+<class_name>SENIOR SEMINAR II</class_name>
+
+<course_identifier>AMSTX3704</course_identifier>
+
+<course_number>3704</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;413 BARNARD HALL</days_times>
+
+<instructors>J. Kassanoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/BC3704-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00373</call_number>
+
+<class_name>SENIOR SEMINAR II</class_name>
+
+<course_identifier>AMSTX3704</course_identifier>
+
+<course_number>3704</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;202 MILBANK HALL</days_times>
+
+<instructors>E. Esch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/BC3704-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3999</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST BC3999x and y</course_identifier_cooked>
+
+<course_name>Independent Research</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

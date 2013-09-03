@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4021</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BCHM G4021x</course_identifier_cooked>
+
+<course_name>General Biochemistry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Primarily for students in departments other than biochemistry. Prerequisite: general and organic chemistry. An integration, from a dynamic point of view, of cellular constituents with the chemical processes of living systems: chemistry and function, mode of synthesis and degradation by the cell, the characterization and role of particular enzymes and coenzymes in these reactions, and the mechanisms of oxidation and energy production. Nucleic acids, replication, and the genetic code are also discussed. (Given at the Morningside campus.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Krasna</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Krasna</course_instructors_full>
+
+<classes><class><call_number>67948</call_number>
+
+<class_name>GENERAL BIOCHEMISTRY</class_name>
+
+<course_identifier>BCHMG4021</course_identifier>
+
+<course_number>4021</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 7:10p - 9:00p&#60;br /&#62;214 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Krasna</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G4021-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4024</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BCHM G4024y</course_identifier_cooked>
+
+<course_name>Structure and Function of Nucleic Acids</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: organic chemistry.&#38;nbsp; The structure, dynamics, catalytic reactivity and biological function of DNA, RNA, and their derivatives</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CE, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4026</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BCHM G4026y</course_identifier_cooked>
+
+<course_name>Biochemistry of Nucleic Acids and Protein Synthesis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Structure and organization of chromatin, nucleic acid hybridization, and sequence complexity of DNA, DNA and RNA sequencing methods, current views of replication and repair, transcription and translation, regulation of nucleic acid and protein syntheses, recombinant DNA techniques, gene transfer and gene duplication.&#38;nbsp; Discussion of original papers and evaluation of experimental procedures and conclusions.&#38;nbsp; Lectures preceded by an hour-long optional conference. (Given at the Morningside Campus.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>a basic course in biochemistry or biology, or instructors permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, EN, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4250</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BCHM G4250x</course_identifier_cooked>
+
+<course_name>Molecular Biophysics</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Methods and principles involved in studying the structure and function of proteins, nucleic acids, membranes and their macromolecular assemblies. Tertiary and quaternary structure of proteins and nucleic acids; forces that determine biological structure and function; spectroscopy of biological macromolecular; random motions and diffusion; hydrodynamics; forces and fluxes across membrane; diffraction; macromolecules.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>basic physical and organic chemistry.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Honig</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Honig</course_instructors_full>
+
+<classes><class><call_number>83298</call_number>
+
+<class_name>MOLECULAR BIOPHYSICS</class_name>
+
+<course_identifier>BCHMG4250</course_identifier>
+
+<course_number>4250</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 4:00p - 5:30p&#60;br /&#62;817 IRVING CANCER RESEARCH CENTER</days_times>
+
+<instructors>B. Honig</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G4250-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6011</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>6012</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BCHM G6011x-G6012y</course_identifier_cooked>
+
+<course_name>Special Methods of Biochemistry</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>10</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-10 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: department&#38;rsquo;s permission.&#38;nbsp; Practical experience in the use of biochemical methods, with the aim of preparing the student for research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Palmer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Palmer</course_instructors_full>
+
+<classes><class><call_number>82348</call_number>
+
+<class_name>BIOCHEMISTRY SPECIAL METH</class_name>
+
+<course_identifier>BCHMG6011</course_identifier>
+
+<course_number>6011</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G6011-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>16100</call_number>
+
+<class_name>BIOCHEMISTRY SPECIAL METH</class_name>
+
+<course_identifier>BCHMG6012</course_identifier>
+
+<course_number>6012</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Palmer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G6012-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6045</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BCHM G6045y</course_identifier_cooked>
+
+<course_name>Membrane Receptors and Transport Proteins</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites:&#38;nbsp; Biochemistry and Molecular Biology of Eukaryotes I (G6300X); Molecular Biophysics (G4250).&#38;nbsp; Molecular structure and function of membrane proteins; general principles and common threads.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Karlin</course_instructors_actual>
+
+<course_instructors_expected>A. Karlin</course_instructors_expected>
+
+<course_instructors_full>A. Karlin</course_instructors_full>
+
+<classes><class><call_number>12959</call_number>
+
+<class_name>MEMBRANE RECEP/TRANSP PRO</class_name>
+
+<course_identifier>BCHMG6045</course_identifier>
+
+<course_number>6045</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:00p - 6:00p&#60;br /&#62;523 BLACK BUILDING</days_times>
+
+<instructors>A. Karlin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G6045-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6100</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BCHM G6100x</course_identifier_cooked>
+
+<course_name>Stem Cells &#38; Cell Lineage Specification</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The lecture series will comprise general lectures, analyses and discussion of primary literature on stem cell and lineage biology as well as student seminars. The themes to be presented include basic cell and molecular biological charachterization of stem cells, regulation of self-replication versus lineage restriction and differentiation of cells, model systems used in studies of stem cells, and the relevance of tissue formation, regeneration and disease states.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A basic course in molecular biology or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>O. Hobert[,] F. Doetsch[,] H. Wichterle[,] B. Ohlstein</course_instructors_expected>
+
+<course_instructors_full>O. Hobert[, ]. B. Ohlstein, ]. F. Doetsch[, ]. H. Wichterle[</course_instructors_full>
+
+</course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6270</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BCHM G6270y</course_identifier_cooked>
+
+<course_name>Nmr Spectroscopy of Macromolecules</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Theoretical principles and applications of NMR spectroscopy for the study of biological macromolecules, including proteins, nucleic acids and carbohydrates, in solution.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>instructor&#39;s permission or Biophysical Chemistry G4170.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Palmer</course_instructors_expected>
+
+<course_instructors_full>A. Palmer</course_instructors_full>
+
+</course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6275</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BCHM G6275y</course_identifier_cooked>
+
+<course_name>Diffraction Analysis of Macromolecules</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Diffraction theory and applications to protein, nucleic acid, and membrane structures.&#38;nbsp; Topics include electron microscopy, X-ray diffraction, protein crystallography, electron and neutron diffraction and electron microscopy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Biophysical Chemistry G4170 or the instructors&#39; permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Hendrickson</course_instructors_actual>
+
+<course_instructors_expected>W. Hendrickson</course_instructors_expected>
+
+<course_instructors_full>W. Hendrickson</course_instructors_full>
+
+<classes><class><call_number>17156</call_number>
+
+<class_name>DIFFRACTN ANALYS/MACROMOL</class_name>
+
+<course_identifier>BCHMG6275</course_identifier>
+
+<course_number>6275</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 4:00p - 5:30p&#60;br /&#62;523 BLACK BUILDING</days_times>
+
+<instructors>W. Hendrickson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G6275-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BCHM</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<subject_area_name>Biochemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9015</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9016</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BCHM G9015x-G9016y</course_identifier_cooked>
+
+<course_name>Research In Biochemistry</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>10</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-10 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructors permission</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Palmer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Palmer</course_instructors_full>
+
+<classes><class><call_number>87897</call_number>
+
+<class_name>RESEARCH IN BIOCHEMISTRY</class_name>
+
+<course_identifier>BCHMG9015</course_identifier>
+
+<course_number>9015</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G9015-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>20899</call_number>
+
+<class_name>RESEARCH IN BIOCHEMISTRY</class_name>
+
+<course_identifier>BCHMG9016</course_identifier>
+
+<course_number>9016</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Palmer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>BCHM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BCHM/G9016-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

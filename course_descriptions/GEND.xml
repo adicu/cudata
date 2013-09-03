@@ -1,0 +1,710 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>GEND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GEND</subject_area_code>
+
+<subject_area_name>Genetics And Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4027</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GEND G4027x</course_identifier_cooked>
+
+<course_name>Principles of Developmental Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for first-year Genetics and Development students.&#38;nbsp; Open to students from all departments, but students from outside the Genetics Department should consult the instructor before registering.&#38;nbsp; The course emphasizes the molecular control of vertebrate embryogenesis.&#38;nbsp; Divided into three main areas:&#38;nbsp; early embryogenesis, developmental neurobiology, and the development and differentiation of specialized organs or lineages.&#38;nbsp; A combination of faculty lectures and presentations by participating students.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Tomlinson</course_instructors_actual>
+
+<course_instructors_expected>A. Tomlinson HHSC 1609 Mondays 10-11:30  Wednesdays 3-4:30</course_instructors_expected>
+
+<course_instructors_full>A. Tomlinson, A. Tomlinson HHSC 1609 Mondays 10-11:30 Wednesdays 3-4:30</course_instructors_full>
+
+<classes><class><call_number>29599</call_number>
+
+<class_name>PRINCIPLES OF DEVELOPMNTL</class_name>
+
+<course_identifier>GENDG4027</course_identifier>
+
+<course_number>4027</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 10:00a - 11:30a&#60;br /&#62;1609 HAMMER HLTH SCIENCES CENTER&#60;br /&#62;Th 3:00p - 4:30p&#60;br /&#62;1609 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>A. Tomlinson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G4027-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GEND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GEND</subject_area_code>
+
+<subject_area_name>Genetics And Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4050</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GEND G4050y</course_identifier_cooked>
+
+<course_name>Advanced Eukaryotic Molecular Genetics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for second year Genetics and Development&#38;nbsp; students.&#38;nbsp; Open to all students.&#38;nbsp; Prerequisite: at least one graduate-level biochemistry or molecular biology course, and instructors permission.&#38;nbsp; Advanced treatment of the principles and methods of the molecular biology of eukaryotes, emphasizing the organization, expression, and evolution of eukaryotic genes.&#38;nbsp; Topics include reassociation and hybridization kinetics, gene numbers, genomic organization at the DNA level, mechanisms of recombination, transposable elements, DNA rearrangements, gene amplification, oncogenes, recombinant DNA techniques, transcription and RNA splicing.&#38;nbsp; Students participate in discussions of problem sets on the current literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Bestor</course_instructors_actual>
+
+<course_instructors_expected>T. Bestor HHSC 1609 3-6PM Wednesdays</course_instructors_expected>
+
+<course_instructors_full>T. Bestor, T. Bestor HHSC 1609 3-6PM Wednesdays</course_instructors_full>
+
+<classes><class><call_number>68102</call_number>
+
+<class_name>ADV EUKARYOTC MOLECULR GE</class_name>
+
+<course_identifier>GENDG4050</course_identifier>
+
+<course_number>4050</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 3:00p - 6:00p&#60;br /&#62;1609 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>T. Bestor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G4050-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GEND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GEND</subject_area_code>
+
+<subject_area_name>Genetics And Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4501</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>4502</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GEND G4501x-G4502y</course_identifier_cooked>
+
+<course_name>Methods In Genetics and Development</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to students in the department.&#38;nbsp; A survey of&#38;nbsp; laboratory methods used in research. Students rotate through the&#38;nbsp; major laboratories of the department.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>V. Papaioannou</course_instructors_actual>
+
+<course_instructors_expected>V. Papaioannou   Independent Research</course_instructors_expected>
+
+<course_instructors_full>V. Papaioannou, V. Papaioannou Independent Research</course_instructors_full>
+
+<classes><class><call_number>73148</call_number>
+
+<class_name>METHDS IN GENETICS &#38; DEVE</class_name>
+
+<course_identifier>GENDG4501</course_identifier>
+
+<course_number>4501</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>V. Papaioannou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G4501-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>63456</call_number>
+
+<class_name>METHDS IN GENETICS &#38; DEVE</class_name>
+
+<course_identifier>GENDG4502</course_identifier>
+
+<course_number>4502</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>V. Papaioannou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>10</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G4502-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GEND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GEND</subject_area_code>
+
+<subject_area_name>Genetics And Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6210</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GEND G6210x</course_identifier_cooked>
+
+<course_name>Genetic Approaches To Biological Problems</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for first year Genetics and Development students.&#38;nbsp; Open to all students.&#38;nbsp; Designed to illustrate how genetic systems have played a fundamental role in our understanding of basic biological problems: mitosis and meiosis, chromosomal linkage and mapping, consequences of chromosomal rearrangements, mechanisms of recombination and gene conversion, the use of mutants to study gene structure, regulation and the cell cycle, uses of recombinant DNA in genetic analysis, and the genetic analysis of development in Drosophila.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Rothstein</course_instructors_actual>
+
+<course_instructors_expected>R. Rothstein  Tuesdays 1-4 PM HHSC 1609</course_instructors_expected>
+
+<course_instructors_full>R. Rothstein, R. Rothstein Tuesdays 1-4 PM HHSC 1609</course_instructors_full>
+
+<classes><class><call_number>76649</call_number>
+
+<class_name>GENETIC APPRCH TO BIOLGCL</class_name>
+
+<course_identifier>GENDG6210</course_identifier>
+
+<course_number>6210</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 1:00p - 4:00p&#60;br /&#62;1609 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>R. Rothstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G6210-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GEND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GEND</subject_area_code>
+
+<subject_area_name>Genetics And Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6211</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GEND G6211y</course_identifier_cooked>
+
+<course_name>Genetic Approaches To Biological Problems</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for first-year Genetics and Development students.&#38;nbsp; Continuation of Genetics G6210.&#38;nbsp; Basic principles and current areas of interest in mouse and human genetics.&#38;nbsp; An introduction to mouse genetics; X-chromosome inactivation and genomic imprinting; genetic manipulation of the mouse; genetics of mouse coat color; genetics of sex determination; the mouse T-complex; human linkage analysis; somatic cell genetics; physical mapping of the human genome; cytogenetics; Huntingtons disease; muscular dystrophy and Alzheimers disease; and gene therapy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Costantini</course_instructors_actual>
+
+<course_instructors_expected>F. Costantini  HHSC 1609 1-4:00 PM Tuesdays</course_instructors_expected>
+
+<course_instructors_full>F. Costantini, F. Costantini HHSC 1609 1-4:00 PM Tuesdays</course_instructors_full>
+
+<classes><class><call_number>60872</call_number>
+
+<class_name>GENETIC APPROACHES II</class_name>
+
+<course_identifier>GENDG6211</course_identifier>
+
+<course_number>6211</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 1:00p - 4:00p&#60;br /&#62;1609 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>F. Costantini</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G6211-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GEND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GEND</subject_area_code>
+
+<subject_area_name>Genetics And Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9321</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9322</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GEND G9321x-G9322y</course_identifier_cooked>
+
+<course_name>Seminar In Genetics and Development</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>2</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to students in the department.&#38;nbsp; Presentation of selected research topics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>V. Papaioannou</course_instructors_actual>
+
+<course_instructors_expected>V. Papaioannou</course_instructors_expected>
+
+<course_instructors_full>V. Papaioannou</course_instructors_full>
+
+<classes><class><call_number>82203</call_number>
+
+<class_name>SEMINAR-GENETICS &#38; DEVELO</class_name>
+
+<course_identifier>GENDG9321</course_identifier>
+
+<course_number>9321</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 12:00p - 1:00p&#60;br /&#62;312 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>V. Papaioannou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>34</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G9321-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>67260</call_number>
+
+<class_name>SEMINAR-GENETICS &#38; DEVELO</class_name>
+
+<course_identifier>GENDG9322</course_identifier>
+
+<course_number>9322</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 12:00p - 1:00p&#60;br /&#62;312 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>V. Papaioannou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G9322-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>GEND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GEND</subject_area_code>
+
+<subject_area_name>Genetics And Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9355</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>GEND G9355</course_identifier_cooked>
+
+<course_name>Special Research</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Points to be arranged</course_points_notes>
+
+<course_points_cooked>Points to be arranged</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: member of the department&#38;rsquo;s permission</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>V. Papaioannou</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>V. Papaioannou</course_instructors_full>
+
+<classes><class><call_number>87201</call_number>
+
+<class_name>SPECIAL RSRCH/GENETICS/DE</class_name>
+
+<course_identifier>GENDG9355</course_identifier>
+
+<course_number>9355</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>V. Papaioannou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>28</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G9355-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>67951</call_number>
+
+<class_name>SPECIAL RSRCH/GENETICS/DE</class_name>
+
+<course_identifier>GENDG9355</course_identifier>
+
+<course_number>9355</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>V. Papaioannou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>GEND</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GEND/G9355-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

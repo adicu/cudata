@@ -1,0 +1,1634 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>6190</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2>9190</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P6190-9190</course_identifier_cooked>
+
+<course_name>Tutorials In Biostatistics</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>6</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>For appropriately qualified students wishing to enrich their programs by undertaking literature reviews, special studies, or small group instruction in topics not covered in formal courses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8100</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8100</course_identifier_cooked>
+
+<course_name>Applied Regression Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P6103 or P6104. The study of linear statistical models. Regression and correlation with one independent variable. Partial and multiple correlation. Multiple and polynomial regression. Single factor analysis of variance. Simple logistic regression</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8104</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8104</course_identifier_cooked>
+
+<course_name>Probability</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P6104 and working knowledge of calculus.&#38;nbsp; Fundamentals, random variables, and distribution functions in one or more dimensions: moments, conditional probabilities, and densities; Laplace transforms and characteristic functions. Infinite sequences of random variables, weak and strong large numbers: central limit theorem</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8108</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8108</course_identifier_cooked>
+
+<course_name>Survival Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8104 and P8109 or the equivalent. Clinical trials concerning chronic disease, comparison of survivorship functions, parametric models for patterns of mortality and other kinds of failures, and competing risks.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8109</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8109</course_identifier_cooked>
+
+<course_name>Statistical Inference</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8104. Suggested preparation: P6104, P8104 and working knowledge of calculus, population parameters, sufficient statistics. Basic distribution theory. Point and interval estimation. Method of maximum likelihood. Method of least squares regression. Introduction to the theory of hypothesis testing. Likelihood ration tests. Nonparametric procedures. Statistical design theory.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8110</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8110</course_identifier_cooked>
+
+<course_name>Applied Regression Analysis II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P6104, P8100 and a working knowledge of calculus. An introduction to the application of statistical methods in survival analysis, generalized linear models, and design of experiments. Estimation and comparison of survival curves, regression models for survival data, log-linear models, logit models, analysis of repeated measurements, and the analysis of data from blocked and split-plot experiments. Examples drawn from the health sciences.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8111</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8111</course_identifier_cooked>
+
+<course_name>Linear Regression Models</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8104, Corequisite:&#38;nbsp; Public Health 8109 and some computer background. The theoretical background underlying regression techniques. Simple regression. Bivariate normal distribution and correlation. Multiple and polynomial regression.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8113</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8113</course_identifier_cooked>
+
+<course_name>Wavelets: Concepts and Applications In Biostatistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission. This course provides students with both a solid background in the foundations of wavelets and a detailed overview of a variety of statistical applications.&#38;nbsp; Upon completion of the course, students will be able to evaluate whether wavelets will be useful in new problems, and if they are, to work out basic methods of applying wavelets to such situations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8115</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8115</course_identifier_cooked>
+
+<course_name>Sample Survey Theory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8111 or the equivalent. Theory and practice of sampling populations. Simple random, stratified random, cluster, multistage, and systematic random sampling. Optimal allocation, ratio and regression estimation, balancing precision against cost, and sources of bias including nonresponse.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8116</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8116</course_identifier_cooked>
+
+<course_name>Design of Medical Experiments</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8111 or the equivalent. Principles in the design and analysis of controlled experiments: Latin squares, incomplete block designs, crossover designs, fractional factorial designs, confounding.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8117</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8117</course_identifier_cooked>
+
+<course_name>Nonparametric Statistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P6104 or equivalent. Presentation of statistical techniques valid for data from distributions requiring minimal assumptions. Rank tests, permutation tests, contingency tables, rank correlation methods, analysis of variance and regression methods for ranked data, and methods of nonparametric survival analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8120</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8120</course_identifier_cooked>
+
+<course_name>Analysis of Categorical Data</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites: Public Health P6103 or P6104 and P6400 or their equivalents. A thorough study of the fourfold table, with applications to epidemiological and clinical studies. Significance versus magnitude of association; estimation of relative risk; matching cases and controls; effects, measurement, and control of misclassification error; combining evidence from many studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8121</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8121</course_identifier_cooked>
+
+<course_name>Generalized Linear Models.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites: Public Health P8109 and P8111. An examination of a generalization of the classical regression model. Log-linear models for count data, probit and logit models, analysis of data with discrete ordered responses, and analysis of continuous data where the variability increases with the mean. Survival analysis and model checking are discussed as time allows.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8129</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8129</course_identifier_cooked>
+
+<course_name>Theory of Multivariate Analysis</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites: Public Health P8104 and P8111 or their equivalents. Thorough review of matrix algebra; inverses; orthonormalization; affine transformations; eigenvectors and eigenvalues. The multivariate normal distribution. Multivariate sampling distributions. The multivariate general linear model. Hotelling&#38;rsquo;s T2.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8133</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8133</course_identifier_cooked>
+
+<course_name>Sequential Experimentation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites: Public Health P8104 and P8109 or their equivalents. An introduction to sequential analysis as it applies to statistical problems in clinical trials, hypothesis testing, selection, and estimation. Emphasis placed on a study of procedures, operating characteristics, and problems of implementation, rather than mathematical theory. Overview of currently available sequential designs and the advantages and disadvantages they offer in comparison with classical designs.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8139</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8139</course_identifier_cooked>
+
+<course_name>Theoretical Genetic Modeling</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites:&#38;nbsp; At least one course each in probability and genetics and the instructor&#39;s permission.&#38;nbsp; The theoretical foundations underlying the models and techniques used in mathematical genetics and genetic epidemiology. Use and interpretation of likelihood methods; formulation of mathematical models; segregation analysis; ascertainment bias; linkage analysis; genetic heterogeneity; and complex genetic models. Lectures, discussions, homework problems, and a final examination.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8140</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8140</course_identifier_cooked>
+
+<course_name>The Randomized Clinical Trial</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P6104 or the equivalent. Fundamental methods and concepts of the randomized clinical trial; protocol development, randomization, blindedness, patient recruitment, informed consent, compliance, sample size determination, cross-overs, collaborative trials. Each student prepares and submits the protocol for a real or hypothetical clinical trial.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8141</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8141</course_identifier_cooked>
+
+<course_name>Genetic Analysis Laboratory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites:&#38;nbsp; Public Health P8175 and the instructor&#39;s permission.&#38;nbsp; Hands-on problems and vagaries of genetic linkage data.&#38;nbsp; Students use computer simulation to human linkage data under a variety of conditions--varyng such parameters as the mode of inheritance, penetrance, gene frequency, and heterogeneity--and then analyze those data using correct and incorrect assumptions about the true origin of the data.&#38;nbsp; Students gain understanding of the variation in results that occur due to random factors and also acquire insights into the reliability of results.&#38;nbsp; Topics include basics of linkage analysis; mode of inheritance assumptions; heterogeneity; complex models; ascertainment; multipoint analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8149</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8149</course_identifier_cooked>
+
+<course_name>Statistical Aspects of Human Population Genetics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites:&#38;nbsp; At least one course each in probability and genetics and the instructor&#39;s permission.&#38;nbsp; Fundamental principles of population genetics, with emphasis on human populations. Genetic drift; natural selection; nonrandom mating; quantitave genetics; linkage analysis; and applications of current technology (e.g., SNPs).&#38;nbsp; Students will master basic principles of population genetics and will be able to model these principles mathematically/statistically.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8150</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8150</course_identifier_cooked>
+
+<course_name>Topics In Applied Statistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites: Public Health P8109 and P8111.&#38;nbsp; Recently developed ideas in applied statistics including the EM algorithm; the jackknife, bootstrap and other resampling methods; model selection; and regression diagnostics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8157</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8157</course_identifier_cooked>
+
+<course_name>Analysis of Repeated Measurements</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8111. Features of repeated measurements studies; balance in time, time-varying covariates, and correlation structure. Examination of the models for continuous repeated measures based on normal theory; random effects models, mixed models, multivariate analysis of variance, growth curve models, and autoregressive models. Non-parametric approaches and models for repeated binary data. Applications of generalized linear models to repeated data. Empirical Bayes approaches are discussed as time allows.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Arunajadai</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Arunajadai</course_instructors_full>
+
+<classes><class><call_number>23332</call_number>
+
+<class_name>ANALYSIS OF LONGITUDINAL</class_name>
+
+<course_identifier>BISTP8157</course_identifier>
+
+<course_number>8157</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 1:00p - 3:50p&#60;br /&#62;TBA</days_times>
+
+<instructors>S. Arunajadai</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>P</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>28</student_enrollment_count>
+
+<subject_area_code>BIST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIST/P8157-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8163</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8163</course_identifier_cooked>
+
+<course_name>Statistical Methods in Genetic Epidemiology Journal Club</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Meets once a month to discuss the current literature in statistical methods for genetic epidemiology, providing opportunity and incentive for students, theoreticians, and practitioners to keep current with the rapidly-growing literature of this field.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8165</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8165</course_identifier_cooked>
+
+<course_name>Likelihood Models In Biology and Statistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Mathematical models based on likelihoods are used in biostatistical areas as diverse as statistical genetics, clinical trials, and tumor growth modeling. Students learn how to formulate likelihood models for a broad variety of biological problems, and how to interpret the results statistically. Specific topics include: likelihood and probability; likelihood formulations for binomial, multinomial, normal, and exponential probability models; sufficient statistics; transformation of variables; support functions; maximum likelihood estimators and likelihood ratio tests, and their asymptotic properties; odds and Bayesian analysis; goodness-of-fit testing; and Neyman-Pearson significance testing vs. pure likelihood analysis. Topics illustrated by and applied to current areas of scientific investigation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>8180</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P8180</course_identifier_cooked>
+
+<course_name>Research Data Coordination:  Prinicples and Practices</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites:&#38;nbsp; Public Health P6104.&#38;nbsp; Introduction to the principles of research data management and other aspects of data coordination using structured, computer-based exercises.&#38;nbsp; Targeted to students with varying backgrounds and interests:&#38;nbsp; (1) established and prospective investigators, scientists, and project leaders who want to gain a better understanding of the principles of data management to improve the organization of their own research, make informed decisions in assembling a data management team, and improve their ability to communicate with programmers and data analysts; and (2) students considering a career in data management, data analysis, or the administration of a data coordinating center.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Levy</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Levy</course_instructors_full>
+
+<classes><class><call_number>82533</call_number>
+
+<class_name>RES DATA COORDINATN:PRINC</class_name>
+
+<course_identifier>BISTP8180</course_identifier>
+
+<course_number>8180</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 1:00p - 2:50p&#60;br /&#62;TBA</days_times>
+
+<instructors>D. Levy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>P</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>BIST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIST/P8180-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>9105</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P9105</course_identifier_cooked>
+
+<course_name>Topics In the Analysis of Longitudinal Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8108 or the equivalent. Theoretical and practical importance for the planning and analysis of long-term longitudinal studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>9107</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P9107</course_identifier_cooked>
+
+<course_name>Statistical Modeling for Data Analysis, I</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P8109 or equivalent: familiarity with matrix algebra.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>9108</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P9108</course_identifier_cooked>
+
+<course_name>Statistical Modeling for Data Analysis, II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Public Health P9107 or instructor&#38;rsquo;s permission. Core course in modern methods of applied statistics for Ph.D. candidates in Statistics and Biostatistics. Intensive survey of statistical data analysis within an interactive computing environment. Assignments requiring computer analysis of scientific data due approximately every week. Topics from the subjects of regression, ANOVA, ANCOVA, design of experiments, random effects, variance components, contingency tables, logistic regression, survival curves, time series, and multivariate analysis will be included.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>9109</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2>9109</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P9109-9109</course_identifier_cooked>
+
+<course_name>Theory of Statistical Inference, I and II</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Statistics G6105 (real analysis and probability theory), or the equivalent. A general introduction to mathematical statistics and statistical decision theory. Elementary decision theory, Bayes inference, Neyman-Pearson theory, hypothesis testing, uniformity, most powerful unbiased tests, confidence sets. Estimation: methods, theory, and asymptotic properties. Likelihood ratio tests, multivariate distribution. Elements of general linear hypothesis, invariance, nonparametric methods, sequential analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIST</subject_area_code>
+
+<subject_area_name>Biostatistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>P</school_bulletin_prefix_code_1>
+
+<course_number_1>9154</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIST P9154</course_identifier_cooked>
+
+<course_name>Discrete Statistical Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites: Public Health P8104, P8109 and P8120. Discrete univariate and multivariate distributions; sampling models for discrete data; maximum likelihood and best asymptotically normal estimation; asymptotic behavior of goodness of fit statistics; homogeneity of association and symmetry in multiway contingency table; log-linear models; polytomous logistic regression.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

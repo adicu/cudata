@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>SCPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SCPP</subject_area_code>
+
+<subject_area_name>Science &#38; Public Policy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3333</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SCPP BC3333x</course_identifier_cooked>
+
+<course_name>Genetics, Biodiversity &#38; Society</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Module I: Development and Valuation of Plant Genetic Resources. Science and consequences of plant breeding, biotechnology, and genetic engineering; costs and benefits of maintaining biodiversity; public policy issues and options. Module II: Genetic Technology and Society. Human genome project, scientific basis and interpretation of genetic screening; individual choice, social implications, and ethical issues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Instructor&#39;s permission required. Students should contact B. Morton.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Morton, D. Spar, P. Ammirato, S. Pereira</course_instructors_actual>
+
+<course_instructors_expected>B. Morton (Biology), S. Pereira (Economics), P. Ammirato (Biology), D. Spar (ex oficio)</course_instructors_expected>
+
+<course_instructors_full>B. Morton, B. Morton (Biology), D. Spar, D. Spar (ex oficio), P. Ammirato, P.
+Ammirato (Biology), S. Pereira, S. Pereira (Economics)</course_instructors_full>
+
+<classes><class><call_number>02569</call_number>
+
+<class_name>GENETICS,BIODIVERSITY &#38;SO</class_name>
+
+<course_identifier>SCPPX3333</course_identifier>
+
+<course_number>3333</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;514 ALTSCHUL HALL</days_times>
+
+<instructors>B. Morton&#60;br /&#62;
+D. Spar&#60;br /&#62;
+P. Ammirato&#60;br /&#62;
+S. Pereira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>SCPP</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SCPP/BC3333-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SCPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SCPP</subject_area_code>
+
+<subject_area_name>Science &#38; Public Policy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3334</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SCPP BC3334y</course_identifier_cooked>
+
+<course_name>Science, State Power &#38; Ethics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A comparative study of science in the service of the State in the U.S., the former Soviet Union, Fascist Italy, and Nazi Germany during pivotal periods through the first half of the 20th century. Topics to be covered include the political and moral consequences of policies based upon advances in the natural sciences making possible the development of TNT, nerve gas, uranium fission and hydrogen fusion atomic bombs. Considers the tensions involved in balancing scientific imperatives, patriotic commitment to the nation-state, and universal moral principles &#38;iuml;&#38;iquest;&#38;frac12; tensions faced by Robert Oppenheimer, Andrei Sakharov, Neils Bohr and Werner Heisenberg. Selected readings include: Michael Frayn&#38;iuml;&#38;iquest;&#38;frac12;s play Copenhagen, Hitler&#38;iuml;&#38;iquest;&#38;frac12;s Uranium Club by Jeremy Bernstein, Brecht&#39;s Galileo, John McPhee&#38;iuml;&#38;iquest;&#38;frac12;s The Curve of Binding Energy, Richard Rhodes&#38;iuml;&#38;iquest;&#38;frac12; The Making of the Atomic Bomb.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>INSTRUCTOR&#39;S PERMISSION REQUIRED; Enrollment limited to 12 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Pious, T. Halpin-Healy</course_instructors_actual>
+
+<course_instructors_expected>T. Halpin-Healy (Physics), R. Pious (Political Science)</course_instructors_expected>
+
+<course_instructors_full>R. Pious, R. Pious (Political Science), T. Halpin-Healy, T. Halpin-Healy
+(Physics)</course_instructors_full>
+
+<classes><class><call_number>09034</call_number>
+
+<class_name>SCIENCE, STATE POWER, ETH</class_name>
+
+<course_identifier>SCPPX3334</course_identifier>
+
+<course_number>3334</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>R. Pious&#60;br /&#62;
+T. Halpin-Healy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>SCPP</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SCPP/BC3334-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SCPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SCPP</subject_area_code>
+
+<subject_area_name>Science &#38; Public Policy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3335</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SCPP BC3335x</course_identifier_cooked>
+
+<course_name>Environmental Leadership, Ethics &#38; Action</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Reviews environmental literature to examine consequences of human interaction with Earth&#39;s ecosystem. Module I: The Individual: Relationship of Humankind to Natural World. Human role in environmental decline. Module II: The Community: Coming Together for Greater Good. Key theories of environmental ethics and social justice. Module III: Environmental Stewardship: Successful Models of Leadership. Student teams research and create stewardship projects. Science, non-science, fiction, and non-fiction texts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of college science. Enrollment limited to 16 students. Instructor&#39;s permission requirement. Contact D. Dittrick.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Dittrick (Environmental Science), R. Balmer (Religion)</course_instructors_expected>
+
+<course_instructors_full>D. Dittrick (Environmental Science), R. Balmer (Religion)</course_instructors_full>
+
+</course><course><academic_department_code>SCPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SCPP</subject_area_code>
+
+<subject_area_name>Science &#38; Public Policy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3340</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SCPP BC3340x</course_identifier_cooked>
+
+<course_name>Exhibitions: Engaging Public Understanding</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Museum exhibitions educate the public, inform discourse, and shape opinion. Students work with curators and exhibition designers on conceptualization and research, design and preparation, writing interpretative material, and developing media and ancillary programming. Students engage in the communication of learning goals through both the exhibition&#39;s content and its physical manifestation.</course_description>
+
+<corequisites>Enrollment limited to 18 students.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Pfirman (Environmental Science)</course_instructors_expected>
+
+<course_instructors_full>S. Pfirman (Environmental Science)</course_instructors_full>
+
+</course></courses>

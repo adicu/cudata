@@ -1,0 +1,560 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>MIAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6800</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF U6800x</course_identifier_cooked>
+
+<course_name>Conceptual Foundations of International Politics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduces central concepts and approaches from a variety of social science perspectives, particularly comparative politics and international relations, used to explain, analyze, and evaluate international politics and economics. Designed to help students think theoretically and analytically about leading issues in international affairs by introducing them to social science methods and scholarship and by exposing them to the uses of such concepts in practice, through examination of contemporary problems and challenges in international affairs.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sestanovich</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Sestanovich</course_instructors_full>
+
+<classes><class><call_number>64697</call_number>
+
+<class_name>CONCEPTUAL FOUND OF INTL</class_name>
+
+<course_identifier>INAFU6800</course_identifier>
+
+<course_number>6800</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;417 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>S. Sestanovich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>400</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>217</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6800-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>MIAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6804</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF U6804x</course_identifier_cooked>
+
+<course_name>Conceptual Foundations - Discussion</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Through a review of major academic writings, lectures, and class discussion, Conceptual Foundations of International Politics examines many of the central concepts, theories, and analytical tools used in contemporary social science to understand and explain international affairs.&#38;nbsp; The theoretical literature is drawn from different fields in the social sciences, including comparative politics, international relations, political sociology and economics; the lecturers include members of the Columbia faculty who are authorities in these fields (as well as, in many cases, experienced practitioners in their own right).&#38;nbsp; The course is designed to enhance students&#39; abilities to think critically and analytically about current problems and challenges in international politics.Conceptual Foundations is a semester-long course.&#38;nbsp; The lecture/plenary session meets on Monday, and the seminar-style sections also meet every week.&#38;nbsp; Attending lectures and sections is obligatory, and students are required to do the assigned readings before their (6804) section because the readings and lectures form the basis of the discussion sections.&#38;nbsp; Students are expected to know when and where their sections meet.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. McIntyre, G. Oliveira, H. Aidi, K. Brown</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. McIntyre, G. Oliveira, H. Aidi, K. Brown</course_instructors_full>
+
+<classes><class><call_number>82530</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;405A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>H. Aidi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>69694</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;402B INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>H. Aidi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>62646</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;405A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>H. Aidi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>66599</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;402B INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>H. Aidi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>71647</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;418 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>K. Brown</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>76747</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;409 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>G. Oliveira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>81147</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;501B INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>K. Brown</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-007</university_web_bulletin_url>
+
+</class>
+<class><call_number>87648</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;501A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>K. Brown</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-009</university_web_bulletin_url>
+
+</class>
+<class><call_number>92197</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>010</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;405A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>D. McIntyre</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-010</university_web_bulletin_url>
+
+</class>
+<class><call_number>95998</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>011</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;405A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>G. Oliveira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-011</university_web_bulletin_url>
+
+</class>
+<class><call_number>81282</call_number>
+
+<class_name>CONCEPTUAL FOUNDATIONS-DI</class_name>
+
+<course_identifier>INAFU6804</course_identifier>
+
+<course_number>6804</course_number>
+
+<course_section_code>013</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;501A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>G. Oliveira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6804-20123-013</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>MIAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>REGN</subject_area_code>
+
+<subject_area_name>REGN</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8582</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>REGN U8582x</course_identifier_cooked>
+
+<course_name>The International Politics of Iran Since 1979</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The aim of this course is to provide second year SIPA students and PhD candidates (Middle Eastern studies or international affairs) with an understanding of the major political processes and structures shaping Iran&#39;s international politics since 1979. Where it is deemed beneficial, comparisons are made to the time of the Shah. Crucially, the degree to which the domestic, regional and international levels are interconnected will be exemplified. While a certain degree of chronological order is inevitable, the domestic power structure, the regional environment with its transnational implications and the international theatre will be presented in conjunction with various analytical issues. In contrast to the prevailing gap between the realms of Middle Eastern studies and political science/international affairs, this course reflects seminars which benefit from both approaches. Students who take the course will be expected to develop advanced analytical skills of relevance both to an understanding of complex political situations and to a critical engagement with the discipline. In addition to developing their skills of critical analysis, students who complete the course will be able to demonstrate a clear understanding of the political dynamics affecting a state whose relations with the United States are highly strained.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

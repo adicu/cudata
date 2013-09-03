@@ -1,0 +1,929 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4020</course_identifier_cooked>
+
+<course_name>Introduction To Immunology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of the major topics in basic immunology with an emphasis on the molecular basis for immune recognition and regulation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Schindler, E. Shumansky</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Schindler, E. Shumansky</course_instructors_full>
+
+<classes><class><call_number>98202</call_number>
+
+<class_name>GRADUATE IMMUNOLOGY</class_name>
+
+<course_identifier>MICRG4020</course_identifier>
+
+<course_number>4020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:30p - 3:00p&#60;br /&#62;1307 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>C. Schindler&#60;br /&#62;
+E. Shumansky</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>MICR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/MICR/G4020-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4021</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4021</course_identifier_cooked>
+
+<course_name>Immunolgy Journal Club</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introduction to Immunology</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Calame</course_instructors_expected>
+
+<course_instructors_full>K. Calame</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4120</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4120</course_identifier_cooked>
+
+<course_name>Introduction To Computational Biology</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Graduate level coursework in Molecular Biology and Genetics.  Basic computer literacy.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Oliver Jovanovic</course_instructors_expected>
+
+<course_instructors_full>O. Jovanovic</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>F</school_bulletin_prefix_code_1>
+
+<course_number_1>4150</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR F4150</course_identifier_cooked>
+
+<course_name>Prokaryotic Molecular Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4152</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4152</course_identifier_cooked>
+
+<course_name>Eukaryotic Molecular Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4250</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4250</course_identifier_cooked>
+
+<course_name>Molecular Biophysics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4350</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4350</course_identifier_cooked>
+
+<course_name>Cellular Membranes and Organelles</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4450</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4450</course_identifier_cooked>
+
+<course_name>Frontiers In Cell Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4900</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G4900</course_identifier_cooked>
+
+<course_name>Chromosome Dynamics and Genome Stability</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; Recent advances in chromosome replication, segregation and DNA repair, processes essential for the stable inheritance of the genome.&#38;nbsp; Guest lecturers participate in weekly Microbiology seminar series and meet with the students to discuss their work.&#38;nbsp; Focus on the use of several model systems and the use of genetic approaches to understand these processes</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Symington</course_instructors_expected>
+
+<course_instructors_full>L. Symington</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6021</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G6021</course_identifier_cooked>
+
+<course_name>Virology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; A principle-based discussion of virology, emphasizing the common reactions that must be completed by all viruses for successful reproduction within a host cell and survival and spread within a host population.&#38;nbsp; The molecular basis of alternative reproductive cycles, the interactions of viruses with host organisms, and how these lead to disease are presented with examples drawn from a set of representative animal viruses.&#38;nbsp; Lectures by members of the Department of Microbiology and invited guest lecturers on specific research problems in virology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6048</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G6048</course_identifier_cooked>
+
+<course_name>Microbial Pathogenesis</course_name>
+
+<course_points_min>6</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Microbial Molecular Genetics and Immunology.&#38;nbsp; The basic principles underlying microbial infection and disease.&#38;nbsp; Introduction to obligate versus opportunistic pathogens, virulence determinants, and innate immunity.&#38;nbsp; Examination of the forefront of molecular analysis of particular bacterial and fungal pathogens and how this information has been used to combat infectious diseases.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Mitchell
+H. Shuman</course_instructors_expected>
+
+<course_instructors_full>A. Mitchell H. Shuman</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6080</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G6080</course_identifier_cooked>
+
+<course_name>Prokaryotic Transcription</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Gottesman</course_instructors_expected>
+
+<course_instructors_full>M. Gottesman</course_instructors_full>
+
+</course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9301</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9302</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G9301-G9302</course_identifier_cooked>
+
+<course_name>Seminar In Selected Topics In Microbiology</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Each week invited speakers present seminars and have&#38;nbsp; conferences with graduate students after each presentation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Shumansky, U. Basu</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Shumansky, U. Basu</course_instructors_full>
+
+<classes><class><call_number>63043</call_number>
+
+<class_name>SEM-MICROBIOL &#38; IMMUNOLOG</class_name>
+
+<course_identifier>MICRG9301</course_identifier>
+
+<course_number>9301</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 12:00p - 1:00p&#60;br /&#62;301 HAMMER HLTH SCIENCES CENTER&#60;br /&#62;F 3:30p - 4:30p&#60;br /&#62;301 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>E. Shumansky&#60;br /&#62;
+U. Basu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>MICR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/MICR/G9301-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>62401</call_number>
+
+<class_name>SEM-MICROBIOL &#38; IMMUNOLOG</class_name>
+
+<course_identifier>MICRG9302</course_identifier>
+
+<course_number>9302</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 12:00p - 1:00p&#60;br /&#62;301 HAMMER HLTH SCIENCES CENTER&#60;br /&#62;F 3:30p - 4:30p&#60;br /&#62;301 HAMMER HLTH SCIENCES CENTER</days_times>
+
+<instructors>E. Shumansky&#60;br /&#62;
+U. Basu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>MICR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/MICR/G9302-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>MICR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MICR</subject_area_code>
+
+<subject_area_name>Microbiology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9501</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9502</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>MICR G9501-G9502</course_identifier_cooked>
+
+<course_name>Thesis Research In Microbiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>12</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-12 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to microbiology students.&#38;nbsp; Students doing dissertation research register for this course, as well as students who are rotating through laboratories of staff members.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Reizis, E. Shumansky</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Reizis, E. Shumansky</course_instructors_full>
+
+<classes><class><call_number>22204</call_number>
+
+<class_name>RES-MICROBIOL &#38; IMMUNOLOG</class_name>
+
+<course_identifier>MICRG9501</course_identifier>
+
+<course_number>9501</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>B. Reizis&#60;br /&#62;
+E. Shumansky</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>MICR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/MICR/G9501-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>77849</call_number>
+
+<class_name>RES-MICROBIOL &#38; IMMUNOL</class_name>
+
+<course_identifier>MICRG9502</course_identifier>
+
+<course_number>9502</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>B. Reizis&#60;br /&#62;
+E. Shumansky</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>MICR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/MICR/G9502-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

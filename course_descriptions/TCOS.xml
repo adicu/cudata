@@ -1,0 +1,3406 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUDF</subject_area_code>
+
+<subject_area_name>Sociology &#38; Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4000</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HUDF Y4000x</course_identifier_cooked>
+
+<course_name>Education and Public Policy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLJ</subject_area_code>
+
+<subject_area_name>Organizational Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4002</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLJ Y4002x or y</course_identifier_cooked>
+
+<course_name>Functions of Organizations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4005</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4005</course_identifier_cooked>
+
+<course_name>Education in Emergencies.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLJ</subject_area_code>
+
+<subject_area_name>Organizational Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4005</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLJ Y4005x or y</course_identifier_cooked>
+
+<course_name>Organizational Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4010</course_identifier_cooked>
+
+<course_name>Cultural and social bases of education.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLH</subject_area_code>
+
+<subject_area_name>Higher Postsecondary Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLH Y4010y</course_identifier_cooked>
+
+<course_name>Purporses-Policies of Higher Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4011</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4011y</course_identifier_cooked>
+
+<course_name>Social Context of Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4013</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4013y</course_identifier_cooked>
+
+<course_name>Literacy and Development</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUDF</subject_area_code>
+
+<subject_area_name>Sociology &#38; Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4022</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HUDF Y4022y</course_identifier_cooked>
+
+<course_name>Sociology of Urban Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4025</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4025y</course_identifier_cooked>
+
+<course_name>Languages, Societies and Schools</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLA</subject_area_code>
+
+<subject_area_name>Education Leadership</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4046</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLA Y4046y</course_identifier_cooked>
+
+<course_name>School Finance Policy and Practice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLA</subject_area_code>
+
+<subject_area_name>Education Leadership</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4048</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLA Y4048y</course_identifier_cooked>
+
+<course_name>Education Policy Analysis/Implementation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4055</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4055y</course_identifier_cooked>
+
+<course_name>Resource Allocation in Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4060</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4060x</course_identifier_cooked>
+
+<course_name>Latinos in Urban Schools</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HH</subject_area_code>
+
+<subject_area_name>Arts &#38; Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4070</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HH Y4070x or y</course_identifier_cooked>
+
+<course_name>History of Education in the United States</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLA</subject_area_code>
+
+<subject_area_name>Education Leadership</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4071</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLA Y4071x or y</course_identifier_cooked>
+
+<course_name>Leadership of Private Schools/NonProfit Organizations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HH</subject_area_code>
+
+<subject_area_name>Arts &#38; Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4073</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HH Y4073x</course_identifier_cooked>
+
+<course_name>History of Urban Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HH</subject_area_code>
+
+<subject_area_name>Arts &#38; Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4078</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HH Y4078y</course_identifier_cooked>
+
+<course_name>Technology and Education in Western History</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HA</subject_area_code>
+
+<subject_area_name>Art &#38; Art Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4079</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HA Y4079y</course_identifier_cooked>
+
+<course_name>Exploring Cultural Diversity</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4090</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4090x</course_identifier_cooked>
+
+<course_name>Issues and Institutions: International Educational Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4091</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4091y</course_identifier_cooked>
+
+<course_name>Comparative Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HF</subject_area_code>
+
+<subject_area_name>Philosophy &#38; Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4094</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HF Y4094x</course_identifier_cooked>
+
+<course_name>School and Society</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4094</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>ITSF Y4094y (Section 1)</course_identifier_cooked>
+
+<course_name>Education Plannning: Islam &#38; Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4094</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>5</course_section_code>
+
+<course_identifier_cooked>ITSF Y4094y (Section 5)</course_identifier_cooked>
+
+<course_name>Education Planning: Research Methods Devlopment</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4098</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4098y</course_identifier_cooked>
+
+<course_name>Education Develpment Policies in China</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HBSS</subject_area_code>
+
+<subject_area_name>Health Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4110</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HBSS Y4110x or y</course_identifier_cooked>
+
+<course_name>Health Promotion for Children</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HBSS</subject_area_code>
+
+<subject_area_name>Health Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4112</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HBSS Y4112y</course_identifier_cooked>
+
+<course_name>Social Policy and Prevention</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HBSS</subject_area_code>
+
+<subject_area_name>Health Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4117</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HBSS Y4117y</course_identifier_cooked>
+
+<course_name>HIV/AIDS Epidemiology and Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HBSS</subject_area_code>
+
+<subject_area_name>Health Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4122</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HBSS Y4122x or y</course_identifier_cooked>
+
+<course_name>Women&#39;s Health</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CCPX</subject_area_code>
+
+<subject_area_name>Clinical Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4125</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CCPX Y4125y</course_identifier_cooked>
+
+<course_name>Women and Mental Health</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4155</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4155y</course_identifier_cooked>
+
+<course_name>Evaluating Educational Privatization School Choice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4160</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y4160</course_identifier_cooked>
+
+<course_name>Human Rights in Africa.</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CCPJ</subject_area_code>
+
+<subject_area_name>Counseling Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4165</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CCPJ Y4165x or y</course_identifier_cooked>
+
+<course_name>Community Agencies and Resources</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HF</subject_area_code>
+
+<subject_area_name>Philosophy &#38; Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4190</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HF Y4190y</course_identifier_cooked>
+
+<course_name>American Philosophies of Education</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HH</subject_area_code>
+
+<subject_area_name>Arts &#38; Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4199</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HH Y4199</course_identifier_cooked>
+
+<course_name>Issues: History of Education in New York City</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4199</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>ITSF Y4199y (Section 1)</course_identifier_cooked>
+
+<course_name>Research Methods in Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4199</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>ITSF Y4199y (Section 2)</course_identifier_cooked>
+
+<course_name>Islam &#38; Politics in Africa</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLA</subject_area_code>
+
+<subject_area_name>Education Leadership</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>4876</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>ORLA Y4876y (Section 2)</course_identifier_cooked>
+
+<course_name>School Finance: Resource Allocation Non-Profit Organizations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5003</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y5003y</course_identifier_cooked>
+
+<course_name>Communication and Culture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLJ</subject_area_code>
+
+<subject_area_name>Organizational Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5003</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLJ Y5003x or y</course_identifier_cooked>
+
+<course_name>Human Resource Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5006</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y5006</course_identifier_cooked>
+
+<course_name>International Education Policy Studies.</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5007</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y5007y</course_identifier_cooked>
+
+<course_name>Race, Class and Schooling across America</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5012</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y5012y</course_identifier_cooked>
+
+<course_name>Culture &#38; Society in Caribbean</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5023</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y5023</course_identifier_cooked>
+
+<course_name>The Family as Educator.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Instructor&#39;s Approval Required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUDK</subject_area_code>
+
+<subject_area_name>Human Cognition and Learning</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5035</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HUDK Y5035x or y</course_identifier_cooked>
+
+<course_name>Psychology of Media</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HH</subject_area_code>
+
+<subject_area_name>Arts &#38; Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5070</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HH Y5070y</course_identifier_cooked>
+
+<course_name>History and Theory of Higher Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HH</subject_area_code>
+
+<subject_area_name>Arts &#38; Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5076</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HH Y5076y</course_identifier_cooked>
+
+<course_name>History of African American Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLA</subject_area_code>
+
+<subject_area_name>Education Leadership</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5086</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLA Y5086y</course_identifier_cooked>
+
+<course_name>Education Policy and the Courts</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUDM</subject_area_code>
+
+<subject_area_name>Measurement &#38; Evaluation</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5122</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HUDM Y5122x or y</course_identifier_cooked>
+
+<course_name>Applied Regression Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLJ</subject_area_code>
+
+<subject_area_name>Organizational Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5148</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLJ Y5148x or y</course_identifier_cooked>
+
+<course_name>Managing Conflict in Organizations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5199</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>ITSF Y5199y (Section 1)</course_identifier_cooked>
+
+<course_name>Politics, Education and Conflict</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5199</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>3</course_section_code>
+
+<course_identifier_cooked>ITSF Y5199y (Section 3)</course_identifier_cooked>
+
+<course_name>Issues: Labor Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLJ</subject_area_code>
+
+<subject_area_name>Organizational Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5340</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1-4</course_section_code>
+
+<course_identifier_cooked>ORLJ Y5340y (Section 1-4)</course_identifier_cooked>
+
+<course_name>Basic Practicum Conflict Resolution</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORL</subject_area_code>
+
+<subject_area_name>Organization &#38; Leadership</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5362</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORL Y5362x or y</course_identifier_cooked>
+
+<course_name>Group Dynamics: Systems Perspective</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5500</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y5500</course_identifier_cooked>
+
+<course_name>Education across the Americas.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Instructor&#39;s Approval Required
+ITSF 4090 or ITSF 4091.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORL</subject_area_code>
+
+<subject_area_name>Organization &#38; Leadership</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5521</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>ORL Y5521x or y (Section 1)</course_identifier_cooked>
+
+<course_name>Introduction to Research Methods</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5590</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y5590</course_identifier_cooked>
+
+<course_name>Education and Development of Nations.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Instructor&#39;s Approval Required
+ITSF 4090 and ITSF 4091.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUDF</subject_area_code>
+
+<subject_area_name>Sociology &#38; Education</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>5621</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HUDF Y5621y</course_identifier_cooked>
+
+<course_name>Technology and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLJ</subject_area_code>
+
+<subject_area_name>Organizational Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>6040</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLJ Y6040x or y</course_identifier_cooked>
+
+<course_name>Fundamentals of Conflict Resolution - Institutional Context</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ORLJ</subject_area_code>
+
+<subject_area_name>Organizational Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>6045</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ORLJ Y6045y</course_identifier_cooked>
+
+<course_name>Deomography in Organizations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>6510</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y6510x</course_identifier_cooked>
+
+<course_name>Education &#38; Cultural Production</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITSF</subject_area_code>
+
+<subject_area_name>International &#38; Transcultural Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>6520</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITSF Y6520y</course_identifier_cooked>
+
+<course_name>Families/Communities as Educator</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>TCOS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>A&#38;HH</subject_area_code>
+
+<subject_area_name>Arts &#38; Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>Y</school_bulletin_prefix_code_1>
+
+<course_number_1>6574</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>A&#38;HH Y6574x</course_identifier_cooked>
+
+<course_name>Seminar: History of Segregated Schools in the US</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a Teachers College course.&#38;nbsp; For more detailed course information, please go to the Teachers College Schedule of Classes at:&#38;nbsp; &#38;nbsp;http://www.tc.columbia.edu/tc-schedule/schdsearch.cgi</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

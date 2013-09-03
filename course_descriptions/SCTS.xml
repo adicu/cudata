@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>SCTS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SCNC</subject_area_code>
+
+<subject_area_name>Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1800</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SCNC W1800y</course_identifier_cooked>
+
+<course_name>From the conservation of energy to energy conservation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What is energy, really, and how do we conserve it?&#38;nbsp; What does energy conservation have in common with Humpty Dumpty, Buddha&#38;rsquo;s Second Noble Truth, and the Arrow of Time?&#38;nbsp; How is an &#38;ldquo;alternative energy&#38;rdquo; alternative?&#38;nbsp; How do you know how much energy you actually use every day?&#38;nbsp; This course presents the development of the concept of energy, links the development to the social and historical contexts in which it took place, and describes the contributions of the people who propelled the development.&#38;nbsp; Students gain an understanding of the scientific concept of energy, and the ability to apply that understanding in quantitative analysis of contemporary issues in energy sources, utilization, efficiency, and conservation, through individual or group projects.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>No prior scientific knowledge is required, but facility with high school-level algebra and comfort with quantitative computations is important.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SCTS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SCNC</subject_area_code>
+
+<subject_area_name>Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3010</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SCNC W3010x and y</course_identifier_cooked>
+
+<course_name>Science, Technology and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>By investigating the scientific and technical evolution and subsequent diffusion of contemporary technological innovations, students learn how science and technology fit into the bigger picture: i.e. how technologies technically develop from concept to diffusion into society, how they work, and how they are bi-directionally related to social forces, cultural values, economic trends, environmental factors, and political influences.&#38;nbsp; An essential part of the coursework is participation in a community-based learning project, working with local non-profit organizations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must have declared their concentration/major.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. McGourty</course_instructors_expected>
+
+<course_instructors_full>J. McGourty</course_instructors_full>
+
+</course></courses>

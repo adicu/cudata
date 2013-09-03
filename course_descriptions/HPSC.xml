@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>HPSC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HPSC</subject_area_code>
+
+<subject_area_name>History &#38; Philosophy of Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3201</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HPSC W3201y</course_identifier_cooked>
+
+<course_name>Philosophy and History of Evolutionary Biology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course does not carry credit as a biology course. Prerequisite: the instructor&#39;s permission. Explores the philosophical basis and historical development of evolutionary biology as a means of inquiry into causation, explanation, and testing in biology, and the implications for human understanding. Topics include Darwinian evolutionary theory, creationism, theories of inheritance, Mendelism and natural selection, species concepts, and synthetic theory of evolution.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Bock</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>W. Bock</course_instructors_full>
+
+<classes><class><call_number>77191</call_number>
+
+<class_name>PHILOS &#38; HIST OF EVOL BIO</class_name>
+
+<course_identifier>HPSCW3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;424 PUPIN LABORATORIES</days_times>
+
+<instructors>W. Bock</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>HPSC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HPSC/W3201-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

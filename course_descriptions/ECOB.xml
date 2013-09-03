@@ -1,0 +1,3390 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1003</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC1003x and y</course_identifier_cooked>
+
+<course_name>Introduction to Economic Reasoning</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Covers basic elements of microeconomic and marcoeconomic reasoning at an introductory level. Topics include Individual Constraints and Preferences, Production by Firms, Market Transactions, Competition, The Distribution of Income, Technological Progress and Growth, Unemployment and Inflation, the Role of Government in the Economy. This one-semester introductory course replaces the traditional two-semester introductory courses previously offered, ECON BC 1001 Introduction to Macroeconomics and ECON BC 1002 Introduction to Microeconomics.&#38;nbsp; Note: Students cannot get credit for ECON BC1003 if they have taken either ECON BC 1001 or ECON BC 1002 or the Columbia introductory course ECON W1105.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Andrews, S. Pereira</course_instructors_actual>
+
+<course_instructors_expected>M. Andrews</course_instructors_expected>
+
+<course_instructors_full>M. Andrews, S. Pereira</course_instructors_full>
+
+<classes><class><call_number>04582</call_number>
+
+<class_name>INTRO TO ECONOMIC REASONI</class_name>
+
+<course_identifier>ECONX1003</course_identifier>
+
+<course_number>1003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>70</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>65</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC1003-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03020</call_number>
+
+<class_name>INTRO TO ECONOMIC REASONI</class_name>
+
+<course_identifier>ECONX1003</course_identifier>
+
+<course_number>1003</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>S. Pereira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>70</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>61</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC1003-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04582</call_number>
+
+<class_name>INTRO TO ECONOMIC REASONI</class_name>
+
+<course_identifier>ECONX1003</course_identifier>
+
+<course_number>1003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>S. Pereira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>74</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC1003-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06347</call_number>
+
+<class_name>INTRO TO ECONOMIC REASONI</class_name>
+
+<course_identifier>ECONX1003</course_identifier>
+
+<course_number>1003</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>S. Pereira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>64</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC1003-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1007</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC1007x and y</course_identifier_cooked>
+
+<course_name>Mathematical Methods for Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Covers basic mathematical methods required for intermediate theory courses and upper level electives in economics, with a strong emphasis on applications. Topics include simultaneous equations, functions, partial differentiation, optimization of functions of more than one variable, constrained optimization, and financial mathematics. This course satisfies the Calculus requirement for the Economics track of the Economics major. NOTE: students who have previously taken Intermediate Micro Theory (ECON BC3035 or the equivalent) are *not* allowed to take Math Methods for Economics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Harrison</course_instructors_actual>
+
+<course_instructors_expected>S. Harrison</course_instructors_expected>
+
+<course_instructors_full>S. Harrison</course_instructors_full>
+
+<classes><class><call_number>04511</call_number>
+
+<class_name>MATH METHODS FOR ECONOMIC</class_name>
+
+<course_identifier>ECONX1007</course_identifier>
+
+<course_number>1007</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>S. Harrison</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC1007-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03020</call_number>
+
+<class_name>MATH METHODS FOR ECONOMIC</class_name>
+
+<course_identifier>ECONX1007</course_identifier>
+
+<course_number>1007</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>S. Harrison</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>84</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC1007-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2010</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC2010y</course_identifier_cooked>
+
+<course_name>The Economics of Gender</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of gender differences in the U.S. and other advanced industrial economies. Topics include the division of labor between home and market, the relationship between labor force participation and family structure, the gender earnings gap, occupational segregation, discrimination, and historical, racial, and ethnic group comparisons.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Zarghamee</course_instructors_actual>
+
+<course_instructors_expected>H. Zarghamee</course_instructors_expected>
+
+<course_instructors_full>H. Zarghamee</course_instructors_full>
+
+<classes><class><call_number>04161</call_number>
+
+<class_name>THE ECONOMICS OF GENDER</class_name>
+
+<course_identifier>ECONX2010</course_identifier>
+
+<course_number>2010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>H. Zarghamee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>64</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC2010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2012</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC2012x</course_identifier_cooked>
+
+<course_name>Economic History of Western Europe</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course is an introduction to the transformative economic developments that began in Western Europe and spread globally. It applies economic and empirical reasoning to analyze the underlying forces of modern economic development from pre-modern Europe to the Industrial Revolution and the emergence of a global economy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Dye</course_instructors_actual>
+
+<course_instructors_expected>A. Dye</course_instructors_expected>
+
+<course_instructors_full>A. Dye</course_instructors_full>
+
+<classes><class><call_number>04244</call_number>
+
+<class_name>ECON HIST OF WESTERN EURO</class_name>
+
+<course_identifier>ECONX2012</course_identifier>
+
+<course_number>2012</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>A. Dye</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>35</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC2012-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2018</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC2018y</course_identifier_cooked>
+
+<course_name>The Great Depression</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines why the Great Depression emerged, how its effects were manifest, and what policies were enacted in response. Drawing on Harvard Business School cases we will explore how policymakers analyze economic situations and what tools they have to deal with them. We will also probe connections between the Great Depression and today&#39;s &#38;quot;great recession,&#38;quot; and consider the lessons of each.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Sophomore standing. Enrollment limited to 56 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Spar</course_instructors_expected>
+
+<course_instructors_full>D. Spar</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2029</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON V2029x</course_identifier_cooked>
+
+<course_name>Fed Challenge Workshop</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>To prepare students to compete in the annual Federal Reserve Bank of NY College Fed Challenge, a competition among undergraduate teams from colleges and universities in FRBNY region. The goal is a thorough understanding of current US and global macroeconomic conditions, macroeconomics theories, financial markets and the role of the Federal Reserve system.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introductory Economics course.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Kim, S. Davidson</course_instructors_actual>
+
+<course_instructors_expected>S. Davidson</course_instructors_expected>
+
+<course_instructors_full>M. Kim, S. Davidson</course_instructors_full>
+
+<classes><class><call_number>04671</call_number>
+
+<class_name>FED CHALLENGE WORKSHOP</class_name>
+
+<course_identifier>ECONV2029</course_identifier>
+
+<course_number>2029</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;603 HAMILTON HALL</days_times>
+
+<instructors>M. Kim&#60;br /&#62;
+S. Davidson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/V2029-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2075</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC2075y</course_identifier_cooked>
+
+<course_name>Logic and Limits of Economic Justice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduce students to problems of economic justice under capitalism.&#38;nbsp; Course has three goals: (1) expose students to debates between economics and philosophers about the meaning and nature of justice, (2) explore conflict between efficiency and justice, (3) examine implications of justice for gender equality, intergenerational equity and climate change.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introduction to Economic Reasoning (ECON BC 1003) or Principles of Economics (ECON W1105).  An introductory course in political theory or political philosophy is strongly recommended, but not required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Andrews</course_instructors_actual>
+
+<course_instructors_expected>M. Andrews</course_instructors_expected>
+
+<course_instructors_full>M. Andrews</course_instructors_full>
+
+<classes><class><call_number>02613</call_number>
+
+<class_name>LOGIC LIMITS ECONOMIC JUS</class_name>
+
+<course_identifier>ECONX2075</course_identifier>
+
+<course_number>2075</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;LL104 Diana Center</days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>69</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC2075-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>IEOR</subject_area_code>
+
+<subject_area_name>Industrial Engineering - Operations Research</subject_area_name>
+
+<school_bulletin_prefix_code_1>E</school_bulletin_prefix_code_1>
+
+<course_number_1>2261</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>IEOR E2261x and y</course_identifier_cooked>
+
+<course_name>Introduction to Accounting and Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the fundamental concepts of financial accounting and finance, from the perspective of both managers and investors. Key topics covered include: principles of accrual accounting; recognizing and recording accounting transactions; preparation and analysis of financial statements; ratio analysis; pro-forma projections; time value of money (present values, future values and interest/discount rates); inflation; discounted-cash-flow (DCF) project evaluation methods; deterministic and probabilistic measures of risk; capital budgeting. (N.B. For Barnard students, this course cannot be used to satisfy any Economics Department Major or Minor requirement.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC1003 or the equivalent</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Webster</course_instructors_actual>
+
+<course_instructors_expected>A. Webster</course_instructors_expected>
+
+<course_instructors_full>A. Webster</course_instructors_full>
+
+<classes><class><call_number>18688</call_number>
+
+<class_name>INTRO TO ACCOUNTING &#38; FIN</class_name>
+
+<course_identifier>IEORE2261</course_identifier>
+
+<course_number>2261</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>A. Webster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>120</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>E</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>106</student_enrollment_count>
+
+<subject_area_code>IEOR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/IEOR/E2261-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>15948</call_number>
+
+<class_name>INTRO TO ACCOUNTING &#38; FIN</class_name>
+
+<course_identifier>IEORE2261</course_identifier>
+
+<course_number>2261</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>A. Webster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>120</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>E</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>97</student_enrollment_count>
+
+<subject_area_code>IEOR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/IEOR/E2261-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2411</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC2411x</course_identifier_cooked>
+
+<course_name>Statistics for Economics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Elementary computational methods in statistics. Basic techniques in regression analysis of econometric models. One-hour weekly recitation sessions to complement lectures.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Balsam</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Balsam</course_instructors_full>
+
+<classes><class><call_number>08324</call_number>
+
+<class_name>STATISTICS FOR ECONOMICS</class_name>
+
+<course_identifier>ECONX2411</course_identifier>
+
+<course_number>2411</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>K. Balsam</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC2411-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3011</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3011x</course_identifier_cooked>
+
+<course_name>Inequality and Poverty</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Conceptualization and measurement of inequality and poverty, poverty traps and distributional dynamics, economics and politics of public policies, in both poor and rich countries.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 or ECON BC3033, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Timmer</course_instructors_actual>
+
+<course_instructors_expected>A. Timmer</course_instructors_expected>
+
+<course_instructors_full>A. Timmer</course_instructors_full>
+
+<classes><class><call_number>07930</call_number>
+
+<class_name>INEQUALITY AND POVERTY</class_name>
+
+<course_identifier>ECONX3011</course_identifier>
+
+<course_number>3011</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>A. Timmer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>47</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3011-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3012</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3012y</course_identifier_cooked>
+
+<course_name>Economics of Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analyzes education policies and education markets from an economic perspective. Examines challenges that arise when researchers attempt to identify the causal effects of inputs. Other topics: (1) education as an investment, (2) public school finance, (3) teacher labor markets, (4) testing/accountability programs, (5) school choice programs, and (6) urban public school reforms.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 and ECON BC2411 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Reback</course_instructors_expected>
+
+<course_instructors_full>R. Reback</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3013</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3013y</course_identifier_cooked>
+
+<course_name>Economic History of the United States</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Economic transformation of the United States from a small, open agrarian society in the late colonial era to the leading industrial economy of the 20th century. Emphasis is given to the quantitative, institutional, and spatial dimensions of economic growth, and the relationship between the changing structures of the economy and state.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 or ECON BC3033, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Weiman</course_instructors_actual>
+
+<course_instructors_expected>D. Weiman</course_instructors_expected>
+
+<course_instructors_full>D. Weiman</course_instructors_full>
+
+<classes><class><call_number>02981</call_number>
+
+<class_name>ECONOMIC HISTORY-UNITED S</class_name>
+
+<course_identifier>ECONX3013</course_identifier>
+
+<course_number>3013</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;203 Diana Center</days_times>
+
+<instructors>D. Weiman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>52</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3013-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3014</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3014y</course_identifier_cooked>
+
+<course_name>Entrepreneurship</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines theoretical, empirical, and normative studies of entrepreneurial behavior and its significance. Examines their relationships with risk-taking and innovation. Explores entrepreneurship as applicable to a variety of behaviors, activities or contexts, including large organizations, small business networks, new venture creation, comparative financial institutions that support entrepreneurial environments, and entrepreneurships contributions to a dynamic economy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035, or ECON BC3033, or equivalent, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Dye</course_instructors_expected>
+
+<course_instructors_full>A. Dye</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3017</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3017y</course_identifier_cooked>
+
+<course_name>Economics of Business Organization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Economics of firm organization and the evolution of the modern business enterprise. The function of organizations in coordinating the use of economic resources. The role of technology, labor, management, and markets in the formation of the business enterprise. Includes international comparisons and attention to alternative economic theories on the role of business organizations on national competitive advantage.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Dye</course_instructors_actual>
+
+<course_instructors_expected>A. Dye</course_instructors_expected>
+
+<course_instructors_full>A. Dye</course_instructors_full>
+
+<classes><class><call_number>08514</call_number>
+
+<class_name>BUSINESS ORGANIZATION</class_name>
+
+<course_identifier>ECONX3017</course_identifier>
+
+<course_number>3017</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>A. Dye</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>128</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3017-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3018</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3018x and y</course_identifier_cooked>
+
+<course_name>Econometrics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Specification, estimation and evaluation of economic relationships using economic theory, data, and statistical inference; testable implications of economic theories; econometric analysis of topics such as consumption, investment, wages and unemployment, and financial markets.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3033 or ECON BC3035, and ECON BC2411 or STAT W1111 or STAT W1211, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Zarghamee</course_instructors_actual>
+
+<course_instructors_expected>H. Zarghamee</course_instructors_expected>
+
+<course_instructors_full>H. Zarghamee</course_instructors_full>
+
+<classes><class><call_number>01690</call_number>
+
+<class_name>ECONOMETRICS</class_name>
+
+<course_identifier>ECONX3018</course_identifier>
+
+<course_number>3018</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>H. Zarghamee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3018-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04759</call_number>
+
+<class_name>ECONOMETRICS</class_name>
+
+<course_identifier>ECONX3018</course_identifier>
+
+<course_number>3018</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 6:10p - 7:25p&#60;br /&#62;LL104 Diana Center</days_times>
+
+<instructors>H. Zarghamee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>32</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3018-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3019</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3019y</course_identifier_cooked>
+
+<course_name>Labor Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Factors affecting the allocation and remuneration of labor; population structure; unionization and monopsony; education and training, mobility and information; sex and race discrimination; unemployment; and public policy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Munasinghe</course_instructors_actual>
+
+<course_instructors_expected>L. Munasinghe</course_instructors_expected>
+
+<course_instructors_full>L. Munasinghe</course_instructors_full>
+
+<classes><class><call_number>02843</call_number>
+
+<class_name>LABOR ECONOMICS</class_name>
+
+<course_identifier>ECONX3019</course_identifier>
+
+<course_number>3019</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;LL104 Diana Center</days_times>
+
+<instructors>L. Munasinghe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>50</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3019-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3023</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3023x</course_identifier_cooked>
+
+<course_name>Topics in Economic History</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topics vary in content.&#38;nbsp; Fall 2011 topic: The American Century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 or ECON BC3033, or permission of the instructor</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Weiman</course_instructors_expected>
+
+<course_instructors_full>D. Weiman</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3025</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON V3025x and y</course_identifier_cooked>
+
+<course_name>Financial Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Institutional nature and economic function of financial markets. Emphasis on both domestic and international markets (debt, stock, foreign exchange, Eurobond, Eurocurrency, futures, options, and other). Principles of security pricing and portfolio management; the Capital Asset Pricing Model and the Efficient Markets Hypothesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>For R. Sethi: ECON BC3035 and ECON BC2411 or the equivalent. For S. Davidson: ECON BC3033, ECON BC3035, and ECON BC2411 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Seiglie, S. Davidson</course_instructors_actual>
+
+<course_instructors_expected>C. Seiglie, S. Davidson</course_instructors_expected>
+
+<course_instructors_full>C. Seiglie, S. Davidson</course_instructors_full>
+
+<classes><class><call_number>13375</call_number>
+
+<class_name>FINANCIAL ECONOMICS</class_name>
+
+<course_identifier>ECONV3025</course_identifier>
+
+<course_number>3025</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;501 NORTHWEST CORNER</days_times>
+
+<instructors>S. Davidson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>150</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>140</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/V3025-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>08879</call_number>
+
+<class_name>FINANCIAL ECONOMICS</class_name>
+
+<course_identifier>ECONV3025</course_identifier>
+
+<course_number>3025</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>C. Seiglie</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>110</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/V3025-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>16749</call_number>
+
+<class_name>FINANCIAL ECONOMICS</class_name>
+
+<course_identifier>ECONV3025</course_identifier>
+
+<course_number>3025</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;501 NORTHWEST CORNER</days_times>
+
+<instructors>S. Davidson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>100</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/V3025-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3029</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3029x</course_identifier_cooked>
+
+<course_name>Development Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Critical survey of the main debates within development studies: theory and empirics of growth and structural transformation; dynamics of income distribution and poverty; impact of international economic relations; population, health and nutrition; and the nature and role of government.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 or ECON BC3033, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Quella</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Quella</course_instructors_full>
+
+<classes><class><call_number>08244</call_number>
+
+<class_name>DEVELOPMENT ECONOMICS</class_name>
+
+<course_identifier>ECONX3029</course_identifier>
+
+<course_number>3029</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>N. Quella</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3029-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3033</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3033x and y</course_identifier_cooked>
+
+<course_name>Intermediate Macroeconomic Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Systematic exposition of current macroeconomic theories of unemployment, inflation, and international financial adjustments.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>An introductory course in economics and a functioning knowledge of high school algebra and analytical geometry or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Burgstaller, M. Andrews</course_instructors_actual>
+
+<course_instructors_expected>A. Burgstaller, M. Andrews</course_instructors_expected>
+
+<course_instructors_full>A. Burgstaller, M. Andrews</course_instructors_full>
+
+<classes><class><call_number>06157</call_number>
+
+<class_name>INTERMEDTE MACROECONOMC T</class_name>
+
+<course_identifier>ECONX3033</course_identifier>
+
+<course_number>3033</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 6:10p - 7:25p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>A. Burgstaller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3033-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06157</call_number>
+
+<class_name>INTERMEDTE MACROECONOMC T</class_name>
+
+<course_identifier>ECONX3033</course_identifier>
+
+<course_number>3033</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>79</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3033-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3035</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3035x and y</course_identifier_cooked>
+
+<course_name>Intermediate Microeconomic Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Preferences and demand; production, cost, and supply; behavior of markets in partial equilibrium; resource allocation in general equilibrium; pricing of goods and services under alternative market structures; implications of individual decision-making for labor supply; income distribution, welfare, and public policy. Emphasis on problem solving.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>An introductory course in microeconomics (ECON BC 1002, ECON BC1003, ECON W1105, or the equivalent) and one semester of calculus or ECON BC1007, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Munasinghe</course_instructors_actual>
+
+<course_instructors_expected>L. Munasinghe</course_instructors_expected>
+
+<course_instructors_full>L. Munasinghe</course_instructors_full>
+
+<classes><class><call_number>04588</call_number>
+
+<class_name>INTERMEDTE MICROECONOMC T</class_name>
+
+<course_identifier>ECONX3035</course_identifier>
+
+<course_number>3035</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>L. Munasinghe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>42</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3035-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04588</call_number>
+
+<class_name>INTERMEDTE MICROECONOMC T</class_name>
+
+<course_identifier>ECONX3035</course_identifier>
+
+<course_number>3035</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>L. Munasinghe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>58</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3035-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3038</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3038x</course_identifier_cooked>
+
+<course_name>International Money and Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to balance of payments and exchange rate theory; capital mobility and expectations; internal and external adjustment under fixed and flexible exchange rates; international financial markets; capital mobility and expectations; international policy coordination and optimum currency areas; history of the international monetary system.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3033.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Burgstaller</course_instructors_actual>
+
+<course_instructors_expected>A. Burgstaller</course_instructors_expected>
+
+<course_instructors_full>A. Burgstaller</course_instructors_full>
+
+<classes><class><call_number>03989</call_number>
+
+<class_name>INTERNATIONAL MONEY &#38; FIN</class_name>
+
+<course_identifier>ECONX3038</course_identifier>
+
+<course_number>3038</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>A. Burgstaller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>52</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3038-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3039</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3039x</course_identifier_cooked>
+
+<course_name>Environmental and Natural Resource Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Link between economic behavior and environmental quality: valuation of non-market benefits of pollution abatement; emissions standards; taxes; and transferable discharge permits. Specific problems of hazardous waste; the distribution of hazardous pollutants across different sub-groups of the U.S. population; the exploitation of commonly owned natural resources; and the links between the environment, income distribution, and economic development.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC1003 or ECON W1105. Prerequisite for Economics majors: ECON BC3035.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Pereira</course_instructors_expected>
+
+<course_instructors_full>S. Pereira</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3041</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3041x and y</course_identifier_cooked>
+
+<course_name>Theoretical Foundations of Political Economy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intellectual origins of the main schools of thought in political economy. Study of the founding texts in classical political economy, Marxian economics, neoclassicism, and Keynesianism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>An introductory course in economics or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Burgstaller, D. Weiman</course_instructors_actual>
+
+<course_instructors_expected>D. Weiman, A. Burgstaller</course_instructors_expected>
+
+<course_instructors_full>A. Burgstaller, D. Weiman</course_instructors_full>
+
+<classes><class><call_number>07742</call_number>
+
+<class_name>THEORETICL FOUNDTNS-POLIT</class_name>
+
+<course_identifier>ECONX3041</course_identifier>
+
+<course_number>3041</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>D. Weiman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>41</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3041-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07742</call_number>
+
+<class_name>THEORETICL FOUNDTNS-POLIT</class_name>
+
+<course_identifier>ECONX3041</course_identifier>
+
+<course_number>3041</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>A. Burgstaller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3041-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3045</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3045x</course_identifier_cooked>
+
+<course_name>Business Cycles</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Theories and policy implications of business cycles. IS/LM, AS/AD and the Phillips Curve; dynamic general equilibrium models based on microfoundations including the Real Business Cycle model; New Keynesian models; models of the political business cycle. Particular episodes in the macroeconomic history of the US will provide case studies in which to study these models and the application of policies within.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3033.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Harrison</course_instructors_expected>
+
+<course_instructors_full>S. Harrison</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3047</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3047y</course_identifier_cooked>
+
+<course_name>International Trade</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Causes and consequences of international trade and investment. Theoretical models of trade. Trade policy including restrictions or regulations on international trade and the effects of such policies on economic welfare, economic growth and wage inequality. Multinationals, foreign direct investment, and some aspects of the current debate on globalization.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Garibotti</course_instructors_expected>
+
+<course_instructors_full>M. Garibotti</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3049</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3049y</course_identifier_cooked>
+
+<course_name>Economic Evaluation of Social Programs</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A study of the effectiveness of social programs and the different quantitative techniques economists use to evaluate policy interventions. Cost-benefit analysis, testing predictions of economic theories. Specific examples of successful and unsuccessful social programs in the U.S. and around the world.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 Intermediate Micro Theory and ECON BC2411 Statistics for Economics, or the equivalents</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Instructor TBA</course_instructors_expected>
+
+<course_instructors_full>I. TBA</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3061</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3062</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3061x-BC3062y</course_identifier_cooked>
+
+<course_name>Senior Thesis</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Tutorials and conferences on the research for and writing of the senior thesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor and completion of all courses (except for the senior requirement) required for the economics track, political economy track, or economics and mathematics majors. Exceptions to these prerequisites may be granted by the chair of the department only.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Andrews, P. Mehrling, S. Lofgren</course_instructors_actual>
+
+<course_instructors_expected>P. Mehrling, S. Lofgren, M. Andrews</course_instructors_expected>
+
+<course_instructors_full>M. Andrews, P. Mehrling, S. Lofgren</course_instructors_full>
+
+<classes><class><call_number>03575</call_number>
+
+<class_name>SENIOR THESIS I</class_name>
+
+<course_identifier>ECONX3061</course_identifier>
+
+<course_number>3061</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 8:10p - 10:00p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>P. Mehrling</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3061-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07671</call_number>
+
+<class_name>SENIOR THESIS I</class_name>
+
+<course_identifier>ECONX3061</course_identifier>
+
+<course_number>3061</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;21 LEHMAN HALL</days_times>
+
+<instructors>S. Lofgren</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3061-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04820</call_number>
+
+<class_name>SENIOR THESIS I</class_name>
+
+<course_identifier>ECONX3061</course_identifier>
+
+<course_number>3061</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;21 LEHMAN HALL</days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3061-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>04872</call_number>
+
+<class_name>SENIOR THESIS I</class_name>
+
+<course_identifier>ECONX3061</course_identifier>
+
+<course_number>3061</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3061-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>06761</call_number>
+
+<class_name>SENIOR THESIS II</class_name>
+
+<course_identifier>ECONX3062</course_identifier>
+
+<course_number>3062</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Mehrling</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3062-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07392</call_number>
+
+<class_name>SENIOR THESIS II</class_name>
+
+<course_identifier>ECONX3062</course_identifier>
+
+<course_number>3062</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3062-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04029</call_number>
+
+<class_name>SENIOR THESIS I</class_name>
+
+<course_identifier>ECONX3061</course_identifier>
+
+<course_number>3061</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Lofgren</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3061-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04590</call_number>
+
+<class_name>SENIOR THESIS II</class_name>
+
+<course_identifier>ECONX3062</course_identifier>
+
+<course_number>3062</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 8:10p - 10:00p&#60;br /&#62;21 LEHMAN HALL</days_times>
+
+<instructors>P. Mehrling</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3062-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03966</call_number>
+
+<class_name>SENIOR THESIS II</class_name>
+
+<course_identifier>ECONX3062</course_identifier>
+
+<course_number>3062</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;21 LEHMAN HALL</days_times>
+
+<instructors>S. Lofgren</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3062-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>08224</call_number>
+
+<class_name>SENIOR THESIS II</class_name>
+
+<course_identifier>ECONX3062</course_identifier>
+
+<course_number>3062</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3062-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3063</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3063x and y</course_identifier_cooked>
+
+<course_name>Senior Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A topic in economic theory or policy of the instructor&#38;rsquo;s choice. See department for current topics and for senior requirement preference forms.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor and the completion of all courses (except for the senior requirement) required for the economics track, political economy track, or economics and mathematics majors. Exceptions to these prerequisites may be granted by the chair of the department only. Seminar sections are limited to 15 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Munasinghe, M. Andrews, R. Sethi, S. Pereira</course_instructors_actual>
+
+<course_instructors_expected>M. Andrews, L. Munasinghe, R. Sethi, S. Pereira</course_instructors_expected>
+
+<course_instructors_full>L. Munasinghe, M. Andrews, R. Sethi, S. Pereira</course_instructors_full>
+
+<classes><class><call_number>03378</call_number>
+
+<class_name>SENIOR SEMINAR</class_name>
+
+<course_identifier>ECONX3063</course_identifier>
+
+<course_number>3063</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>L. Munasinghe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3063-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06514</call_number>
+
+<class_name>SENIOR SEMINAR</class_name>
+
+<course_identifier>ECONX3063</course_identifier>
+
+<course_number>3063</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 9:00a - 10:50a&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>M. Andrews</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3063-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>02840</call_number>
+
+<class_name>SR SEM:FINAN INSTAB/ECON</class_name>
+
+<course_identifier>ECONX3063</course_identifier>
+
+<course_number>3063</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>R. Sethi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3063-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05970</call_number>
+
+<class_name>SR SEM:ECON, CLTRE, HAPPI</class_name>
+
+<course_identifier>ECONX3063</course_identifier>
+
+<course_number>3063</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>S. Pereira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/BC3063-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3099</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3099x and y</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topic(s), requirements, workload and point value to be determined in consultation with faculty advisor. Forms available at the Office of the Registrar.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3033 or ECON BC3035 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3265</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON V3265x and y</course_identifier_cooked>
+
+<course_name>The Economics of Money and Banking</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the principles of money and banking. The intermediary institutions of the American economy and their historical developments, current issues in monetary and financial reform.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3033 and ECON BC3035 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Gevorkyan, P. Mehrling</course_instructors_actual>
+
+<course_instructors_expected>P. Mehrling</course_instructors_expected>
+
+<course_instructors_full>A. Gevorkyan, P. Mehrling</course_instructors_full>
+
+<classes><class><call_number>05362</call_number>
+
+<class_name>ECONOMICS OF MONEY AND BA</class_name>
+
+<course_identifier>ECONV3265</course_identifier>
+
+<course_number>3265</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>P. Mehrling</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>71</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/V3265-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>66693</call_number>
+
+<class_name>MONEY AND BANKING</class_name>
+
+<course_identifier>ECONV3265</course_identifier>
+
+<course_number>3265</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 7:40p - 8:55p&#60;br /&#62;417 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>A. Gevorkyan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>154</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/V3265-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3270</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3270y</course_identifier_cooked>
+
+<course_name>Topics in Money and Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Classic questions in monetary economics, including but not limited to: inside and outside money, financial crisis and hyperinflation, central banking and the payments system, liquidity and market making, monetary policy and exchange rates.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3033 and ECON BC3035. Limited to 25 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Mehrling</course_instructors_expected>
+
+<course_instructors_full>P. Mehrling</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3275</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON BC3275y</course_identifier_cooked>
+
+<course_name>Financing Democracy: Problems and Proposals</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studies a selection of current social problems chosen in order to illuminate the current state of the ever uneasy relationship between finance and democracy. Problems covered may include, but are not limited to: Social Security reform, Medicare reform, corporate governance, financial reform.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Limited to 25 students. ECON BC3033 and ECON BC3035.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Mehrling</course_instructors_expected>
+
+<course_instructors_full>P. Mehrling</course_instructors_full>
+
+</course><course><academic_department_code>ECOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECON</subject_area_code>
+
+<subject_area_name>Economics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4235</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECON G4235y</course_identifier_cooked>
+
+<course_name>Historical Foundations of Modern Economics: Adam Smith to J.M. Keynes</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of some of the major intellectual developments that have created the discipline of economics. Particular attention to the works of Adam Smith, David Ricardo, Karl Marx, Alfred Marshall, Knut Wicksell, Irving Fisher, and J.M. Keynes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON BC3035 and ECON BC3033, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Burgstaller</course_instructors_actual>
+
+<course_instructors_expected>A. Burgstaller</course_instructors_expected>
+
+<course_instructors_full>A. Burgstaller</course_instructors_full>
+
+<classes><class><call_number>02473</call_number>
+
+<class_name>HIST FOUNDATIONS MODERN E</class_name>
+
+<course_identifier>ECONG4235</course_identifier>
+
+<course_number>4235</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>A. Burgstaller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>60</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>51</student_enrollment_count>
+
+<subject_area_code>ECON</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECON/G4235-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

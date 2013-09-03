@@ -1,0 +1,1690 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1900</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W1900x and y</course_identifier_cooked>
+
+<course_name>Introduction to Sustainable Development Seminar</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to prospective sustainable development majors and concentrators.&#38;nbsp; The course is designed to be a free flowing discussion of the principals of Sustainable Development and the scope of this emerging discipline.&#38;nbsp; This course will also serve to introduce the students to the requirements of the Undergraduate Program in Sustainable Development and the content of the required courses in both the Special Concentration and the Major.&#38;nbsp; The focus will be on the breadth of subject matter, the multidisciplinary nature of the scholarship and familiarity with the other key courses in the Program. Offered in the Fall and Spring.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Smerdon, K. Griffin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Smerdon, K. Griffin</course_instructors_full>
+
+<classes><class><call_number>77279</call_number>
+
+<class_name>INTRO TO SUSTAINABLE DEV</class_name>
+
+<course_identifier>SDEVW1900</course_identifier>
+
+<course_number>1900</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:40a - 12:55p&#60;br /&#62;304 HAMILTON HALL</days_times>
+
+<instructors>J. Smerdon</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>37</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W1900-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>13788</call_number>
+
+<class_name>INTRO TO SUSTAINABLE DEV</class_name>
+
+<course_identifier>SDEVW1900</course_identifier>
+
+<course_number>1900</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:40p - 3:55p&#60;br /&#62;414 PUPIN LABORATORIES</days_times>
+
+<instructors>K. Griffin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>32</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W1900-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>2000</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF W2000</course_identifier_cooked>
+
+<course_name>Introduction to Environmental Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course provides an overview of environmental law for students without a legal background. It examines U.S. statutes and regulations regarding air, water, hazardous and toxic materials, land use, climate change, endangered species, and the like, as well as international environmental issues. After completing the course students should be equipped to understand how the environmental laws operate, the role of the courts, international treaties and government agencies in implementing environmental protection, and techniques used in addressing these issues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>2300</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W2300y</course_identifier_cooked>
+
+<course_name>Challenges of Sustainable Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course provides an introduction to the interdisciplinary field of sustainable development, drawing on the most recent developments in social and physical sciences. The course describes the interactions between physical ecology and economic development, and it stresses the ways in which they impact each other. Ecological constraints (climate, disease ecology, physical resources such as soils and energy sources, topography and transport conditions) significantly shape the patterns of economic development, demography, and wealth and poverty. At the same time, anthropogenic activities (farming, resource depletion, demographic stresses, and energy use) change the physical environment. The course offers a rigorous treatment of the field and aims to provide students with an understanding of economic development and its relation to nature&#39;s processes. Offered in the Spring.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Marcotullio</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Marcotullio</course_instructors_full>
+
+<classes><class><call_number>76033</call_number>
+
+<class_name>CHALLENGES OF SUSTAINABLE</class_name>
+
+<course_identifier>SDEVW2300</course_identifier>
+
+<course_number>2300</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;203 MATHEMATICS BUILDING</days_times>
+
+<instructors>P. Marcotullio</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>92</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W2300-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>2320</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W2320x</course_identifier_cooked>
+
+<course_name>Economic and Financial Methods for Sustainable Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; The objective of this course is to introduce students to the skills and methods necessary to understand and evaluate the economic and financial aspects of sustainable development. Throughout the course, students will compare competing objectives and policies through the prism of economic &#38;amp; financial reasoning. &#38;nbsp; Environmental economics and finance are broad areas covering all the multi-faceted and complex interactions between the economic system and the natural environment. Financial markets are the primary source of signals used to direct economic activity in a capitalist global economy. Economic activity is the primary determinant of the quality and sustainability of the natural environment. Students interested in sustainable development who are unfamiliar with economics and who do not develop a facility with economic and financial concepts are severely handicapped in their efforts to increase the level of environmental responsibility embedded in economic activity. &#38;nbsp; This course is intended to provide students with a flying introduction to key analytical concepts required to understand topics in environmental economics and finance and to introduce them to selected topics within the field. &#38;nbsp; The first part of the course (the Analytical Toolbox) is designed to provide a set of portable skills for two sets of students: a) those who will work in fields specifically devoted to sustainable development who, as part of their work, will need to engage with sources of economic &#38;amp; financial information and with discourses where sustainable development is not a focus; and b) students who may end up following careers in organizations where sustainability is not the primary objective. &#38;nbsp; The topics and readings in the second part of the course were chosen to facilitate a critical engagement with the broad intellectual framework underlying sustainable development from the perspective of economics and finance. The topics are intended to create a community of intellectual discourse on sustainable development that will spill over beyond the classroom to the conversations of students and alumni that will far outlive graduation. Offered in the Fall</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Principles of Economics and one semester of calculus</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Bose</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Bose</course_instructors_full>
+
+<classes><class><call_number>79280</call_number>
+
+<class_name>ECON &#38; FIN MTHDS FOR SDEV</class_name>
+
+<course_identifier>SDEVW2320</course_identifier>
+
+<course_number>2320</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;517 HAMILTON HALL</days_times>
+
+<instructors>S. Bose</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>30</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W2320-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PUBH</subject_area_code>
+
+<subject_area_name>Public Health</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3100</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PUBH W3100y</course_identifier_cooked>
+
+<course_name>Fundamentals of Global Health</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Many of the greatest challenges in public health are global.&#38;nbsp; This course uses a multidisciplinary approach to discuss the major underlying determinants of poor health and the relationship between health and political, social and economic development.&#38;nbsp; Drawing upon the sciences, social sciences and humanities, students will be introduced to the evolution of modern approaches to the setting of global health priorities, the functions and roles of health systems, an overview of current global health practices, and the major institutional players in global health. The first unit of the class will focus on establishing the foundations for a public health approach to understanding the challenges of global health. This will involve exploration of the factors shaping the global distribution of disease and their connection with issues of social, economic and political development, as reflected in the Millennium Development Goals.&#38;nbsp; The second unit of the class will explore in further detail a number of major health priorities. A significant goal of the class will be to identify common sources of vulnerability and challenge across health risks, and the consequent need for a systemic approach to their being addressed. The third and final unit builds upon this analysis to demonstrate the multi-disciplinary, multi-level approach required to effectively address global health priorities, and the political and organizational cooperation required to achieve this. The class concludes with an analysis of the major challenges and threats to global coordination regarding such threats as pandemic influenza and emerging health threats related to climate change. Offered in the Spring</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Ager, M. Sommer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Ager, M. Sommer</course_instructors_full>
+
+<classes><class><call_number>11036</call_number>
+
+<class_name>FUNDAMENTALS OF GLOBAL</class_name>
+
+<course_identifier>PUBHW3100</course_identifier>
+
+<course_number>3100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;602 HAMILTON HALL</days_times>
+
+<instructors>A. Ager&#60;br /&#62;
+M. Sommer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>98</student_enrollment_count>
+
+<subject_area_code>PUBH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PUBH/W3100-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3200</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3200x</course_identifier_cooked>
+
+<course_name>Global Food Systems</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Concerns about food shortages, land use, climate change and biodiversity have created an urgent need for interdisciplinary researchers, practitioners and policy-makers focused on agriculture. Developing sound solutions that improve agricultural production systems in a sustainable way demands in-depth knowledge of key disciplines underpinning tropical agricultural production systems as well as a good understanding of the broader biophysical, economic and socio-cultural context. Focusing on agricultural science, including biophysical and socioeconomic factors, farming systems, technology, crop and soil management, and current policy issues in agriculture and food production, with a focus on the tropics and subtropics, this course will give key insights into how to improve environmental quality, nutrition and farmers&#39; incomes through sustainable agricultural practices in developing countries. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Palm</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Palm</course_instructors_full>
+
+<classes><class><call_number>97896</call_number>
+
+<class_name>GLOBAL FOOD SYSTEMS</class_name>
+
+<course_identifier>SDEVW3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;413 KENT HALL</days_times>
+
+<instructors>C. Palm</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>60</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>47</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3200-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3280</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3280x and y</course_identifier_cooked>
+
+<course_name>Workshop in Sustainable Development</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The upper level undergraduate Sustainable Development Workshop will be modeled on client based graduate-level workshops, but with more time devoted to methods of applied policy analysis and issues in Sustainable Development.&#38;nbsp; The heart of the course is the group project on an issue of sustainable development with a faculty advisor providing guidance and ultimately grading student performance. Students would receive instruction on methodology, group work, communication and the context of policy analysis. Much of the reading in the course would be project-specific and identified by the student research teams. Offered in Fall and Spring. Sustainable development seniors only. Note: Students must register for both days but will attend only one section, based on their client assignment. For registration issues contact Natalie Unwin-Kuruneri (natalie@ei.columbia.edu).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Horton, S. Gaffin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Horton, S. Gaffin</course_instructors_full>
+
+<classes><class><call_number>10029</call_number>
+
+<class_name>WORKSHOP IN SUSTAINABLE</class_name>
+
+<course_identifier>SDEVW3280</course_identifier>
+
+<course_number>3280</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 8:00p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Gaffin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3280-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>93656</call_number>
+
+<class_name>WORKSHOP IN SUSTAINABLE</class_name>
+
+<course_identifier>SDEVW3280</course_identifier>
+
+<course_number>3280</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;602 NORTHWEST CORNER</days_times>
+
+<instructors>S. Gaffin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3280-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>63001</call_number>
+
+<class_name>WORKSHOP IN SUSTAINABLE</class_name>
+
+<course_identifier>SDEVW3280</course_identifier>
+
+<course_number>3280</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;607 HAMILTON HALL</days_times>
+
+<instructors>R. Horton</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3280-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3310</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3310y</course_identifier_cooked>
+
+<course_name>Ethics of Sustainable Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Aiming to improve human conditions within many diverse environments, sustainable development seeks to create, increase and perpetuate benefit and to cease, rectify and reverse harm.  Sustainable development is consequently inextricable from the fabric of ethics, woven with determinations of benefit and harm to the existence and well-being of both humans and nonhumans.  Underlying such determinations are those of self- and other-regarding motivation and behavior; and underlying these are still others, of sensitivity and rationality in decision-making, whether individual, social or public.  Sustainable development is interlaced with and contingent upon all these determinations, at once prescriptive and judgmental, which can be called the ethics of sustainable development.</course_preface>
+
+<course_description>This course is divided into four main sections, of which two are intended to show the ethical fallacies of unsustainable development, and two, the ethical pathways of sustainable development. The first section focuses upon ethically problematic basic assumptions, including human (species) hegemony, happy (hedonic) materialism, and selective (data) denial. The second focuses upon ethically problematic ensuing rationalizations, including those pertaining to damages, victims, consequences and situations of climatic, chemical, biological and ecological harm. The third section responds to these rationalizations with ethically vital considerations of earth justice, environmental justice, culturally-based ethics, and sector-based ethics (water, food, place and climate ethics). Finally, the fourth section responds to the initial, longstanding problematic assumptions with a newly emergent ethical paradigm, comprising biotic wholeness, environmental integrity and the deliberative zero-goal. Tying all sections together is the central theme: to be sustainable, development must be ethical. Reflecting the collaborative quality of the field of sustainable development, the course extends to readings whose authors have all pursued their work at intersections of science and ethics, environment and ethics, policy and ethics, business and ethics, and sustainable development and ethics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Gondek</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Gondek</course_instructors_full>
+
+<classes><class><call_number>70943</call_number>
+
+<class_name>ETHICS OF SUSTAINABLE DEV</class_name>
+
+<course_identifier>SDEVW3310</course_identifier>
+
+<course_number>3310</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Gondek</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>30</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3310-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3330</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3330</course_identifier_cooked>
+
+<course_name>Ecological and Social Systems for Sustainable Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course provides an overview of the complex relationships between ecological and social systems. The course focuses on basic principles in understanding these relationships. After the students are introduced to these basic concepts, the course will focus on three current topics central to Sustainable Development for in-depth study. The emphasis is on the multiple perspectives -- environmental, social and economic-required to understand and develop solutions to problems in sustainable development. The three topics are: conservation of biodiversity, payments for ecosystem services, and the ecology of food production. We expect these topics to vary from year to year to keep pace with current topics. The following areas will be covered.: -What is an ecosystem? How are social and ecological systems linked through the flow of energy and materials? -What are the characteristics of coupled human-natural systems? How do these systems function? -What are the current topics in sustainable development that require understanding of social and ecological systems? -For each topic (protection of biodiversity, ecosystem services, ecology of food production), what are the environmental, economic, and social perspectives important for sustainable solutions? How can critical thinking be applied to balance these perspectives to derive sustainable solution? -Data analysis and approaches to analyze ecosystems and options for sustainable development. Offered in the Fall.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>SDEVW3300 Challenges of Sustainable Development
+EESCW2330 Science for Sustainable Development</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. DeFries</course_instructors_expected>
+
+<course_instructors_full>R. DeFries</course_instructors_full>
+
+</course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3350</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3350y</course_identifier_cooked>
+
+<course_name>Bangladesh: Life on a Tectonically Active Delta</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will explore the interaction of riverine processes, water and hydrology, sedimentary processes, tectonics, land subsidence and sea level rise, environmental issues, cultural setting, and sustainable development in the world&#39;s largest delta. The course will explore both the hazards and resources for life in this dynamic environment through lectures, a field trip to Bangladesh during Spring Break and guest lecturers in earth and social sciences. Offered in Spring.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Sustainable Development Seniors Only</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3355</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3355y</course_identifier_cooked>
+
+<course_name>Climate Change and Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The purpose of this course is to provide students with a broad introduction to the field of climate law in the United States and at the international level. The course begins with an overview of the causes and effects of global climate change and the methods available to control and adapt to it. We then examine the negotiation, implementation and current status of the United Nations Framework Convention on Climate Change, the Kyoto Protocol, and the Copenhagen Accord. The focus then turns to the past and proposed actions of the U.S. Congress, the executive branch and the courts, as well as regional, state and municipal efforts. The Clean Air Act, the National Environmental Policy Act and the Endangered Species Act will receive special attention. We evaluate the various legal tools that are available to address climate change, including cap-and-trade schemes; carbon taxation; command-and-control regulation; litigation; securities disclosures; and voluntary action. The roles of energy efficiency, renewable energy sources, carbon capture and sequestration, and forestry and agriculture each receive close attention. Implications for international human rights, international trade, environmental justice, and international and intergenerational equity are discussed. The course concludes with examination of the special challenges posed by China; proposals for adaptation and geoengineering; and business opportunities and the role of lawyers. Enrollment limited to 15. Offered in the Spring.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Gerrard</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Gerrard</course_instructors_full>
+
+<classes><class><call_number>21647</call_number>
+
+<class_name>CLIMATE CHANGE AND LAW</class_name>
+
+<course_identifier>SDEVW3355</course_identifier>
+
+<course_number>3355</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 9:10a - 10:25a&#60;br /&#62;303 HAMILTON HALL</days_times>
+
+<instructors>M. Gerrard</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3355-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3360</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3360y</course_identifier_cooked>
+
+<course_name>Disasters and Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Human welfare status is very unevenly distributed throughout the globe &#38;ndash; some of us live very comfortable lives, others remain in desperate poverty showing little progress away from their condition. Between are countries that are rapidly developing and converging toward the welfare of the richest. &#38;nbsp;At all levels of economic development human activities place significant pressure on the environment and threatens all of Earth&#38;rsquo;s vital functions and support systems for human life. &#38;nbsp;&#38;nbsp;This challenge requires timely responses based on solid understanding of the human/environment interface, technological and economic approaches to mitigate adverse effects on the environment, and routes to understanding the complex dynamics of the coupled human/natural systems that can chart a pathway to improvement in the lives of the poorest and continued well-being for those who have achieved prosperity without forcing natural systems into decline or massive fluctuation. This course offers undergraduate students, for the first time, a comprehensive course on the link between natural disaster events and human development at all levels of welfare. &#38;nbsp;It explores the role that natural disasters might have and have had in modulating development prospects. &#38;nbsp;&#38;nbsp;Any student seriously interested in sustainable development, especially in light of climate change, must study the nature of extreme events - their causes, global distribution and likelihood of future change. &#38;nbsp;This course will cover not only the nature of extreme events, including earthquakes, hurricanes, floods and droughts but also their transformation into disaster through social processes. &#38;nbsp;it will ultimately help students to understand the link between such extreme events, the economic/social shock they represent and development outcomes. &#38;nbsp;The course will combine careful analysis of the natural and social systems dynamics that give rise to disasters and examine through group learning case studies from the many disasters that have occurred in the first decade of the 21st century. Offered in the Spring (odd years only).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>EESC 2330; SDEV W2300</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3366</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3366x</course_identifier_cooked>
+
+<course_name>Energy Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course concerns the regulation of energy, energy resources, and energy facilities. Among the topics will be the regulation of rates and services; the roles of the Federal Energy Regulatory Commission and the state public utility commissions; and the interaction with environmental law. Attention will be devoted to energy resources (such as oil, natural gas and coal) and to generating, transmission and distribution facilities. The current and future roles of renewable energy, energy efficiency, and nuclear energy will receive special attention, as will the regulation and deregulation of electricity.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Gerrard</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Gerrard</course_instructors_full>
+
+<classes><class><call_number>13648</call_number>
+
+<class_name>ENERGY LAW</class_name>
+
+<course_identifier>SDEVW3366</course_identifier>
+
+<course_number>3366</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:20p - 6:10p&#60;br /&#62;L107 W &#38; J WARREN(LAW &#38; BUSINESS)</days_times>
+
+<instructors>M. Gerrard</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3366-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3390</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3390x</course_identifier_cooked>
+
+<course_name>GIS for Sustainable Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is designed to provide students with a comprehensive overview of theoretical concepts underlying GIS systems and to give students a strong set of practical skills to use GIS for sustainable development research.&#38;nbsp; Geographic Information Systems (GIS) are a system of computer software, data and analysis methods used to create, store, manage, digital information that allow us to create maps and dynamic models to analyze the physical and social processes of the world. Through a mixture of lectures, readings, focused discussions, and hands-on exercises, students will acquire an understanding of the variety and structure of spatial data and databases, gain knowledge of the principles behind raster and vector based spatial analysis, and learn basic cartographic principles for producing maps that effectively communicate a message.&#38;nbsp; Student will also learn to use newly emerging web based mapping tools such as Google Earth, Google Maps and similar tools to develop online interactive maps and graphics. The use of other geospatial technologies such as the Global Positioning System will also be explored in this class.&#38;nbsp; Case studies examined in class will draw examples from a wide ranges of GIS applications developed to assist in the development, implementation and evaluation of sustainable development projects and programs.Offered in the Spring. &#38;nbsp; On completion of the course students will: &#38;nbsp; &#38;nbsp; &#38;nbsp; 1.&#38;nbsp; Use a variety of GIS software programs to create maps and reports. &#38;nbsp; 2.&#38;nbsp; Develop a sound knowledge of methods to search, obtain, and evaluate a wide variety of spatial data resources. &#38;nbsp; 3.&#38;nbsp; Develop skills needed to determine best practices for managing spatial data resources. &#38;nbsp; 4.&#38;nbsp; Use GIS to analyze the economic, social and environmental processes underlying the concept of building a sustainable world. &#38;nbsp; 5.&#38;nbsp; Gain an understanding of the limits of these technologies and make assessments of uncertainty associated with spatial data and spatial analysis models. Priority given to sustainable development senior and juniors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Mendeloff, M. Becker</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Mendeloff, M. Becker</course_instructors_full>
+
+<classes><class><call_number>14694</call_number>
+
+<class_name>GIS FOR SUSTAINABLE DEV</class_name>
+
+<course_identifier>SDEVW3390</course_identifier>
+
+<course_number>3390</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;18 LEHMAN HALL&#60;br /&#62;Th 1:00p - 2:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>M. Becker</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>27</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3390-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>76647</call_number>
+
+<class_name>GIS FOR SUSTAINABLE DEV</class_name>
+
+<course_identifier>SDEVW3390</course_identifier>
+
+<course_number>3390</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Mendeloff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3390-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3400</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3400x</course_identifier_cooked>
+
+<course_name>Demography of Human Populations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Population processes and their outcomes in terms of population size and distribution have a fundamental role in sustainable development and also broad policy implications. This course will introduce students to the scientific study of human populations as a contribution toward understanding social structure, relations, and dynamics, as well as society-nature interactions. The aim is to offer a basic introduction to the main theories, concepts, measures, and uses of demography. The course will cover the issues of population size, distribution and composition, and consumption, at different scales from global to regional to local, as well as the implications for population-environment relationships. It will also address the fundamental demographic processes of mortality, fertility and migration, including their trends and transitions, We will consider these topics in the context of economic development, sustainability and cultural change. The course will also include an overview of basic demographic techniques and tools used for identifying, managing, analyzing and interpreting population data, and an introduction to population projections. Lab sessions will supplement readings and lectures by enabling students to explore data sources, calculate rates, and graphically represent demographic data. Offered in the Fall (even years).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Adamo</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Adamo</course_instructors_full>
+
+<classes><class><call_number>80941</call_number>
+
+<class_name>HUMAN POPULATIONS &#38; SDEV</class_name>
+
+<course_identifier>SDEVW3400</course_identifier>
+
+<course_number>3400</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;506 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Adamo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>30</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3400-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3410</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3410x</course_identifier_cooked>
+
+<course_name>Urbanization and Sustainable Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The first decade of the 21st Century marked the first time in human history when more of world&#38;rsquo;s population &#38;nbsp;lived in urban as distinct from rural places. It is impossible to achieve sustainable development in a physical, social or economic manner absent an understanding of the powerful and interdependent relationship between these concepts of sustainability and urbanization. This course explores this vital nexus. Students will gain a more detailed understanding of the ways in which urban life provides opportunities and challenges for addressing climate change, access to water and energy efficiency, among other topics. The intention is to provide students majoring in Sustainable Development with an historic and contemporary understanding of the connections between the process of urbanization that now dominates the world and the range of ways in which that process, directly and indirectly, shapes the challenge of sustainable development. Offered in the Fall (even years).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Sclar</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Sclar</course_instructors_full>
+
+<classes><class><call_number>16648</call_number>
+
+<class_name>URBANIZATION &#38; SUSTAINABI</class_name>
+
+<course_identifier>SDEVW3410</course_identifier>
+
+<course_number>3410</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:05p - 3:55p&#60;br /&#62;404 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>E. Sclar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>30</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>27</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3410-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3450</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3450y</course_identifier_cooked>
+
+<course_name>Spatial Analysis and Modeling for Sustainable Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is an intermediate course in spatial modeling developed specifically for students in the undergraduate Sustainable Development program. This course will provide a foundation for understanding a variety of issues related to spatial analysis and modeling.&#38;nbsp; Students will explore the concepts, tools, and techniques of GIS modeling and review and critique modeling applications used for environmental planning and policy development. The course will also offer students the opportunity to design, build and evaluate their own spatial analysis models. The course will cover both vector and raster based methods of analysis with a strong focus on raster-based modeling.&#38;nbsp; We will draw examples from a wide range of applications in such areas as modeling Land Use and Land Cover for biodiversity and conservation, hydrological modeling, and site suitability modeling. The course will consist of lectures, reading assignments, lab assignments, and a final project. Priority given to sustainable development senior and juniors. Offered in the Spring.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Becker</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Becker</course_instructors_full>
+
+<classes><class><call_number>60845</call_number>
+
+<class_name>SPATIAL ANALYSIS FOR SDEV</class_name>
+
+<course_identifier>SDEVW3450</course_identifier>
+
+<course_number>3450</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>M. Becker</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3450-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<subject_area_name>Sustainable Development</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SDEV W3998x and y</course_identifier_cooked>
+
+<course_name>Sustainable Development Independent Study</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sustainable development majors and special concentrators must register for this independent study to use internship hours for the practicum credit. Students must consult with their program adviser and department before registering.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Defries</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Defries</course_instructors_full>
+
+<classes><class><call_number>60153</call_number>
+
+<class_name>SUPERVISED INDIVIDUAL RES</class_name>
+
+<course_identifier>SDEVW3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>R. Defries</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3998-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>61103</call_number>
+
+<class_name>SUPERVISED INDIVIDUAL RES</class_name>
+
+<course_identifier>SDEVW3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>R. Defries</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>SDEV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SDEV/W3998-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SUDV</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>4420</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF U4420y</course_identifier_cooked>
+
+<course_name>Oil, Rights and Development</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; This multi-layered role-playing simulation, based on a fictitious country, allows exploration of the challenges associated with initiation of a major industrial venture in a developing country as regards any or all of the following: Macro-Economic and Political Factors; Identification of Priorities; Environmental Management; Complications arising from Ethnic and Religious conflicts; Health Management (including HIV/AIDS); Community Development aspects; Reconciliation of the interests of a wide variety of Stakeholders; Media Management; Achievement of the largest possible Circle of Consensus. Offered in Spring.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Radon</course_instructors_actual>
+
+<course_instructors_expected>E. Barkan</course_instructors_expected>
+
+<course_instructors_full>E. Barkan, J. Radon</course_instructors_full>
+
+<classes><class><call_number>60531</call_number>
+
+<class_name>OIL, RIGHTS &#38; DEVELOPMENT</class_name>
+
+<course_identifier>INAFU4420</course_identifier>
+
+<course_number>4420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>FSa 8:00a - 8:00p&#60;br /&#62;1501 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>J. Radon</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>45</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U4420-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

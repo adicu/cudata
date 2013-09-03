@@ -1,0 +1,845 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8002</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8002x</course_identifier_cooked>
+
+<course_name>Doctoral Proseminar in Social Work Research</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>0 pts. Required of all degree candidates. The proseminar introduces incoming students to the research process and a range of research studies as well as the faculty conducting them at Columbia. It also provides some ongoing group advisement and skills workshops.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Teitler</course_instructors_expected>
+
+<course_instructors_full>J. Teitler</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8003</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>T</school_bulletin_prefix_code_2>
+
+<course_number_2>8004</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8003x or y-T8004</course_identifier_cooked>
+
+<course_name>Advanced Tutorial Courses</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students may take these courses provided they have completed relevant work available in the regular course program.&#38;nbsp; Tutorials are offered in social gerontology, children and family services, health services, substance abuse, AIDS, family policy, and comparative social policy, among others.&#38;nbsp; Social work practice and social science tutorials are offered when required by students in attendance.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8202</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8202x</course_identifier_cooked>
+
+<course_name>Ecosystems Perspective: Theory, Research and Practice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is the third required course in the advanced practice sequence.&#38;nbsp; Focuses on exploration of the knowledge bases and research issues for the understanding and supply of (1) the transactions between people and their environment and (2) related practice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Lukens</course_instructors_expected>
+
+<course_instructors_full>E. Lukens</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8203</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8203y</course_identifier_cooked>
+
+<course_name>Seminar In Advanced Social Work Practice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is the second required course in the advanced practice sequence.&#38;nbsp; Examines the nature of professional knowledge and issues and trends in the development of knowledge for use by social work practitioners.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Gearing</course_instructors_expected>
+
+<course_instructors_full>R. Gearing</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8403</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8403y</course_identifier_cooked>
+
+<course_name>Social Administration</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A required course in the administrative sequence. An elective for other students. Principles of administration applied to voluntary and governmental social agencies and drawn from administrative theory and research. Case illustrations from social work agencies, government, and business. Relation of administrative policies and organization to the kind and quality of service rendered to clients of social agencies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Mandiberg</course_instructors_expected>
+
+<course_instructors_full>J. Mandiberg</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8404</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8404y</course_identifier_cooked>
+
+<course_name>Comparative Social Policy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course introduces the student to the literature and data on social policies across the world. Most of the readings focus on similarities and differences within the rich world, but attention is also paid to policies in low and middle income countries. Students work in small teams to produce a paper with a quantitative analysis of differences in policies or outcomes across countries.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8407</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8407y</course_identifier_cooked>
+
+<course_name>Seminar In Social Policy Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed to enhance the student&#39;s ability to conduct social policy analysis by acquainting them with several tools of the trade, including benefit-cost analysis, reviewing literatures, social experimentation, regression analysis, and micro-simulation analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Microeconomics sequence</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Garfinkel</course_instructors_expected>
+
+<course_instructors_full>I. Garfinkel</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8502</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8502x</course_identifier_cooked>
+
+<course_name>Research Methods In Social Work</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A review of research methods from the perspective of social work research concerns. Topics include problem formulation, research design, data-gathering techniques, measurement, and data analysis. Selected aspects of these areas encountered in social work research are intensively reviewed in terms of social work research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Teitler</course_instructors_expected>
+
+<course_instructors_full>J. Teitler</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8505</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8505x</course_identifier_cooked>
+
+<course_name>Dissertation Seminar</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussion of problem formulation and research design on topics suggested by participants, in order to help doctoral candidates formulate dissertation proposals.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Garfinkel</course_instructors_expected>
+
+<course_instructors_full>I. Garfinkel</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8506</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8506x</course_identifier_cooked>
+
+<course_name>Inequality, Poverty and Public Society (elective)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Addresses issues relating to wealth and income inequality in American society, the definition of poverty, the composition of the poverty population, and the causes of poverty.&#38;nbsp; Evidence will be examined regarding trends in inequality, duration of poverty spells, repeat stays on welfare, and the perpetuation of inequality across generations.&#38;nbsp; Several large data sets which contain information on inequality and poverty issue will be made available for class use. &#38;nbsp; Either individually, or in teams, students will formulate research projects and undertake analyses from one or more of the data sets in the formulation and execution of a research study.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Garfinkel</course_instructors_expected>
+
+<course_instructors_full>I. Garfinkel</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8507</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8507y</course_identifier_cooked>
+
+<course_name>Intervention Research Methods (elective)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Focuses on the science of behavioral intervention research and provides students with the knowledge and skills to design and evaluate such research. Covers research design, theory and its relationship to study aims, methodology, measurement and outcomes, efficacy and effectiveness clinical trials, different types of intervention research, sampling, recruitment, the process of intervention development, the use of process measures to examine intervention implementation, assessing fidelity and adherence, conducting data analysis, and the importance of research ethics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. El-Bassel</course_instructors_expected>
+
+<course_instructors_full>N. El-Bassel</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8509</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>T</school_bulletin_prefix_code_2>
+
+<course_number_2>8510</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8509x-T8510y</course_identifier_cooked>
+
+<course_name>Qualitative Research Methods I &#38; II (Elective)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Two-semester introduction to critical issues in qualitative research. Overview of different qualitative methods, with an emphasis on field research. Classic theories are examined, primarily in terms of their application to social work research. Students are required to conduct a small study in an area of their choosing.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>T8502 or permission of the instructor</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>V. Lens</course_instructors_expected>
+
+<course_instructors_full>V. Lens</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8511</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8511y</course_identifier_cooked>
+
+<course_name>Advanced Methods for Policy Analysis (Elective)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This advanced course focuses on the use of empirical methods in policy analysis.&#38;nbsp; Through a series of directed readings on major policy topics, students learn how policy research methods have been used and what their strengths and limitations are.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Previous course work on causal inference and good working knowledge of STATA.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Waldfogel</course_instructors_expected>
+
+<course_instructors_full>J. Waldfogel</course_instructors_full>
+
+</course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>8801</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T8801x</course_identifier_cooked>
+
+<course_name>Comparative Histories of Social Welfare and Social Work</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required of all degree candidates. Taken in the first semester, this course provides a comparative historical and philosophical perspective on the development of social welfare and social work institutions, concepts, issues and paradigms in the U.S. and two other nations or parts of the world.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Simon</course_instructors_actual>
+
+<course_instructors_expected>B. Simon</course_instructors_expected>
+
+<course_instructors_full>B. Simon</course_instructors_full>
+
+<classes><class><call_number>77796</call_number>
+
+<class_name>COMP HIST: SW,SOCIAL WELF</class_name>
+
+<course_identifier>SOCWT8801</course_identifier>
+
+<course_number>8801</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:00p - 3:50p&#60;br /&#62;805 SCHOOL OF SOCIAL WORK</days_times>
+
+<instructors>B. Simon</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>T</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCW/T8801-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCW</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCW</subject_area_code>
+
+<subject_area_name>Social Work</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>9800</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCW T9800x</course_identifier_cooked>
+
+<course_name>Doctoral Research Instruction</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>6</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In the term following the passing of comprehensive examinations, doctoral candidates must register for a total of 6 points of instruction. Supervision and consultation are provided by the faculty to doctoral candidates in the courses of their selection of the dissertation topic, carrying out the prescribed research, and writing the dissertation. Library privileges are included.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

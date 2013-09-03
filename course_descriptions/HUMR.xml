@@ -1,0 +1,3902 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS V3001x</course_identifier_cooked>
+
+<course_name>Introduction To Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>International human rights is a powerful idea in our time, but also the focus of numerous controversies: it not only embodies a set of ideals but also functions as a political tool, which different forces try to bend to their own ends. The result of this struggle is a process of norm contestation and norm change that the course seeks to understand. The course looks at the laws and institutions that define human rights as an international regime, in the context of key intellectual controversies and political puzzles surrounding human rights theory and practice. It discusses how human rights norms change, and it analyzes some of the challenges of contemporary human rights advocacy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nathan</course_instructors_actual>
+
+<course_instructors_expected>A. Nathan</course_instructors_expected>
+
+<course_instructors_full>A. Nathan</course_instructors_full>
+
+<classes><class><call_number>61551</call_number>
+
+<class_name>INTRODUCTION TO HUMAN RIG</class_name>
+
+<course_identifier>HRTSV3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Nathan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>134</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/V3001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3190</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS V3190y</course_identifier_cooked>
+
+<course_name>International Human Rights Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will introduce students to the international law of human rights, and give a basic orientation to fundamental issues and controversies. The course has two principal focal points: first, the &#34;nuts and bolts&#34; of how international law functions in the field of human rights, and second, the value and limitations of legal approaches to a variety of human rights issues. Throughout the course, both theoretical and practical questions will be addressed, including who bears legal duties and who can assert legal claims, how these duties might be enforced, and accountability and remedy for violations. Attention will be given to how international law is made, what sorts of assumptions underlie various legal mechanisms, and how the law works in a variety of contexts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Po Kempner</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Po Kempner</course_instructors_full>
+
+<classes><class><call_number>12398</call_number>
+
+<class_name>INT&#39;L HUMAN RIGHTS LAW</class_name>
+
+<course_identifier>HRTSV3190</course_identifier>
+
+<course_number>3190</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;501A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>D. Po Kempner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/V3190-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS W3930y</course_identifier_cooked>
+
+<course_name>International Humanitarian Law and Human Rights</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This seminar will cover various issues, debates, and concepts in the international law of armed conflict (known as international humanitarian law), particularly as it relates to the protection of non-combatants and civilians. In doing so, we will examine how international humanitarian law and human rights law intersect. Both sets of legal norms are designed to protect the lives, well-being, and dignity of individuals. However, the condition of armed conflict provides a much wider set of options for governments and individuals to engage in violent, deadly action against others, including killing, forcibly detaining, and destroying the property of those designated as combatants. At the same time, the means of waging war are not unlimited, but rather are tightly regulated by both treaty and customary law. This course will examine how these regulations operate in theory and practice, focusing on the principles of distinction, proportionality, and military necessity.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Cronin</course_instructors_actual>
+
+<course_instructors_expected>B. Cronin</course_instructors_expected>
+
+<course_instructors_full>B. Cronin</course_instructors_full>
+
+<classes><class><call_number>22920</call_number>
+
+<class_name>INT&#39;&#39;L HUMANITARIAN LAW/</class_name>
+
+<course_identifier>HRTSW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;302 FAYERWEATHER</days_times>
+
+<instructors>B. Cronin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/W3930-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3950</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS W3950x</course_identifier_cooked>
+
+<course_name>Human Rights and Human Wrongs</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will examine the tension between two contradictory trends in world politics. On the one hand, we have emerged from a century that has seen some of the most brutal practices ever perpetrated by states against their populations in the form of genocide, systematic torture, mass murder and ethnic cleansing. Many of these abuses occurred after the Holocaust, even though the mantra &#34;never again&#34; was viewed by many as a pledge never to allow a repeat of these practices. Events in the new century suggest that these trends will not end anytime soon. At the same time, since the middle of the twentieth century, for the first time in human history there has been a growing global consensus that all individuals are entitled to at least some level of protection from abuse by their governments. This concept of human rights has been institutionalized through international law, diplomacy, international discourse, transnational activism, and the foreign policies of many states. Over the past two decades, international organizations, non-governmental organizations, and international tribunals have gone further than any institutions in human history to try to stem state abuses. This seminar will try to make sense of these contradictions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Cronin</course_instructors_actual>
+
+<course_instructors_expected>B. Cronin</course_instructors_expected>
+
+<course_instructors_full>B. Cronin</course_instructors_full>
+
+<classes><class><call_number>69722</call_number>
+
+<class_name>HUMAN RIGHTS &#38; HUMAN WRON</class_name>
+
+<course_identifier>HRTSW3950</course_identifier>
+
+<course_number>3950</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;402 HAMILTON HALL</days_times>
+
+<instructors>B. Cronin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/W3950-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3995</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS W3995x</course_identifier_cooked>
+
+<course_name>Senior Seminar In Human Rights</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The senior seminar is a capstone course that brings students together for a common academic experience. The seminar provides students the opportunity to discuss human rights from a variety of disciplinary perspectives and to explore various theoretical approaches and research methodologies. Students undertake individual research projects while collectively examining human rights through directed readings and discussion.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nathan</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Nathan</course_instructors_full>
+
+<classes><class><call_number>63839</call_number>
+
+<class_name>HUMAN RIGHTS SENIOR SEMIN</class_name>
+
+<course_identifier>HRTSW3995</course_identifier>
+
+<course_number>3995</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 9:00a - 10:50a&#60;br /&#62;401 HAMILTON HALL</days_times>
+
+<instructors>A. Nathan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/W3995-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3996</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS W3996y</course_identifier_cooked>
+
+<course_name>Human Rights Thesis Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is designed for human rights students who wish to write a honors-eligible thesis. The course will consist of group sessions, during which time students will present their work and participate in discussions, and individual meetings with the thesis supervisor. The course instructor is the thesis supervisor for each student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>HRTS W3995 Human Rights Senior Seminar. Application information and deadlines online: http://hrcolumbia.org/undergraduate/seniors</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Rosenthal</course_instructors_actual>
+
+<course_instructors_expected>M. Rosenthal</course_instructors_expected>
+
+<course_instructors_full>M. Rosenthal</course_instructors_full>
+
+<classes><class><call_number>66946</call_number>
+
+<class_name>HUMAN RIGHTS THESIS SEM</class_name>
+
+<course_identifier>HRTSW3996</course_identifier>
+
+<course_number>3996</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;607 HAMILTON HALL</days_times>
+
+<instructors>M. Rosenthal</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/W3996-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G4020x</course_identifier_cooked>
+
+<course_name>Introduction to Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Registration priority given to Human Rights Studies M.A. students. This course will provide a wide-ranging survey of conceptual foundations and issues in contemporary human rights. The class will examine the philosophical origins of human rights, their explication in the evolving series of international documents, as well as questions of enforcement through international law and treaty arrangements. The course will also examine contemporary topics that are in the forefront of concern, among them - the status of women, refugees, children, the use of torture and the horrors of genocide. Though the course emphasizes political rights, it also recognizes the evolution of the human rights culture, the growing importance of economic rights and tensions related to globalization and multiculturalism. The broad range of subjects covered in the course is intended to assist students in honing their interests and making future course selections in the human rights field.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Ikawa, J. Chuman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Ikawa, J. Chuman</course_instructors_full>
+
+<classes><class><call_number>82546</call_number>
+
+<class_name>INTRO TO HUMAN RIGHTS</class_name>
+
+<course_identifier>HRTSG4020</course_identifier>
+
+<course_number>4020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:10p - 8:00p&#60;br /&#62;301M FAYERWEATHER</days_times>
+
+<instructors>J. Chuman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4020-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>27695</call_number>
+
+<class_name>INTRO TO HUMAN RIGHTS</class_name>
+
+<course_identifier>HRTSG4020</course_identifier>
+
+<course_number>4020</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;1102 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>D. Ikawa</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4020-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4020z</course_identifier_cooked>
+
+<course_name>Introduction to Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Provides a wide-ranging survey of conceptual foundations and issues in contemporary human rights. The class will examine the philosophical origins of human rights, their explication in the evolving series of international documents, as well as questions of enforcement through international law and treaty arrangements. Examines contemporary topics that are in the forefront of concern, among them - the status of women, refugees, children, the use of torture and the horrors of genocide. Though the course emphasizes political rights, it also recognizes the evolution of the human rights culture, the growing importance of economic rights and tensions related to globalization and multiculturalism. The broad range of subjects covered in the course is intended to assist students in honing their interests and making future course selections in the human rights field.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4025</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4025z</course_identifier_cooked>
+
+<course_name>History of Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; This course takes a critical approach to the development of human rights and its current applications. Drawing on politics, philosophy, the social sciences including economics and international relations, it will examine the contributions of different social institutions, notably religion and culture, as well as the anti-slavery and anti-apartheid movements. The course will study how grievances, atrocities, armed conflicts, persecutions, discrimination and violence result or not in new social norms and institutions.&#38;nbsp; Students will explore this process in multiple ways, beginning with ancient civilizations, and reaching to modern times, focusing on (A) American ideals and policymaking since the seventeenth century; (B) influential international movements and documents in the twentieth century; and (C) international human rights as a factor in contemporary domestic and world politics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Sneh</course_instructors_expected>
+
+<course_instructors_full>I. Sneh</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4180</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4180z</course_identifier_cooked>
+
+<course_name>Human Rights and Business</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Since the 1990s, there has been increased focus and debate on the role of business with respect to human rights. Business has contributed to millions of people around the world being lifted out of poverty; but at the same time companies in all industries have contributed to human rights abuses, such as exploitative working conditions in factories, social unrest and environmental destruction around oil and mining projects, and censorship and surveillance by internet service providers. This course is an in-depth exploration of the relationship between business and human rights: from a historical perspective, as we discuss the evolution of the debate about corporate social responsibility and business&#39;s responsibilities with respect to human rights, then from an applied perspective as we focus on particular cases, industries, and issues. By the end of the course, students should have a solid grounding in the background and current issues related to business and human rights; understand the positions of different stakeholder groups; and be able to critically evaluate the responsibilities and actions of key actors in situations where corporate-related human rights abuses have occurred, including what prevention and/or mitigation steps could be effective.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Bauer</course_instructors_expected>
+
+<course_instructors_full>J. Bauer</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4190</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4190z</course_identifier_cooked>
+
+<course_name>Human Rights and the Image</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the relationship between visual culture and human rights. It considers a wide range of visual media (photography, painting, sculpture), as well as aspects of visuality (surveillance, profiling). We will use case studies ranging in time from the early modern period (practices in which the body was marked to measure criminality, for example), to the present day. Within this framework, we will study how aspects of visual culture have been used to advocate for human rights, as well as how images and visual regimes have been used to suppress human rights. An important part of the course will be to consider the role played by reception in shaping a discourse around human rights, visuality, and images. Subjects to be addressed include: the nature of evidence; documentation and witness; censorship; iconoclasm; surveillance; profiling; advocacy images; signs on the body; visibility and invisibility.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4210</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS G4210y</course_identifier_cooked>
+
+<course_name>Equality, Identity &#38; Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines one of the main dilemmas in human rights theory and practice: the balance between equality and identity. Such balance is studied in three different stages: the foundation for human rights, the content of human rights, and the goals sought in drafting a body of human rights&#39; norms. In order to debate different concepts of equality and their connection to identity and difference, some core questions are explored: What type of equality are we looking for: complete equality of results, complete equality of opportunities, equal treatment, equality of respect, equal consideration of preferences, equality of resources, equality based on needs, equality of agency, equality of freedom? Is it equality for whom? Finally, the course discusses the rights of differently situated groups: national minorities, indigenous peoples, racial minorities, women, LGBT, persons with disabilities, children, and religious groups.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Ikawa</course_instructors_actual>
+
+<course_instructors_expected>D. Ikawa</course_instructors_expected>
+
+<course_instructors_full>D. Ikawa</course_instructors_full>
+
+<classes><class><call_number>13041</call_number>
+
+<class_name>EQUALITY,IDENTITY &#38; RIGHT</class_name>
+
+<course_identifier>HRTSG4210</course_identifier>
+
+<course_number>4210</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;402 HAMILTON HALL</days_times>
+
+<instructors>D. Ikawa</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4210-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4220</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4220z</course_identifier_cooked>
+
+<course_name>International Human Rights Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Provides an introduction to the legal aspects of international human rights. We will cover the major international human rights documents and treaties, the substance of the laws they create, and the international procedures and mechanisms for implementing them. We will consider some of today&#39;s most significant human rights issues and controversies, such as the prohibition of hate speech, the treatment of Guantanamo detainees, the use of torture, and the legality of humanitarian intervention to prevent genocide. This course will enable you to: explain the bases and significance of international human rights law; analyze the content of international human rights documents and cases; understand international enforcement mechanisms for human rights; debate opposing sides of important human rights issues; write advocacy essays; and engage in substantive research on human rights issues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4225</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4225z</course_identifier_cooked>
+
+<course_name>Human Rights and the U.N.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp;In this course, we will examine how the general ideals set out in the United Nations&#39; Charter have slowly evolved into a solid body of international human rights law, supported by an increasingly credible institutional framework. The role of the United Nations, however, in making human rights come to life goes well beyond the activities of entities such as the Office of the High Commissioner for Human Rights and the Human Rights Commission. The entire approach of the United Nations&#39; organizations in addressing humanitarian and development needs is now shaped by a right-based methodology, and we will see how the universal values of the Charter have been translated into concrete programs of action responding to a wide range of global concerns, from reproductive rights to climate change. &#38;nbsp;The course will include lectures by Columbia University faculty and guest speakers from the United Nations, as well as facilitated group discussions and site visits.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4290</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4290z</course_identifier_cooked>
+
+<course_name>Health and Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class is an introduction to the discipline of health and human rights &#239;&#191;&#189; that is, to the application of human rights norms and tools to public health and particular challenges within public health.&#38;nbsp; Through case examples of specific public health problems, students will see the way that laws and policies (sometimes embodying human rights norms and sometimes not) shape public health responses and will be challenged to develop human rights-based approaches to public health problems.&#38;nbsp; A wide range of issues &#239;&#191;&#189; sexual and reproductive rights, HIV/AIDS, health problems of criminalized populations, and others &#239;&#191;&#189; are explored to illustrate the importance of sustained human rights inquiry and analysis in public health.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4300</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G4300x</course_identifier_cooked>
+
+<course_name>Economic, Social and Cultural Rights in Policy and Practice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will address economic and social human rights through the lens of what is happening now in the early 21st century, in light of the enormous shifts that have taken place since the modern human rights movement first emerged in the aftermath of WWII. The course will address many of the central debates about economic and social rights and then examine how those debates apply to specific rights and topics including development, health, housing, work, food and education. Throughout, the course will examine how activists and policymakers have responded to all these changes, and ask what might lie ahead for the human rights movement in addressing economic and social rights in a multilateral, globalized world.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Rosenthal</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Rosenthal</course_instructors_full>
+
+<classes><class><call_number>63010</call_number>
+
+<class_name>ECON,SOC,CULTURAL RTS-POL</class_name>
+
+<course_identifier>HRTSG4300</course_identifier>
+
+<course_number>4300</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 8:10p - 10:00p&#60;br /&#62;1102 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>M. Rosenthal</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4300-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4320</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS W4320</course_identifier_cooked>
+
+<course_name>Seminar: Human Rights and Social Justice</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4404</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4404z</course_identifier_cooked>
+
+<course_name>Human Rights of Women</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course will examine the integration of women&#39;s human rights into the UN international human rights system through study of several relevant UN bodies, treaties and declarations, human rights reports, and NGO activities. The course will consider successes, contestations and defenses of applications of human rights to women&#39;s issues. It will examine dialogues among activists, scholars and UN experts on how women&#39;s human rights are implemented. Readings will be from international affairs, anthropology, sociology, law, news articles and NGO websites.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4410</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G4410y</course_identifier_cooked>
+
+<course_name>Children&#39;s Rights: Selected Issues</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will focus on both the theories surrounding, and practices of, children&#39;s rights. It will start from the foundational question of whether children should be treated as rights-holders and whether this approach is more effective than alternatives for promoting children&#39;s well-being. Consideration will be given to the major conceptual and developmental issues embedded within the framework of rights in the Convention on the Rights of the Child (CRC). The course will cover issues in both the domestic and international arenas, including but not limited to: children&#39;s rights in the criminal justice; children&#39;s rights to housing and health care; inequities in education systems; child labor; children and armed conflict; street children; the rights of migrant, refugee, homeless, and minority children; and the commodification of children. Case studies will be used to ensure that students have a solid understanding of current conditions. The course will also explore the US ratification of the CRC and offer critical perspectives on the advocacy and education-based work of international children&#39;s rights organizations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Holland</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Holland</course_instructors_full>
+
+<classes><class><call_number>67904</call_number>
+
+<class_name>CHILDREN&#39;&#39;S RIGHTS: SEL I</class_name>
+
+<course_identifier>HRTSG4410</course_identifier>
+
+<course_number>4410</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>T. Holland</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4410-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4410</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4410z</course_identifier_cooked>
+
+<course_name>Children&#39;s Rights: Selected Issues</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will focus on both the theories surrounding, and practices of, children&#39;s rights. It will start from the foundational question of whether children should be treated as rights-holders and whether this approach is more effective than alternatives for promoting children&#39;s well-being. Consideration will be given to the major conceptual and developmental issues embedded within the framework of rights in the Convention on the Rights of the Child (CRC). The course will cover issues in both the domestic and international arenas, including but not limited to: children&#39;s rights in the criminal justice; children&#39;s rights to housing and health care; inequities in education systems; child labor; children and armed conflict; street children; the rights of migrant, refugee, homeless, and minority children; and the commodification of children. Case studies will be used to ensure that students have a solid understanding of current conditions. The course will also explore the US ratification of the CRC and offer critical perspectives on the advocacy and education-based work of international children&#39;s rights organizations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Fotrell</course_instructors_expected>
+
+<course_instructors_full>D. Fotrell</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4710</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G4710</course_identifier_cooked>
+
+<course_name>Human Rights and Social Justice</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4730</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS S4730z</course_identifier_cooked>
+
+<course_name>Transitional Justice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Dealing with the legacies of past human rights abuse or atrocity - whether committed under authoritarian regimes, in the midst of conflict, or in established democracies - represents certain opportunities and challenges. This course focuses on the field of transitional justice, a set of policy prescriptions that include prosecuting past offenders (in various venues or at various levels, including international, domestic, and hybrid courts); truth commissions (sometimes called &#34;truth and reconciliation commissions&#34;); the thorny question of amnesty; memory work, such as creating museums, sites of memory, and new-paradigm war memorials; and reparation. Throughout the course, we will also examine reconciliation, gender, and the idea of guarantees of non-repetition (i.e. &#34;never again&#34;). Cases examined will include Argentina, Brazil, Cambodia, Chile, Ghana, Iraq, Kenya, Morocco, Peru, Sierra Leone, South Africa, and Timor-Leste.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4800</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G4800x and y</course_identifier_cooked>
+
+<course_name>International Human Rights Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Registration priority given to Human Rights Studies M.A. students. This course introduces the fundamental concepts and problems of public international law. What are the origins of international law? Is international law really law? Who is governed by it? How are treaties interpreted? What is the relationship between international law and domestic law? We examine the interplay between law and international politics, in particular with reference to international human rights, humanitarian law, the use of force, and international criminal prosecutions. No prior knowledge of international law is required. While the topics are necessarily law-related, the course will assume no prior exposure to legal studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Cooper</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Cooper</course_instructors_full>
+
+<classes><class><call_number>26540</call_number>
+
+<class_name>INTERNATIONAL HUMAN RIGHT</class_name>
+
+<course_identifier>HRTSG4800</course_identifier>
+
+<course_number>4800</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;402 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>B. Cooper</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4800-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>61450</call_number>
+
+<class_name>INTERNATIONAL HUMAN RIGHT</class_name>
+
+<course_identifier>HRTSG4800</course_identifier>
+
+<course_number>4800</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;522C KENT HALL</days_times>
+
+<instructors>B. Cooper</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4800-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4810</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G4810y</course_identifier_cooked>
+
+<course_name>Religion and Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The resurgence of religion over the past three decades has had a transformative influence globally and within nations. Religious nationalism, fundamentalism, and communalism have arisen to forcefully compete with secular democracy. With the fall of the Soviet bloc and the bilateralism of the Cold War, ethnic particularism, often of a religious character, has emerged as the locus of identity for people on all continents. These rapid changes engendered by a new, often commanding, role for religion challenge the very concept of individual and universal human rights. They raise difficult theoretical and painfully practical questions as to the preservation of individual human rights, and the relationship of democracy to religion. At the same time, recent currents such as economic globalization, the triumph of the free market, and the communications revolution promote individual autonomy, a cornerstone of human rights. There can be no doubt that religion will occupy an increasingly salient role in the social and political life of nations during the course of the 21st century. The relevance of religion to human rights in our time cannot be undervalued. The course examines the relationship of religion to human rights from several standpoints, including religion&#39;s role in abetting intolerance, religious minorities as victims of human rights violations, and religion as a framer of human rights ideals which inspire action.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Chuman</course_instructors_actual>
+
+<course_instructors_expected>J. Chuman</course_instructors_expected>
+
+<course_instructors_full>J. Chuman</course_instructors_full>
+
+<classes><class><call_number>23502</call_number>
+
+<class_name>RELIGION AND HUMAN RIGHTS</class_name>
+
+<course_identifier>HRTSG4810</course_identifier>
+
+<course_number>4810</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:10p - 8:00p&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>J. Chuman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4810-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4820</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G4820x and y</course_identifier_cooked>
+
+<course_name>Human Rights and International Organizations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Registration preference given to Human Rights Studies M.A. students. This course examines the role of international organizations in the promotion and protection of internationally recognized human rights norms. In particular, the course surveys contending approaches on the importance of international organizations in world politics; explores the constitution, history and function of various international organizations for the promotion/protection of human rights and studies the way in which the human rights discourse has been increasingly intersecting with the peace and security and the sustainable development discourses in the work of these organizations; provides an overview of the growing interaction between international organizations and NGOs; and assesses the record of these organizations&#39; monitoring and enforcement mechanisms in the area of human rights.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Andreopoulos</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Andreopoulos</course_instructors_full>
+
+<classes><class><call_number>76945</call_number>
+
+<class_name>HUMAN RIGHTS &#38; INT ORG</class_name>
+
+<course_identifier>HRTSG4820</course_identifier>
+
+<course_number>4820</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;607 HAMILTON HALL</days_times>
+
+<instructors>G. Andreopoulos</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4820-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>28694</call_number>
+
+<class_name>HUMAN RIGHTS &#38; INT ORG</class_name>
+
+<course_identifier>HRTSG4820</course_identifier>
+
+<course_number>4820</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;201 80 CLAREMONT</days_times>
+
+<instructors>G. Andreopoulos</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G4820-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4905</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS W4905</course_identifier_cooked>
+
+<course_name>Literature and Human Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6012</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS S6012</course_identifier_cooked>
+
+<course_name>Human Rights and International Affairs</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6142</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS U6142</course_identifier_cooked>
+
+<course_name>Human Rights In International and Domestic Law and Institutions</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course requested (courseID 0) does not exist.0</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6142</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS U6142</course_identifier_cooked>
+
+<course_name>Human Rights In International and Domestic Law and Institutions</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6153</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS U6153</course_identifier_cooked>
+
+<course_name>Refugee and Displaced Persons: International Policies and Programs</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6242</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6242</course_identifier_cooked>
+
+<course_name>Environmental Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>6251</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS W6251</course_identifier_cooked>
+
+<course_name>The Constitution and American Foreign Affairs</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6260</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6260</course_identifier_cooked>
+
+<course_name>The Individual and the State</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6261</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6261</course_identifier_cooked>
+
+<course_name>The Individual and the State: the Problem of Freedom of Expression</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6269</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6269</course_identifier_cooked>
+
+<course_name>International Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6276</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6276</course_identifier_cooked>
+
+<course_name>Human Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6277</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>L</school_bulletin_prefix_code_2>
+
+<course_number_2>6288</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6277-L6288</course_identifier_cooked>
+
+<course_name>Constitutional Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6378</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6378</course_identifier_cooked>
+
+<course_name>Rights and Rights Discourse</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6404</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6404</course_identifier_cooked>
+
+<course_name>Women and Human Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6404</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS S6404</course_identifier_cooked>
+
+<course_name>Women and Human Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6473</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6473</course_identifier_cooked>
+
+<course_name>Labor Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>6826</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L6826</course_identifier_cooked>
+
+<course_name>Gender-Based Discrimination and the Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>T</school_bulletin_prefix_code_1>
+
+<course_number_1>6922</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS T6922</course_identifier_cooked>
+
+<course_name>The Child, the Family, and the State</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8010</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G8010x and y</course_identifier_cooked>
+
+<course_name>Human Rights Graduate Research Colloquium I</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>1</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-1 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Colloquium I introduces HRSMA students to current research in the field and resources in print and electronic formats fundamental to advanced human rights research. Class meetings include lectures by faculty and researchers in the field and library staff on reference tools and skills. Students will complete the thesis proposal and present their proposals for peer review.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Martin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Martin</course_instructors_full>
+
+<classes><class><call_number>18457</call_number>
+
+<class_name>HUMAN RIGHTS GRAD RES COL</class_name>
+
+<course_identifier>HRTSG8010</course_identifier>
+
+<course_number>8010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;501 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>J. Martin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G8010-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>17412</call_number>
+
+<class_name>HUMAN RIGHTS GRAD RES COL</class_name>
+
+<course_identifier>HRTSG8010</course_identifier>
+
+<course_number>8010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;406 HAMILTON HALL</days_times>
+
+<instructors>J. Martin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G8010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8020</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HRTS G8020x and y</course_identifier_cooked>
+
+<course_name>Human Rights Graduate Research Colloquium II</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Human Rights Studies M.A. students must a submit thesis proposal and a registration form to the ISHR office in order to register for this course. Colloquium II is designed for Human Rights Studies students writing the thesis and other graduate students completing similar research projects on human rights. The colloquium provides a structured opportunity to research and write in stages. Students review and discuss current research in human rights, review research resources and develop skills required for a successful thesis, present their own and discuss others&#39; work, and receive constructive advice on their work and the thesis process.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Martin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Martin</course_instructors_full>
+
+<classes><class><call_number>29337</call_number>
+
+<class_name>HUMAN RIGHTS GRAD RES COL</class_name>
+
+<course_identifier>HRTSG8020</course_identifier>
+
+<course_number>8020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;501 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>J. Martin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G8020-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>69397</call_number>
+
+<class_name>HUMAN RIGHTS GRAD RES COL</class_name>
+
+<course_identifier>HRTSG8020</course_identifier>
+
+<course_number>8020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;522C KENT HALL</days_times>
+
+<instructors>J. Martin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HRTS/G8020-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8160</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS U8160</course_identifier_cooked>
+
+<course_name>Human Rights and Foreign Policy</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>8690</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS W8690</course_identifier_cooked>
+
+<course_name>Health Consequences of Forced Migration</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>8700</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS W8700</course_identifier_cooked>
+
+<course_name>Women and Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>8829</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS W8829</course_identifier_cooked>
+
+<course_name>Colloquium On International Human Rights Advocacy</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>9020</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS W9020</course_identifier_cooked>
+
+<course_name>Seminar: Constitutionalism In Comparative Perspectives</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9052</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9052</course_identifier_cooked>
+
+<course_name>Seminar In Employment Discrimination</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9135</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9135</course_identifier_cooked>
+
+<course_name>Seminar In the Origins of the Constitution and the Bill of Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9164</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9164</course_identifier_cooked>
+
+<course_name>Seminar: Labor Rights In the Global Economy</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9177</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9177</course_identifier_cooked>
+
+<course_name>Seminar: Human Rights, Constitutional Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9182</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9182</course_identifier_cooked>
+
+<course_name>Seminar: Laws of War and War Crimes</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9220</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9220</course_identifier_cooked>
+
+<course_name>Seminar: Race and Poverty Law</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9452</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9452</course_identifier_cooked>
+
+<course_name>Colloquium On Religion, Human Rights, and Religious Freedom</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>B</school_bulletin_prefix_code_1>
+
+<course_number_1>9462</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS B9462</course_identifier_cooked>
+
+<course_name>Transitional Business In Emerging Markets and International Human Rights</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>L</school_bulletin_prefix_code_1>
+
+<course_number_1>9736</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS L9736</course_identifier_cooked>
+
+<course_name>Seminar: International Criminal Tribunals</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>HUMR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HRTS</subject_area_code>
+
+<subject_area_name>Human Rights</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>9825</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HRTS W9825</course_identifier_cooked>
+
+<course_name>Seminar:  International Human Rights and Economic Development</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

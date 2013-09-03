@@ -1,0 +1,1340 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1010</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>ARCH V1010x (Section 01)</course_identifier_cooked>
+
+<course_name>Design Futures: New York City</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>How does design operate in our lives? What is our design culture? In this course, we explore the many scales of design in contemporary culture -- from graphic design to architecture to urban design to global, interactive, and digital design. The format of this course moves between lectures, discussions, collaborative design work and field trips in order to engage in the topic through texts and experiences.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Baxi, P. Zuspan</course_instructors_expected>
+
+<course_instructors_full>K. Baxi, P. Zuspan</course_instructors_full>
+
+</course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1020</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V1020x and y</course_identifier_cooked>
+
+<course_name>Introduction To Architectural Design and Visual Culture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introductory design studio to introduce students to architectural design through readings and studio design projects. Intended to develop analytic skills to critique existing media and spaces. Process of analysis used as a generative tool for the students&#39; own design work. Attendance is mandatory at the first class meeting in order to form class registration lists.</course_description>
+
+<corequisites>Intended for the non-major, sophomore year and above.  Enrollment limited to 18 students.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Tang, M. Schwartzman</course_instructors_actual>
+
+<course_instructors_expected>R. Rouhe</course_instructors_expected>
+
+<course_instructors_full>H. Tang, M. Schwartzman, R. Rouhe</course_instructors_full>
+
+<classes><class><call_number>04084</call_number>
+
+<class_name>INTRO ARCH DESIGN VIS CUL</class_name>
+
+<course_identifier>ARCHV1020</course_identifier>
+
+<course_number>1020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 3:00p&#60;br /&#62;116A LEWISOHN HALL</days_times>
+
+<instructors>M. Schwartzman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V1020-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03527</call_number>
+
+<class_name>INTRO ARCH DESIGN VIS CUL</class_name>
+
+<course_identifier>ARCHV1020</course_identifier>
+
+<course_number>1020</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 9:00a - 10:50a&#60;br /&#62;116B LEWISOHN HALL</days_times>
+
+<instructors>H. Tang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V1020-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3101</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3101x or y</course_identifier_cooked>
+
+<course_name>Architectural Representation: Abstraction</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to design through analysis of abstract architectural space and form. Emphasis on the design process and principles of representations through architectural drawing and model making. Attendance is mandatory at the first class meeting in order to form class registration lists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students per section. Recommended for the sophomore year. Students work in a studio environment.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+<classes><class><call_number>04466</call_number>
+
+<class_name>ARCH.REPRSENTATION:ABSTRA</class_name>
+
+<course_identifier>ARCHV3101</course_identifier>
+
+<course_number>3101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 11:30a&#60;br /&#62;404 Diana Center</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3101-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3103</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3103x or y</course_identifier_cooked>
+
+<course_name>Architectural Representation: Perception</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to design through studies in the perception of architectural space and form. Emphasis on exploratory, inventive processes for the generation, development, and representation of ideas in a variety of media. Attendance is mandatory at the first class meeting in order to form class registration lists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students work in a studio environment.  Recommended for the sophomore year.  Enrollment limited to 16 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Schwartzman, N. Robertson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Schwartzman, N. Robertson</course_instructors_full>
+
+<classes><class><call_number>06306</call_number>
+
+<class_name>ARCH.REPRESENTATION:PERCE</class_name>
+
+<course_identifier>ARCHV3103</course_identifier>
+
+<course_number>3103</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:00a - 12:50p&#60;br /&#62;404 Diana Center</days_times>
+
+<instructors>M. Schwartzman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3103-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09780</call_number>
+
+<class_name>ARCH.REPRESENTATION:PERCE</class_name>
+
+<course_identifier>ARCHV3103</course_identifier>
+
+<course_number>3103</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 1:10p - 4:00p&#60;br /&#62;404 Diana Center</days_times>
+
+<instructors>N. Robertson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3103-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3114</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3114y</course_identifier_cooked>
+
+<course_name>Making the Metropolis: Urban Design and Theories of the City since 1850</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduces the project of understanding modern cities, focusing on theories, practices and examples in Europe and North America since 1850. The global reach of Euro-American ideas will also be examined. There are two primary goals: to investigate diverse strategies of urban development and to evaluate the social implications of built form. Course material includes built projects as well as unbuilt and theoretical work, all of which shaped how architects and planners interpreted the city.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Smiley</course_instructors_expected>
+
+<course_instructors_full>D. Smiley</course_instructors_full>
+
+</course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3117</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3117y</course_identifier_cooked>
+
+<course_name>Perceptions of Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to various methods by which we look at, experience, analyze, and criticize architecture and the built environment; development of fluency with architectural concepts. Attendance is mandatory at the first class meeting in order to form class registration lists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Designed for but not limited to sophomores; enrollment beyond 60 at the discretion of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Rouhe</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Rouhe</course_instructors_full>
+
+<classes><class><call_number>09471</call_number>
+
+<class_name>PERCEPTIONS OF ARCHITECTU</class_name>
+
+<course_identifier>ARCHV3117</course_identifier>
+
+<course_number>3117</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;LL104 Diana Center</days_times>
+
+<instructors>R. Rouhe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>48</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3117-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3201</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3201x</course_identifier_cooked>
+
+<course_name>Architectural Design, I</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to architectural design taught in a studio environment, through a series of design projects requiring drawings and models. Field trips, lectures, and discussions are organized in relation to studio exercises. Portfolio of design work from Architectural Representation: Abstraction and Perception will be reviewed the first week of classes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ARCH V3101 and ARCH V3103.  Open to architecture majors or with permission of instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Nicole Robertson, Joeb Moore, David Smiley</course_instructors_expected>
+
+<course_instructors_full>D. Smiley, J. Moore, N. Robertson</course_instructors_full>
+
+</course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3202</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3202y</course_identifier_cooked>
+
+<course_name>Architectural Design, II</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studio workshop continuation of ARCH V3201. Emphasis on the manipulation of an architectural vocabulary in relationship to increasingly complex conceptual, social, and theoretical issues. Field trips, lectures, and discussions are organized in relation to studio exercises.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ARCH V3201. Open to architecture majors or with permission of instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Baxi</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Baxi</course_instructors_full>
+
+<classes><class><call_number>09836</call_number>
+
+<class_name>ARCHITECTURAL DESIGN II</class_name>
+
+<course_identifier>ARCHV3202</course_identifier>
+
+<course_number>3202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:00a - 11:50a&#60;br /&#62;116A LEWISOHN HALL</days_times>
+
+<instructors>K. Baxi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>33</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3202-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3211</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3211x</course_identifier_cooked>
+
+<course_name>Architectural Design, III</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Further exploration of the design process through studio work. Programs of considerable functional, contextual, and conceptual complexity are undertaken. Portfolio required for review first day of fall semester to register for the course. Class list based on portfolio review will be formed at first class meeting.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ARCH V3202 and permission of the department chair.  Enrollment limited as space permits.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Karen Fairbanks</course_instructors_expected>
+
+<course_instructors_full>K. Fairbanks</course_instructors_full>
+
+</course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3290</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>ARCH V3290x (Section 01)</course_identifier_cooked>
+
+<course_name>Curating Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class will examine curating practices in relation to architectural exhibitions and publications. We will look at exhibitions, pavilions, installations, magazines, journals, boogazines, websites, and blogs (among other platforms) not only as mechanisms for presenting and distributing information but also as sites that serve as an integral part of architectural theory and practice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Verona</course_instructors_expected>
+
+<course_instructors_full>I. Verona</course_instructors_full>
+
+</course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3312</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3312x and y</course_identifier_cooked>
+
+<course_name>Special Topics In Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topics vary yearly. Course may be repeated for credit.&#38;nbsp; Attendance is mandatory at the first class meeting in order to form class registration lists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Shillingburg, M. Schwartzman, N. Robertson, P. Zuspan</course_instructors_actual>
+
+<course_instructors_expected>Madeline Schwartzman, Nicole Robertson</course_instructors_expected>
+
+<course_instructors_full>D. Shillingburg, M. Schwartzman, N. Robertson, P. Zuspan</course_instructors_full>
+
+<classes><class><call_number>03927</call_number>
+
+<class_name>SPECIAL TOPICS: DESIGN =</class_name>
+
+<course_identifier>ARCHV3312</course_identifier>
+
+<course_number>3312</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:10p - 4:00p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>M. Schwartzman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3312-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07198</call_number>
+
+<class_name>SPEC TPCS: MANUFACTURING</class_name>
+
+<course_identifier>ARCHV3312</course_identifier>
+
+<course_number>3312</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 1:10p - 3:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>N. Robertson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3312-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04645</call_number>
+
+<class_name>DARKNESS &#38; ARCHITECTURE</class_name>
+
+<course_identifier>ARCHV3312</course_identifier>
+
+<course_number>3312</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 8:00p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>P. Zuspan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3312-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07408</call_number>
+
+<class_name>DRAWING THE LINE</class_name>
+
+<course_identifier>ARCHV3312</course_identifier>
+
+<course_number>3312</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>D. Shillingburg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3312-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3901</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3901x or y</course_identifier_cooked>
+
+<course_name>Senior Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Readings, individual class presentations, and written reports. Attendance is mandatory at the first class meeting in order to form class registration lists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students per section. Open to architecture majors only unless space permits.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Smiley, K. Baxi</course_instructors_actual>
+
+<course_instructors_expected>S. Stephens</course_instructors_expected>
+
+<course_instructors_full>D. Smiley, K. Baxi, S. Stephens</course_instructors_full>
+
+<classes><class><call_number>01019</call_number>
+
+<class_name>SR SEM:ARCHITECTURE SINCE</class_name>
+
+<course_identifier>ARCHV3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>D. Smiley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3901-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07118</call_number>
+
+<class_name>SR SEM:FROM ANALOG TO DIG</class_name>
+
+<course_identifier>ARCHV3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>K. Baxi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3901-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3920</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3920y</course_identifier_cooked>
+
+<course_name>Critical Analysis of Architectural Representation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Readings and discussions on representation and representational systems in modern architecture in conjunction with the production of Barnard/Columbia architecture students publication.&#38;nbsp; Attendance is mandatory at the first class meeting in order to form class registration lists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ARCH V3101 or ARCH V3103 or equivalent with instructor&#39;s permission.  Limited to 15 students.  Preregistration at department required.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Bulman</course_instructors_expected>
+
+<course_instructors_full>L. Bulman</course_instructors_full>
+
+</course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3997x</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the program director in term prior to that of independent study. Independent study form available at departmental office.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<subject_area_name>Architecture</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ARCH V3998y</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of program director in the semester prior to that of independent study.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Smiley, K. Baxi, K. Fairbanks</course_instructors_actual>
+
+<course_instructors_expected>K. Baxi, K. Fairbanks, D. Smiley</course_instructors_expected>
+
+<course_instructors_full>D. Smiley, K. Baxi, K. Fairbanks</course_instructors_full>
+
+<classes><class><call_number>07312</call_number>
+
+<class_name>INDEPENDENT STUDY</class_name>
+
+<course_identifier>ARCHV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Fairbanks</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3998-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06678</call_number>
+
+<class_name>INDEPENDENT STUDY</class_name>
+
+<course_identifier>ARCHV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Smiley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3998-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07855</call_number>
+
+<class_name>INDEPENDENT STUDY</class_name>
+
+<course_identifier>ARCHV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Baxi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ARCH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ARCH/V3998-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W3101x</course_identifier_cooked>
+
+<course_name>Introduction to Linguistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the study of language from a scientific perspective. The course is divided into three units: language as a system (sounds, morphology, syntax, semantics), language in context (in space, time, and community), and language of the individual (psycholinguistics, errors, aphasia, neurology of language, acquisition).&#38;nbsp; &#38;nbsp; Workload:&#38;nbsp; lecture, weekly homework, final examination</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. McWhorter</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. McWhorter</course_instructors_full>
+
+<classes><class><call_number>73203</call_number>
+
+<class_name>INTRODUCTION TO LINGUISTI</class_name>
+
+<course_identifier>LINGW3101</course_identifier>
+
+<course_number>3101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>152</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W3101-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>W</school_bulletin_prefix_code_2>
+
+<course_number_2>3998</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W3997x-W3998y</course_identifier_cooked>
+
+<course_name>Supervised Individual Research</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Timberlake, J. McWhorter</course_instructors_actual>
+
+<course_instructors_expected>B. Gasparov, P. Kockelman, A. Timberlake</course_instructors_expected>
+
+<course_instructors_full>A. Timberlake, B. Gasparov, J. McWhorter, P. Kockelman</course_instructors_full>
+
+<classes><class><call_number>18246</call_number>
+
+<class_name>SUPERVISED INDIVIDUAL RES</class_name>
+
+<course_identifier>LINGW3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Timberlake&#60;br /&#62;
+J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W3997-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>28781</call_number>
+
+<class_name>SUPERVISED INDIVIDUAL RES</class_name>
+
+<course_identifier>LINGW3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W3998-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>60535</call_number>
+
+<class_name>SUPERVISED INDIVIDUAL RES</class_name>
+
+<course_identifier>LINGW3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Timberlake</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W3998-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4108</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4108y</course_identifier_cooked>
+
+<course_name>Language History</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Language, like all components of culture, is structured and conventional yet can nevertheless change over time. This course examines how language changes, firstly as a self-contained system that changes organically and autonomously, and secondly, as contextualized habits that change in time, in space, and in communities. Workload:&#38;nbsp; readings &#38;amp; discussion, weekly problems, final examination.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LING W3101</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Timberlake</course_instructors_actual>
+
+<course_instructors_expected>A. Timberlake</course_instructors_expected>
+
+<course_instructors_full>A. Timberlake</course_instructors_full>
+
+<classes><class><call_number>71560</call_number>
+
+<class_name>LANGUAGE HISTORY</class_name>
+
+<course_identifier>LINGW4108</course_identifier>
+
+<course_number>4108</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 6:10p - 7:25p&#60;br /&#62;717 HAMILTON HALL</days_times>
+
+<instructors>A. Timberlake</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>48</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W4108-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4120</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4120x</course_identifier_cooked>
+
+<course_name>Language Documentation and Field Methods</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In light of the predicted loss of up to 90% of the world languages by the end of this century, it has become urgent that linguists take a more active role in documenting and conserving endangered langagues.&#38;nbsp; In this course, we will learn the essential skills and technology of language documentation through work with speakers of an endangered language. Note: This course is now listed in Directory of Classes with a course number (#83648), but not time of place is given.&#38;nbsp; It will meet MW 6:10-7:25 initially and then, if possible, M 6:10-9.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Ling W3101.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Daniel Kaufman</course_instructors_expected>
+
+<course_instructors_full>D. Kaufman</course_instructors_full>
+
+</course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4170</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4170y</course_identifier_cooked>
+
+<course_name>Language &#38; Symbol: Semiotics of Speech, Literature, &#38; Culture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; Reading and discussion of scholarly literature on various aspects of the meaning, structure, and functioning of signs in language, art, and society.&#38;nbsp;&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; All reading for the course is drawn from original scholarly literature, some of it of a specialized nature. At some&#38;nbsp; points (for instance, while discussing dimensions of the linguistic signs, or parameters of structural poetics), theoretical reading will be supplemented by brief practical assignments. &#38;nbsp; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students taking the course must have taken either Introduction to linguistics or a course on linguistic semantics, literary theory, or linguistic anthropology. &#60;br&#62;</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>B. Gasparov</course_instructors_expected>
+
+<course_instructors_full>B. Gasparov</course_instructors_full>
+
+</course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4190</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4190y</course_identifier_cooked>
+
+<course_name>Discourse  and Pragmatics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>How discourse works, how language is used:&#38;nbsp; oral vs. written modes of language, the structure of discourse, speech acts and speech genres, the expression of power, authenticity, and solidarity in discourse, dialogicity, pragmatics, mimesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LING W3101</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>B. Gasparov
+A. Timberlake</course_instructors_expected>
+
+<course_instructors_full>B. Gasparov A. Timberlake</course_instructors_full>
+
+</course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4202</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4202x</course_identifier_cooked>
+
+<course_name>Cognitive Linguistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Reading and discussion of scholarly literature on the cognitive approach to language, including: usage-oriented approaches to language, frame semantics, construction grammar, theories of conceptual metaphor and mental spaces; alongside of experimental research on language acquisition, language memory, prototypical and analogous thinking, and the role of visual imagery in language processing.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LING W3101, previously or concurrently</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Gasparov</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Gasparov</course_instructors_full>
+
+<classes><class><call_number>63477</call_number>
+
+<class_name>COGNITIVE LINGUISTICS</class_name>
+
+<course_identifier>LINGW4202</course_identifier>
+
+<course_number>4202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;703 HAMILTON HALL</days_times>
+
+<instructors>B. Gasparov</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W4202-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4206</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING G4206y</course_identifier_cooked>
+
+<course_name>Advanced Grammar and Grammars.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An investigation of the possible types of grammatical phenomena (argument structure, tense/aspect/mood, relative clauses, classifiers and deixis). This typological approach is enriched by the reading of actual grammars of languages from Asia, Africa, Australia, and the Americas.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LING W3101</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Timberlake</course_instructors_expected>
+
+<course_instructors_full>A. Timberlake</course_instructors_full>
+
+</course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4307</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>LING W4307x</course_identifier_cooked>
+
+<course_name>Scripts of Asia and the World</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>History and mechanics of the world&#39;s two chief traditions of writing system: Semitic (ancestor of most of the world&#39;s scripts) and Chinese. Topics include oral vs. written language and literate vs. oral societies; the glottography and ideography controversies; loangraphs and kundoku; the five types of script (non-phonetic logogram, phonogram, alphabet, abjad, abugida); writing as art form: typography and calligraphy; computational treatment of scripts and mathematical scripts. Major traditions examined in detail: Chinese and its derived writing systems; Br&#196;hm&#196;&#171; and Devan&#196;gar&#196;&#171; and their descendants; Hebrew, Arabic, and the Tungusic descendants of Aramaic.</course_description>
+
+<corequisites>Ling W3101 or equivalent</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Branner</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Branner</course_instructors_full>
+
+<classes><class><call_number>97946</call_number>
+
+<class_name>SCRIPTS OF ASIA &#38; THE WOR</class_name>
+
+<course_identifier>LINGW4307</course_identifier>
+
+<course_number>4307</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;404 HAMILTON HALL</days_times>
+
+<instructors>D. Branner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W4307-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4376</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4376x</course_identifier_cooked>
+
+<course_name>Phonetics and Phonology.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An investigation of the sounds of human language, from the perspective of phonetics (articulation and acoustics, including computer-aided acoustic analysis) and phonology (the distribution and function of sounds in individual languages).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LING W3101</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Timberlake</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Timberlake</course_instructors_full>
+
+<classes><class><call_number>27887</call_number>
+
+<class_name>PHONETICS &#38; PHONOLOGY</class_name>
+
+<course_identifier>LINGW4376</course_identifier>
+
+<course_number>4376</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;511 HAMILTON HALL</days_times>
+
+<instructors>A. Timberlake</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>LING</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LING/W4376-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4800</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4800y</course_identifier_cooked>
+
+<course_name>Language and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; How language structure and usage and varies according to societal factors such as social history and socioeconomic factors, illustrated with study modules on language contact, language standardization and literacy, quantitative sociolinguistic theory, langusage allegiance, language and power.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>LING</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LING</subject_area_code>
+
+<subject_area_name>Linguistics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4903</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LING W4903y</course_identifier_cooked>
+
+<course_name>Syntax</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Syntax--the combination of words--has been at the center of the Chomskyan revolution in Linguistics. This is a technical course which examines modern formal theories of syntax, focusing on later versions of generative syntax (Government and Binding) with secondary attention to alternative models (HPSG, Categorial Grammar).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LING W3101</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Timberlake</course_instructors_expected>
+
+<course_instructors_full>A. Timberlake</course_instructors_full>
+
+</course></courses>

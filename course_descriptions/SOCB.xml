@@ -1,0 +1,5384 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1000</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W1000xy</course_identifier_cooked>
+
+<course_name>The Social World</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Identification of the distinctive elements of sociological perspectives on society. Readings confront classical and contemporary approaches with key social issues that include power and authority, culture and communication, poverty and discrimination, social change, and popular uses of sociological concepts.</course_description>
+
+<corequisites>Discussion Section Required. General Education Requirement: Social Analysis (SOC).</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Eyal, S. Khan</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Eyal, S. Khan</course_instructors_full>
+
+<classes><class><call_number>61712</call_number>
+
+<class_name>THE SOCIAL WORLD</class_name>
+
+<course_identifier>SOCIW1000</course_identifier>
+
+<course_number>1000</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>S. Khan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>175</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W1000-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>75967</call_number>
+
+<class_name>THE SOCIAL WORLD</class_name>
+
+<course_identifier>SOCIW1000</course_identifier>
+
+<course_number>1000</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;417 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>G. Eyal</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>182</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W1000-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2208</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V2208y</course_identifier_cooked>
+
+<course_name>Culture in America</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The values and meanings that form American pluralism. The three sections explore taste, consumption, and art; moral conflict, religion and secularism; identity, community and ideology. Examples range widely: Individualism, liberalism and conservatism; Obama&#39;s &#34;transracial&#34; endeavor; the food revolution; struggles over family and sexuality; multiculturalism; assimilation and immigration.</course_description>
+
+<corequisites>General Education Requirement: Social Analysis (SOC).</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Rieder</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Rieder</course_instructors_full>
+
+<classes><class><call_number>03603</call_number>
+
+<class_name>CULTURE IN AMERICA</class_name>
+
+<course_identifier>SOCIV2208</course_identifier>
+
+<course_number>2208</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>J. Rieder</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>79</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/V2208-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2230</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V2230y</course_identifier_cooked>
+
+<course_name>Food &#38; The Social Order</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; Instrumental in the formation and transformation of the social order, food is an indicator of collective as well as individual aspirations and assumptions. We shall look at the production and consumption of food, both material and symbolic, from the eating in the Bible to globalization in the 21st century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>2240</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W2240y</course_identifier_cooked>
+
+<course_name>Economy and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to economic sociology. Economic sociology is built around the claim that something fundamental is lost when markets are analyzed separately from other social processes. We will look especially at how an analysis of the interplay of economy and society can help us to understand questions of efficiency, questions of fairness, and questions of democracy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>2400</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W2400y</course_identifier_cooked>
+
+<course_name>Comparative Perspectives on Inequality</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis of the contours, causes, and consequences of social inequality in the contemporary United States through systematic cross-national and historical comparisons.&#38;nbsp; Topics include the distribution of social and economic resources by class, race/ethnicity, and gender and the role of institutions such as families, schools, labor markets, and governments.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2420</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V2420x</course_identifier_cooked>
+
+<course_name>Race and Place in Urban America</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analyzing the relationship between race/ethnicity and spatial inequality, emphasizing the institutions, processes, and mechanisms that shape the lives of urban dwellers. Surveying major theoretical approaches and empirical investigations of racial and ethnic stratification in several urban cities, and their concomitant policy considerations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2440</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V2440y</course_identifier_cooked>
+
+<course_name>American Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course addresses the character of inequality, religion, family, and immigration in contemporary America from a comparative perspective. Our goal is to better understand the nature of American distinctiveness within the broader industrialized world. Through such comparisons, the course will also clarify the potential role that social science evidence can play in policy debates around these issues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3000</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3000x and y</course_identifier_cooked>
+
+<course_name>Social Theory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for all sociology majors.&#38;nbsp; Prerequisite: at least one sociology course of the instructor&#39;s permission.&#38;nbsp; Theoretical accounts of the rise and transformations of modern society in the19th and 20th centuries.&#38;nbsp; Theories studied include those of Adam Smith, Tocqueville, Marx, Durkheim, Max Weber, Roberto Michels.&#38;nbsp; Selected topics:&#38;nbsp; individual, society, and polity; economy, class, and status: organization and ideology; religion and society; moral and instrumental action.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Sophomore standing.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Becher, G. Eyal</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Becher, G. Eyal</course_instructors_full>
+
+<classes><class><call_number>71887</call_number>
+
+<class_name>SOCIAL THEORY</class_name>
+
+<course_identifier>SOCIW3000</course_identifier>
+
+<course_number>3000</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;717 HAMILTON HALL</days_times>
+
+<instructors>G. Eyal</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>72</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3000-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07492</call_number>
+
+<class_name>SOCIAL THEORY</class_name>
+
+<course_identifier>SOCIW3000</course_identifier>
+
+<course_number>3000</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>D. Becher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>49</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3000-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3010</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>SOCI W3010x (Section 001)</course_identifier_cooked>
+
+<course_name>Methods for Social Research</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for all Sociology majors.&#38;nbsp; Introductory course in social scientific research methods. Provides a general overview of the ways sociologists collect information about social phenomena, focusing on how to collect data that are reliable and applicable to our research questions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>SOCI W1000 The Social World or Instructor Permission</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Kesler, S. Khan</course_instructors_actual>
+
+<course_instructors_expected>C. Kesler</course_instructors_expected>
+
+<course_instructors_full>C. Kesler, S. Khan</course_instructors_full>
+
+<classes><class><call_number>06191</call_number>
+
+<class_name>METHODS FOR SOCIAL RESEAR</class_name>
+
+<course_identifier>SOCIW3010</course_identifier>
+
+<course_number>3010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>C. Kesler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>42</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3010-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>60294</call_number>
+
+<class_name>METHODS FOR SOCIAL RESEAR</class_name>
+
+<course_identifier>SOCIW3010</course_identifier>
+
+<course_number>3010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;602 HAMILTON HALL</days_times>
+
+<instructors>S. Khan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>57</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3020</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3020x and y</course_identifier_cooked>
+
+<course_name>Social Statistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will teach the fundamentals of analyzing numerical data in a social science context. Students will learn effective ways of presenting informational summaries, the use of statistical inference from samples to populations, and the linear model which forms the basis of much social science research. Emphasis will be on an intuitive understanding of statistical formulae and models, and on their practical application.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Krumova</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Krumova</course_instructors_full>
+
+<classes><class><call_number>11022</call_number>
+
+<class_name>SOCIAL STATISTICS</class_name>
+
+<course_identifier>SOCIW3020</course_identifier>
+
+<course_number>3020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;503 HAMILTON HALL</days_times>
+
+<instructors>E. Krumova</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>34</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3020-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3087</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3088</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>SOCI BC3087x-BC3088y (Section 01)</course_identifier_cooked>
+
+<course_name>Individual Projects for Seniors</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; The instructor will supervise the writing of long papers involving some form of sociological research and analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introductory course in Sociology. Required of all senior majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Becher, D. Minkoff, J. Lena</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Becher, D. Minkoff, J. Lena</course_instructors_full>
+
+<classes><class><call_number>07768</call_number>
+
+<class_name>INDIVIDUAL SENIOR PROJECT</class_name>
+
+<course_identifier>SOCIX3087</course_identifier>
+
+<course_number>3087</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>D. Minkoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3087-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05961</call_number>
+
+<class_name>INDIVIDUAL SENIOR PROJECT</class_name>
+
+<course_identifier>SOCIX3088</course_identifier>
+
+<course_number>3088</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;327 MILBANK HALL</days_times>
+
+<instructors>D. Minkoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3088-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3087</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3088</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>02</course_section_code>
+
+<course_identifier_cooked>SOCI BC3087x-BC3088y (Section 02)</course_identifier_cooked>
+
+<course_name>Individual Projects for Seniors</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The instructor will supervise the writing of long papers involving some form of sociological research and analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introductory course in Sociology.  Required of all senior majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Becher, D. Minkoff, J. Lena</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Becher, D. Minkoff, J. Lena</course_instructors_full>
+
+<classes><class><call_number>06747</call_number>
+
+<class_name>INDIVIDUAL SENIOR PROJECT</class_name>
+
+<course_identifier>SOCIX3087</course_identifier>
+
+<course_number>3087</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;237 MILBANK HALL</days_times>
+
+<instructors>D. Becher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3087-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09306</call_number>
+
+<class_name>INDIVIDUAL SENIOR PROJECT</class_name>
+
+<course_identifier>SOCIX3088</course_identifier>
+
+<course_number>3088</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>D. Becher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3088-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3087</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3088</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>03</course_section_code>
+
+<course_identifier_cooked>SOCI BC3087x-BC3088y (Section 03)</course_identifier_cooked>
+
+<course_name>Individual Projects for Seniors</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The instructor will supervise the writing of long papers involving some form of sociological research and analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introductory course in Sociology. Required of all senior majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Becher, D. Minkoff, J. Lena</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Becher, D. Minkoff, J. Lena</course_instructors_full>
+
+<classes><class><call_number>03537</call_number>
+
+<class_name>INDIVIDUAL SENIOR PROJECT</class_name>
+
+<course_identifier>SOCIX3087</course_identifier>
+
+<course_number>3087</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>J. Lena</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3087-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>00434</call_number>
+
+<class_name>INDIVIDUAL SENIOR PROJECT</class_name>
+
+<course_identifier>SOCIX3088</course_identifier>
+
+<course_number>3088</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>J. Lena</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3088-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3190</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3190y</course_identifier_cooked>
+
+<course_name>Introduction To Historical Sociology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>How can we understand such major social forces as nationalism, Islam, and class conflict by combining historical analysis and sociological theory? Can these two disciplines take us further than either one alone?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3208</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3208y</course_identifier_cooked>
+
+<course_name>Unity and Division in the Contemporary United States: A Sociological View</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Conflict and unity in the U.S: the tensions of individualism and communalism; the schism between blue and red states; culture war; the careers of racism and anti-Semitism; identity politics and fragmentation; immigration and second eneration identities; the changing status of whiteness and blackness; cultural borrowing and crossover culture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3211</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>SOCI BC3211y (Section 001)</course_identifier_cooked>
+
+<course_name>Quantitative Methods</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to statistical methods emphasizing their application to practical research problems. Topics include frequency distributions, cross-tabulations and correlation, basic concepts of probability, hypothesis testing, and the analysis of variance. Students will learn to execute basic statistical analyses on a personal computer.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One introductory course in Sociology suggested.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3215</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3215y</course_identifier_cooked>
+
+<course_name>Sociology of Crime and Punishment</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course provides an overview of both crime and its control within the US. Beginning with an examination of mass incarceration, the course details issues of race, class, and gender in relation to crime, policing, and representations of criminality. Is there justice within the criminal justice system?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3217</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>SOCI V3217x (Section 001)</course_identifier_cooked>
+
+<course_name>Law and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines how people use law, how law affects people, and how law develops, using social scientific research.&#38;nbsp; Covers law in everyday life; legal and social change; legal subjects such as citizens and corporations, and the legitimacy of law.&#38;nbsp; Recommended for pre-law and social-science majors.&#38;nbsp; No required prerequisites or previous knowledge.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Becher</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Becher</course_instructors_full>
+
+<classes><class><call_number>05710</call_number>
+
+<class_name>LAW &#38; SOCIETY</class_name>
+
+<course_identifier>SOCIV3217</course_identifier>
+
+<course_number>3217</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>D. Becher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>65</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/V3217-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3218</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3218y</course_identifier_cooked>
+
+<course_name>Crime, Law and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Critically examines the interplay between crime, law, and the administration of justice in the United States and how these issues are shaped by larger societal factors. Students will receive a theoretical and empirical overview of the American legal and criminal justice system, emphasizing such issues as: the function and purpose of crime control; the roles of the actors/subjects of the criminal justice system; crime and violence as cultural and political issues in America; racial disparities in offending and criminal justice processing; and juvenile justice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Shedd</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Shedd</course_instructors_full>
+
+<classes><class><call_number>24274</call_number>
+
+<class_name>RACE, CRIME &#38; LAW</class_name>
+
+<course_identifier>SOCIW3218</course_identifier>
+
+<course_number>3218</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;313 FAYERWEATHER</days_times>
+
+<instructors>C. Shedd</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>60</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>53</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3218-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3220</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3220y</course_identifier_cooked>
+
+<course_name>Masculinity: A Sociological View</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the cultural, political, and institutional forces that govern masculinity. Focuses on various meanings of &#34;being a man&#34; and the effects these different types of masculinity have on both men and women. Explores some of the variation among men and relationships between men and women.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One introductory course in Sociology is suggested.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3225</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3225x</course_identifier_cooked>
+
+<course_name>Sociology of Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>How do schools influence students? How do students make sense of their lives in the context of schools? And what role do schools play in reinforcing or challenging broader patterns of social inequality? This class will draw on multiple sources, from classical sociological texts to ethnographies of schools to our own experiences at Columbia and in this class itself, to examine the school as a central institution in modern society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Sharpe</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Sharpe</course_instructors_full>
+
+<classes><class><call_number>81451</call_number>
+
+<class_name>SOCIOLOGY OF EDUCATION</class_name>
+
+<course_identifier>SOCIW3225</course_identifier>
+
+<course_number>3225</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;413 KENT HALL</days_times>
+
+<instructors>T. Sharpe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>39</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3225-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3227</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3227x</course_identifier_cooked>
+
+<course_name>The Sociology of U.S. Economic Life</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the social forces that shape market behavior: ideologies of liberalism and conservatism; the culture of commodities and consumption; income, class, and quality of life; the immigrant economy; life in financial institutions; the impact of the global economy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One introductory course in Sociology is suggested.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3228</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3228y</course_identifier_cooked>
+
+<course_name>The Culture Industry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sociological examination of range of organizations in creative sectors vital to contemporary cultural industries: film studios, television broadcasters, record labels, fashion houses, art galleries, and related firms.&#38;nbsp; Core questions include: what do these organizations have in common? How are they different? What are the key principles of cultural labor operating within them? How have careers in these organizations changed? What are the lingering effects of past historical periods and organizational forms, defunct artistic movements, and the collapse of the Hollywood studio system?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Lena</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Lena</course_instructors_full>
+
+<classes><class><call_number>01717</call_number>
+
+<class_name>THE CULTURE INDUSTRY</class_name>
+
+<course_identifier>SOCIX3228</course_identifier>
+
+<course_number>3228</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>J. Lena</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>36</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3228-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3235</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3235x or y</course_identifier_cooked>
+
+<course_name>Social Movements:  Collective Action</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Social movements and the theories social scientists use to explain them, with emphasis on the American civil rights and women&#39;s movements.&#38;nbsp; Topics include theories of participation, the personal and social consequences of social movements, the rationality of protest, the influence of ideology, organization, and the state on movement success, social movements, and the mass media.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One introductory course in Sociology suggested.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Minkoff</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Minkoff</course_instructors_full>
+
+<classes><class><call_number>04213</call_number>
+
+<class_name>SOC MOVEMNTS:COLLECTIVE</class_name>
+
+<course_identifier>SOCIV3235</course_identifier>
+
+<course_number>3235</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>D. Minkoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/V3235-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3237</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3237y</course_identifier_cooked>
+
+<course_name>Sociology of Consumers and Markets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course surveys the ways in which credit has been provided to consumers throughout the 20th century.&#38;nbsp; Topics include loan sharking, credit cards, microcredit, and subprime mortgages.&#38;nbsp; We will examine the link between personal indebtedness and economic growth as a key dimension of the current economic crisis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3243</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3243y</course_identifier_cooked>
+
+<course_name>China Today: Change, Inequalities, and Social Life</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Comprehensive introduction to the major social issues in contemporary China. Not a survey in general Chinese history, but a discussion of important thematic issues, we will read and discuss with an emphasis on changes in the post-Mao era. Meant to be interdisciplinary, incorporating readings in anthropology, history, economics, political science, a number of important subjects will be discussed: state politics in pre-reform China since the 1949 revolution, shift to market reforms since 1978, rural China, and various population issues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3245</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3245x</course_identifier_cooked>
+
+<course_name>Religions in Chinese Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The continuity and discontinuity of the religious ecology and culture throughout the Chinese history, from the Antiquity to the present: how religious changes and transformations were shaped by the state politics, socio-economic forces, and the penetration of foreign religions. Special focus on the religions in the Post-Mao China and how the religious ecology starts to depart from the paradigm crystallized in the past. A comparison with the religious development in contemporary Taiwanese society is used to illustrate the case. Photos and documentary films will provide a visual component.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3247</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3247y</course_identifier_cooked>
+
+<course_name>The Immigrant Experience, Old and New</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The immigrant experience in the United States. Topics include ideologies of the melting pot; social, cultural, and economic life of earlier immigrants; the distinctiveness of the African-American experience; recent surge of &#34;new&#34; immigrants (Asians, Latinos, West Indians); and changing American views of immigration.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Olvera</course_instructors_expected>
+
+<course_instructors_full>J. Olvera</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3260</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3260y</course_identifier_cooked>
+
+<course_name>Sociology of Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course provides an introduction to how sociologists examine education and schooling. It covers a wide range of theories and concepts as well as more historically grounded studies.&#38;nbsp; Key questions include education and social stratification; the reproduction of class, race, and gender; and politial domination and control.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3264</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUSO O3264x</course_identifier_cooked>
+
+<course_name>The Changing American Family</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines social forces contributing to changes in U.S. family formation including declines in marriage, increases in nonmarital childbearing, and women&#39;s labor force participation. Analyzes forces affecting growth of &#34;non-traditional&#34; families including lesbian/gay, multigenerational families. Particular attention given to urban, suburban, rural contexts of poverty.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Aidala</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Aidala</course_instructors_full>
+
+<classes><class><call_number>88018</call_number>
+
+<class_name>THE CHANGING AMERICAN FAM</class_name>
+
+<course_identifier>AUSOO3264</course_identifier>
+
+<course_number>3264</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;703 HAMILTON HALL</days_times>
+
+<instructors>A. Aidala</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUSO/O3264-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3264</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3264x</course_identifier_cooked>
+
+<course_name>The Changing American Family</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines social forces contributing to changes in U.S. family formation including declines in marriage, increases in nonmarital childbearing, and women&#39;s labor force participation. Analyzes forces affecting growth of &#34;non-traditional&#34; families including lesbian/gay, multigenerational families. Particular attention given to urban, suburban, rural contexts of poverty.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Aidala</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Aidala</course_instructors_full>
+
+<classes><class><call_number>26501</call_number>
+
+<class_name>THE CHANGING AMERICAN FAM</class_name>
+
+<course_identifier>SOCIW3264</course_identifier>
+
+<course_number>3264</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;703 HAMILTON HALL</days_times>
+
+<instructors>A. Aidala</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3264-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3265</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUSO O3265y</course_identifier_cooked>
+
+<course_name>Sociology of Work and Gender</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines gender as a flexible but persistent boundary that continues to organize our work lives and our home lives, as well as the relationship between the two spheres. We will explore the ways in which gender affects how work is structured; the relationship between work and home; the household as a place of paid (and unpaid) labor; and how changes in the global economy affect gender and work identities.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Sharpe</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Sharpe</course_instructors_full>
+
+<classes><class><call_number>25039</call_number>
+
+<class_name>SOCIOLOGY OF WORK &#38; GEND</class_name>
+
+<course_identifier>AUSOO3265</course_identifier>
+
+<course_number>3265</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;TBA</days_times>
+
+<instructors>T. Sharpe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUSO/O3265-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3265</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3265y</course_identifier_cooked>
+
+<course_name>Sociology of Work and Gender</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines gender as a flexible but persistent boundary that continues to organize our work lives and our home lives, as well as the relationship between the two spheres. We will explore the ways in which gender affects how work is structured; the relationship between work and home; the household as a place of paid (and unpaid) labor; and how changes in the global economy affect gender and work identities.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Sharpe</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Sharpe</course_instructors_full>
+
+<classes><class><call_number>77296</call_number>
+
+<class_name>SOCIOLOGY OF WORK &#38; GEND</class_name>
+
+<course_identifier>SOCIW3265</course_identifier>
+
+<course_number>3265</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;310 FAYERWEATHER</days_times>
+
+<instructors>T. Sharpe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>41</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3265-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3277</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3277x</course_identifier_cooked>
+
+<course_name>Post-Racial America?</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What is race? Is the US a post-racial society? Is such a society desirable? Is a post-racial society necessarily a just and egalitarian one? We consider these questions from ethnographic, historical, and theoretical perspectives. Topics discussed include intersectionality, multiracial identity, colorism, genetics, and the race and/or class debate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nelson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Nelson</course_instructors_full>
+
+<classes><class><call_number>65745</call_number>
+
+<class_name>POST RACIAL AMERICA</class_name>
+
+<course_identifier>SOCIW3277</course_identifier>
+
+<course_number>3277</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;313 FAYERWEATHER</days_times>
+
+<instructors>A. Nelson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>71</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3277-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3285</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3285x</course_identifier_cooked>
+
+<course_name>Israeli Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The purpose of the course is to acquaint students with Israeli society. The first part of the course will set the historical, social, political, and demographic background which is essential for understanding current processes in Israel. The second part will focus on the main social conflicts and cleavages in contemporary Israel. Patterns of continuity and change in the past sixty years will be analyzed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3290</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3290x</course_identifier_cooked>
+
+<course_name>Environmental Sociology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is an introduction to the sociology of the environment and technology: a broad overview of the field and six key areas of study, including environmental attitudes, post-materialism, environmental movements, environmental justice, globalization, and resource dependency.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3302</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUSO O3302y</course_identifier_cooked>
+
+<course_name>Sociology of Gender</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of factors in gender identity that are both universal (across time, culture, setting) and specific to a social context. Social construction of gender roles in different settings, including family, work, and politics. Attention to the role of social policies in reinforcing norms or facilitating change.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One introductory course in Sociology suggested.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Bernstein</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Bernstein</course_instructors_full>
+
+<classes><class><call_number>29283</call_number>
+
+<class_name>SOCIOLOGY OF GENDER ROLES</class_name>
+
+<course_identifier>AUSOO3302</course_identifier>
+
+<course_number>3302</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;TBA</days_times>
+
+<instructors>E. Bernstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUSO/O3302-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3302</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3302y</course_identifier_cooked>
+
+<course_name>Sociology of Gender</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of factors in gender identity that are both universal (across time, culture, setting) and specific to a social context. Social construction of gender roles in different settings, including family, work, and politics. Attention to the role of social policies in reinforcing norms or facilitating change.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One introductory course in Sociology suggested.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Bernstein</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Bernstein</course_instructors_full>
+
+<classes><class><call_number>04418</call_number>
+
+<class_name>SOCIOLOGY OF GENDER</class_name>
+
+<course_identifier>SOCIW3302</course_identifier>
+
+<course_number>3302</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>E. Bernstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>110</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>87</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3302-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3315</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUSO O3315x</course_identifier_cooked>
+
+<course_name>Sociology of Religion: Religion, Modernity, and the State</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What is religion? How can religion be studied sociologically? How did religion&#39;s significance change as the world enters the modern age? What affects the different importance and position of religions in different societies? The course is designed to cultivate in students an understanding of the distinctively sociological approach to studying religion, and familiarize students with the important theoretical approaches, as well as major findings. problems, and issues in the field.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Y. Sun</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Y. Sun</course_instructors_full>
+
+<classes><class><call_number>85957</call_number>
+
+<class_name>SOCIOLOGY OF RELIGION</class_name>
+
+<course_identifier>AUSOO3315</course_identifier>
+
+<course_number>3315</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>Y. Sun</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUSO/O3315-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3315</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3315x</course_identifier_cooked>
+
+<course_name>Sociology of Religion: Religion, Modernity, and the State</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What is religion? How can religion be studied sociologically? How did religion&#39;s significance change as the world enters the modern age? What affects the different importance and position of religions in different societies? The course is designed to cultivate in students an understanding of the distinctively sociological approach to studying religion, and familiarize students with the important theoretical approaches, as well as major findings. problems, and issues in the field.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Y. Sun</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Y. Sun</course_instructors_full>
+
+<classes><class><call_number>29586</call_number>
+
+<class_name>SOCIOLOGY OF RELIGION</class_name>
+
+<course_identifier>SOCIW3315</course_identifier>
+
+<course_number>3315</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;313 HAMILTON HALL</days_times>
+
+<instructors>Y. Sun</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3315-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3318</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3318x or y</course_identifier_cooked>
+
+<course_name>The Sociology of Sexuality</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Social, cultural and organizational aspects of sex in the contemporary United States, stressing the plural in sexualities: sexual revolution and post-Victorian ideologies; the context of gender and inequality; social movements and sexual identity; the variety of sexual meanings and communities; the impact of AIDS.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introductory course in Sociology is suggested.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3324</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUSO O3324x or y</course_identifier_cooked>
+
+<course_name>Poverty, Inequality, and Policy:  A Sociological Perspective</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of poverty, the &#38;quot;underclass,&#38;quot; and inequality in the United States. Part 1: The moral premises, social theories, and political interests shaping current debates about the poor. Part 2: A more concrete analysis of the lives of the poor and the causes of family breakdown, the drug economy, welfare, employment, and homelessness.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introductory course in Sociology is suggested.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sassen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Sassen</course_instructors_full>
+
+<classes><class><call_number>68549</call_number>
+
+<class_name>GLOBAL URBANISM</class_name>
+
+<course_identifier>AUSOO3324</course_identifier>
+
+<course_number>3324</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Sassen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUSO/O3324-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3324</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUSO O3324x</course_identifier_cooked>
+
+<course_name>Global Urbanism</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Using classical texts about cities (do they still work for us?) and on the diverse new literatures on cities and larger sujects with direct urban implications, we ill use a variety of data sets to get a detailed empirical information, and draw on two large ongoing research projects involving major and minor global cities around the world (a total of over 60 cities are covered in detail as of 2008).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sassen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Sassen</course_instructors_full>
+
+<classes><class><call_number>68549</call_number>
+
+<class_name>GLOBAL URBANISM</class_name>
+
+<course_identifier>AUSOO3324</course_identifier>
+
+<course_number>3324</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Sassen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>AUSO</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUSO/O3324-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3324</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3324x or y</course_identifier_cooked>
+
+<course_name>Poverty, Inequality, and Policy:  A Sociological Perspective</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of poverty, the &#38;quot;underclass,&#38;quot; and inequality in the United States. Part 1: The moral premises, social theories, and political interests shaping current debates about the poor. Part 2: A more concrete analysis of the lives of the poor and the causes of family breakdown, the drug economy, welfare, employment, and homelessness.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Introductory course in Sociology is suggested.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sassen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Sassen</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3324</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3324x</course_identifier_cooked>
+
+<course_name>Global Urbanism</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Using classical texts about cities (do they still work for us?) and on the diverse new literatures on cities and larger sujects with direct urban implications, we ill use a variety of data sets to get a detailed empirical information, and draw on two large ongoing research projects involving major and minor global cities around the world (a total of over 60 cities are covered in detail as of 2008).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sassen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Sassen</course_instructors_full>
+
+<classes><class><call_number>21799</call_number>
+
+<class_name>GLOBAL URBANISM</class_name>
+
+<course_identifier>SOCIW3324</course_identifier>
+
+<course_number>3324</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Sassen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>98</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3324-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3355</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3355x</course_identifier_cooked>
+
+<course_name>Topics in Religion and Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploring the major themes of religion and politics in the contemporary world: how did the major thinkers conceptualize the role of religion in society, the relationship between religion and politics, and state and church? How do different religions conceptualize and give life to these arrangements? After a mix of theoretical and historical readings, we study various substantive examples of the relationship between religion and politics, within differing contexts, different religions as well as different nation-states.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Barkey</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Barkey</course_instructors_full>
+
+<classes><class><call_number>11662</call_number>
+
+<class_name>RELIGION AND POLITICS</class_name>
+
+<course_identifier>SOCIW3355</course_identifier>
+
+<course_number>3355</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;517 HAMILTON HALL</days_times>
+
+<instructors>K. Barkey</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>80</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>79</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3355-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3490</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3490x</course_identifier_cooked>
+
+<course_name>Mistake, Misconduct, Disaster</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>How Organizations Fail - the fundamental principles of organizations, examining how and why organizations fail, producing harmful outcomes. Studying failures opens up parts of organizations for public view that are seldom seen; studying the dark side is especially revealing. Students will examine cases to identify the causes of failures and think about what kind of strategies can be developed that prevent failure.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3660</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3660y</course_identifier_cooked>
+
+<course_name>Political Sociology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course studies seminal interpretations of democratic politics from the perspectives of sociology, comparative politics and political theory. Theoretical analyses are discussed in the context of illustrative historical documents and accounts, and extended to contemporary concerns involving citizenship, culture, identity, representation and war.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Contemporary Civilization or one course in sociology, or political science, or European or American history.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3675</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3675y</course_identifier_cooked>
+
+<course_name>Organizing Innovation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines major innovations in organizations and asks whether innovation itself can be organized. We study a range of forms of organizing (e.g., bureaucratic, post-bureaucratic, and open architecture network forms) in a broad variety of settings: from fast food franchises to the military-entertainment complex, from airline cockpits to Wall Street trading rooms, from engineering firms to mega-churches, from scientific management at the turn of the twentieth century to collaborative filtering and open source programming at the beginning of the twenty-first. Special attention will be paid to the relationship between organizational forms and new digital technologies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3900</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3900y</course_identifier_cooked>
+
+<course_name>Societal Adaptations to Terrorism</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines how countries have adjusted to the threat of terrorism. How the adaptation reflects the pattern of terrorist attacks, as well as structural and cultural features of the society. Adaptations by individuals, families, and organizational actors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Junior or Senior standing</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Spilerman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Spilerman</course_instructors_full>
+
+<classes><class><call_number>28786</call_number>
+
+<class_name>SOCIETAL ADAPT TO TERROR</class_name>
+
+<course_identifier>SOCIW3900</course_identifier>
+
+<course_number>3900</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;301M FAYERWEATHER</days_times>
+
+<instructors>S. Spilerman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>24</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>27</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3900-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3901</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3901y</course_identifier_cooked>
+
+<course_name>The Sociology of Culture</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Drawing examples from popular music, religion, politics, race, and gender, explores the interpretation, production, and reception of cultural texts and meanings. Topics include aesthetic distinction and taste communities, ideology, power, and resistance; the structure and functions of subcultures; popular culture and high culture; and ethnography and interpretation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>SOCI BC1003 or equivalent social science course and permission of the instructor.  Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Lena</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Lena</course_instructors_full>
+
+<classes><class><call_number>02523</call_number>
+
+<class_name>SOCIOLOGY OF CULTURE</class_name>
+
+<course_identifier>SOCIV3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>J. Lena</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/V3901-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3902</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI V3902y</course_identifier_cooked>
+
+<course_name>Institutional Analysis in Organizations</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to an institutional perspective on organizations, moving between theoretical discussion of institutions and organizations and empirical research. Coverage of the rise of quantification; how comparative political cultures implement industrial policy; how institutional knowledge affects the environment; and how the Civil Rights movement contended with the American political environment.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Junior or Senior standing; preference to majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Lena</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Lena</course_instructors_full>
+
+<classes><class><call_number>04204</call_number>
+
+<class_name>INSTITUTIONS &#38; ORGANIZATI</class_name>
+
+<course_identifier>SOCIV3902</course_identifier>
+
+<course_number>3902</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>J. Lena</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/V3902-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3903</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3903y</course_identifier_cooked>
+
+<course_name>Work and Culture</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sociological approaches to understanding work and culture. Theoretical underpinnings of workplace interactions, with attention to ethnographies of work across a range of organizations. Examines changes in work due to technological advances and globalization. Special emphasis on gender.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Preference for Barnard Leadership Initiative participants, Juniors and Seniors.  Permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3905</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3905x</course_identifier_cooked>
+
+<course_name>Funding Social Change:  A Research Practicum</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of debates on social movement and philanthropy combined with independent data collection on foundations and grant recipients. Topics include: the role of foundations in the US; resource mobilization and social movements; consequences of public interest, and new conservative movements.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>SOCI BC1003/SOCI V1000.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3907</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3907y</course_identifier_cooked>
+
+<course_name>Communities and Social Change</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines how social transformations have altered the ways in which people go about creating, losing, and recreating community. The primary focus is on how changes in the economy, the state, immigration, racial dynamics, and class inequality inhibit and promote the maintenance of communities in contemporary American society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>SOCI BC1003. Sophomore Standing. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3909</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3909y</course_identifier_cooked>
+
+<course_name>Ethnic Conflict and Unrest</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Post-1965 immigration in the U.S. has prompted conflicts between new immigrant groups and established racial and ethnic groups. This seminar explores ethnic conflict and unrest that takes place in the streets, workplace, and everyday social life. Focus is on sociological theories that explain the tensions associated with the arrival of new immigrants.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Sophomore Standing. SOCI BC1003 or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3910</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3910y</course_identifier_cooked>
+
+<course_name>Research Seminar in Sociology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Substantial participation in an ongoing faculty-led Sociological research project. Movement between substantive discussion of theory and methodological study of a specifc topic. Coverage of how to frame a research project, using qualitative and quantitative tools to carry out analysis, and how to write up research in conjunction with a substantive literature and topic.&#38;nbsp; Spring 2010: Where do art prices come from?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>SOCI BC1003 or equivalent; permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3911</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3911x</course_identifier_cooked>
+
+<course_name>The Social Contexts of U.S. Immigration Law and Policy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the historical and contemporary social, economic, and political factors that shape immigration law and policy along with the social consequences of those laws and policies.&#38;nbsp; Addresses the development and function of immigration law and aspects of the immigration debate including unauthorized immigration, anti-immigration sentiments, and critiques of immigration policy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Salyer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Salyer</course_instructors_full>
+
+<classes><class><call_number>04445</call_number>
+
+<class_name>SOCIAL CONTEXTS IMMIGRATN</class_name>
+
+<course_identifier>SOCIX3911</course_identifier>
+
+<course_number>3911</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>J. Salyer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3911-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3912</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3912y</course_identifier_cooked>
+
+<course_name>Social Media</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sociological examination and critical assessment of effects of unprecedented levels of connectivity afforded by social media such as Twitter and Facebook. Seminar will be guided by a interest in how social relationships are being redefined as a result of these media and how they are managed, with particular attention to commercial uses of these technologies, especially new ways in which businesses are reaching potential audiences, new roles for consumers in evaluating products and shaping trends, and changes in contemporary business models of both large corporations and smaller firms.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3913</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3913y</course_identifier_cooked>
+
+<course_name>Inequalities: Race, Class, Gender and Sexuality in U.S. Law and Society</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class will examine the historical roots and ongoing persistence of social, economic, and political inequality and the continuing role that it plays in U.S. society by examing how such issues have been addressed both in social science and in law.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Salyer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Salyer</course_instructors_full>
+
+<classes><class><call_number>05930</call_number>
+
+<class_name>INEQUALITIES U.S. LAW&#38;SOC</class_name>
+
+<course_identifier>SOCIX3913</course_identifier>
+
+<course_number>3913</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>J. Salyer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3913-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3914</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3914x</course_identifier_cooked>
+
+<course_name>Ethnic Diversity and the Welfare State</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the relationship between ethnic diversity and the social provision of welfare in historical and cross-national perspective. Topics include the effects of longstanding diversity on the establishment of modern welfare states; the relationship between formal state policies of multiculturalism and welfare provision; the challenges contemporary immigration poses to existing welfare states; and debates about diversity, social solidarity, and social capital. Special emphasis on diversity-related explanations for the United States&#39; exceptionally weak social safety net.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Kesler</course_instructors_actual>
+
+<course_instructors_expected>C. Kesler</course_instructors_expected>
+
+<course_instructors_full>C. Kesler</course_instructors_full>
+
+<classes><class><call_number>02505</call_number>
+
+<class_name>ETHNIC DIVER &#38; WELFARE ST</class_name>
+
+<course_identifier>SOCIX3914</course_identifier>
+
+<course_number>3914</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>C. Kesler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3914-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3915</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI BC3915y</course_identifier_cooked>
+
+<course_name>The 2012 Election and Beyond</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A research seminar that explores the underlying social forces shaping the 2012 U.S. presidential election: political polarization and the nature of &#34;the center&#34;; culture wars and moral conflict; race and the postracial idea; changing political regimes; ideological division; impact of economics, immigration and inequality.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Rieder</course_instructors_actual>
+
+<course_instructors_expected>J. Rieder</course_instructors_expected>
+
+<course_instructors_full>J. Rieder</course_instructors_full>
+
+<classes><class><call_number>05003</call_number>
+
+<class_name>THE 2012 ELECTION &#38; BEYON</class_name>
+
+<course_identifier>SOCIX3915</course_identifier>
+
+<course_number>3915</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>J. Rieder</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/BC3915-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3915</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3915x</course_identifier_cooked>
+
+<course_name>Stigma and Discrimination</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course considers stigma and discrimination as general processes that apply to a broad range of phenomena, from mental illness to obesity to HIV/AIDS to racial groups.&#38;nbsp; We will use a conceptual framework that considers power and social stratification to be central to stigma and discrimination.&#38;nbsp; We will focus on both macro- and micro-level social processes and their interconnections, and we will draw on literature from both sociology and psychology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3917</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3917y</course_identifier_cooked>
+
+<course_name>Collective Identites</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the social, political, and cultural processes that influence the construction of collective identities in contemporary American society. Topics include the content and meaning of race and ethnicity; the construction of whiteness; the politics of gender and sexuality; citizenship and national identities; and the limits of identity politics</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3923</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3923y</course_identifier_cooked>
+
+<course_name>Adolescent Society</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the social and cultural construction of adolescence in contemporary American society. Adolescence is an important life-stage where experiences and decision-making have both individual and group consequences. Major themes will include: cultural and legal socialization of youth, crime and deviance, health and sexuality, employment and educational outcomes, and political behavior/civic engagement.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3932</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3932x</course_identifier_cooked>
+
+<course_name>Sociology of the Arts</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>We sketch general keys to socio-cultural construction --sorts of identities and their stories in networks of relations amidst swirling searches for footing and control -- from which emerge realms and languages of all sorts, including arts. The main text - Careers and Creativity: Social Forces in the Arts provides tools and examples.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3933</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3933y</course_identifier_cooked>
+
+<course_name>Art and Social Movements</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The interaction of culture and politics: the relations between artistic and social movements, political engagement among artists, the dynamics of the public sphere and civic participation, and the communicative potential of artists and their work within social movements. The use of art as propaganda, counter-cultural expression as resistance, art as a utopian model, and art as a path to participation and collaboration.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Milstein</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Milstein</course_instructors_full>
+
+<classes><class><call_number>70055</call_number>
+
+<class_name>ART AND SOCIAL MOVEMENTS</class_name>
+
+<course_identifier>SOCIW3933</course_identifier>
+
+<course_number>3933</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 10:10a - 12:00p&#60;br /&#62;302 FAYERWEATHER</days_times>
+
+<instructors>D. Milstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3933-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3934</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3934x</course_identifier_cooked>
+
+<course_name>Religions in Chinese Society</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The continuity and discontinuity of the religious ecology and culture throughout the Chinese history, from the Antiquity to the present:&#38;nbsp; how religious changes and transformations were shaped by the state politics, socio-economic forces, and the penetration of foreign religions.&#38;nbsp; Special focus on the religions in the Post-Mao China and how the relgious ecology starts to depart from the paradigm crystallized in the past.&#38;nbsp; A comparison with the religious development in contemporary Taiwanese society is used to illustrate the case.&#38;nbsp; Photos and documentary films will provide a visual component.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3936</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3936x</course_identifier_cooked>
+
+<course_name>Sociology and the Public</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores how sociologists address pressing public concerns. With a focus on contemporary American issues, we will discuss: (1) how particular problems are identified; (2) what resolutions are put forth, who is likely to achieve them, and how; (3) what the audience is (and should be) for such work.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>V1000 recommended (not required)</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3945</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3945x</course_identifier_cooked>
+
+<course_name>Seminar:  Inequality and Public Policy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Economic inequality in the United States; the roles of labor market processes and inheritance with respect to wealth assimilation; assets and the poor; public policies in regard to income redistribution; taxation of income, wealth, and bequests; issues in poverty policy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3955</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3955x</course_identifier_cooked>
+
+<course_name>Real and Imagined Communities: Sociology in/and/of the Novel</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Given that both the novel and sociology of products of and responses to modern society, this seminar will explore interconnections between the two. We shall read sociological texts and novels against each other to ascertain where and how each connects to the other and where they part.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3958</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3958y</course_identifier_cooked>
+
+<course_name>Fact and Fiction</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#34;Correct&#34; findings are often mistranslated into &#34;facts&#34; prematurely and lead to misguided social policy.&#38;nbsp; This course asks how do we become better readers, how do we become better critical analysts, and how do we evaluate evidence that has direct bearing on how we lead our lives?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Cole</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Cole</course_instructors_full>
+
+<classes><class><call_number>62362</call_number>
+
+<class_name>FACT AND FICTION</class_name>
+
+<course_identifier>SOCIW3958</course_identifier>
+
+<course_number>3958</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;302 FAYERWEATHER</days_times>
+
+<instructors>J. Cole</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3958-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3960</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3960y</course_identifier_cooked>
+
+<course_name>Law, Science, and Society</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Addresses basic contemporary social issues from several angles of vision: from the perspective of scientists, social scientists, legal scholars, and judges. Through the use of case studies, students will examine the nature of theories, evidence, &#38;quot;facts,&#38;quot; proof, and argument as found in the work of scientists and scholars who have engaged the substantive issues presented in the course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Cole</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Cole</course_instructors_full>
+
+<classes><class><call_number>69570</call_number>
+
+<class_name>SEM-PROBLEMS OF LAW &#38; SOC</class_name>
+
+<course_identifier>SOCIW3960</course_identifier>
+
+<course_number>3960</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;311 FAYERWEATHER</days_times>
+
+<instructors>J. Cole</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/SOCI/W3960-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>SOCB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SOCI</subject_area_code>
+
+<subject_area_name>Sociology</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3975</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SOCI W3975xy</course_identifier_cooked>
+
+<course_name>American Education</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Over the course of the semester, we will cover a set of topics that address the performance of American schools and of students in these schools. We will explore the sources of inequality in school performance by class, race, and gender, the impact of schools on learning, and the ways that schools both succeed and fail to fulfill the mission that Americans want from them.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

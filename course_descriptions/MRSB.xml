@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>MRSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MEDR</subject_area_code>
+
+<subject_area_name>Medieval and Renaissance Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3999</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>MEDR BC3998x-BC3999y</course_identifier_cooked>
+
+<course_name>Directed Research for the Senior Project</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Two semesters of supervised interdisciplinary research in Medieval or Renaissance Studies terminating in the writing of a senior essay. The program of research is determined in consultation with the chair and under the guidance of the area adviser. It is supervised by the latter and an adviser from the second discipline involved in the project.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Usher</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+<classes><class><call_number>03022</call_number>
+
+<class_name>DIRECTED RESEARCH-SR PROJ</class_name>
+
+<course_identifier>MEDRX3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Usher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>MEDR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/MEDR/BC3998-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04794</call_number>
+
+<class_name>DIRECTED RESEARCH-SR PROJ</class_name>
+
+<course_identifier>MEDRX3999</course_identifier>
+
+<course_number>3999</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Usher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>MEDR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/MEDR/BC3999-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

@@ -1,0 +1,776 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>FILB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FILM</subject_area_code>
+
+<subject_area_name>Film</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3119</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FILM BC3119x and y</course_identifier_cooked>
+
+<course_name>Screenwriting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>FALL: Practical workshop in dramatic writing for the screen. Through lectures and scene work students explore and develop an understanding the basic principles of screenwriting. &#38;nbsp;Students will write a 10-12 page short and the outline and opening for a feature screenplay.</course_description>
+
+<corequisites>(Since this is a Film course, it does not count as a writing course for English majors with a Writing Concentration.)</corequisites>
+
+<prerequisites>FILM BC3201 or equivalent.  Enrollment limited to 12 students. Priority is given to Film Studies majors/concentrations in order of class seniority. Sign-up with the English Department is required. Registering for the course only through eBear or SSOL will NOT ensure your enrollment. The date and time that English &#38; Film sign-up sheets go up is listed on the English Dept.&#39;s Announcements Page: http://english.barnard.edu/course-information/news-center</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Gallo, M. Regan</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Gallo, M. Regan</course_instructors_full>
+
+<classes><class><call_number>06304</call_number>
+
+<class_name>SCREENWRITING</class_name>
+
+<course_identifier>FILMX3119</course_identifier>
+
+<course_number>3119</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 9:00p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>G. Gallo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3119-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03301</call_number>
+
+<class_name>SCREENWRITING</class_name>
+
+<course_identifier>FILMX3119</course_identifier>
+
+<course_number>3119</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 10:00a - 12:50p&#60;br /&#62;302 LEHMAN HALL</days_times>
+
+<instructors>M. Regan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3119-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FILB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FILM</subject_area_code>
+
+<subject_area_name>Film</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3120</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FILM BC3120y</course_identifier_cooked>
+
+<course_name>Feature Film Screenwriting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Workshop in feature film writing. Students will enter the course with a story idea, ready to start a feature screenplay. Through lectures and workshop discussions, the course will critique the details of character development and scene construction. Analysis of student work will prompt generalized conversations/lectures on the fundamentals of film writing. Emphasis will be placed on character as the engine of story.</course_description>
+
+<corequisites>(Since this is a Film course, it does not count as a writing course for English majors with a Writing Concentration.)</corequisites>
+
+<prerequisites>FILM BC3201 or equivalent. Enrollment limited to 12 students. Enrollment limited to 12 students. Priority is given to Film Studies majors/concentrations in order of class seniority. Sign-up with the English Department is required. Registering for the course only through eBear or SSOL will NOT ensure your enrollment. The date and time that English &#38; Film sign-up sheets go up is listed on the English Dept.&#39;s Announcements Page: http://english.barnard.edu/course-information/news-center</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Gallo</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Gallo</course_instructors_full>
+
+<classes><class><call_number>02438</call_number>
+
+<class_name>FEATURE FILM SCREENWRITIN</class_name>
+
+<course_identifier>FILMX3120</course_identifier>
+
+<course_number>3120</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 9:00p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>G. Gallo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3120-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FILB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FILM</subject_area_code>
+
+<subject_area_name>Film</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3200</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FILM BC3200x and y</course_identifier_cooked>
+
+<course_name>Film Production</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>FALL: This workshop introduces the student to all the cinematic tools necessary to produce their own short narrative work.&#38;nbsp; Using what the student has learned in film studies, we&#39;ll break down shot syntax, mise-en-scene and editing strategies and master them in weekly video exercises. &#38;nbsp;We&#39;ll include casting, working with actors and expressive camera work in our process as we build toward a final video project.&#38;nbsp; By the end of the course, the student will have created a DVD containing a collection of their video pieces and their final project. &#38;nbsp;Priority given to junior and senior film majors.&#38;nbsp; SPRING: Most of us have been saturated in cinema throughout our lives. This workshop will unpack a variety of film forms, and help you to use it to create work that feels modern, surprising and uniquely expressive of your individual voice. Starting with the frame and time, we&#39;ll move on to basic film grammar, then explore time, space, sound and performance methods to fulfill the ideas your are exploring. By the end of the semester, you will have completed several short projects, one portrait/documentary piece and one complete narrative short.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FILM BC3201 or equivalent. Sophomore standing. Enrollment limited to 12 students. Enrollment limited to 12 students. Priority is given to Film Studies majors/concentrations in order of class seniority. Sign-up with the English Department is required. Registering for the course only through eBear or SSOL will NOT ensure your enrollment. The date and time that English &#38; Film sign-up sheets go up is listed on the English Dept.&#39;s Announcements Page: http://english.barnard.edu/course-information/news-center</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Regan, S. Luckow</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Regan, S. Luckow</course_instructors_full>
+
+<classes><class><call_number>07491</call_number>
+
+<class_name>FILM PRODUCTION</class_name>
+
+<course_identifier>FILMX3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 5:00p&#60;br /&#62;302 LEHMAN HALL</days_times>
+
+<instructors>S. Luckow</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3200-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07427</call_number>
+
+<class_name>FILM PRODUCTION</class_name>
+
+<course_identifier>FILMX3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 5:00p&#60;br /&#62;302 LEHMAN HALL</days_times>
+
+<instructors>M. Regan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3200-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FILB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FILM</subject_area_code>
+
+<subject_area_name>Film</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3201</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FILM BC3201x</course_identifier_cooked>
+
+<course_name>Introduction to Film and Film Theory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introductory survey of the history, aesthetics and theories of film. Topics in American and International cinema are explored through weekly screenings, readings, discussion, and lecture. A complete introduction to cinema studies, this course is also the prerequisite for further film courses at Columbia and Barnard.</course_description>
+
+<corequisites>Emroll in the required Discussion Section through FILM BC 3204: Discussion Secton.</corequisites>
+
+<prerequisites>Open to first-year students. No departmental sign-up required in Fall 2011: students may add this course to their eBear and SSOL as usual.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Kalogeropoulou</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Kalogeropoulou</course_instructors_full>
+
+<classes><class><call_number>02089</call_number>
+
+<class_name>INTRO STUDY &#38; THEORY OF</class_name>
+
+<course_identifier>FILMX3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 7:55p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>C. Kalogeropoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>47</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3201-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FILB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FILM</subject_area_code>
+
+<subject_area_name>Film</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3204</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FILM BC3204x</course_identifier_cooked>
+
+<course_name>Discussion Section</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Enrollment in one of the following sections is required when registering for FILM BC 3201: Introduction to Film and Film Theory.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Kalogeropoulou</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Kalogeropoulou</course_instructors_full>
+
+<classes><class><call_number>04456</call_number>
+
+<class_name>INTRO STUDY THEORY FILM -</class_name>
+
+<course_identifier>FILMX3204</course_identifier>
+
+<course_number>3204</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 5:00p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>C. Kalogeropoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3204-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09826</call_number>
+
+<class_name>INTRO STUDY THEORY FILM -</class_name>
+
+<course_identifier>FILMX3204</course_identifier>
+
+<course_number>3204</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 5:10p - 6:00p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>C. Kalogeropoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3204-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>02953</call_number>
+
+<class_name>INTRO STUDY THEORY FILM -</class_name>
+
+<course_identifier>FILMX3204</course_identifier>
+
+<course_number>3204</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>F 2:10p - 3:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>C. Kalogeropoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3204-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>07333</call_number>
+
+<class_name>INTRO STUDY THEORY FILM -</class_name>
+
+<course_identifier>FILMX3204</course_identifier>
+
+<course_number>3204</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>F 3:10p - 4:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>C. Kalogeropoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3204-20123-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FILB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FILM</subject_area_code>
+
+<subject_area_name>Film</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3301</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FILM BC3301y</course_identifier_cooked>
+
+<course_name>Advanced Production</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced Film Production will teach students how to create a short narrative film; emphasizing the steps taking in pre-production, production and post-production. Through hands-on workshops and theory, students will learn narrative editing, shot progression, camera lenses, lighting and audio equipment. Students will work in teams of four, learning the roles and responsibilities of the different crew members.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FILM BC3201 or equivalent, and FILM BC3200. Enrollment limited to 12 students. Enrollment limited to 12 students. Priority is given to Film Studies majors/concentrations in order of class seniority. Sign-up with the English Department is required. Registering for the course only through eBear or SSOL will NOT ensure your enrollment. The date and time that English &#38; Film sign-up sheets go up is listed on the English Dept.&#39;s Announcements Page: http://english.barnard.edu/course-information/news-center</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Luckow</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Luckow</course_instructors_full>
+
+<classes><class><call_number>04614</call_number>
+
+<class_name>ADVANCED PRODUCTION</class_name>
+
+<course_identifier>FILMX3301</course_identifier>
+
+<course_number>3301</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 5:00p&#60;br /&#62;302 LEHMAN HALL</days_times>
+
+<instructors>S. Luckow</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3301-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FILB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FILM</subject_area_code>
+
+<subject_area_name>Film</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3990</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FILM BC3990y</course_identifier_cooked>
+
+<course_name>Senior Seminar in Film: The Multi-Protagonist Film</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>(Course is pending approval by COI.)&#38;nbsp; The contemporary tendency to abandon the single-protagonist structure on which most film narratives have traditionally relied and replace it by a wider assortment of characters with more or less independent narrative lines, has lead to a storytelling pattern, which we refer to as multi-protagonist, which is anything but new in the history of cinema. Yet, it is not until the last two decades that it started to make a significant impact. Under a variety of shapes and names - ensemble and mosaic films (Troehler 2000, 2007), sequential and tandem narratives (Aronson 2001), polyphonic, parallel, and daisy-chain plots (Ramirez Berg 2006), or network narratives (Bordwell 2006) - multi-protagonist movies have emerged as one of the most visible and recurrent trends in contemporary cinema. This seminar is designed to help graduating film majors prepare their senior essays. The first part of the course is rooted in close analysis of the concept of the multi-protagonist film and its potential to overcome the hierarchical organization reflected in our classic storytelling&#39;s privileging of one character and her point of view over the rest. Three multi-protagonist films, PULP FICTION, HAPPINESS and MAGNOLIA will be analyzed from a variety of perspectives, focusing on the construction of a frame of reference: How do multi-protagonist films work as far as causal agency, point of view, and, especially, spectator identification are concerned? In the second half of the course, students make presentations based on their proposed senior essays. These oral reports can include screenings of selected sequences from the films being analyzed. The students may also suggest brief readings for other class members in preparation for their individual reports.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment restricted to seniors majoring or concentrating in Film Studies. Enrollment limited to 12 students. Sign-up with the English Department is required. Registering for the course only through eBear or SSOL will NOT ensure your enrollment. The date and time that English &#38; Film sign-up sheets go up is listed on the English Dept.&#39;s Announcements Page: http://english.barnard.edu/course-information/news-center</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Kalogeropoulou</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Kalogeropoulou</course_instructors_full>
+
+<classes><class><call_number>07110</call_number>
+
+<class_name>SE SEM:MULTIPROTAGONIST F</class_name>
+
+<course_identifier>FILMX3990</course_identifier>
+
+<course_number>3990</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 6:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>C. Kalogeropoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>FILM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FILM/BC3990-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

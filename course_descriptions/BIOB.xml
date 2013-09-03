@@ -1,0 +1,3668 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC1001x</course_identifier_cooked>
+
+<course_name>Revolutionary Concepts in Biology</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploration of the major discoveries and ideas that have revolutionized the way we view organisms and understand life. The basic concepts of cell biology, anatomy and physiology, genetics, evolution, and ecology will be traced from seminal discoveries to the modern era. The laboratory will develop these concepts and analyze biological diversity through a combined experimental and observational approach.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Course does not fulfill Biology major requirements or premedical requirements. Enrollment in laboratory limited to 16 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Heller</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Heller</course_instructors_full>
+
+<classes><class><call_number>01719</call_number>
+
+<class_name>REVOLUTIONARY CONCEPTS IN</class_name>
+
+<course_identifier>BIOLX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 9:00a - 9:50a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>D. Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>65</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06014</call_number>
+
+<class_name>REVOLUTIONARY CONCEPTS IN</class_name>
+
+<course_identifier>BIOLX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MWF 9:00a - 9:50a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>D. Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1001-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC1002y</course_identifier_cooked>
+
+<course_name>Contemporary Issues in Biology</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploration of modern biology as it pertains to contemporary issues. One module examines the microbiological agents that cause disease and addresses how such agents can be used as weapons for terrorism or war. Another module considers human physiology, focusing on major health issues. The third module explores growth and resource use, emphasizing the uniqueness of human populations. Lab exercises introduce biological techniques for studying these topics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Course does not fulfill biology major requirements or premedical requirements. BIOL BC1001 or equivalent preparation and background. Enrollment in laboratory sections limited to 16 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Heller</course_instructors_actual>
+
+<course_instructors_expected>D. Heller</course_instructors_expected>
+
+<course_instructors_full>D. Heller</course_instructors_full>
+
+<classes><class><call_number>03853</call_number>
+
+<class_name>CONTEMPORARY ISSUES IN BI</class_name>
+
+<course_identifier>BIOLX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 9:00a - 9:50a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>D. Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>86</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1002-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03877</call_number>
+
+<class_name>CONTEMP ISSUES BIOLOGY -</class_name>
+
+<course_identifier>BIOLX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MWF 9:00a - 9:50a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>D. Heller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1002-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1500</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC1500x</course_identifier_cooked>
+
+<course_name>Introduction to Organismal and Evolutionary Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Detailed introduction to biological phenomena above the cellular level; development, anatomy, and physiology of plants and animals; physiological, population, behavioral, and community ecology; evolutionary theory; analysis of micro-evolutionary events; systematics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or equivalent preparation. Course suitable for fulfillment of premedical requirements.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Hertz</course_instructors_actual>
+
+<course_instructors_expected>P. Hertz</course_instructors_expected>
+
+<course_instructors_full>P. Hertz</course_instructors_full>
+
+<classes><class><call_number>06536</call_number>
+
+<class_name>INTRO ORGANISMAL/EVOL BIO</class_name>
+
+<course_identifier>BIOLX1500</course_identifier>
+
+<course_number>1500</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 9:00a - 9:50a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>P. Hertz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>237</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1500-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1501</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC1501x</course_identifier_cooked>
+
+<course_name>Introductory Lab in Organismal and Evolutionary Biology</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A laboratory-based introduction to the major groups of living organisms; anatomy, physiology, evolution, and systematics; laboratory techniques for studying and comparing functional adaptations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1001 or equivalent preparation.  Enrollment limited to 16 students per section. Course suitable for fulfillment of premedical requirements. BIOL BC1500 as prerequisite or corequisite.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Goldstein</course_instructors_actual>
+
+<course_instructors_expected>J. Goldstein</course_instructors_expected>
+
+<course_instructors_full>J. Goldstein</course_instructors_full>
+
+<classes><class><call_number>02041</call_number>
+
+<class_name>INTRO LAB/ORGANISMAL&#38;EVOL</class_name>
+
+<course_identifier>BIOLX1501</course_identifier>
+
+<course_number>1501</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 10:00a - 10:50a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>J. Goldstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>124</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1501-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>08043</call_number>
+
+<class_name>INTRO LAB/ORGANISMAL&#38;EVOL</class_name>
+
+<course_identifier>BIOLX1501</course_identifier>
+
+<course_number>1501</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>F 1:00p - 1:50p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>J. Goldstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>84</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1501-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1502</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC1502y</course_identifier_cooked>
+
+<course_name>Introduction to Cell and Molecular Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Detailed introduction to cellular and subcellular biology: cell structures and functions, energy metabolism, biogenesis of cell components, biology of inheritance, molecular genetics, regulation of gene expression, and genes in development.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1001 or equivalent preparation. Course suitable for fulfillment of premedical requirements. Together with BC1500 this course is part of a yearlong introductory sequence. BC1500 and BC1502 do not need to be taken in sequence.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Snow</course_instructors_actual>
+
+<course_instructors_expected>J. Snow</course_instructors_expected>
+
+<course_instructors_full>J. Snow</course_instructors_full>
+
+<classes><class><call_number>04239</call_number>
+
+<class_name>INTRO CELL AND MOLECULAR</class_name>
+
+<course_identifier>BIOLX1502</course_identifier>
+
+<course_number>1502</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 9:00a - 9:50a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>J. Snow</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>222</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1502-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1503</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC1503y</course_identifier_cooked>
+
+<course_name>Introductory Lab in Cell and Molecular Biology</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A laboratory-based introduction to cell and molecular biology.&#38;nbsp; Both classic and modern approaches are used to investigate principles of heredity as well as the structure and function of cells and their molecular components.&#38;nbsp; &#38;nbsp;Lab exercises introduce practical techniques and data analysis. &#38;nbsp; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1001 or equivalent preparation. BIOL BC1502 as corequisite (preferred) or prerequisite. Enrollment limited to 16 students per section. Course suitable for fulfillment of premedical requirements.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>TBD</course_instructors_expected>
+
+<course_instructors_full>T. TBD</course_instructors_full>
+
+<classes><class><call_number>04360</call_number>
+
+<class_name>INTRO LAB CELLULAR&#38;MOLEC</class_name>
+
+<course_identifier>BIOLX1503</course_identifier>
+
+<course_number>1503</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 10:00a - 10:50a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>118</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1503-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04383</call_number>
+
+<class_name>INTRO LAB CELLULAR&#38;MOLEC</class_name>
+
+<course_identifier>BIOLX1503</course_identifier>
+
+<course_number>1503</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>F 1:10p - 2:00p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>86</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1503-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1599</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC1599x or y</course_identifier_cooked>
+
+<course_name>Biology Journal Club</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students in this seminar course will be introduced to the scientific literature by reading a mix of classic papers and papers that describe significant new developments in the field. Seminar periods will be devoted to oral reports, discussion of assigned reading, and student responses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to first year students who scored a 4 or 5 on the AP Biology exam or a 5 or higher on the IB exam, and are enrolled in the 1500-level Biology series. Limited to 16 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Goldstein</course_instructors_actual>
+
+<course_instructors_expected>H.Callahan</course_instructors_expected>
+
+<course_instructors_full>H. H.Callahan, J. Goldstein</course_instructors_full>
+
+<classes><class><call_number>02775</call_number>
+
+<class_name>BIOLOGY JOURNAL CLUB</class_name>
+
+<course_identifier>BIOLX1599</course_identifier>
+
+<course_number>1599</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 12:00p - 12:50p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>J. Goldstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1599-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05155</call_number>
+
+<class_name>BIOLOGY JOURNAL CLUB</class_name>
+
+<course_identifier>BIOLX1599</course_identifier>
+
+<course_number>1599</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:00p - 12:50p&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC1599-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2100</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2100x and y</course_identifier_cooked>
+
+<course_name>Molecular and Mendelian Genetics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Mendelian and molecular genetics of both eukaryotes and prokaryotes, with an emphasis on human genetics. Topics include segregation, recombination and linkage maps, cytogenetics, gene structure and function, mutation, molecular aspects of gene expression and regulation, genetic components of cancer, and genome studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Morton, J. Mansfield</course_instructors_actual>
+
+<course_instructors_expected>B. Morton, J. Mansfield</course_instructors_expected>
+
+<course_instructors_full>B. Morton, J. Mansfield</course_instructors_full>
+
+<classes><class><call_number>07322</call_number>
+
+<class_name>MOLECULAR&#38; MENDELIAN GENE</class_name>
+
+<course_identifier>BIOLX2100</course_identifier>
+
+<course_number>2100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>B. Morton</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2100-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03925</call_number>
+
+<class_name>MOLECULAR&#38; MENDELIAN GENE</class_name>
+
+<course_identifier>BIOLX2100</course_identifier>
+
+<course_number>2100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>J. Mansfield</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>38</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2100-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2240</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2240x</course_identifier_cooked>
+
+<course_name>Plant Evolution and Diversity</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of plant biology emphasizing evolutionary and ecological perspectives on mating and reproduction, physiology, anatomy and morphology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Callahan</course_instructors_actual>
+
+<course_instructors_expected>H. Callahan</course_instructors_expected>
+
+<course_instructors_full>H. Callahan</course_instructors_full>
+
+<classes><class><call_number>07748</call_number>
+
+<class_name>PLANT EVOLUTION &#38; DIVERSI</class_name>
+
+<course_identifier>BIOLX2240</course_identifier>
+
+<course_number>2240</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>H. Callahan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2240-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2250</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2250x or y</course_identifier_cooked>
+
+<course_name>Invertebrate Zoology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The biology and biodiversity of invertebrate animals: the internal organs of invertebrates; the development, behavior, and evolution of these animals, stressing their adaptations to marine, freshwater, and terrestrial habits; and a systematic survey of invertebrates will structure the course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 or equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2262</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2262y</course_identifier_cooked>
+
+<course_name>Vertebrate Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Systematic survey of the Phylum Chordata: fossil history, biogeography, systematics, natural history, body architecture, energetics, locomotion, feeding, and behavior.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503  or equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Hertz</course_instructors_actual>
+
+<course_instructors_expected>P. Hertz</course_instructors_expected>
+
+<course_instructors_full>P. Hertz</course_instructors_full>
+
+<classes><class><call_number>08631</call_number>
+
+<class_name>VERTEBRATE BIOLOGY</class_name>
+
+<course_identifier>BIOLX2262</course_identifier>
+
+<course_number>2262</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;202 MILBANK HALL</days_times>
+
+<instructors>P. Hertz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2262-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2272</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2272x</course_identifier_cooked>
+
+<course_name>Ecology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to evolutionary ecology; life history strategies, population growth, competition, predator-prey interactions, population regulation, species diversity, community organization, biogeography. Lectures integrate theory with empirical studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503  or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Foerster</course_instructors_actual>
+
+<course_instructors_expected>S. Foerster</course_instructors_expected>
+
+<course_instructors_full>S. Foerster</course_instructors_full>
+
+<classes><class><call_number>07283</call_number>
+
+<class_name>ECOLOGY</class_name>
+
+<course_identifier>BIOLX2272</course_identifier>
+
+<course_number>2272</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2272-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2278</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2278y</course_identifier_cooked>
+
+<course_name>Evolution</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Study of the process of evolution with an emphasis on the mechanisms underlying evolutionary change. Topics include the origins of life, rates of evolutionary change, phylogenetics, molecular evolution, adaptive significance of traits, sexual selection, and human evolution.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503  or equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Morton</course_instructors_actual>
+
+<course_instructors_expected>B. Morton</course_instructors_expected>
+
+<course_instructors_full>B. Morton</course_instructors_full>
+
+<classes><class><call_number>01285</call_number>
+
+<class_name>EVOLUTION</class_name>
+
+<course_identifier>BIOLX2278</course_identifier>
+
+<course_number>2278</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>B. Morton</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>35</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2278-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2280</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2280x</course_identifier_cooked>
+
+<course_name>Animal Behavior</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to animal behavior; physiological bases of behavior (sensory systems, neurophysiology of behavior, appetitive and reproductive behavior), ethological approaches to behavior (communication, territoriality, dominance, and aggression) and evolution of behavior (behavior genetics, behavioral ecology, sociobiology).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503  or equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Foerster</course_instructors_actual>
+
+<course_instructors_expected>S. Foerster</course_instructors_expected>
+
+<course_instructors_full>S. Foerster</course_instructors_full>
+
+<classes><class><call_number>04248</call_number>
+
+<class_name>ANIMAL BEHAVIOR</class_name>
+
+<course_identifier>BIOLX2280</course_identifier>
+
+<course_number>2280</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>37</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2280-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2286</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2286y</course_identifier_cooked>
+
+<course_name>Statistics and Research Design</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to basic principles of statistics and experimental design. Topics include common statistical procedure, analysis of data, sampling populations, power analysis, and the design of experiments. This course differs from traditional statistics courses by explicitly integrating statistics into research process.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503  or equivalent, college-level algebra or the equivalent. General Educational Requirement: Quantitative and Deductive Reasoning (QUA)</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Foerster</course_instructors_actual>
+
+<course_instructors_expected>S. Foerster</course_instructors_expected>
+
+<course_instructors_full>S. Foerster</course_instructors_full>
+
+<classes><class><call_number>05518</call_number>
+
+<class_name>STATISTICS &#38; RESEARCH DES</class_name>
+
+<course_identifier>BIOLX2286</course_identifier>
+
+<course_number>2286</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2286-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2801</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BIOL BC2801x</course_identifier_cooked>
+
+<course_name>Laboratory in Genetics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exercises in genetics at both the Mendelian and molecular levels. Basic principles of genetic analysis will be studied using Drosophila and bacteria. A project in molecular genetics, involving such techniques as PCR, gel electrophoresis, and cloning, will be undertaken using plant genes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1502, BC1503; and pre or corequisite, BC2100 or BC3310. Enrollment limited to 16 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Morton</course_instructors_actual>
+
+<course_instructors_expected>B. Morton</course_instructors_expected>
+
+<course_instructors_full>B. Morton</course_instructors_full>
+
+<classes><class><call_number>06352</call_number>
+
+<class_name>LABORATORY IN GENETICS</class_name>
+
+<course_identifier>BIOLX2801</course_identifier>
+
+<course_number>2801</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 1:10p - 6:00p&#60;br /&#62;1214 ALTSCHUL HALL</days_times>
+
+<instructors>B. Morton</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2801-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2841</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2841x</course_identifier_cooked>
+
+<course_name>Laboratory in Plant Evolution and Diversity</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studies of the structure, ecology, and evolution of plants. Laboratory exercises include field problems, laboratory experiments, plant collections and identification, and examination of the morphology of plant groups.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC2240 or corequisite. Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Callahan</course_instructors_actual>
+
+<course_instructors_expected>H. Callahan</course_instructors_expected>
+
+<course_instructors_full>H. Callahan</course_instructors_full>
+
+<classes><class><call_number>04988</call_number>
+
+<class_name>LAB-PLANT EVOLUTION&#38;DIVER</class_name>
+
+<course_identifier>BIOLX2841</course_identifier>
+
+<course_number>2841</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 1:10p - 6:00p&#60;br /&#62;1014 ALTSCHUL HALL</days_times>
+
+<instructors>H. Callahan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2841-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2873</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC2873x</course_identifier_cooked>
+
+<course_name>Laboratory in  Ecology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The definition of ecological problems in experimentally tractable ways; the design of experiments and analysis of ecological data; class projects on population ecology. Students conduct individual projects during last month of term.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC2272 (or corequisite). Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Hertz</course_instructors_actual>
+
+<course_instructors_expected>P. Hertz</course_instructors_expected>
+
+<course_instructors_full>P. Hertz</course_instructors_full>
+
+<classes><class><call_number>04069</call_number>
+
+<class_name>LABORATORY IN ECOLOGY</class_name>
+
+<course_identifier>BIOLX2873</course_identifier>
+
+<course_number>2873</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 1:10p - 6:00p&#60;br /&#62;1015 ALTSCHUL HALL</days_times>
+
+<instructors>P. Hertz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC2873-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3303</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3303x</course_identifier_cooked>
+
+<course_name>Laboratory in Molecular Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the use of molecular techniques to answer questions about subcellular biological phenomena. Techniques include isolation of genomic and plasmid DNAs, restriction enzyme analysis, DNA and protein electrophoresis, bacterial transformation, and plasmid subcloning.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC2100 OR BC3310 (which can be taken as corequisites) or permission of instructor. Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Mansfield, M. Lokshin</course_instructors_actual>
+
+<course_instructors_expected>Maria Lokshin</course_instructors_expected>
+
+<course_instructors_full>J. Mansfield, M. Lokshin</course_instructors_full>
+
+<classes><class><call_number>01706</call_number>
+
+<class_name>LAB IN MOLECULAR BIOLOGY</class_name>
+
+<course_identifier>BIOLX3303</course_identifier>
+
+<course_number>3303</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 1:10p - 6:00p&#60;br /&#62;1316 ALTSCHUL HALL</days_times>
+
+<instructors>M. Lokshin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3303-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06732</call_number>
+
+<class_name>LAB IN MOLECULAR BIOLOGY</class_name>
+
+<course_identifier>BIOLX3303</course_identifier>
+
+<course_number>3303</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 1:10p - 6:00p&#60;br /&#62;1316 ALTSCHUL HALL</days_times>
+
+<instructors>J. Mansfield</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3303-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3305</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3305x</course_identifier_cooked>
+
+<course_name>Project Laboratory in Molecular Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A project laboratory in molecular biology of Drosophila. Experiments will include isolation of phage, plasmid, and genomic DNA: screening of DNA libraries; restriction mapping, Southern analysis, and characterization of RNA transcripts. Project will characterize a particular unknown Drosophila sequence and RNA derived in vivo from that DNA.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC2100 or permission of instructor.  Enrollment limited to 12.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Mansfield</course_instructors_expected>
+
+<course_instructors_full>J. Mansfield</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3308</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3308x</course_identifier_cooked>
+
+<course_name>Genomics and Bioinformatics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced topics in genetics focusing on genome-level features and methods of sequence analysis. Topics will include genome composition and structure, microarray analysis, RNA interference, and medical genomics; readings will involve case studies from the primary literature. The material will include practical applications using available computer databases.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 and Molecular and Mendelian Genetics (BIOL BC2100).Not offered 2008-2009</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>B. Morton</course_instructors_expected>
+
+<course_instructors_full>B. Morton</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3310</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3310x</course_identifier_cooked>
+
+<course_name>Cell Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Study of structures and functions of eukaryotic cells. Cell membranes and the endomembrane system, proteins (with emphasis on enzymes and antibodies), organelle biogenesis, intracellular trafficking, cytoskeleton and motility, cell cycle control, and signaling. Methods of study and both landmark and contemporary experiments are examined.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501 BC1502, BC1503, or equivalent, BC2100 (which can be taken as a corequisite) and one term of organic chemistry.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Snow</course_instructors_actual>
+
+<course_instructors_expected>J. Snow</course_instructors_expected>
+
+<course_instructors_full>J. Snow</course_instructors_full>
+
+<classes><class><call_number>06027</call_number>
+
+<class_name>CELL BIOLOGY</class_name>
+
+<course_identifier>BIOLX3310</course_identifier>
+
+<course_number>3310</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;LL104 Diana Center</days_times>
+
+<instructors>J. Snow</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3310-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3311</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3311x</course_identifier_cooked>
+
+<course_name>Laboratory in Cell Biology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to cell biological techniques used to investigate structural, molecular, and physiological aspects of eukaryotic cells and their organization into tissues. Techniques include light and electron microscopy, cell culture, isolation of cellular organelles, protein electrophoresis and Western Blot analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC2100 OR BC3310 (which can be taken as corequisites) or permission of instructor. Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Lokshin</course_instructors_actual>
+
+<course_instructors_expected>Maria Lokshin</course_instructors_expected>
+
+<course_instructors_full>M. Lokshin</course_instructors_full>
+
+<classes><class><call_number>05773</call_number>
+
+<class_name>LABORATORY IN CELL BIOL</class_name>
+
+<course_identifier>BIOLX3311</course_identifier>
+
+<course_number>3311</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 1:10p - 6:00p&#60;br /&#62;1015 ALTSCHUL HALL</days_times>
+
+<instructors>M. Lokshin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3311-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3320</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3320x</course_identifier_cooked>
+
+<course_name>Microbiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of the diversity, cellular organization, physiology, and genetics of the major microbial groups. Also includes aspects of applied microbiology and biotechnology, the function of microorganisms in the environment, and the role of microbes in human diseases.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 or the equivalent, and BC2100.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Martiney</course_instructors_actual>
+
+<course_instructors_expected>J. Martiney</course_instructors_expected>
+
+<course_instructors_full>J. Martiney</course_instructors_full>
+
+<classes><class><call_number>08047</call_number>
+
+<class_name>MICROBIOLOGY</class_name>
+
+<course_identifier>BIOLX3320</course_identifier>
+
+<course_number>3320</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>J. Martiney</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>33</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3320-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3321</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3321x</course_identifier_cooked>
+
+<course_name>Laboratory in Microbiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Provides experience in the isolation, cultivation, and analysis of pure cultures of microorganisms. Methods used for study of cell structure, growth, physiology, and genetics of microbes will be incorporated into small independent projects.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC3320 (or corequisite). Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>TBD</course_instructors_expected>
+
+<course_instructors_full>T. TBD</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3340</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3340y</course_identifier_cooked>
+
+<course_name>Plant Physiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Processes of metabolism, growth, and development in flowering plants. Photosynthesis, nutrient and water acquisition, respiration; hormones and plant movement; responses to environmental stimuli and stresses; and defenses against pathogens. Experimental approaches are emphasized.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501 BC1502, BC1503, and BC2100 or the equivalent. One term of organic chemistry (or permission by instructor).</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3341</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3341y</course_identifier_cooked>
+
+<course_name>Laboratory in Plant Physiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to techniques used to investigate aspects of physiology, including photosynthesis, water relations, mineral nutrition, germination, flowering, and hormone function. Methods include infrared carbon dioxide analysis, spectrophotometry, chromatography, and bioassay. Students conduct independent projects in the last month of term.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC3340 (or corequisite). Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Shepard</course_instructors_expected>
+
+<course_instructors_full>K. Shepard</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3342</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3342x</course_identifier_cooked>
+
+<course_name>Plant Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Processes of growth, differentiation, and organization in plants; major morphogenetic events in the transition from zygote to flowering plant; hormonal and environmental effects and mechanisms of action.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503, or equivalent and one term of organic chemistry.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3343</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3343x</course_identifier_cooked>
+
+<course_name>Laboratory in Plant Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An experimental approach to patterns, processes, and control mechanisms of plant development. Meristems and cell differentiation; embryogenesis and organogenesis; responses to hormones and environmental variables. Work with whole plant, organ, and cell cultures.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC3342 (or corequisite). Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3352</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3352x</course_identifier_cooked>
+
+<course_name>Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to developmental biology. Topics will include: fertilization, cleavage and gastrulation, establishment of body axes, neural development, organ formation, regeneration, stem cells and cell&#38;nbsp;potency, evolution of developmental programs.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503, and BC2100 or equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Mansfield</course_instructors_expected>
+
+<course_instructors_full>J. Mansfield</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3360</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3360y</course_identifier_cooked>
+
+<course_name>Animal Physiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Physiology of major organ systems; function and control of circulatory, respiratory, digestive, excretory, endocrine, nervous, and immune systems in animals; emphasis on vertebrates.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Glendinning</course_instructors_actual>
+
+<course_instructors_expected>J. Glendinning</course_instructors_expected>
+
+<course_instructors_full>J. Glendinning</course_instructors_full>
+
+<classes><class><call_number>05606</call_number>
+
+<class_name>ANIMAL PHYSIOLOGY</class_name>
+
+<course_identifier>BIOLX3360</course_identifier>
+
+<course_number>3360</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;203 Diana Center</days_times>
+
+<instructors>J. Glendinning</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>44</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3360-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3361</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3361y</course_identifier_cooked>
+
+<course_name>Laboratory in Animal Physiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Provides a hands-on introduction to the different physiological systems in vertebrates and invertebrates. Emphasizes the operation of a variety of physiological monitoring devices and the collection and analysis of physiological data.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Pre- (or co-) requisite is a physiology lecture class (e.g., BIOL BC3360). Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Glendinning</course_instructors_actual>
+
+<course_instructors_expected>J. Glendinning</course_instructors_expected>
+
+<course_instructors_full>J. Glendinning</course_instructors_full>
+
+<classes><class><call_number>03212</call_number>
+
+<class_name>LABORATORY IN ANIMAL PHYS</class_name>
+
+<course_identifier>BIOLX3361</course_identifier>
+
+<course_number>3361</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 1:10p - 6:00p&#60;br /&#62;1115 ALTSCHUL HALL</days_times>
+
+<instructors>J. Glendinning</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3361-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3362</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3362y</course_identifier_cooked>
+
+<course_name>Molecular and Cellular Neuroscience</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Structure and function of neural membranes; ionic basis of membrane potential and action potential; synaptic transmission and neurochemistry; sensory transduction and processing; reflexes and spinal cord physiology; muscle structure and function; neuronal circuitry; nervous system development.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 or the equivalent and one term of organic chemistry.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Kao</course_instructors_actual>
+
+<course_instructors_expected>T. Kao</course_instructors_expected>
+
+<course_instructors_full>T. Kao</course_instructors_full>
+
+<classes><class><call_number>08088</call_number>
+
+<class_name>MOLECULAR&#38;CELLULAR NEUROS</class_name>
+
+<course_identifier>BIOLX3362</course_identifier>
+
+<course_number>3362</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>T. Kao</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>70</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3362-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3363</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3363y</course_identifier_cooked>
+
+<course_name>Laboratory in Molecular and Cell Neuroscience</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to techniques commonly used in current neurobiological research, including intracellular and extracellular recording of action potentials, neuroanatomical methods, and computer simulation of the action potential.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC3362 (or corequisite). Enrollment limited to 16.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Bauer</course_instructors_actual>
+
+<course_instructors_expected>E. Bauer</course_instructors_expected>
+
+<course_instructors_full>E. Bauer</course_instructors_full>
+
+<classes><class><call_number>08377</call_number>
+
+<class_name>LAB IN MOLEC &#38; CELL NEURO</class_name>
+
+<course_identifier>BIOLX3363</course_identifier>
+
+<course_number>3363</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 1:10p - 6:00p&#60;br /&#62;1115 ALTSCHUL HALL</days_times>
+
+<instructors>E. Bauer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3363-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3364</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3364y</course_identifier_cooked>
+
+<course_name>Advanced Neurobiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis of molecular aspects of neuronal function, emphasizing recent discoveries. Topics include molecular mechanisms of synaptic transmission, synaptic plasticity and synaptic formation, and relationship between structure and function for ion-channels, neurotransmitter receptors, and neurotoxins.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One of the following: BIOL BC3362 Neurobiology, BIOL BC3360 Animal Physiology, PSYC BC1119 Behavioral Neuroscience, or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3380</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3380x</course_identifier_cooked>
+
+<course_name>Applied Ecology and Evolution</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Ecological and evolutionary models of populations (exponential and density-dependent growth; species interactions; genetic differentiation resulting from mating, random drift, and selection) applied to problems resulting from human-induced environmental change (endangered species; use of pesticides and antibiotics; escaping transgenic organisms; global climate change; emerging pathogens; other invaders; etc.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503  or equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>H. Callahan</course_instructors_expected>
+
+<course_instructors_full>H. Callahan</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3388</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3388x</course_identifier_cooked>
+
+<course_name>Tropical Ecology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; Focusing on tropical rain forests, the course explores the contemporary and historical ecological processes that generate and maintain species diversity in the tropics. Topics include biogeography and the latitudinal gradient of diversity, tropical climate and soils, origins of tropical ecosystems, causes and consequences of tropical deforestation, as well as unique ecological patterns and processes in specific tropical regions (Neotropics, African, and Asian tropics).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BIOL BC1500, BC1501, BC1502, BC1503 or the equivalent.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. McGuire</course_instructors_expected>
+
+<course_instructors_full>K. McGuire</course_instructors_full>
+
+</course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3590</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3590x or y</course_identifier_cooked>
+
+<course_name>Senior Seminar- Microbial Immune Evasion Strategies</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required of all majors who do not select Senior Thesis (BIOL BC3593x / BC3594y) to fulfill the senior requirement, these seminars allow students to explore the primary literature in the Biological Sciences in greater depth than can be achieved in a lecture course. Attention will be focused on both theoretical and empirical work. Seminar periods are devoted to oral reports and discussion of assigned readings and student reports. Students will write one extensive literature review of a topic related to the central theme of the seminar section. Topics vary per semester and include: 1. Plant Development&#38;nbsp; 2. Animal Development and Evolution&#38;nbsp; 3. Molecular Evolution 4. Microbiology and Global Change 5. Genomics 6. Stress in Primates.&#38;nbsp;&#38;nbsp; &#38;nbsp; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1500, BC1501, BC1502, BC1503, and BC2100.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Snow, S. Foerster</course_instructors_actual>
+
+<course_instructors_expected>J. Snow</course_instructors_expected>
+
+<course_instructors_full>J. Snow, S. Foerster</course_instructors_full>
+
+<classes><class><call_number>09282</call_number>
+
+<class_name>SR SEM IN BIOLOGY</class_name>
+
+<course_identifier>BIOLX3590</course_identifier>
+
+<course_number>3590</course_number>
+
+<course_section_code>010</course_section_code>
+
+<days_times>F 2:10p - 4:00p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3590-20123-010</university_web_bulletin_url>
+
+</class>
+<class><call_number>03374</call_number>
+
+<class_name>SENIOR SEMINAR</class_name>
+
+<course_identifier>BIOLX3590</course_identifier>
+
+<course_number>3590</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 1:10p - 3:00p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>J. Snow</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3590-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3591</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3592</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3591x-BC3592y</course_identifier_cooked>
+
+<course_name>Guided Research and Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Per Semester</course_points_notes>
+
+<course_points_cooked>3 pts.  Per Semester</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An independent research project in Biology under the guidance of a faculty member and suiting the needs of the individual student. Projects conducted outside of the Barnard Biology Department must have a member of the Department acting as a sponsor. Attendance at a weekly seminar is required. By the end of the year, students write a scientific paper and orally present their results to the Barnard Biology Department. Completion of both BIO BC3591x and BIOL BC3592y fulfills one upper-level laboratory requirement in the major. Must be taken in sequence, beginning in the fall.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of a faculty sponsor and the department. Cannot be taken concurrently with BIOL BC3593 or BIOL BC3594.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Lokshin, S. Foerster</course_instructors_actual>
+
+<course_instructors_expected>S. Foerster, M.Lokshin</course_instructors_expected>
+
+<course_instructors_full>M. Lokshin, M. M.Lokshin, S. Foerster</course_instructors_full>
+
+<classes><class><call_number>01445</call_number>
+
+<class_name>GUIDED RESEARCH &#38; SEMINAR</class_name>
+
+<course_identifier>BIOLX3591</course_identifier>
+
+<course_number>3591</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 5:00p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3591-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>08235</call_number>
+
+<class_name>GUIDED RESEARCH &#38; SEMINAR</class_name>
+
+<course_identifier>BIOLX3591</course_identifier>
+
+<course_number>3591</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 4:10p - 5:00p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>M. Lokshin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3591-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03012</call_number>
+
+<class_name>GUIDED RESEARCH &#38; SEMINAR</class_name>
+
+<course_identifier>BIOLX3592</course_identifier>
+
+<course_number>3592</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 5:00p&#60;br /&#62;102 SULZBERGER ANNEX</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3592-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04446</call_number>
+
+<class_name>GUIDED RESEARCH &#38; SEMINAR</class_name>
+
+<course_identifier>BIOLX3592</course_identifier>
+
+<course_number>3592</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Lokshin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3592-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3593</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3594</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3593x-BC3594y</course_identifier_cooked>
+
+<course_name>Senior Thesis Research</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Per Semester</course_points_notes>
+
+<course_points_cooked>3 pts.  Per Semester</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Same as BIOL BC3591x-BC3592y, including the weekly seminar. Completion of both BIOL BC3593x and BC3594y fulfills the senior requirement in the major. Must be taken in sequence, beginning in the fall.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of a faculty sponsor and the department. Cannot be taken concurrently with BIOL BC3591 or BIOL BC3592.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Lokshin, S. Foerster</course_instructors_actual>
+
+<course_instructors_expected>S. Foerster, Maria Lokshin</course_instructors_expected>
+
+<course_instructors_full>M. Lokshin, S. Foerster</course_instructors_full>
+
+<classes><class><call_number>01777</call_number>
+
+<class_name>SENIOR THESIS RESEARCH</class_name>
+
+<course_identifier>BIOLX3593</course_identifier>
+
+<course_number>3593</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 5:00p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3593-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09211</call_number>
+
+<class_name>SENIOR THESIS RESEARCH</class_name>
+
+<course_identifier>BIOLX3593</course_identifier>
+
+<course_number>3593</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 4:10p - 5:00p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>M. Lokshin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3593-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>01445</call_number>
+
+<class_name>SENIOR THESIS RESEARCH</class_name>
+
+<course_identifier>BIOLX3594</course_identifier>
+
+<course_number>3594</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 5:00p&#60;br /&#62;102 SULZBERGER ANNEX</days_times>
+
+<instructors>S. Foerster</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3594-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04399</call_number>
+
+<class_name>SENIOR THESIS RESEARCH</class_name>
+
+<course_identifier>BIOLX3594</course_identifier>
+
+<course_number>3594</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Lokshin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3594-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BIOB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<subject_area_name>Biology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3597</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BIOL BC3597xy</course_identifier_cooked>
+
+<course_name>Guided Research</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Similar to BIOL BC3591x/ BC3592y but a variable point course without seminar or an oral presentation. Does not fulfill Biology major requirements.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of a faculty sponsor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Callahan</course_instructors_actual>
+
+<course_instructors_expected>H. Callahan</course_instructors_expected>
+
+<course_instructors_full>H. Callahan</course_instructors_full>
+
+<classes><class><call_number>02657</call_number>
+
+<class_name>GUIDED RESEARCH</class_name>
+
+<course_identifier>BIOLX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>H. Callahan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3597-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03884</call_number>
+
+<class_name>GUIDED RESEARCH</class_name>
+
+<course_identifier>BIOLX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>H. Callahan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>BIOL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BIOL/BC3597-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

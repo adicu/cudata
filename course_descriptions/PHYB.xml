@@ -1,0 +1,5052 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C1001y</course_identifier_cooked>
+
+<course_name>Physics for Poets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to physics with emphasis on quantum phenomena, relativity, and models of the atom and its nucleus. Offered in Spring 2011 only.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>No previous background in physics is expected; high school algebra is required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Marka</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Marka</course_instructors_full>
+
+<classes><class><call_number>68419</call_number>
+
+<class_name>PHYSICS FOR POETS</class_name>
+
+<course_identifier>PHYSC1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>S. Marka</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>140</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>31</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/C1001-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C1002y</course_identifier_cooked>
+
+<course_name>Physics for Poets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to physics with emphasis on quantum phenomena, relativity, and models of the atom and its nucleus.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>No previous background in physics is expected; high school algebra is required.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1201</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS V1201x</course_identifier_cooked>
+
+<course_name>General Physics I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Mechanics, fluids, thermodynamics.</course_description>
+
+<corequisites>Taken with accompanying lab PHYS V1291-V1292, the sequence PHYS V1201-C1202 satisfies requirements for medical school.</corequisites>
+
+<prerequisites>This course will use elementary concepts from calculus. Students should therefore have had some high school calculus, or be concurrently enrolled in MATH V1101.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Shaevitz, P. Tuts</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Shaevitz, P. Tuts</course_instructors_full>
+
+<classes><class><call_number>62915</call_number>
+
+<class_name>GENERAL PHYSICS I</class_name>
+
+<course_identifier>PHYSV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:00a - 12:15p&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Shaevitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>150</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>151</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/V1201-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>69889</call_number>
+
+<class_name>GENERAL PHYSICS I</class_name>
+
+<course_identifier>PHYSV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 11:00a - 12:15p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>P. Tuts</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>130</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>114</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/V1201-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1202</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS V1202y</course_identifier_cooked>
+
+<course_name>General Physics II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Electricity, magnetism, optics, and modern physics.</course_description>
+
+<corequisites>Taken with accompanying lab PHYS V1291-2, the sequence PHYS V1201-2 satisfies requirements for medical school.</corequisites>
+
+<prerequisites>This couse will use elementary concepts from calculus. Students should therefore have had some high school calculus, or be cuncurrently enrolled in MATH V1101.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Shaevitz, T. Humensky</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Shaevitz, T. Humensky</course_instructors_full>
+
+<classes><class><call_number>63625</call_number>
+
+<class_name>GENERAL PHYSICS II</class_name>
+
+<course_identifier>PHYSV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:00a - 12:15p&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Shaevitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>160</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/V1202-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>25436</call_number>
+
+<class_name>GENERAL PHYSICS II</class_name>
+
+<course_identifier>PHYSV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 11:00a - 12:15p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>T. Humensky</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>130</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>121</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/V1202-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1234</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1234x</course_identifier_cooked>
+
+<course_name>Astronomy-Physics-Geology, The Universal Timekeeper: An Introduction to Scientific Habits of Mind</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to ideas and models of thought in the physical sciences, adopting as its theme the use of the atom as an imperturbable clock. Lectures develop basic physical ideas behind the structure of the atom and its nucleus and then explore such diverse applications as measuring the age of the Shroud of Turin, determining the diets of ancient civilizations, unraveling the evolution of the universe, and charting the history of earth&#38;acute;s climate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Prerequisite for ASTR C1235y is ASTR C1234x. Working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1291</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C1291x</course_identifier_cooked>
+
+<course_name>General Physics I Laboratory</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites>Laboratory to accompany PHYS V1201-2, PHYS V1301-2, or PHYS V1001-2.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1292</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C1292y</course_identifier_cooked>
+
+<course_name>General Physics II Laboratory</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Laboratory to accompany V1201-2, V1301-2, or V1001-2.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1401</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C1401x</course_identifier_cooked>
+
+<course_name>Introduction to Mechanics and Thermodynamics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamental laws of mechanics, kinematics and dynamics, work and energy, rotational dynamics, oscillations, gravitation, fluids, temperature and heat, gas laws, the first and second laws of thermodynamics.</course_description>
+
+<corequisites>MATH V1101 or MATH V1105, or the equivalent.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Pasupathy, E. Hughes</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Pasupathy, E. Hughes</course_instructors_full>
+
+<classes><class><call_number>73824</call_number>
+
+<class_name>INTRO TO MECHANICS &#38; THER</class_name>
+
+<course_identifier>PHYSC1401</course_identifier>
+
+<course_number>1401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Pasupathy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>86</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/C1401-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>29791</call_number>
+
+<class_name>INTRO TO MECHANICS &#38; THER</class_name>
+
+<course_identifier>PHYSC1401</course_identifier>
+
+<course_number>1401</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>E. Hughes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>188</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/C1401-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1402</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C1402y</course_identifier_cooked>
+
+<course_name>Introduction to Electricity, Magnetism, and Optics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves, polarization, geometical optics, interference, and diffraction.</course_description>
+
+<corequisites>MATH V1102 or V1106, or the equivalent.</corequisites>
+
+<prerequisites>PHYS C1401, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Cole, T. Zelevinsky</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Cole, T. Zelevinsky</course_instructors_full>
+
+<classes><class><call_number>63801</call_number>
+
+<class_name>INTRO ELEC/MAGNETSM &#38; OPT</class_name>
+
+<course_identifier>PHYSC1402</course_identifier>
+
+<course_number>1402</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>B. Cole</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>145</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/C1402-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>15442</call_number>
+
+<class_name>INTRO ELEC/MAGNETSM &#38; OPT</class_name>
+
+<course_identifier>PHYSC1402</course_identifier>
+
+<course_number>1402</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>T. Zelevinsky</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>150</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>150</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/C1402-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1403</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1403x</course_identifier_cooked>
+
+<course_name>Earth, Moon, and Planets (lecture)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The overall architecture of the solar system. Motions of the celestial sphere. Time and the calendar. Life in the solar system and beyond. Students may not receive credit for both ASTR BC1753 and ASTR C1403.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to any student offering astronomy in partial fulfillment of the science requirement - some sections satisfy QUA requirement. Recommended preparation: A working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, M. Agueros</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, M. Agueros</course_instructors_full>
+
+<classes><class><call_number>61534</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS-</class_name>
+
+<course_identifier>ASTRC1403</course_identifier>
+
+<course_number>1403</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Agueros</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>50</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1403-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>22173</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS</class_name>
+
+<course_identifier>ASTRC1403</course_identifier>
+
+<course_number>1403</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>99</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1403-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1403</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1403x</course_identifier_cooked>
+
+<course_name>Earth, Moon, and Planets (lecture)</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The overall architecture of the solar system. Motions of the celestial sphere. Time and the calendar. Life in the solar system and beyond. Students may not receive credit for both ASTR BC1753 and ASTR C1403.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to any student offering astronomy in partial fulfillment of the science requirement - some sections satisfy QUA requirement. Recommended preparation: A working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, M. Agueros</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, M. Agueros</course_instructors_full>
+
+<classes><class><call_number>86001</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS</class_name>
+
+<course_identifier>AUATO1403</course_identifier>
+
+<course_number>1403</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;428 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1403-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1404</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1404y</course_identifier_cooked>
+
+<course_name>Stars, Galaxies, and Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Distances to, and fundamental properties of, nearby stars; nucleosynthesis and stellar evolution; novas and supernovas; galaxies; the structure of the universe and theories concerning its origin, evolution, and ultimate fate. Professor Applegate&#39;s sections do not qualify for QUA. Students may not receive credit for both ASTR BC1754 and ASTR C1404.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to any student offering astronomy in partial fulfillment of the science requirement. Recommended preparation: A working knowledge of high school algebra. Professor Applegate&#39;s sections do not qualify for QUA.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, J. van Gorkom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, J. van Gorkom</course_instructors_full>
+
+<classes><class><call_number>64024</call_number>
+
+<class_name>STARS, GALAXIES &#38; COSMO</class_name>
+
+<course_identifier>ASTRC1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>120</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>63</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1404-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>10014</call_number>
+
+<class_name>STARS, GALAXIES &#38; COSMO</class_name>
+
+<course_identifier>ASTRC1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. van Gorkom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>48</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1404-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1404</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1404y</course_identifier_cooked>
+
+<course_name>Stars, Galaxies, and Cosmology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Distances to, and fundamental properties of, nearby stars; nucleosynthesis and stellar evolution; novas and supernovas; galaxies; the structure of the universe and theories concerning its origin, evolution, and ultimate fate. Professor Applegate&#39;s sections do not qualify for QUA. Students may not receive credit for both ASTR BC1754 and ASTR C1404.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to any student offering astronomy in partial fulfillment of the science requirement. Recommended preparation: A working knowledge of high school algebra. Professor Applegate&#39;s sections do not qualify for QUA.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Applegate, J. van Gorkom</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Applegate, J. van Gorkom</course_instructors_full>
+
+<classes><class><call_number>75799</call_number>
+
+<class_name>STARS,GALAXIES &#38; COSMOLOG</class_name>
+
+<course_identifier>AUATO1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Applegate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1404-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>97050</call_number>
+
+<class_name>STARS,GALAXIES &#38; COSMOLOG</class_name>
+
+<course_identifier>AUATO1404</course_identifier>
+
+<course_number>1404</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;TBA</days_times>
+
+<instructors>J. van Gorkom</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1404-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1420</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1420x</course_identifier_cooked>
+
+<course_name>Galaxies and Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The content, structure, and possible evolution of galaxies. The &#39;21-centimeter line&#39;: the song of interstellar hydrogen. Distribution mass, seen and unseen, in galaxies and clusters of galaxies. Distribution of clusters over the sky. Quasars and the nuclei of galaxies. The origin of the universe, and the present controversy over its eventual fate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Putman</course_instructors_full>
+
+<classes><class><call_number>77380</call_number>
+
+<class_name>GALAXIES AND COSMOLOGY</class_name>
+
+<course_identifier>ASTRC1420</course_identifier>
+
+<course_number>1420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>42</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1420-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1420</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O1420x</course_identifier_cooked>
+
+<course_name>Galaxies and Cosmology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The content, structure, and possible evolution of galaxies. The &#39;21-centimeter line&#39;: the song of interstellar hydrogen. Distribution mass, seen and unseen, in galaxies and clusters of galaxies. Distribution of clusters over the sky. Quasars and the nuclei of galaxies. The origin of the universe, and the present controversy over its eventual fate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Putman</course_instructors_full>
+
+<classes><class><call_number>89541</call_number>
+
+<class_name>GALAXIES AND COSMOLOGY</class_name>
+
+<course_identifier>AUATO1420</course_identifier>
+
+<course_number>1420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O1420-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1753</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR BC1753x</course_identifier_cooked>
+
+<course_name>Life in the Universe</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to astronomy, taught at Barnard, intended primarily for non-science majors. Includes discovery of new planets, the search for life, gravitation and planetary orbits, the physics of the Earth and its atmosphere, and the exploration of the solar system. Students may not receive credit for both ASTR BC1753 and ASTR C1403.</course_description>
+
+<corequisites>Suggested parallel laboratory course: ASTR C1903.</corequisites>
+
+<prerequisites>Recommended preparation: Working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected>M. Putnam</course_instructors_expected>
+
+<course_instructors_full>M. Putman, M. Putnam</course_instructors_full>
+
+<classes><class><call_number>03751</call_number>
+
+<class_name>LIFE IN THE UNIVERSE</class_name>
+
+<course_identifier>ASTRX1753</course_identifier>
+
+<course_number>1753</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>96</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/BC1753-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1754</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR BC1754y</course_identifier_cooked>
+
+<course_name>Stars, Galaxies, and Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the properties of stars, star formation, stellar evolution and nucleosynthesis, the Milky Way and other galaxies, and the cosmological origin and evolution of the universe. Students may not receive credit for both ASTR BC 1754 and ASTR C1404.</course_description>
+
+<corequisites>Suggested parallel laboratory course: ASTR C 1904y.</corequisites>
+
+<prerequisites>Recommended preparation: A working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Kay</course_instructors_actual>
+
+<course_instructors_expected>L. Kay</course_instructors_expected>
+
+<course_instructors_full>L. Kay</course_instructors_full>
+
+<classes><class><call_number>05649</call_number>
+
+<class_name>STARS, GALAXIES AND COSMO</class_name>
+
+<course_identifier>ASTRX1754</course_identifier>
+
+<course_number>1754</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>L. Kay</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>98</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/BC1754-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1836</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1836y</course_identifier_cooked>
+
+<course_name>Stars and Atoms</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Study of the life cycles of stars, from their birth in cold gas clouds to their final throes in supernova explosions. The turn-of-the-century revolution in physics: x-rays, radioactivity, the nuclear atom, and the quantum theory. Energy production by nuclear fission and fusion, and its consequences.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Recommended preparation: A working knowledge of high school algebra.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Johnston</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Johnston</course_instructors_full>
+
+<classes><class><call_number>24208</call_number>
+
+<class_name>STARS AND ATOMS</class_name>
+
+<course_identifier>ASTRC1836</course_identifier>
+
+<course_number>1836</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;503 HAMILTON HALL</days_times>
+
+<instructors>K. Johnston</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1836-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1900</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS V1900y</course_identifier_cooked>
+
+<course_name>Seminar in Contemporary Physics and Astronomy</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lectures on current areas of research with discussions of motivation, techniques, and results, as well as difficulties and unsolved problems. Each student submits a written report on one field of active research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>(or corequisite) Any 1000-level course in the Physics or Astronomy departments. This course may be repeated for credit only with the instructor&#39;s permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Hailey</course_instructors_expected>
+
+<course_instructors_full>C. Hailey</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1903</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1903x</course_identifier_cooked>
+
+<course_name>Earth, Moon, and Planets Laboratory</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This laboratory is for the lecture courses ASTR BC1753x or ASTR C1403x. The lecture course must be taken concurrently.</course_description>
+
+<corequisites>ASTR BC1753 or ASTR C1403.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Price-Whelan, D. Hendel, G. Bryan, J. Lemonias, J. Liu, L. Kay, M. Li, R.
+Fernandez</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Price-Whelan, D. Hendel, G. Bryan, J. Lemonias, J. Liu, L. Kay, M. Li, R.
+Fernandez</course_instructors_full>
+
+<classes><class><call_number>78280</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+R. Fernandez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>80781</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+M. Li</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>83030</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Price-Whelan&#60;br /&#62;
+G. Bryan&#60;br /&#62;
+J. Lemonias</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>84531</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>W 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+J. Liu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>86029</call_number>
+
+<class_name>ASTRONOMY LAB I</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>Th 6:00p - 9:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>D. Hendel&#60;br /&#62;
+G. Bryan&#60;br /&#62;
+J. Lemonias</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>05686</call_number>
+
+<class_name>EARTH, MOON, AND PLANETS-</class_name>
+
+<course_identifier>ASTRC1903</course_identifier>
+
+<course_number>1903</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Li</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1903-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1904</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C1904y</course_identifier_cooked>
+
+<course_name>Astronomy Lab II</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This laboratory is for the lecture courses ASTR BC1754 and ASTR C1404. A lecture course must be taken concurrently.</course_description>
+
+<corequisites>ASTR BC1754 or ASTR C1404.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Hendel, G. Bryan, J. Lemonias, L. Corlies, L. Kay, M. Charisi, M. Fernandez
+Betancourt, M. Salem, R. Fernandez</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Hendel, G. Bryan, J. Lemonias, L. Corlies, L. Kay, M. Charisi, M. Fernandez
+Betancourt, M. Salem, R. Fernandez</course_instructors_full>
+
+<classes><class><call_number>19700</call_number>
+
+<class_name>INTRO LAB:BEYOND-SOLAR SY</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Bryan&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+M. Fernandez Betancourt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>12</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09992</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>D. Hendel&#60;br /&#62;
+J. Lemonias&#60;br /&#62;
+L. Kay</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06723</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 7:10p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Fernandez Betancourt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03099</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 6:10p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Charisi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>05672</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>W 6:00p - 9:00p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+R. Fernandez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>07772</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>W 7:00p - 10:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Kay&#60;br /&#62;
+M. Salem</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>01887</call_number>
+
+<class_name>ASTRONOMY LAB II</class_name>
+
+<course_identifier>ASTRC1904</course_identifier>
+
+<course_number>1904</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 6:00p - 9:00p&#60;br /&#62;1402 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Lemonias&#60;br /&#62;
+L. Corlies&#60;br /&#62;
+L. Kay</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>14</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C1904-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C2001x</course_identifier_cooked>
+
+<course_name>Introduction to Astrophysics I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The first term of a two-term, calculus-based introduction to astronomy and astrophysics. Topics include the physics of stellar interiors, stellar atmospheres and spectral classifications, stellar energy generation and nucleosynthesis, supernovae, neutron stars, white dwarfs, interacting binary stars.</course_description>
+
+<corequisites>A course in calculus-based general physics.</corequisites>
+
+<prerequisites>A working knowledge of calculus.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Paerels</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>F. Paerels</course_instructors_full>
+
+<classes><class><call_number>78648</call_number>
+
+<class_name>INTRO TO ASTROPHYSICS I</class_name>
+
+<course_identifier>ASTRC2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>F. Paerels</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>32</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C2001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC2001x</course_identifier_cooked>
+
+<course_name>Physics I: Mechanics</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamental laws of mechanics. Kinematics, Newton&#39;s laws, work and energy, conservation laws, collisions, rotational motion, oscillations, gravitation.</course_description>
+
+<corequisites>Calculus I or the equivalent.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Mukherjee, S. Savin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Mukherjee, S. Savin</course_instructors_full>
+
+<classes><class><call_number>01611</call_number>
+
+<class_name>MECHANICS</class_name>
+
+<course_identifier>PHYSX2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>R. Mukherjee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC2001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09888</call_number>
+
+<class_name>MECHANICS</class_name>
+
+<course_identifier>PHYSX2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>R. Mukherjee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC2001-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>01333</call_number>
+
+<class_name>MECHANICS</class_name>
+
+<course_identifier>PHYSX2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Savin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC2001-20123-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C2002y</course_identifier_cooked>
+
+<course_name>Introduction to Astrophysics II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Continuation of ASTR C2001. These two courses constitute a full year of calculus-based introduction to astrophysics. Topics include the structure of our galaxy, the interstellar medium, star clusters, properties of external galaxies, clusters of galaxies, active galactic nuclei, cosmology.</course_description>
+
+<corequisites>A course in calculus-based general physics.</corequisites>
+
+<prerequisites>A working knowledge of calculus.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Johnston</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Johnston</course_instructors_full>
+
+<classes><class><call_number>20569</call_number>
+
+<class_name>INTRO TO ASTROPHYSICS</class_name>
+
+<course_identifier>ASTRC2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>K. Johnston</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C2002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>2002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAT O2002y</course_identifier_cooked>
+
+<course_name>Introduction to Astrophysics II</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Continuation of ASTR C2001. These two courses constitute a full year of calculus-based introduction to astrophysics. Topics include the structure of our galaxy, the interstellar medium, star clusters, properties of external galaxies, clusters of galaxies, active galactic nuclei, cosmology.</course_description>
+
+<corequisites>A course in calculus-based general physics.</corequisites>
+
+<prerequisites>A working knowledge of calculus.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Johnston</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Johnston</course_instructors_full>
+
+<classes><class><call_number>73455</call_number>
+
+<class_name>INTRO TO ASTROPHYSICS II</class_name>
+
+<course_identifier>AUATO2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>K. Johnston</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAT</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAT/O2002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC2002y</course_identifier_cooked>
+
+<course_name>Physics II: Electricity and Magnetism</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Charge, electric field, and potential. Gauss&#39;s law. Circuits: capacitors and resistors. Magnetism and electromagnetism. Induction and inductance. Alternating currents. Maxwell&#39;s equations.</course_description>
+
+<corequisites>Calculus II.</corequisites>
+
+<prerequisites>Physics BC2001 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Savin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Savin</course_instructors_full>
+
+<classes><class><call_number>05964</call_number>
+
+<class_name>ELECTRICITY&#38;MAGNTSM-LEC &#38;</class_name>
+
+<course_identifier>PHYSX2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>S. Savin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC2002-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03365</call_number>
+
+<class_name>ELECTRICITY &#38;MAGNETISM -</class_name>
+
+<course_identifier>PHYSX2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>S. Savin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC2002-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07410</call_number>
+
+<class_name>ELECTRICITY&#38; MAGNETISM LA</class_name>
+
+<course_identifier>PHYSX2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Savin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC2002-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2801</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C2801x</course_identifier_cooked>
+
+<course_name>General Physics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Mechanics, heat, electricity, magnetism, and light.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Advanced placement in mathematics or some knowledge of differential and integral calculus and permission of the departmental representative. (A special placement meeting is held during Orientation Week.)</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Christ</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Christ</course_instructors_full>
+
+<classes><class><call_number>62698</call_number>
+
+<class_name>ACCELERATED PHYSICS I</class_name>
+
+<course_identifier>PHYSC2801</course_identifier>
+
+<course_number>2801</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 12:00p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>N. Christ</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>66</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/C2801-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2802</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS C2802y</course_identifier_cooked>
+
+<course_name>General Physics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Mechanics, heat, electricity, magnetism, and light.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Advanced placement in mathematics or some knowledge of differential and integral calculus and permission of the departmental representative. (A special placement meeting is held during Orientation week.)</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Christ</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Christ</course_instructors_full>
+
+<classes><class><call_number>77707</call_number>
+
+<class_name>ACCELERATED PHYSICS II</class_name>
+
+<course_identifier>PHYSC2802</course_identifier>
+
+<course_number>2802</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 12:00p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>N. Christ</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>57</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/C2802-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>2900</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C2900x</course_identifier_cooked>
+
+<course_name>Frontiers of Astrophysics Research</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Grading is Pass/Fail.</course_points_notes>
+
+<course_points_cooked>3 pts.  Grading is Pass/Fail.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Several members of the faculty will each offer a brief series of talks providing context for a current research topic in the field and will then present recent results of their ongoing research. Opportunities for future student research collaboration will be offered.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Patterson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Patterson</course_instructors_full>
+
+<classes><class><call_number>29529</call_number>
+
+<class_name>FRONTIERS OF ASTROPHYSICS</class_name>
+
+<course_identifier>ASTRC2900</course_identifier>
+
+<course_number>2900</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:10a - 11:25a&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C2900-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC3001x</course_identifier_cooked>
+
+<course_name>Physics III: Classical Waves &#38; Optics</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Nonlinear pendula, transverse vibrations-elastic strings, longitudinal sound waves, seismic waves, electromagnetic oscillations &#38;amp; light, rainbows, haloes, the Green Flash; polarization phenomena - Haidinger&#39;s Brush, Brewster&#39;s angle, double refraction, optical activity; gravity &#38;amp; capillary waves; interference, diffraction, lenses &#38;amp; mirrors.</course_description>
+
+<corequisites>Calculus III.</corequisites>
+
+<prerequisites>Physics BC2002 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Halpin-Healy</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Halpin-Healy</course_instructors_full>
+
+<classes><class><call_number>01361</call_number>
+
+<class_name>CLASSICAL WAVES - LEC +</class_name>
+
+<course_identifier>PHYSX3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;510C ALTSCHUL HALL&#60;br /&#62;W 6:10p - 10:00p&#60;br /&#62;510C ALTSCHUL HALL</days_times>
+
+<instructors>T. Halpin-Healy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC3001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>08802</call_number>
+
+<class_name>CLASSICAL WAVES - LEC +</class_name>
+
+<course_identifier>PHYSX3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;510C ALTSCHUL HALL</days_times>
+
+<instructors>T. Halpin-Healy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC3001-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>06186</call_number>
+
+<class_name>CLASSICAL WAVES - LEC +</class_name>
+
+<course_identifier>PHYSX3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 6:10p - 10:00p&#60;br /&#62;510C ALTSCHUL HALL</days_times>
+
+<instructors>T. Halpin-Healy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC3001-20123-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3003</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS W3003x</course_identifier_cooked>
+
+<course_name>Mechanics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Newtonian mechanics. Oscillations and resonance. Conservative forces and potential energy. Central forces. Non-inertial frames of reference. Rigid body motion. Introduction to Lagrangian mechanics. Coupled oscillators and normal modes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>General physics and integral calculus.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Millis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Millis</course_instructors_full>
+
+<classes><class><call_number>20478</call_number>
+
+<class_name>MECHANICS</class_name>
+
+<course_identifier>PHYSW3003</course_identifier>
+
+<course_number>3003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Millis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>67</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/W3003-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3006</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC3006y</course_identifier_cooked>
+
+<course_name>Quantum Physics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Wave-particle duality and the Uncertainty Principle. The Schrodinger equation. Basic principles of the quantum theory. Energy levels in one-dimensional potential wells. The harmonic oscillator, photons, and phonons. Reflection and transmission by one-dimensional potential barriers. Applications to atomic, molecular, and nuclear physics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC3001 or C2601 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Mukherjee</course_instructors_actual>
+
+<course_instructors_expected>R. Mukherjee</course_instructors_expected>
+
+<course_instructors_full>R. Mukherjee</course_instructors_full>
+
+<classes><class><call_number>07993</call_number>
+
+<class_name>QUANTUM PHYSICS</class_name>
+
+<course_identifier>PHYSX3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;514 ALTSCHUL HALL</days_times>
+
+<instructors>R. Mukherjee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC3006-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3007</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS W3007y</course_identifier_cooked>
+
+<course_name>Electricity and Magnetism</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Electrostatics and magnetostatics. Laplace&#39;s equation and boundary-value problems. Multipole expansion. Dielectric and magnetic materials. Faraday&#39;s law. AC circuits. Maxwell&#38;rsquo;s equations. Lorentz covariance and special relativity.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC2002 or the equivalent, and differential and integral calculus.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Kim</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Kim</course_instructors_full>
+
+<classes><class><call_number>65048</call_number>
+
+<class_name>ELECTRICITY-MAGNETISM</class_name>
+
+<course_identifier>PHYSW3007</course_identifier>
+
+<course_number>3007</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>P. Kim</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>47</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/W3007-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3008</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS W3008x</course_identifier_cooked>
+
+<course_name>Electromagnetic Waves and Optics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Maxwell&#39;s equations and electromagnetic potentials. The wave equation. Propagation of plane waves. Reflection and refraction. Geometrical optics. Transmission lines, wave guides, and resonant cavities. Radiation. Interference of waves. Diffraction.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>W3007.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Metzger</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Metzger</course_instructors_full>
+
+<classes><class><call_number>20737</call_number>
+
+<class_name>ELECTROMAGNETIC WAVES &#38; O</class_name>
+
+<course_identifier>PHYSW3008</course_identifier>
+
+<course_number>3008</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;329 PUPIN LABORATORIES</days_times>
+
+<instructors>B. Metzger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>66</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/W3008-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3082</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC3082x</course_identifier_cooked>
+
+<course_name>Advanced Physics Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Barnard College physics laboratory has available a variety of experiments meant to complement 3000-level lecture courses. Each experiment requires substantial preparation, as well as written and oral presentations. Elementary particle experiments: detectors, cosmic ray triggers, muon lifetime.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3083</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS W3083y</course_identifier_cooked>
+
+<course_name>Electronics Laboratory</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Experiments in solid state electronics, with introductory lectures.</course_description>
+
+<corequisites>W3003 or W3007.</corequisites>
+
+<prerequisites>Permission of the instructor required. Registration is limited to the capacity of the laboratory.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Parsons</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Parsons</course_instructors_full>
+
+<classes><class><call_number>14677</call_number>
+
+<class_name>ELECTRONICS LABORATORY</class_name>
+
+<course_identifier>PHYSW3083</course_identifier>
+
+<course_number>3083</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 4:00p&#60;br /&#62;513 PUPIN LABORATORIES</days_times>
+
+<instructors>J. Parsons</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>12</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/W3083-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3086</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC3086y</course_identifier_cooked>
+
+<course_name>Quantum Physics Laboratory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Experiments illustrating phenomenological aspects of the early quantum theory: (i) Hydrogenic Spectra: Balmer Series &#38;amp; Bohr-Sommerfeld Model; (ii) Photoelectric Effect: Millikan&#39;s Determination of h/e; (iii) Franck-Hertz Experiment; and (iv) Electron Diffraction Phenomena. Substantial preparation required, including written and oral presentations, as well as an interest in developing the knack and intuition of an experimental physicist. This course is best taken concurrently with PHYS BC3006 Quantum Physics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Mukherjee</course_instructors_actual>
+
+<course_instructors_expected>R. Mukherjee</course_instructors_expected>
+
+<course_instructors_full>R. Mukherjee</course_instructors_full>
+
+<classes><class><call_number>03377</call_number>
+
+<class_name>QUANTUM PHYSICS LABORATOR</class_name>
+
+<course_identifier>PHYSX3086</course_identifier>
+
+<course_number>3086</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 11:00a&#60;br /&#62;510B ALTSCHUL HALL</days_times>
+
+<instructors>R. Mukherjee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC3086-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3088</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC3088x</course_identifier_cooked>
+
+<course_name>Advanced Electromagnetism Laboratory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Classical electromagnetic wave phenomena via Maxwell&#39;s equations, including: (i) Michaelson and Fabry-Perot Interferometry, as well as a thin-film interference and elementary dispersion theory; (ii) Fraunhofer Diffraction (and a bit of Fresnel); (iii) Wireless Telegraphy I: AM Radio Receivers; and (iv) Wireless Telegraphy II: AM Transmitters. Last two labs pay homage to relevant scientific developments in the period 1875-1925, from the discovery of Hertzian waves to the Golden Age of Radio. Complements PHYS W3008 Electromagnetic Waves and Optics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Savin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Savin</course_instructors_full>
+
+<classes><class><call_number>01858</call_number>
+
+<class_name>ADV ELECTROMAGNETISM LAB</class_name>
+
+<course_identifier>PHYSX3088</course_identifier>
+
+<course_number>3088</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:30a - 12:00p&#60;br /&#62;510B ALTSCHUL HALL</days_times>
+
+<instructors>S. Savin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC3088-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3101x</course_identifier_cooked>
+
+<course_name>Modern Stellar Astrophysics II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The physics of stellar structure, stellar atmospheres, nucleosynthesis, stellar evolution, interacting binary stars, white dwarfs, and neutron stars.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Agueros</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Agueros</course_instructors_full>
+
+<classes><class><call_number>73141</call_number>
+
+<class_name>MODERN STELLAR ASTROPHYSI</class_name>
+
+<course_identifier>ASTRC3101</course_identifier>
+
+<course_number>3101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Agueros</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3101-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3102</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3102y</course_identifier_cooked>
+
+<course_name>Planetary Dynamics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Planets and planetary dynamics, detecting extrasolar systems, characteristics of extrasolar planets, astrobiology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crotts</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Crotts</course_instructors_full>
+
+<classes><class><call_number>14935</call_number>
+
+<class_name>PLANETARY DYNAMICS &#38; PHYS</class_name>
+
+<course_identifier>ASTRC3102</course_identifier>
+
+<course_number>3102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Crotts</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3102-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3103</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3103x or y</course_identifier_cooked>
+
+<course_name>The Galaxy and the Interstellar Medium</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3105</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3105y</course_identifier_cooked>
+
+<course_name>Extrasolar Planets and Astrobiology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The emerging field of extrasolar planets and astrobiology will be covered at a quantitative level, with a major emphasis on astrophysical phenomenae and techniques. The subject will be introduced through an investigation of current planetary formation theories and approaches to planet detection, including what we currently know about extrasolar planets and detailed reference to state-of-the-art studies. An astronomer&#39;s view of the origin of life and extreme biology will be developed and applied to questions of cosmo-chemistry, observable life-signatures, habitable zones and other astrophysical constraints on the development of organisms.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of calculus-based physics.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3273</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3273x</course_identifier_cooked>
+
+<course_name>High Energy Astrophysics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of calculus-based general physics. Physics majors could take this course with no previous astronomy background.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3601</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3601x</course_identifier_cooked>
+
+<course_name>General Relativity, Black Holes, and Cosmology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to general relativity, Einstein&#38;rsquo;s geometrical theory of gravity. Topics include special relativity, tensor calculus, the Einstein field equations, the Friedmann equations and cosmology, black holes, gravitational lenses and mirages, gravitational radiation, and black hole evaporation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3602</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3602y</course_identifier_cooked>
+
+<course_name>Physical Cosmology and Extragalactic Astronomy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The standard hot big bang cosmological model and other modern observational results that test it. Topics include the Friedmann equations, the standard model of particle Physics, the age of the universe, primordial nucleosynthesis, the cosmic microwave background, the extragalactic distance scale, and modern observations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of calculus-based general physics.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Z. Haiman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Z. Haiman</course_instructors_full>
+
+<classes><class><call_number>66423</call_number>
+
+<class_name>PHYSICAL COSMOLOGY</class_name>
+
+<course_identifier>ASTRC3602</course_identifier>
+
+<course_number>3602</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>Z. Haiman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3602-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3646</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3646y</course_identifier_cooked>
+
+<course_name>Observational Astronomy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the basic techniques used in obtaining and analyzing astronomical data. Focus on &#39;ground-based&#39; methods at optical, infrared, and radio wavelengths. Regular use of the telescope facilities atop the roof of the Pupin Labs and at Harriman Observatory. The radio-astronomy portion consists mostly of computer labs, In research projects, students also work on the analysis of data obtained at National Observatories.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crotts</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Crotts</course_instructors_full>
+
+<classes><class><call_number>65016</call_number>
+
+<class_name>OBSERVATIONAL ASTRONOMY</class_name>
+
+<course_identifier>ASTRC3646</course_identifier>
+
+<course_number>3646</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;1332 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Crotts</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3646-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3900</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3900</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS BC3900x-BC3900y</course_identifier_cooked>
+
+<course_name>Supervised Individual Research</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>5</course_points_max>
+
+<course_points_notes>1-5 points per term.</course_points_notes>
+
+<course_points_cooked>1-5 pts.  1-5 points per term.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>For specially selected students, the opportunity to do a research problem in contemporary physics under the supervision of a faculty member. Each year several juniors are chosen in the spring to carry out such a project beginning in the autumn term. A detailed report on the research is presented by the student when the project is complete.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the departmental representative required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Mukherjee</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Mukherjee</course_instructors_full>
+
+<classes><class><call_number>08319</call_number>
+
+<class_name>SUPERVISED INDIVIDUAL RES</class_name>
+
+<course_identifier>PHYSX3900</course_identifier>
+
+<course_number>3900</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>R. Mukherjee</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/BC3900-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<subject_area_name>Astronomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>C</school_bulletin_prefix_code_2>
+
+<course_number_2>3998</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ASTR C3997x-C3998y</course_identifier_cooked>
+
+<course_name>Independent Research</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Variety of research projects conducted under the supervision of members of the faculty. Observational, theoretical, and experimental work in galactic and extragalactic astronomy and cosmology. The topic and scope of the work must be arranged with a faculty member in advance: a written paper describing the results of the project will be required at its completion. (A two semester project can be designed so that the grade YC is given after the first term.) Senior majors in Astronomy or Astrophysics wishing to do a Senior Thesis should make arrangements in May of their junior year and sign up for a total of 6 points over their final two semesters. Both a substantial written document and an oral presentation of thesis results will be required.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Putman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Putman</course_instructors_full>
+
+<classes><class><call_number>29614</call_number>
+
+<class_name>INDEPENDENT RESEARCH</class_name>
+
+<course_identifier>ASTRC3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3997-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>15455</call_number>
+
+<class_name>INDEPENDENT RESEARCH</class_name>
+
+<course_identifier>ASTRC3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Putman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ASTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ASTR/C3998-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4003</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS G4003y</course_identifier_cooked>
+
+<course_name>Advanced Mechanics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lagrange&#39;s formulation of mechanics. The calculus of variations and the action principle. Hamilton&#39;s formulation of mechanics. Applications to rigid body motion and normal modes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>W3003.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nicolis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Nicolis</course_instructors_full>
+
+<classes><class><call_number>24447</call_number>
+
+<class_name>ADVANCED MECHANICS</class_name>
+
+<course_identifier>PHYSG4003</course_identifier>
+
+<course_number>4003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Nicolis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4003-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4021</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS G4021x</course_identifier_cooked>
+
+<course_name>Quantum Mechanics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Formulation of quantum mechanics in terms of state vectors and linear operators. Three dimensional spherically symmetric potentials. The theory of angular momentum and spin. Identical particles and the exclusion principle. Methods of approximation. Multi-electron atoms.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>W3003, W3007, BC3006.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Weinberg</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Weinberg</course_instructors_full>
+
+<classes><class><call_number>15033</call_number>
+
+<class_name>QUANTUM MECHANICS I</class_name>
+
+<course_identifier>PHYSG4021</course_identifier>
+
+<course_number>4021</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>E. Weinberg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>31</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4021-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4022</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS G4022y</course_identifier_cooked>
+
+<course_name>Quantum Mechanics II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Weinberg</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Weinberg</course_instructors_full>
+
+<classes><class><call_number>62091</call_number>
+
+<class_name>QUANTUM MECHANICS II</class_name>
+
+<course_identifier>PHYSG4022</course_identifier>
+
+<course_number>4022</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>E. Weinberg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4022-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4023</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHYS G4023x</course_identifier_cooked>
+
+<course_name>Thermal and Statistical Physics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Thermodynamics, kinetic theory, and statistical mechanics. Energy and entropy. Classical and quantum statistics. Ideal and real gases. Black-body radiation. Chemical equilibrium. Phase transitions. Ferromagnetism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC3006y.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Cambareri, M. Ruderman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Cambareri, M. Ruderman</course_instructors_full>
+
+<classes><class><call_number>26960</call_number>
+
+<class_name>THERMAL &#38; STATISTICAL PHY</class_name>
+
+<course_identifier>PHYSG4023</course_identifier>
+
+<course_number>4023</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;214 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Cambareri&#60;br /&#62;
+M. Ruderman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>37</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4023-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

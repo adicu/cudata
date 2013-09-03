@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>NEUB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NSBV</subject_area_code>
+
+<subject_area_name>Neuroscience and Behavior</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3367</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>NSBV BC3367y</course_identifier_cooked>
+
+<course_name>Transformative Landmarks in Neuroscience</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Modern neuroscience incorporates topics from molecular neurobiology to cognition. Cognate disciplines include psychology, biology, biochemistry, chemistry, neuropharmacology, neurology and psychiatry, physics, computational science. We review neuroscience landmarks through readings of scientific publications, news reports, and controversies surrounding apparently transformative research, and contemplate contemporary viewpoints that have the benefit of hindsight.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>NEUB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NSBV</subject_area_code>
+
+<subject_area_name>Neuroscience and Behavior</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3593</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3594</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>NSBV BC3593x-BC3594y</course_identifier_cooked>
+
+<course_name>Senior Research Seminar: Neuroscience and Behavior</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussion and conferences on a research project culminate in a written and oral senior thesis. Each project must be supervised by a scientist working at Barnard or at another local institution. Successful completion of the seminar substitutes for the major examination.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to senior Neuroscience and Behavior majors. Permission of the instructor. This is a year-long course. By the end of the spring semester program planning period during junior year, majors should identify the lab they will be working in during their senior year.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Moore, P. Balsam</course_instructors_actual>
+
+<course_instructors_expected>R. Silver, R. Romeo</course_instructors_expected>
+
+<course_instructors_full>H. Moore, P. Balsam, R. Romeo, R. Silver</course_instructors_full>
+
+<classes><class><call_number>09927</call_number>
+
+<class_name>RSRCH/SEM-NEUROSCNCE&#38;BEHA</class_name>
+
+<course_identifier>NSBVX3593</course_identifier>
+
+<course_number>3593</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>P. Balsam</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>NSBV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NSBV/BC3593-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05714</call_number>
+
+<class_name>RSRCH/SEM-NEUROSCNCE&#38;BEHA</class_name>
+
+<course_identifier>NSBVX3593</course_identifier>
+
+<course_number>3593</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>H. Moore</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>NSBV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NSBV/BC3593-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03281</call_number>
+
+<class_name>RSRCH/SEM-NEUROSCNCE&#38;BEHA</class_name>
+
+<course_identifier>NSBVX3594</course_identifier>
+
+<course_number>3594</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>P. Balsam</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>NSBV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NSBV/BC3594-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>08053</call_number>
+
+<class_name>RSRCH/SEM-NEUROSCNCE&#38;BEHA</class_name>
+
+<course_identifier>NSBVX3594</course_identifier>
+
+<course_number>3594</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>H. Moore</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>NSBV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NSBV/BC3594-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

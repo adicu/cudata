@@ -1,0 +1,2273 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3001</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K3001x and y</course_identifier_cooked>
+
+<course_name>Introductory Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>How assets are priced in financial markets, where assets are viewed, most generally, as claims to future income streams. Applications to stocks, bonds, entire companies, etc. Notions of the present value of a cash flow, systematic risk, capital structure, and Miler-Modigliani Theory are emphasized. Consideration of leveraged buyouts, mergers, stock repurchases. Introduction to options and futures. Lectures, problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>an introductory course in economics and a firm grasp of high school algebra. Prerequisite or corequisite: an introductory accounting course such as &#60;i&#62;Economics W2261 Introduction to Accounting and Finance&#60;/i&#62;. Those without such a background should first take &#60;i&#62;Economics W1105 Principles of Economics&#60;/i&#62; plus one of the following: &#60;i&#62;Mathematics W1003 College Algebra - Analytic Geometry&#60;/i&#62; or &#60;i&#62;Statistics W1001 Introduction to Statistical Reasoning&#60;/i&#62; or &#60;i&#62;Statistics W1111 Introduction to Statistics&#60;/i&#62;. Mathematics proficiency must be demonstrated through the Mathematics Placement Examination administered during registration in 508 Lewisohn.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>EN, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3003</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K3003x and y (Section 001)</course_identifier_cooked>
+
+<course_name>Corporate Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An exploration of the central concepts of corporate finance for those who already have some basic knowledge of finance and accounting. This case-based course considers project valuation; cost of capital; capital structure; firm valuation; the interplay between financial decisions, strategic consideration, and economic analyses; and the provision and acquisition of funds. These concepts are analyzed in relation to agency problems: market domination, risk profile, and risk resolution; and market efficiency or the lack thereof. The validity of analytic tools is tested on issues such as highly leveraged transactions, hybrid securities, volatility in initial public offerings, mergers and acquisitions, divestitures, acquisition and control premiums, corporate restructurings, sustainable and unsustainable market inefficiencies, etc. Unlike other undergraduate business courses, this course may be counted toward the economics major or concentration by Columbia undergraduates.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>one accounting course (&#60;I&#62;Economics W2261/W4261 Introduction to Accounting and Finance&#60;/i&#62; or the equivalent) and one course in finance (&#60;i&#62;Business W3001 Introductory Finance&#60;/i&#62; or the equivalent). Students with substantial and relevant professional experience in financial institutions may be able to meet the demands of this course without a previous finance course.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>EN, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3008</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K3008y</course_identifier_cooked>
+
+<course_name>Options and Futures</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The evaluation of derivative securities--securities whose value is fundamentally dependent upon the value of some underlying asset. About 80 percent of the course focuses on options, with the remainder focused on futures and forward contracts. For each of these instruments, the goal is to understand how the instrument is priced in a competitive securities market and how it is used to manage portfolio risk and/or to facilitate the execution of complex corporate transactions. These uses are in part illustrated in the context of three case discussions/presentations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>EN, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3010</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K3010x or y</course_identifier_cooked>
+
+<course_name>Managing Human Behavior In the Organization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to and overview of major concepts of management and organization theory concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. Behavioral issues at the individual, group, and systems levels. Lectures, discussions, case studies, simulations, and small group exercises.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>EN, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3020</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K3020x or y</course_identifier_cooked>
+
+<course_name>Introduction To Marketing and Marketing Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>No previous background in marketing is required for the course. Introduction to the basic concepts of marketing. Students develop an understanding of, and the decision-making capabilities for, formulating marketing strategies for the complex situations that characterize real-life marketing problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>EN, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K3998z (Section 001)</course_identifier_cooked>
+
+<course_name>Math Methods for Business</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes>This course meets online, register by 6/28/12</course_points_notes>
+
+<course_points_cooked>1-3 pts.  This course meets online, register by 6/28/12</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will reach a level of increased competence in mathematics and expand their understanding of the applications of mathematical concepts in business activities. Emphasis is placed upon learning mathematical concepts through practical application to common business problems. By the end of this course, students will have developed the skills necessary to enroll in advanced level business and finance courses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>BUSI K3998x and y (Section 1)</course_identifier_cooked>
+
+<course_name>Math Methods for Business</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course is offered online</course_points_notes>
+
+<course_points_cooked>3 pts.  This course is offered online</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will reach a level of increased competence in mathematics and expand their understanding of the applications of mathematical concepts in business activities. Emphasis is placed upon learning mathematical concepts through practical application to common business problems. By the end of this course, students will have developed the skills necessary to enroll in advanced level business and finance courses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Rimmer</course_instructors_expected>
+
+<course_instructors_full>N. Rimmer</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>BUSI K3998x and y (Section 2)</course_identifier_cooked>
+
+<course_name>Math Methods for Business</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Especially for returning students, students will reach a level of increased competence in mathematics and expand their understanding of the applications of mathematical concepts in business activities. Emphasis is placed upon learning mathematical concepts through practical application to common business problems. By the end of this course, students will have developed the skills necessary to enroll in advanced level business and finance courses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Rimmer</course_instructors_expected>
+
+<course_instructors_full>N. Rimmer</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4001</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K4001z (Section 001)</course_identifier_cooked>
+
+<course_name>Introduction to Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4001</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>BUSI K4001z (Section 002)</course_identifier_cooked>
+
+<course_name>Introduction to Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course meets online, register by 5/17/12</course_points_notes>
+
+<course_points_cooked>3 pts.  This course meets online, register by 5/17/12</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4001</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>BUSI K4001x and y (Section 1)</course_identifier_cooked>
+
+<course_name>Introduction to Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>H. Guirguis</course_instructors_expected>
+
+<course_instructors_full>H. Guirguis</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4001</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>BUSI K4001x and y (Section 2)</course_identifier_cooked>
+
+<course_name>Introduction to Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This Section is an Online Version of the Course</course_points_notes>
+
+<course_points_cooked>3 pts.  This Section is an Online Version of the Course</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M.Gonzales-Corzo</course_instructors_expected>
+
+<course_instructors_full>M. M.Gonzales-Corzo</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4003</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4003x and y</course_identifier_cooked>
+
+<course_name>Corporate Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An exploration of the central concepts of corporate finance for those who already have some basic knowledge of finance and accounting. This case-based course considers project valuation; cost of capital; capital structure; firm valuation; the interplay between financial decisions, strategic consideration, and economic analyses; and the provision and acquisition of funds. These concepts are analyzed in relation to agency problems: market domination, risk profile, and risk resolution; and market efficiency or the lack thereof. The validity of analytic tools is tested on issues such as highly leveraged transactions, hybrid securities, volatility in initial public offerings, mergers an acquisitions, divestitures, acquisition and control premiums, corporate restructurings, sustainable and unsustainable market inefficiencies, etc. Unlike other undergraduate business courses, this course may be counted toward the economics major or concentration by Columbia undergraduates.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>one accounting course (Economics W2261/W4261 Introduction to Accounting and Finance or the equivalent) and one course in finance (Business W3001 Introductory Finance or the equivalent). Students with substantial and relevant professional experience in financial institutions may be able to meet the demands of this course without a previous finance course.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations>BCI</course_populations>
+
+<course_instructors_actual>H. Guirguis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>H. Guirguis</course_instructors_full>
+
+<classes><class><call_number>60941</call_number>
+
+<class_name>CORPORATE FINANCE</class_name>
+
+<course_identifier>BUSIK4003</course_identifier>
+
+<course_number>4003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:30p&#60;br /&#62;405 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>H. Guirguis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>60</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>27</student_enrollment_count>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BUSI/K4003-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4003</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K4003z (Section 001)</course_identifier_cooked>
+
+<course_name>Corporate Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn the critical corporate finance concepts including: financial statement analysis; performance metrics; valuation of stocks and bonds; project and firm valuation; cost of capital; capital investment strategies and sources of capital, and firm growth strategies. At the end of this course students will understand how to apply these concepts to current business problems. Pre-requisite: BUSI K4001</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Introduction to Finance/or Professor Approval is required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4003</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>BUSI K4003z (Section 002)</course_identifier_cooked>
+
+<course_name>Corporate Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course meets online, register by 6/28/12</course_points_notes>
+
+<course_points_cooked>3 pts.  This course meets online, register by 6/28/12</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn the critical corporate finance concepts including: financial statement analysis; performance metrics; valuation of stocks and bonds; project and firm valuation; cost of capital; capital investment strategies and sources of capital, and firm growth strategies. At the end of this course students will understand how to apply these concepts to current business problems. Pre-Requisite BUSI K4001.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Introduction to Finance/or Professor Approval is required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4003</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>BUSI K4003x and y (Section 1)</course_identifier_cooked>
+
+<course_name>Corporate Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn the critical corporate finance concepts including: financial statement analysis; performance metrics; valuation of stocks and bonds; project and firm valuation; cost of capital; capital investment strategies and sources of capital, and firm growth strategies. At the end of this course students will understand how to apply these concepts to current business problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Introduction to Finance/or Professor Approval is required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4003</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>BUSI K4003x and y (Section 2)</course_identifier_cooked>
+
+<course_name>Corporate Finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This Section is an Online Version of the Course</course_points_notes>
+
+<course_points_cooked>3 pts.  This Section is an Online Version of the Course</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn the critical corporate finance concepts including: financial statement analysis; performance metrics; valuation of stocks and bonds; project and firm valuation; cost of capital; capital investment strategies and sources of capital, and firm growth strategies. At the end of this course students will understand how to apply these concepts to current business problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Introduction to Finance/or Professor Approval is required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Sweeney</course_instructors_expected>
+
+<course_instructors_full>K. Sweeney</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4008</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4008x and y</course_identifier_cooked>
+
+<course_name>Options and Futures</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn about financial derivative securities: their role in financial management is becoming increasingly important, especially in portfolio management. By the end of this course students will be able to identify valuation of various options and futures as well as their use in risk management. By the end of this course, students will be able to understand option and futures pricing models, option strategies and index arbitraging.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Intro to Finance and BUSI K4003 Corporate Finance or Professor Approval required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations>BCI</course_populations>
+
+<course_instructors_actual>C. Giannikos</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Giannikos</course_instructors_full>
+
+<classes><class><call_number>11848</call_number>
+
+<class_name>OPTIONS AND FUTURES</class_name>
+
+<course_identifier>BUSIK4008</course_identifier>
+
+<course_number>4008</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:30p&#60;br /&#62;407 MATHEMATICS BUILDING</days_times>
+
+<instructors>C. Giannikos</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>35</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BUSI/K4008-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4008</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>BUSI K4008 (Section 1)</course_identifier_cooked>
+
+<course_name>Options and Futures</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn about financial derivative securities: their role in financial management is becoming increasingly important, especially in portfolio management. By the end of this course students will be able to identify valuation of various options and futures as well as their use in risk management. By the end of this course, students will be able to understand option and futures pricing models, option strategies and index arbitraging.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Intro to Finance and BUSI K4003 Corporate Finance/ or Professor Approval required</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4009</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BUSI K4009x and y</course_identifier_cooked>
+
+<course_name>Financial Accounting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will examine the generally accepted account principles (GAAP) underlying financial statements and their implementation in practice. The perspective and main focus of the course is from the users of the information contained in the statements, including investors, financial analysts, creditors and, management. By the end of this class students will be able to construct a cash flow statement, balance sheet and decipher a 10K report.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Blatter</course_instructors_expected>
+
+<course_instructors_full>M. Blatter</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4009</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K4009z (Section 001)</course_identifier_cooked>
+
+<course_name>Financial Accounting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will examine the generally accepted account principles (GAAP) underlying financial statements and their implementation in practice. The perspective and main focus of the course is from the users of the information contained in the statements, including investors, financial analysts, creditors and, management. By the end of this class students will be able to construct a cash flow statement, balance sheet and decipher a 10K report.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4009</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>BUSI K4009z (Section 002)</course_identifier_cooked>
+
+<course_name>Financial Accounting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course meets online, register by 6/28/12</course_points_notes>
+
+<course_points_cooked>3 pts.  This course meets online, register by 6/28/12</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will examine the generally accepted account principles (GAAP) underlying financial statements and their implementation in practice. The perspective and main focus of the course is from the users of the information contained in the statements, including investors, financial analysts, creditors and, management. By the end of this class students will be able to construct a cash flow statement, balance sheet and decipher a 10K report.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Schaffer</course_instructors_expected>
+
+<course_instructors_full>R. Schaffer</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4009</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI W4009x and y</course_identifier_cooked>
+
+<course_name>Financial Accounting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the principles of financial accounting, designed to teach students how to read, understand, and interpret the financial statements of a business enterprise. Covers how to evaluate a business&#38;rsquo; performance, analyze its cash flows, and assess its financial position. The course incorporates an examination of the generally accepted accounting principles (GAAP) underlying financial statements, their implementation in practice, and the role of independent auditors. Also considered are the limitations of financial reports and their evolution in response to changing business conditions, current accounting controversies, as well as the ethical issues and the constraints that limit the freedom, and affect the course of action, of rule makers and regulators.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least one accounting course (ECON W2261/W4261 Introduction to Accounting and Finance, or the equivalent) and one course in finance (BUSI W3001 Introductory Finance, or the equivalent). Students with substantial and relevant professional experience in financial institutions may be able to meet the demands of this course without a previous accounting or finance course.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations>BCI</course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4010x and y</course_identifier_cooked>
+
+<course_name>Managing Human Behavior In the Organization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to and overview of major concepts of management and organization theory concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. Behavioral issues at the individual, group, and systems levels. Lectures, discussions, case studies, simulations, and small group exercises.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations>BCI</course_populations>
+
+<course_instructors_actual>R. Kopelman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Kopelman</course_instructors_full>
+
+<classes><class><call_number>66447</call_number>
+
+<class_name>MANAGNG HUMAN BEHAV IN TH</class_name>
+
+<course_identifier>BUSIK4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:30p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>R. Kopelman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>50</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>41</student_enrollment_count>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BUSI/K4010-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4010x and y</course_identifier_cooked>
+
+<course_name>Managing Human Behavior in the Organization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K4010z (Section 001)</course_identifier_cooked>
+
+<course_name>Managing Human Behavior in the Organization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>BUSI K4010z (Section 002)</course_identifier_cooked>
+
+<course_name>Managing Human Behavior in the Organization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course meets online, register by 5/17/12</course_points_notes>
+
+<course_points_cooked>3 pts.  This course meets online, register by 5/17/12</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>BUSI K4010x and y</course_identifier_cooked>
+
+<course_name>Managing Human Behavior in the Organization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This Section is an Online Version of the Course</course_points_notes>
+
+<course_points_cooked>3 pts.  This Section is an Online Version of the Course</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to and overview of major concepts of management and organization theory concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. Behavioral issues at the individual, group, and systems levels. The class is shaped around lectures, discussions, case studies, simulations, and small group exercises.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4020x and y</course_identifier_cooked>
+
+<course_name>Introduction To Marketing and Marketing Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>No previous background in marketing is required for the course. Introduction to the basic concepts of marketing. Students develop an understanding of, and the decision-making capabilities for, formulating marketing strategies for the complex situations that characterize real-life marketing problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations>BCI</course_populations>
+
+<course_instructors_actual>A. Ansari</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Ansari</course_instructors_full>
+
+<classes><class><call_number>76248</call_number>
+
+<class_name>INTRO-MARKETNG/MARKETNG</class_name>
+
+<course_identifier>BUSIK4020</course_identifier>
+
+<course_number>4020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:30p&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>A. Ansari</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>50</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BUSI/K4020-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>BUSI K4020z (Section 002)</course_identifier_cooked>
+
+<course_name>Introduction to Marketing &#38; Marketing Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course meets online, register by 5/17/12</course_points_notes>
+
+<course_points_cooked>3 pts.  This course meets online, register by 5/17/12</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn fundamental marketing concepts and their application. By the end of this class you will know: the elements of a market, company strategy, how to identify customers and competition, the fundamental elements of the marketing mix (product, price, placement and promotion) how to research consumer behavior, and pricing strategies. Students will have extensive use of case study projects.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K4020z (Section 001)</course_identifier_cooked>
+
+<course_name>Introduction to Marketing &#38; Marketing Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn fundamental marketing concepts and their application. By the end of this class you will know: the elements of a market, company strategy, how to identify customers and competition, the fundamental elements of the marketing mix (product, price, placement and promotion) how to research consumer behavior, and pricing strategies. Students will have extensive use of case study projects.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>BUSI K4020z (Section 2)</course_identifier_cooked>
+
+<course_name>Introduction to Marketing &#38; Marketing Management</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed to provide students with an understanding of the fundamental marketing concepts and their application by business and nonbusiness organizations, including consumer goods firms, manufacturing and service industries, and small and large businesses. An overview of marketing strategy issues, elements of a market--company, customers, and competition, as well as the fundamental elements of the marketing mix--product, price, placement (distribution) and promotion with attention to theory and applications. Extensive use of cases and exercises simulate a real-world environment in which to apply and hone decision-making skills.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4025</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>BUSI K4025z (Section 001)</course_identifier_cooked>
+
+<course_name>Marketing Strategy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will develop analytical skills used to formulate and implement marketing driven strategies for an organization. Students will develop a deeper understanding of marketing strategies and how to implement tactics to achieve desired goals. Students will work on case study projects in both individual and a team based projects. By the end of this course you will be able to develop a marketing strategy based market assessments and company needs.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4020 Introduction to Marketing/or Professor Approval is required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4025</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>BUSI K4025z (Section 002)</course_identifier_cooked>
+
+<course_name>Marketing Strategy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course meets online, register by 6/28/12</course_points_notes>
+
+<course_points_cooked>3 pts.  This course meets online, register by 6/28/12</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will develop analytical skills used to formulate and implement marketing driven strategies for an organization. Students will develop a deeper understanding of marketing strategies and how to implement tactics to achieve desired goals. Students will work on case study projects in both individual and a team based projects. By the end of this course you will be able to develop a marketing strategy based market assessments and company needs. Pre-requisite: BUSI K4020</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4020 Introduction to Marketing/or Professor Approval is required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4030</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4030z</course_identifier_cooked>
+
+<course_name>Developing and Implementing Ideas</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will guide students through the dynamic process of taking an idea from inception to completion on behalf of internal and external clients. Students will learn how ideas are developed and implemented and be able to use research, mobilize teams, and devise solutions for a variety of challenges across various industries. The value of measurement will be stressed and methods for ensuring actionable results will be taught. &#38;nbsp; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4033</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4033z</course_identifier_cooked>
+
+<course_name>Decision Models and Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course provides an introduction to computer-based models for decision-making.&#38;nbsp; The emphasis is on models that are widely used in diverse industries and functional areas, including finance, accounting, operations, and marketing.&#38;nbsp; Applications will include advertising planning, revenue management, asset-liability management, environmental policy modeling, portfolio optimization, and corporate risk management, among others. The aim of the course is to help students become intelligent consumers of these methods.&#38;nbsp; To this end, the course will cover the basic elements of modeling -- how to formulate a model and how to use and interpret the information a model produces.&#38;nbsp; The course will attempt to instill a critical viewpoint towards decision models, recognizing that they are powerful but limited tools.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4040</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4040x and y</course_identifier_cooked>
+
+<course_name>Security Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn about the valuation of publicly traded equity securities. By the end of the semester students will be able to perform fundamental analysis (&#34;bottom-up,&#34; firm-level, business and financial analysis), prepare pro forma financial statements, estimate free cash flows and apply valuation models.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Intro to Finance and BUSI K4003 Corporate Finance or Professor Approval required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>G. Miller</course_instructors_expected>
+
+<course_instructors_full>G. Miller</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4040</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4040z</course_identifier_cooked>
+
+<course_name>Security Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will learn about the valuation of publicly traded equity securities. By the end of the semester students will be able to perform fundamental analysis (&#34;bottoms-up,&#34; firm-level, business and financial analysis), prepare pro forma financial statements, estimate free cash flows and apply valuation models.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Intro to Finance and BUSI K4003 Corporate Finance or Professor Approval required</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>BUSI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<subject_area_name>Business</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4100</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>BUSI K4100x and y</course_identifier_cooked>
+
+<course_name>Global Emerging Markets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will be able to benchmark countries&#39; performance and analyze business opportunities in the world economy. Additionally, students will learn to examine the relationships between trade policy, financial flows and development to understand factors contributing to financial crisis and the policies to remedy them. By the end of this semester students will be able to construct frameworks needed to formulate a global investment strategy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BUSI K4001 Introduction to Finance (mandatory) and BUSI K4009 Financial Accounting (recommended) or Professor Approval</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Delalex</course_instructors_actual>
+
+<course_instructors_expected>I. Delalex</course_instructors_expected>
+
+<course_instructors_full>I. Delalex</course_instructors_full>
+
+<classes><class><call_number>12947</call_number>
+
+<class_name>GLOBAL EMERGING MARKETS</class_name>
+
+<course_identifier>BUSIK4100</course_identifier>
+
+<course_number>4100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:10p - 8:30p&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>I. Delalex</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>BUSI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/BUSI/K4100-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

@@ -1,0 +1,1097 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR G4020</course_identifier_cooked>
+
+<course_name>Molecular and Cell Biology of Nutrients</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Second Term.&#38;nbsp; Explores molecular and cellular mechanisms of nutrient action.&#38;nbsp; Six major foci of modern nutritional science.&#38;nbsp; These include the actions of nutrients in transcriptional regulation, in signaling pathways, on intra- and extracellular trafficking, in assuring normal development, in the maintance of antioxidant defences and nutrient/gene interations.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Huang</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Huang</course_instructors_full>
+
+<classes><class><call_number>97898</call_number>
+
+<class_name>MOLECULR/CELL BIO OF NUTR</class_name>
+
+<course_identifier>NUTRG4020</course_identifier>
+
+<course_number>4020</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 11:50a&#60;br /&#62;TBA</days_times>
+
+<instructors>L. Huang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/G4020-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>8200</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M8200</course_identifier_cooked>
+
+<course_name>Growth and Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>General aspects of normal human growth and development from viewpoints of physical growth, cellular growth and maturation, and adjustments made at birth; the impact of altered nutrition on these processes.&#38;nbsp; Prenatal and postnatal malnutrition, the role of hormones in growth; relationships between nutrition and disease in such areas as anemia, obesity, infection, and carbohydrate absorption.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Di Giorgi, S. Akabas</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Di Giorgi, S. Akabas</course_instructors_full>
+
+<classes><class><call_number>76287</call_number>
+
+<class_name>GROWTH AND DEVELOPMENT</class_name>
+
+<course_identifier>NUTRM8200</course_identifier>
+
+<course_number>8200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:00p - 4:50p&#60;br /&#62;TBA</days_times>
+
+<instructors>M. Di Giorgi&#60;br /&#62;
+S. Akabas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>80</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>77</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8200-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>8201</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M8201</course_identifier_cooked>
+
+<course_name>Readings In Human Nutrition</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fall: Review of current literature providing complementary information pertinent to other nutrition areas, with a view to developing a critical approach to the assimilation of scientific information.&#38;nbsp; Spring: Obesity: Etiology, Prevention, and Treatment.&#38;nbsp; Controversies involving regulation of weight and energy balance.&#38;nbsp; Interaction between genetics and the environment are considered as well as clinical implications of our current knowledge.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Di Giorgi, R. Ramakrishnan, S. Akabas</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Di Giorgi, R. Ramakrishnan, S. Akabas</course_instructors_full>
+
+<classes><class><call_number>60952</call_number>
+
+<class_name>READINGS IN HUMAN NUTRITI</class_name>
+
+<course_identifier>NUTRM8201</course_identifier>
+
+<course_number>8201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 9:20a - 11:50a&#60;br /&#62;TBA</days_times>
+
+<instructors>R. Ramakrishnan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>80</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>76</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8201-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>26647</call_number>
+
+<class_name>READINGS IN HUMAN NUTRITI</class_name>
+
+<course_identifier>NUTRM8201</course_identifier>
+
+<course_number>8201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 8:00a - 10:30a&#60;br /&#62;TBA</days_times>
+
+<instructors>R. Ramakrishnan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8201-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>72549</call_number>
+
+<class_name>READINGS IN HUMAN NUTRITI</class_name>
+
+<course_identifier>NUTRM8201</course_identifier>
+
+<course_number>8201</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 10:50a - 1:20p&#60;br /&#62;TBA</days_times>
+
+<instructors>R. Ramakrishnan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8201-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>88647</call_number>
+
+<class_name>READINGS IN HUMAN NUTRITI</class_name>
+
+<course_identifier>NUTRM8201</course_identifier>
+
+<course_number>8201</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>W 8:30a - 10:50a&#60;br /&#62;TBA</days_times>
+
+<instructors>R. Ramakrishnan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8201-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>81788</call_number>
+
+<class_name>READINGS IN HUMAN NUTRITI</class_name>
+
+<course_identifier>NUTRM8201</course_identifier>
+
+<course_number>8201</course_number>
+
+<course_section_code>081</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Di Giorgi&#60;br /&#62;
+S. Akabas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>80</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8201-20123-081</university_web_bulletin_url>
+
+</class>
+<class><call_number>81770</call_number>
+
+<class_name>OBESITY ETIOLOGY PREV. &#38;</class_name>
+
+<course_identifier>NUTRM8201</course_identifier>
+
+<course_number>8201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 9:00a - 5:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>M. Di Giorgi&#60;br /&#62;
+S. Akabas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8201-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>8205</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M8205</course_identifier_cooked>
+
+<course_name>Biochemical and Physiological Bases of Nutrition</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Aspects of carbohydrate, lipid, protein, and energy metabolism relevant to the understanding of nutrition at cellular and organism levels.&#38;nbsp; Biochemical and physiological aspects of vitamin and mineral metabolismand action during both normal conditions and deficiency toxicity states.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Di Giorgi, S. Akabas, T. Thomas</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Di Giorgi, S. Akabas, T. Thomas</course_instructors_full>
+
+<classes><class><call_number>27248</call_number>
+
+<class_name>BIOCHEM-PHYSCL BASIS-NUTR</class_name>
+
+<course_identifier>NUTRM8205</course_identifier>
+
+<course_number>8205</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 9:00a - 11:50a&#60;br /&#62;TBA</days_times>
+
+<instructors>T. Thomas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>80</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>76</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8205-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>78650</call_number>
+
+<class_name>BIOCHEM-PHYSCL BASIS-NUTR</class_name>
+
+<course_identifier>NUTRM8205</course_identifier>
+
+<course_number>8205</course_number>
+
+<course_section_code>081</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Di Giorgi&#60;br /&#62;
+S. Akabas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8205-20123-081</university_web_bulletin_url>
+
+</class>
+<class><call_number>72246</call_number>
+
+<class_name>BIOCHEM-PHYSCL BASIS-NUTR</class_name>
+
+<course_identifier>NUTRM8205</course_identifier>
+
+<course_number>8205</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 9:00a - 11:50a&#60;br /&#62;TBA</days_times>
+
+<instructors>T. Thomas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>76</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8205-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>75791</call_number>
+
+<class_name>BIOCHEM-PHYSCL BASIS-NUTR</class_name>
+
+<course_identifier>NUTRM8205</course_identifier>
+
+<course_number>8205</course_number>
+
+<course_section_code>081</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Di Giorgi&#60;br /&#62;
+S. Akabas&#60;br /&#62;
+T. Thomas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8205-20131-081</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>8207</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M8207</course_identifier_cooked>
+
+<course_name>Clinical Nutrition</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: registration as a nutrition degree candidate or instructor&#38;rsquo;s permission.&#38;nbsp; Discussion of pathology, symptomatology, and clinical manifestations with case presentations when possible.&#38;nbsp; Laboratory assessments of each condition.&#38;nbsp; Principles of nutritional intervention for therapy and prevention.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. St. Onge</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. St. Onge</course_instructors_full>
+
+<classes><class><call_number>82249</call_number>
+
+<class_name>CLINICAL NUTRITION</class_name>
+
+<course_identifier>NUTRM8207</course_identifier>
+
+<course_number>8207</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:00p - 4:50p&#60;br /&#62;TBA</days_times>
+
+<instructors>M. St. Onge</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>M</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>74</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/M8207-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>8210</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M8210</course_identifier_cooked>
+
+<course_name>Molecular Nutrition</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; The molecular principles that underline the regulation of gene expression in response to the nutritional status of the organism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>8220</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M8220</course_identifier_cooked>
+
+<course_name>Food and Nutrition: a Public Health Perspective</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: instructor&#38;rsquo;s permission.&#38;nbsp; An introduction to the problem of food and nutritional diseases from a public health perspective, and the relationship between the determinants and the program designed to solve these problems.&#38;nbsp; Various types of&#38;nbsp; interventions, with emphasis on the health sector role.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9011</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR G9011</course_identifier_cooked>
+
+<course_name>Doctoral Research In Nutrition</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>First and Second Terms.&#38;nbsp; Required of all first-year students in the Ph.D. program in Nutrition.&#38;nbsp; Students are required to carry out independent research under the direction of a faculty member of the Doctoral Subcommittee on Nutrition.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Wolgemuth</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Wolgemuth</course_instructors_full>
+
+<classes><class><call_number>17598</call_number>
+
+<class_name>DOCTORAL RESEARCH IN NUTR</class_name>
+
+<course_identifier>NUTRG9011</course_identifier>
+
+<course_number>9011</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Wolgemuth</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/G9011-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>13198</call_number>
+
+<class_name>DOCTORAL RESEARCH IN NUTR</class_name>
+
+<course_identifier>NUTRG9011</course_identifier>
+
+<course_number>9011</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Wolgemuth</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/NUTR/G9011-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>9205</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M9205</course_identifier_cooked>
+
+<course_name>Doctoral Seminar In Nutrition and Related Topics</course_name>
+
+<course_points_min>0.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>0.5 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Presentation of doctoral student research and guest speakers.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>H</school_bulletin_prefix_code_1>
+
+<course_number_1>9210</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR H9210</course_identifier_cooked>
+
+<course_name>Special Studies</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Clinical and laboratory projects or field investigation related to nutrition, particularly in the area of growth and development.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>NUTR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>NUTR</subject_area_code>
+
+<subject_area_name>Nutrition</subject_area_name>
+
+<school_bulletin_prefix_code_1>M</school_bulletin_prefix_code_1>
+
+<course_number_1>9750</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>NUTR M9750</course_identifier_cooked>
+
+<course_name>Thesis Research</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Independent nutrition research arranged in conjunction with one of the faculty.&#38;nbsp; This forms the basis for the M.S. thesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

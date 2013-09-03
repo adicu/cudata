@@ -1,0 +1,6467 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1001x and y</course_identifier_cooked>
+
+<course_name>Introduction to Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course introducing students to the chief facts, principles, and problems of human and animal behavior, through systematic study of a text, lectures, exercises, reading in special fields, and brief participation in a current investigation. (An alternative to participation can be arranged at the student&#39;s request.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>This course is prerequisite for all other psychology courses. Enrollment is limited to 180 students in section 1, and to 45 students in sections 2-4.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Horowitz, J. New, K. Hebert, P. Stokes, W. McKenna</course_instructors_actual>
+
+<course_instructors_expected>J. New, W. Mckenna, P. Stokes, K. Hebert</course_instructors_expected>
+
+<course_instructors_full>A. Horowitz, J. New, K. Hebert, P. Stokes, W. McKenna, W. Mckenna</course_instructors_full>
+
+<classes><class><call_number>07697</call_number>
+
+<class_name>INTRODUCTION TO PSYCHOLOG</class_name>
+
+<course_identifier>PSYCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>J. New</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>108</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07696</call_number>
+
+<class_name>INTRODUCTION TO PSYCHOLOG</class_name>
+
+<course_identifier>PSYCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>W. McKenna</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>34</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1001-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03227</call_number>
+
+<class_name>INTRODUCTION TO PSYCHOLOG</class_name>
+
+<course_identifier>PSYCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>P. Stokes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>49</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1001-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>03794</call_number>
+
+<class_name>INTRODUCTION TO PSYCHOLOG</class_name>
+
+<course_identifier>PSYCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>K. Hebert</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>63</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1001-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>03227</call_number>
+
+<class_name>INTRODUCTION TO PSYCHOLOG</class_name>
+
+<course_identifier>PSYCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>A. Horowitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>44</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1001-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07696</call_number>
+
+<class_name>INTRODUCTION TO PSYCHOLOG</class_name>
+
+<course_identifier>PSYCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>P. Stokes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>119</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1001-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>08133</call_number>
+
+<class_name>INTRODUCTION TO PSYCHOLOG</class_name>
+
+<course_identifier>PSYCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>K. Hebert</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>106</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1001-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1010</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1010x and y</course_identifier_cooked>
+
+<course_name>Introductory Laboratory in Experimental Psychology</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A laboratory-based introduction to experimental methods used in psychological research. Upon successful completion of this course, students will know how to review the primary literature and formulate a hypothesis, design an experiment, analyze data using statistical methods, communicate the results of a scientific study through oral presentation and written manuscript, and carry out research studies under ethical guidelines. Students will be able to apply the acquired knowledge in all disciplines of Psychology and will be prepared to engage in advance research in fields including, but not limited to, Cognition, Learning, Perception, Behavioral Neuroscience, Development, Personality, and Social Psychology.</course_description>
+
+<corequisites>BC1001 or its equivalent.</corequisites>
+
+<prerequisites>Departmental permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Light, K. Pham</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Light, K. Pham</course_instructors_full>
+
+<classes><class><call_number>05719</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Pham</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03476</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04678</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Pham</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>06928</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Th 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>04054</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>34</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07697</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04873</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>F 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>02872</call_number>
+
+<class_name>INTRO LAB EXPERIMENTAL PS</class_name>
+
+<course_identifier>PSYCX1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>F 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1010-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1099</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1099x and y</course_identifier_cooked>
+
+<course_name>Science and Scientists</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Weekly meetings with researchers to discuss the nature of scientific inquiry in psychology; and intellectual, professional, and personal issues in the work of scientists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. New</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. New</course_instructors_full>
+
+<classes><class><call_number>04684</call_number>
+
+<class_name>SCIENCE AND SCIENTISTS</class_name>
+
+<course_identifier>PSYCX1099</course_identifier>
+
+<course_number>1099</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>J. New</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1099-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05470</call_number>
+
+<class_name>SCIENCE AND SCIENTISTS</class_name>
+
+<course_identifier>PSYCX1099</course_identifier>
+
+<course_number>1099</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>J. New</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1099-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1101</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1101x and y</course_identifier_cooked>
+
+<course_name>Statistics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course introducing students to statistics and its applications to psychological research. The course covers basic theory, conceptual underpinnings, and common statistics.</course_description>
+
+<corequisites>PSYC BC1102.</corequisites>
+
+<prerequisites>BC1001 and departmental permission. Enrollment limited to 18 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Zahner, J. Patterson</course_instructors_actual>
+
+<course_instructors_expected>D. Zahner, J. Patterson</course_instructors_expected>
+
+<course_instructors_full>D. Zahner, J. Patterson</course_instructors_full>
+
+<classes><class><call_number>09254</call_number>
+
+<class_name>STATISTICS</class_name>
+
+<course_identifier>PSYCX1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;LL104 Diana Center</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>53</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1101-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00704</call_number>
+
+<class_name>STATISTICS</class_name>
+
+<course_identifier>PSYCX1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>53</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1101-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09254</call_number>
+
+<class_name>STATISTICS</class_name>
+
+<course_identifier>PSYCX1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>62</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1101-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00704</call_number>
+
+<class_name>STATISTICS</class_name>
+
+<course_identifier>PSYCX1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>61</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1101-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1102</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1102x and y</course_identifier_cooked>
+
+<course_name>Statistics Recitation</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp;Recitation section to accompany BC1101 Statistics devoted to discussion of weekly problem assignments.</course_description>
+
+<corequisites>BC1101 Statistics Lecture.</corequisites>
+
+<prerequisites>BC1001 and departmental permission. Enrollment limited to 18 students per section. Students who take ECON BC 2411 cannot also receive credit for PSYC BC 1101.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Zahner, J. Patterson</course_instructors_actual>
+
+<course_instructors_expected>D. Zahner, J. Patterson</course_instructors_expected>
+
+<course_instructors_full>D. Zahner, J. Patterson</course_instructors_full>
+
+<classes><class><call_number>07284</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>011</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20123-011</university_web_bulletin_url>
+
+</class>
+<class><call_number>06371</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>012</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20123-012</university_web_bulletin_url>
+
+</class>
+<class><call_number>02479</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>013</course_section_code>
+
+<days_times>Tu 8:10p - 10:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20123-013</university_web_bulletin_url>
+
+</class>
+<class><call_number>02502</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>021</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20123-021</university_web_bulletin_url>
+
+</class>
+<class><call_number>07077</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>022</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20123-022</university_web_bulletin_url>
+
+</class>
+<class><call_number>04765</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>023</course_section_code>
+
+<days_times>M 8:10p - 10:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20123-023</university_web_bulletin_url>
+
+</class>
+<class><call_number>01026</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>011</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20131-011</university_web_bulletin_url>
+
+</class>
+<class><call_number>05498</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>012</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20131-012</university_web_bulletin_url>
+
+</class>
+<class><call_number>02982</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>013</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Zahner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20131-013</university_web_bulletin_url>
+
+</class>
+<class><call_number>05128</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>021</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20131-021</university_web_bulletin_url>
+
+</class>
+<class><call_number>04430</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>022</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20131-022</university_web_bulletin_url>
+
+</class>
+<class><call_number>05277</call_number>
+
+<class_name>STATISTICS RECITATION</class_name>
+
+<course_identifier>PSYCX1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>023</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>J. Patterson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1102-20131-023</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1106</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1106x</course_identifier_cooked>
+
+<course_name>Psychology of Learning Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory course to accompany BC1107. Students conduct experiments analyzing learning and memory in rats and humans.</course_description>
+
+<corequisites>BC1107 Psychology of Learning Lecture.</corequisites>
+
+<prerequisites>BC1001 Introduction to Psychology and departmental permission. Enrollment limited to 24 students per section. Laboratory fee is $30.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Light, K. Pham</course_instructors_actual>
+
+<course_instructors_expected>P. Balsam</course_instructors_expected>
+
+<course_instructors_full>K. Light, K. Pham, P. Balsam</course_instructors_full>
+
+<classes><class><call_number>02100</call_number>
+
+<class_name>PSYCH OF LEARNING - LAB</class_name>
+
+<course_identifier>PSYCX1106</course_identifier>
+
+<course_number>1106</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Pham</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1106-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01119</call_number>
+
+<class_name>PSYCH OF LEARNING - LAB</class_name>
+
+<course_identifier>PSYCX1106</course_identifier>
+
+<course_number>1106</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1106-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09354</call_number>
+
+<class_name>PSYCH OF LEARNING - LAB</class_name>
+
+<course_identifier>PSYCX1106</course_identifier>
+
+<course_number>1106</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>F 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Light</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1106-20123-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1107</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1107x</course_identifier_cooked>
+
+<course_name>Psychology of Learning</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course covering the basic methods, results, and theory in the study of how experience affects behavior. The roles of early exposure, habitation, sensitization, conditioning, imitation, and memory in the acquisition and performance of behavior are studied.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 Introduction of Psychology or permission of the instructor. Enrollment limited to 72 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Balsam</course_instructors_actual>
+
+<course_instructors_expected>P. Balsam</course_instructors_expected>
+
+<course_instructors_full>P. Balsam</course_instructors_full>
+
+<classes><class><call_number>03637</call_number>
+
+<class_name>PSYCHOLOGY OF LEARNING -</class_name>
+
+<course_identifier>PSYCX1107</course_identifier>
+
+<course_number>1107</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>P. Balsam</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>84</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1107-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1109</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1109x</course_identifier_cooked>
+
+<course_name>Perception Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory course to accompany BC1110. Students conduct experiments of seeing, hearing, touching, tasting, and smelling, and learn to report their findings.</course_description>
+
+<corequisites>BC1110 Perception Lecture.</corequisites>
+
+<prerequisites>BC1001 and departmental permission. Enrollment limited to 22 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Levine</course_instructors_actual>
+
+<course_instructors_expected>M. Levine</course_instructors_expected>
+
+<course_instructors_full>M. Levine</course_instructors_full>
+
+<classes><class><call_number>09624</call_number>
+
+<class_name>PERCEPTION - LAB</class_name>
+
+<course_identifier>PSYCX1109</course_identifier>
+
+<course_number>1109</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>M. Levine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1109-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02879</call_number>
+
+<class_name>PERCEPTION - LAB</class_name>
+
+<course_identifier>PSYCX1109</course_identifier>
+
+<course_number>1109</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>M. Levine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1109-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07929</call_number>
+
+<class_name>PERCEPTION - LAB</class_name>
+
+<course_identifier>PSYCX1109</course_identifier>
+
+<course_number>1109</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>M. Levine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1109-20123-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1110</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1110x</course_identifier_cooked>
+
+<course_name>Perception</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course covering an introduction to problems, methods, and research in perception. Discussion of psychological studies of seeing, hearing, touching, tasting, and smelling.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Levine</course_instructors_actual>
+
+<course_instructors_expected>M. Levine</course_instructors_expected>
+
+<course_instructors_full>M. Levine</course_instructors_full>
+
+<classes><class><call_number>09255</call_number>
+
+<class_name>PERCEPTION-LECTURE</class_name>
+
+<course_identifier>PSYCX1110</course_identifier>
+
+<course_number>1110</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>M. Levine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>68</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1110-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1114</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1114y</course_identifier_cooked>
+
+<course_name>Cognitive Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory course to accompany BC1115. Students conduct experiments related to selected topics illustrating the methods, findings, and theories of contemporary cognitive psychology. Topics include attention, memory, categorization, perception, and decision making. Special topics include neuropsychology and cognitive neuroscience. Laboratory fee: $30.</course_description>
+
+<corequisites>BC1115 Cognitive Lecture.</corequisites>
+
+<prerequisites>BC1001 and permission from the department. Enrollment limited to 24 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Son, M. Levine</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Son, M. Levine</course_instructors_full>
+
+<classes><class><call_number>01774</call_number>
+
+<class_name>COGNITIVE PSYCHOLOGY - LA</class_name>
+
+<course_identifier>PSYCX1114</course_identifier>
+
+<course_number>1114</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>L. Son&#60;br /&#62;
+M. Levine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1114-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04404</call_number>
+
+<class_name>COGNITIVE PSYCHOLOGY - LA</class_name>
+
+<course_identifier>PSYCX1114</course_identifier>
+
+<course_number>1114</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>L. Son&#60;br /&#62;
+M. Levine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1114-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>01934</call_number>
+
+<class_name>COGNITIVE PSYCHOLOGY - LA</class_name>
+
+<course_identifier>PSYCX1114</course_identifier>
+
+<course_number>1114</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Th 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>L. Son&#60;br /&#62;
+M. Levine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1114-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1115</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1115y</course_identifier_cooked>
+
+<course_name>Cognitive Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture covering selected topics illustrating the methods, findings, and theories of contemporary cognitive psychology. Topics include attention, memory, categorization, perception, and decision making. Special topics include neuropsychology and cognitive neuroscience.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Son</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Son</course_instructors_full>
+
+<classes><class><call_number>09304</call_number>
+
+<class_name>COGNITIVE PSYCHOLOGY - LE</class_name>
+
+<course_identifier>PSYCX1115</course_identifier>
+
+<course_number>1115</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>L. Son</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>91</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1115-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1118</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1118y</course_identifier_cooked>
+
+<course_name>Systems and Behavioral Neuroscience Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory course to accompany BC1119. Students conduct experiments related to the physiological bases of behavior: development, organization and function of the nervous system; neurochemistry, neurophysiology and synaptic transmission. Topics include: the neural bases of sensory systems; homeostasis; sexual behavior; biological rhythms; emotionality and stress; learning and memory; and psychopathology. A portion of this course uses rats as experimental subjects and involves brain dissections. Lab fee: $30.</course_description>
+
+<corequisites>BC1119 Systems and Behavioral Neuroscience Lecture.</corequisites>
+
+<prerequisites>BC1001 and departmental permission. Enrollment limited to 20 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Pham, R. Romeo</course_instructors_actual>
+
+<course_instructors_expected>K. Pham</course_instructors_expected>
+
+<course_instructors_full>K. Pham, R. Romeo</course_instructors_full>
+
+<classes><class><call_number>01045</call_number>
+
+<class_name>BEHAVIORAL NEUROSCIENCE-L</class_name>
+
+<course_identifier>PSYCX1118</course_identifier>
+
+<course_number>1118</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 7:10p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Pham&#60;br /&#62;
+R. Romeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1118-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04703</call_number>
+
+<class_name>BEHAVIORAL NEUROSCIENCE-L</class_name>
+
+<course_identifier>PSYCX1118</course_identifier>
+
+<course_number>1118</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Pham&#60;br /&#62;
+R. Romeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1118-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>01878</call_number>
+
+<class_name>BEHAVIORAL NEUROSCIENCE-L</class_name>
+
+<course_identifier>PSYCX1118</course_identifier>
+
+<course_number>1118</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>K. Pham&#60;br /&#62;
+R. Romeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1118-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1119</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1119y</course_identifier_cooked>
+
+<course_name>Systems and Behavioral Neuroscience</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course covering an introduction to the physiological bases of behavior: development, organization and function of the nervous system; neurochemistry, neurophysiology and synaptic transmission. Topics include: the neural bases of sensory systems; homeostasis; sexual behavior; biological rhythms; emotionality and stress; learning and memory; and psychopathology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Romeo</course_instructors_actual>
+
+<course_instructors_expected>R. Romeo</course_instructors_expected>
+
+<course_instructors_full>R. Romeo</course_instructors_full>
+
+<classes><class><call_number>01312</call_number>
+
+<class_name>SYSTEMS&#38;BEHAV NEUROSCI -</class_name>
+
+<course_identifier>PSYCX1119</course_identifier>
+
+<course_number>1119</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>R. Romeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>138</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1119-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1124</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1124x</course_identifier_cooked>
+
+<course_name>Psychology of Personality Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory consists of experiments related to the principal approaches to personality and their implications for personality development, psychological adjustment, and everyday behavior. Students will participate in all stages of personality research: conceptualizing a personality construct, designing and administering tests, identifying individual differences, and carrying out a study.</course_description>
+
+<corequisites>BC1125 Psychology of Personality Lecture.</corequisites>
+
+<prerequisites>BC1001 and departmental permission. Enrollment limited to 25 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Woike, J. Davis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Woike, J. Davis</course_instructors_full>
+
+<classes><class><call_number>01189</call_number>
+
+<class_name>PSYCH OF PERSONALITY - LA</class_name>
+
+<course_identifier>PSYCX1124</course_identifier>
+
+<course_number>1124</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>B. Woike&#60;br /&#62;
+J. Davis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1124-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02467</call_number>
+
+<class_name>PSYCH OF PERSONALITY - LA</class_name>
+
+<course_identifier>PSYCX1124</course_identifier>
+
+<course_number>1124</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>B. Woike&#60;br /&#62;
+J. Davis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1124-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1125</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1125x</course_identifier_cooked>
+
+<course_name>Psychology of Personality</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course covering the principal approaches to personality and their implications for personality development, psychological adjustment, and everyday behavior.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Woike</course_instructors_actual>
+
+<course_instructors_expected>B. Woike</course_instructors_expected>
+
+<course_instructors_full>B. Woike</course_instructors_full>
+
+<classes><class><call_number>00589</call_number>
+
+<class_name>PSYCHOLOGY OF PERSONALITY</class_name>
+
+<course_identifier>PSYCX1125</course_identifier>
+
+<course_number>1125</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>B. Woike</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>45</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1125-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1128</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1128x and y</course_identifier_cooked>
+
+<course_name>Developmental Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory course involving experiments related to cognitive, linguistic, perceptual, motor, social, affective, and personality development from infancy to adolescence. The course offers an opportunity for direct observation of children; major areas of research at each level of development are covered.</course_description>
+
+<corequisites>BC1129 Developmental Psychology Lecture.</corequisites>
+
+<prerequisites>BC1001 and departmental permission. Enrollment limited to 22 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Hoch, J. Davis, K. McCrink</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>H. Hoch, J. Davis, K. McCrink</course_instructors_full>
+
+<classes><class><call_number>05558</call_number>
+
+<class_name>DEVELOPMENTAL PSYCH - LAB</class_name>
+
+<course_identifier>PSYCX1128</course_identifier>
+
+<course_number>1128</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>J. Davis&#60;br /&#62;
+K. McCrink</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1128-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07570</call_number>
+
+<class_name>DEVELOPMENTAL PSYCH - LAB</class_name>
+
+<course_identifier>PSYCX1128</course_identifier>
+
+<course_number>1128</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>F 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>J. Davis&#60;br /&#62;
+K. McCrink</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1128-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07929</call_number>
+
+<class_name>DEVELOPMENTAL PSYCH - LAB</class_name>
+
+<course_identifier>PSYCX1128</course_identifier>
+
+<course_number>1128</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>H. Hoch&#60;br /&#62;
+J. Davis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1128-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04575</call_number>
+
+<class_name>DEVELOPMENTAL PSYCH - LAB</class_name>
+
+<course_identifier>PSYCX1128</course_identifier>
+
+<course_number>1128</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>H. Hoch&#60;br /&#62;
+J. Davis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1128-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1129</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1129x and y</course_identifier_cooked>
+
+<course_name>Developmental Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course covering cognitive, linguistic, perceptual, motor, social, affective, and personality development from infancy to adolescence.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Hoch, K. McCrink</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>H. Hoch, K. McCrink</course_instructors_full>
+
+<classes><class><call_number>01469</call_number>
+
+<class_name>DEVELOPMENTAL PSYCHOLOGY-</class_name>
+
+<course_identifier>PSYCX1129</course_identifier>
+
+<course_number>1129</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>K. McCrink</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>68</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1129-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01469</call_number>
+
+<class_name>DEVELOPMENTAL PSYCHOLOGY-</class_name>
+
+<course_identifier>PSYCX1129</course_identifier>
+
+<course_number>1129</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>H. Hoch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>64</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1129-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1137</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1137y</course_identifier_cooked>
+
+<course_name>Social Psychology Laboratory</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory course covering contemporary theory and research on social thought and behavior. Issues such as person perception, attitudes, attraction, aggression, stereotyping, group dynamics, and social exchange will be explored. The application of theory and research to addressing social problems will be discussed.</course_description>
+
+<corequisites>BC1138 Social Psychology Lecture.</corequisites>
+
+<prerequisites>BC1001 and departmental permission. Enrollment limited to 25 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Davis, S. Stroessner</course_instructors_actual>
+
+<course_instructors_expected>J. Davis</course_instructors_expected>
+
+<course_instructors_full>J. Davis, S. Stroessner</course_instructors_full>
+
+<classes><class><call_number>01336</call_number>
+
+<class_name>SOCIAL PSYCHOLOGY - LAB</class_name>
+
+<course_identifier>PSYCX1137</course_identifier>
+
+<course_number>1137</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 12:30p - 3:30p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>J. Davis&#60;br /&#62;
+S. Stroessner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1137-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02028</call_number>
+
+<class_name>SOCIAL PSYCHOLOGY - LAB</class_name>
+
+<course_identifier>PSYCX1137</course_identifier>
+
+<course_number>1137</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 9:00a - 12:00p&#60;br /&#62;410 MILBANK HALL</days_times>
+
+<instructors>J. Davis&#60;br /&#62;
+S. Stroessner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1137-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1138</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC1138y</course_identifier_cooked>
+
+<course_name>Social Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture course covering contemporary theory and research on social thought and behavior. Issues such as person perception, attitudes, attraction, aggression, stereotyping, group dynamics, and social exchange will be explored. The application of theory and research to addressing social problems will be discussed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Stroessner</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Stroessner</course_instructors_full>
+
+<classes><class><call_number>00241</call_number>
+
+<class_name>SOCIAL PSYCHOLOGY-LEC</class_name>
+
+<course_identifier>PSYCX1138</course_identifier>
+
+<course_number>1138</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>S. Stroessner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>152</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC1138-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2134</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2134x</course_identifier_cooked>
+
+<course_name>Educational Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Through a participative classroom model, the major theories of child and adolescent development and learning fundamental to the educative process are examined. Analysis of applications and implications of psychological knowledge for classroom teaching through observations and research in elementary and secondary school classes. Examines models of instruction and assessment; motivation, teaching, and learning strategies; and gender, economic, and racial issues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sacks</course_instructors_actual>
+
+<course_instructors_expected>S. Sacks</course_instructors_expected>
+
+<course_instructors_full>S. Sacks</course_instructors_full>
+
+<classes><class><call_number>03377</call_number>
+
+<class_name>EDUCATIONAL PSYCHOLOGY</class_name>
+
+<course_identifier>PSYCX2134</course_identifier>
+
+<course_number>2134</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>S. Sacks</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>28</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC2134-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2141</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2141x and y</course_identifier_cooked>
+
+<course_name>Abnormal Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the study of abnormal behavior and various psychological disorders such as depression, schizophrenia, anxiety disorders, eating disorders, and personality disorders. The course broadly reviews scientific and cultural perspectives on abnormal behavior with an emphasis on clinical descriptions and diagnosis, etiology, treatment, and research methods. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor. Enrollment limited to 60 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Gupta</course_instructors_actual>
+
+<course_instructors_expected>Instructor TBA</course_instructors_expected>
+
+<course_instructors_full>I. TBA, S. Gupta</course_instructors_full>
+
+<classes><class><call_number>09256</call_number>
+
+<class_name>ABNORMAL PSYCHOLOGY</class_name>
+
+<course_identifier>PSYCX2141</course_identifier>
+
+<course_number>2141</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>S. Gupta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>62</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC2141-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09256</call_number>
+
+<class_name>ABNORMAL PSYCHOLOGY</class_name>
+
+<course_identifier>PSYCX2141</course_identifier>
+
+<course_number>2141</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>S. Gupta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>67</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC2141-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2151</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2151y</course_identifier_cooked>
+
+<course_name>Organizational Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to behavior of individuals and small groups in work organizations. Recent theory and research emphasizing both content and research methodology. Motivation and performance, attitudes and job satisfaction, power, influence, authority, leadership, cooperation and conflict, decision making, and communications.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor. Enrollment limited to 45 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Cruz</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Cruz</course_instructors_full>
+
+<classes><class><call_number>05007</call_number>
+
+<class_name>ORGANIZATIONAL PSYCHOLOGY</class_name>
+
+<course_identifier>PSYCX2151</course_identifier>
+
+<course_number>2151</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 6:10p - 7:25p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>M. Cruz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>82</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC2151-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2154</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2154y</course_identifier_cooked>
+
+<course_name>Hormones and Reproductive Behavior</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class explores the complex interactions among genetics, hormones, environment, experience, and behavior. Topics covered include the endocrine system, sexual development, reproductive behavior, and social interactions such as affiliation, aggression, parenting, as well as homeostasis, biological rhythms, stress, memory, and mood.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or BIOL BC1101, BC1102, or permission of the instructor. Enrollment limited to 45 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Pham</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Pham</course_instructors_full>
+
+<classes><class><call_number>03505</call_number>
+
+<class_name>HORMONES AND BEHAVIOR</class_name>
+
+<course_identifier>PSYCX2154</course_identifier>
+
+<course_number>2154</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>K. Pham</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC2154-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2156</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2156x</course_identifier_cooked>
+
+<course_name>Introduction to Clinical Psychology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the field of clinical psychology aimed at 1) becoming familiar with professional issues in the field and 2) comparing therapeutic approaches for their utility and efficacy. Therapeutic approaches covered include psychodynamic therapies, cognitive behavior therapies, family/child therapies. The course will critically examine a variety of professional issues including ethical dilemmas, clinical assessment and diagnosis, and use of technology in therapy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Both BC1001 and BC2141, as well as one of the following: BC1124/1125 Personality, BC3158 Human Motivation, or BC1128/1129 Developmental Psychology. Or BC1001 and permission of the instructor. Enrollment limited to 35 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Gupta</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Gupta</course_instructors_full>
+
+<classes><class><call_number>08657</call_number>
+
+<class_name>INTRO TO CLINICAL PSYCHOL</class_name>
+
+<course_identifier>PSYCX2156</course_identifier>
+
+<course_number>2156</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>S. Gupta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>37</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC2156-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2163</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2163x</course_identifier_cooked>
+
+<course_name>Human Learning and Memory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of contemporary theories and empirical research on human memory. Topics will include sensory, short term and long term memory, levels of processing, organization, forgetting, and encoding specificity. Special topics include eyewitness testimony, amnesia, implicit memory, and false memory.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and at least one psychology lab course, or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Son</course_instructors_expected>
+
+<course_instructors_full>L. Son</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2177</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2177y</course_identifier_cooked>
+
+<course_name>Psychology of Drug Use and Abuse</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the biological, psychological, and social factors that lead to drug use and abuse. A biopsychosocial model will be used to examine the behavioral effects of prescription, over the counter, and street drugs. Treatments, therapies, and theories of addictive behaviors will be explored.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 or permission of the instructor. Enrollment limited to 30 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. McCaskill</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. McCaskill</course_instructors_full>
+
+<classes><class><call_number>07700</call_number>
+
+<class_name>PSYCHOLOGY OF DRUG USE &#38;A</class_name>
+
+<course_identifier>PSYCX2177</course_identifier>
+
+<course_number>2177</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>E. McCaskill</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>101</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC2177-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2180</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC2180y</course_identifier_cooked>
+
+<course_name>Neurodevelopmental Processes and Cognitive/Behavioral Disorders</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the evolution of disorders affecting children due to some impairment in the brain or nervous system. Constitutional vulnerabilities demonstrate that nervous system injury varies as a function of neurodevelopmental stage. Disorders to be studied include those impacting language, hearing, vision, movement, mood and emotion, and learning.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1118/1119, BC3177, BC3380, or BIOL BC3362. Enrollment limited to 30 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3152</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3152y</course_identifier_cooked>
+
+<course_name>Psychological Aspects of Human Sexuality</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This seminar is a critical examination of research and theory in human sexuality.&#38;nbsp; The first part of the course is an overview of influential social science research on sexuality during the 20th century.&#38;nbsp; The second part is a detailed investigation of contemporary research and writing on selected issues in human sexual behavior, including sexual socialization, gender and sexuality, and contemporary approaches to understanding psychosexual disorders.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Junior or senior standing, BC1001 and two other psychology courses and permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. McKenna</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>W. McKenna</course_instructors_full>
+
+<classes><class><call_number>01798</call_number>
+
+<class_name>PSYCH ASPECTS HUMAN SEXUA</class_name>
+
+<course_identifier>PSYCX3152</course_identifier>
+
+<course_number>3152</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>W. McKenna</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3152-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3153</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3153x</course_identifier_cooked>
+
+<course_name>Psychology and Women</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines how female experience is and has been understood by psychologists. Through an understanding of gender as a social construction and issues raised by the intersections of gender, sexuality, class, and race, the course will analyze assumptions about what causes us to be gendered and about how being gendered affects behavior.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Junior or Senior standing and at least two psychology courses. Permission of the instructor required for majors other than Psychology or Women&#39;s Studies.  Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. McKenna</course_instructors_actual>
+
+<course_instructors_expected>W. McKenna</course_instructors_expected>
+
+<course_instructors_full>W. McKenna</course_instructors_full>
+
+<classes><class><call_number>01841</call_number>
+
+<class_name>PSYCHOLOGY AND WOMEN</class_name>
+
+<course_identifier>PSYCX3153</course_identifier>
+
+<course_number>3153</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>W. McKenna</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3153-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3155</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3155y</course_identifier_cooked>
+
+<course_name>Psychology and Law</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of the research in social psychology as it relates to the legal process. Among the topics covered are eyewitness identifications, jury decision making, lie detection, child witnesses, confessions and interrogations, media effects, and capital punishment. Each of these problems will be considered from both a theoretical and an applied perspective. Next offered during the 2012-2013 academic year.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001, one other psychology course, and permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Heuer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Heuer</course_instructors_full>
+
+<classes><class><call_number>06596</call_number>
+
+<class_name>PSYCHOLOGY AND LAW</class_name>
+
+<course_identifier>PSYCX3155</course_identifier>
+
+<course_number>3155</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>L. Heuer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>47</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3155-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3158</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3158y</course_identifier_cooked>
+
+<course_name>Human Motivation</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Outlines major theoretical questions and research approaches in human motivation. In particular, it focuses on empirical investigations of motivation in social contexts, emphasizing goal formation, goal conflict, the self, and the influence of nonconscious processes. Motivation for competence, control autonomy, achievement, altruism, and intimacy will also be covered.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Glassman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Glassman</course_instructors_full>
+
+<classes><class><call_number>01210</call_number>
+
+<class_name>HUMAN MOTIVATION</class_name>
+
+<course_identifier>PSYCX3158</course_identifier>
+
+<course_number>3158</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 9:00a - 10:50a&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>N. Glassman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3158-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3162</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3162x</course_identifier_cooked>
+
+<course_name>Introduction to Cultural Psychology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Critically investigates the universalizing perspectives of psychology. Drawing on recent theory and research in cultural psychology, examines cultural approaches to psychological topics such as the self, human development, mental health, and racial identity. Also explores potential interdisciplinary collaborations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and either BC1124/1125, BC1125, BC2141, or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Seeley</course_instructors_actual>
+
+<course_instructors_expected>K. Seeley</course_instructors_expected>
+
+<course_instructors_full>K. Seeley</course_instructors_full>
+
+<classes><class><call_number>04975</call_number>
+
+<class_name>INTRO TO CULTURAL PSYCHOL</class_name>
+
+<course_identifier>PSYCX3162</course_identifier>
+
+<course_number>3162</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>K. Seeley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3162-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3164</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3164y</course_identifier_cooked>
+
+<course_name>Perception and Language</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Psychological investigations of spoken communication from a listener&#39;s perspective. Topics include perception and sounds of speech and the apprehension of meaning from words and utterances; the perceptual basis for rhyme and rhythm in speech; and the natural history of vocal communication.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC 1001 and one of the following: BC1106/1107, BC1109/1110, BC1118/1119, BC1128/1129, or permission of the instructor. Enrollment limited to 20 students</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3165</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3165y</course_identifier_cooked>
+
+<course_name>The Social Self</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Review of the classic and contemporary empirical research pertaining to the self, with an emphasis on the self as a socially-based construct. Focus on the social basis of identity, self-concept, and self-regulation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one other Psychology course. Or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Stroessner</course_instructors_expected>
+
+<course_instructors_full>S. Stroessner</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3166</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3166y</course_identifier_cooked>
+
+<course_name>Social Conflict</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of the literature on development of social conflict, the motivations and cognitions of individuals in conflict, and the procedures available for resolving conflict. Particular emphasis will be placed on the psychology of fairness and its implications for conflict resolution.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one additional Psychology course. Or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3170</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3170y</course_identifier_cooked>
+
+<course_name>Introduction to Psychoanalysis</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduces the major contributors to contemporary psychoanalysis. Surveys changes in theory and technique covering Freud, Ego Psychology and Contemporary Freudian views, Object Relations Schools (e.g. Klein, Winnicott), Self Psychology, and Interpersonal and relational approaches. Additional topics may include relevant psychoanalytic research and applications to art, cultural considerations, and current controversies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and BC2156 Introduction to Clinical Psychology. Or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3364</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3364y</course_identifier_cooked>
+
+<course_name>Psychology of Leadership</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An in-depth examination of the concept of leadership in psychology and related fields. Topics include the role of gender, culture, and emotional intelligence in leadership as well as a close examination of process and integrative models. Topics will be discussed with an emphasis on theory, research, and application. For enrollment:&#38;nbsp;Students must have prerequisites or permission of the instructor.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must have one of the following pre-requisites for this course PSY BC 1123/1124 Personality Psychology or PSY BC 1137/8 Social Psychology, or PSY BC 2151 Organizational Psychology, or permission by the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Woike</course_instructors_actual>
+
+<course_instructors_expected>B. Woike</course_instructors_expected>
+
+<course_instructors_full>B. Woike</course_instructors_full>
+
+<classes><class><call_number>09637</call_number>
+
+<class_name>PSYCHOLOGY OF LEADERSHIP</class_name>
+
+<course_identifier>PSYCX3364</course_identifier>
+
+<course_number>3364</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>B. Woike</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3364-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3366</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3366y</course_identifier_cooked>
+
+<course_name>Eating Disorders</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course presents an in depth investigation of eating disorders including anorexia nervosa, bulimia nervosa, and binge eating from a primarily psychological perspective. The course will present both the current understandings of causes, correlates, and outcomes of eating pathology as well as the complexity and controversy surrounding these conceptualizations.&#38;nbsp;Enrollment limited to 20 students. Senior psych majors will get first preference.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>PSYC BC 1001, PSYC BC 2141</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Gupta</course_instructors_actual>
+
+<course_instructors_expected>S. Gupta</course_instructors_expected>
+
+<course_instructors_full>S. Gupta</course_instructors_full>
+
+<classes><class><call_number>04556</call_number>
+
+<class_name>EATING DISORDERS</class_name>
+
+<course_identifier>PSYCX3366</course_identifier>
+
+<course_number>3366</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>S. Gupta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>46</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3366-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3367</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3367y</course_identifier_cooked>
+
+<course_name>Concepts, Questions, and Controversies in Evolutionary Psychology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An examination of the major concepts, debates, and research of evolutionary psychology.&#38;nbsp; Will explore the extent to which the human mind and behavior are shaped by natural selection to solve specific, long-standing problems faced by our species over evolutionary time, such as finding a romantic partner, child-rearing, and gathering food.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and permission of the instructor.  Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3368</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3368y</course_identifier_cooked>
+
+<course_name>The Psychology of Creativity/The Creative Process</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Consideration of classic Psychodynamic (the unconscious/incubation), Psychometric (testing/training), and Personaility (train/motivation) models of creativity. Application of contemporary Process (cognitive/problem-solving) models to art, literature, and independently selected areas of expertise. Process models are involving constraint selection within well-established domains are emphasized.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Stokes</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Stokes</course_instructors_full>
+
+<classes><class><call_number>02947</call_number>
+
+<class_name>PSYCHOLOGY OF CREATIVITY</class_name>
+
+<course_identifier>PSYCX3368</course_identifier>
+
+<course_number>3368</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>P. Stokes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>42</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3368-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3369</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3369x</course_identifier_cooked>
+
+<course_name>Language Development</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the acquisition of a first language by children, from babbling and first words to complex sentence structure and wider communicative competence. Signed and spoken languages, cross-linguistic variation and universalities, language genesis and change, and acquisition by atypical populations will be discussed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001, one Psychology laboratory course, one of the following: PSYC W2240, BC1128/1129, BC1129, or LIN BC V1101, and permission of the instructor. Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3372</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3372x</course_identifier_cooked>
+
+<course_name>Comparative Cognition</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Review and critical evaluation of current empirical research investigating cognitive processes in both human and non-human species. Topics include comparisons in episodic memory, metacognition, theory of mind, self-awareness, and language abilities.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one additional course in psychology. Or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3373</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3373y</course_identifier_cooked>
+
+<course_name>Health Psychology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Consideration of research on the interaction of biological, psychological, and social factors related to health and illness. Issues such as the relationship of stress to illness, methods of coping with illness and improving health, and the relationship between psychological factors and recovery from illness will be discussed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and two more psychology courses (preferably BC1118/1119, BC1137/1138, BC1124/1125). Permission of the instructor required. Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Woike</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Woike</course_instructors_full>
+
+<classes><class><call_number>01472</call_number>
+
+<class_name>HEALTH PSYCHOLOGY</class_name>
+
+<course_identifier>PSYCX3373</course_identifier>
+
+<course_number>3373</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>B. Woike</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3373-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3376</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3376x and y</course_identifier_cooked>
+
+<course_name>Infant Development</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis of human development during the fetal period and early infancy. Review of effects of environmental factors on perinatal perceptual, cognitive, sensory-motor, and neurobehavioral capacities, with emphasis on critical conditions involved in both normal and abnormal brain development. Other topics include acute and long term effects of toxic exposures (stress, smoking, and alcohol) during pregnancy, and interaction of genes and the environment in shaping the developing brain of &#34;high-risk&#34; infants, including premature infants and those at risk for Sudden Infant Death Syndrome.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and BC1128/1129 Developmental (lab and lecture taken together) or BC1129 (only lecture). Or permission of the instructor. Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Fifer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>W. Fifer</course_instructors_full>
+
+<classes><class><call_number>04927</call_number>
+
+<class_name>INFANT DEVELOPMENT</class_name>
+
+<course_identifier>PSYCX3376</course_identifier>
+
+<course_number>3376</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>W. Fifer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3376-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02814</call_number>
+
+<class_name>INFANT DEVELOPMENT</class_name>
+
+<course_identifier>PSYCX3376</course_identifier>
+
+<course_number>3376</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>W. Fifer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3376-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3379</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3379x</course_identifier_cooked>
+
+<course_name>Psychology of Stereotyping and Prejudice</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Review of current literature from experimental social psychology pertaining to stereotyping and prejudice. Topics include: functions and costs of stereotyping, the formation and maintenance of stereotypes, and stereotype change. Recent research concerning the role of cognitive processes in intergroup perception will be emphasized.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Stroessner</course_instructors_actual>
+
+<course_instructors_expected>S. Stroessner</course_instructors_expected>
+
+<course_instructors_full>S. Stroessner</course_instructors_full>
+
+<classes><class><call_number>05403</call_number>
+
+<class_name>PSYCH OF STEREOTYPING/PRE</class_name>
+
+<course_identifier>PSYCX3379</course_identifier>
+
+<course_number>3379</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>S. Stroessner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3379-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04174</call_number>
+
+<class_name>PSYCH OF STEREOTYPING/PRE</class_name>
+
+<course_identifier>PSYCX3379</course_identifier>
+
+<course_number>3379</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>S. Stroessner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3379-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3380</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3380y</course_identifier_cooked>
+
+<course_name>Fundamentals of Neuropsychology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exposition of research and theory in neuroscience with an emphasis on the use of neural imaging techniques (EEG, evoked potentials, MEG, PET, fMRI) for exploring sensation, perception, and cognition in the healthy, intact brain.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3381</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3381y</course_identifier_cooked>
+
+<course_name>Theory of Mind and Intentionality</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey and critical analysis of the developmental and neurological research on theory of mind -the attribution of mental states like belief, desire, and knowledge to others- in humans and nonhuman animals. Emphasis on the role of intentionality, stages of acquisition, neurological and genetic bases, and deficits in theory of mind.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one other Psychology course, or permission of the instructor. Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3382</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3382y</course_identifier_cooked>
+
+<course_name>Adolescent Psychology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines adolescent development in theory and reality. Focuses on individual physiological, sexual, cognitive, and affective development and adolescent experiences in their social context of family, peers, school, and community. Critical perspectives of gender, race and ethnicity, sexuality, and &#34;teen culture&#34; explored.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and BC1129 Developmental Psychology or permission of the instructor. Enrollment limited to 20 senior majors.  Barnard students receive priority.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sacks</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Sacks</course_instructors_full>
+
+<classes><class><call_number>00721</call_number>
+
+<class_name>ADOLESCENT PSYCHOLOGY</class_name>
+
+<course_identifier>PSYCX3382</course_identifier>
+
+<course_number>3382</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>S. Sacks</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3382-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3383</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3383x</course_identifier_cooked>
+
+<course_name>Neuropharmacology and Behavior</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Basic principles of the study of drugs that influence the neural systems and induce changes in behavior. Molecular, biochemical and behavioral characterization of psychotropic drugs: stimulants, sedative-hypnotics, anxiolytics, alcohol, hallucinogens, and opiates. Etiology and treatment of psychological and neurological disorders.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one of the following: BC1115, BC1119, or BIOL BC3280. Permission of the instructor is required. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. McCaskill</course_instructors_actual>
+
+<course_instructors_expected>E. McCaskill</course_instructors_expected>
+
+<course_instructors_full>E. McCaskill</course_instructors_full>
+
+<classes><class><call_number>02589</call_number>
+
+<class_name>NEUROPHARMACOLOGY &#38; BEHAV</class_name>
+
+<course_identifier>PSYCX3383</course_identifier>
+
+<course_number>3383</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 7:40p - 9:30p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>E. McCaskill</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3383-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3384</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3384x</course_identifier_cooked>
+
+<course_name>Social Cognition</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of research from the field of social cognition, exploring cognitive processes involved in social functioning.&#38;nbsp; Topics include attention, interpretation, evaluation, judgment, attribution, and memory processes.&#38;nbsp; Both controlled and automatic processes will be considered, and the roles of motives, goals, and affective variables will be discussed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC 1001 and one of the following: BC1138/1137 Social Psychology, BC1115/1114 Cognitive Psychology, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Stroessner</course_instructors_actual>
+
+<course_instructors_expected>S. Stroessner</course_instructors_expected>
+
+<course_instructors_full>S. Stroessner</course_instructors_full>
+
+<classes><class><call_number>04026</call_number>
+
+<class_name>SOCIAL COGNITION</class_name>
+
+<course_identifier>PSYCX3384</course_identifier>
+
+<course_number>3384</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 2:10p - 4:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>S. Stroessner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3384-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3387</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3387x and y</course_identifier_cooked>
+
+<course_name>Topics in Neuroethics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Recent advancements in neuroscience raise profound ethical questions. Neuroethics integrates neuroscience, philosophy, and ethics in an attempt to address these issues. Reviews current debated topics relevant to the brain, cognition, and behavior. Bioethical and philosophical principles will be applied allowing students to develop skill in ethical analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one of the following: Neurobiology, Behavioral Neuroscience, Fundamentals of Neuropsychology, or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. McCaskill</course_instructors_actual>
+
+<course_instructors_expected>E. McCaskill</course_instructors_expected>
+
+<course_instructors_full>E. McCaskill</course_instructors_full>
+
+<classes><class><call_number>09011</call_number>
+
+<class_name>TOPICS IN NEUROETHICS</class_name>
+
+<course_identifier>PSYCX3387</course_identifier>
+
+<course_number>3387</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 7:40p - 9:30p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>E. McCaskill</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3387-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03944</call_number>
+
+<class_name>TOPICS IN NEUROETHICS</class_name>
+
+<course_identifier>PSYCX3387</course_identifier>
+
+<course_number>3387</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 7:40p - 9:30p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>E. McCaskill</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>27</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3387-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3388</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3388y</course_identifier_cooked>
+
+<course_name>Imitation and Language</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the concept of imitation in behavior through research on animals, human development, and adult language use. Class meetings focus on discussion of reading material to develop a theory of the cognitive mechanisms of imitation that apply to language change in spoken communication.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one Psychology Lab course, or permission of the instructor. Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3389</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3389y</course_identifier_cooked>
+
+<course_name>Current Topics in Personality Psychology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course offers an in-depth examination of contemporary topics in personality psychology and their historical antecedents. Topics include developmental foundations, modern theory and research on consciousness, regulation of emotion and cognition, and new approaches to personality assessment. These current issues will be discussed with an emphasis on both theory and research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and BC1124/1125 (Personality lab and lecture taken together) or BC1125 (Personality lecture only), or permission of the instructor.  Enrollment limited to 20 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3390</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3390x</course_identifier_cooked>
+
+<course_name>Canine Cognition</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An examination of the scientific study of the domestic dog. Emphasis will be on the evolutionary history of the species; the dog&#39;s social cognitive skills; canid perceptual and sensory capacities; dog-primate comparative studies; and dog-human interaction.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and one other Psychology course. Enrollment limited to 15 students.  Permission of the instructor is required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Horowitz</course_instructors_actual>
+
+<course_instructors_expected>A. Horowitz</course_instructors_expected>
+
+<course_instructors_full>A. Horowitz</course_instructors_full>
+
+<classes><class><call_number>06721</call_number>
+
+<class_name>CANINE COGNITION</class_name>
+
+<course_identifier>PSYCX3390</course_identifier>
+
+<course_number>3390</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>A. Horowitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3390-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3391</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3391y</course_identifier_cooked>
+
+<course_name>Psychology of Time</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The seminar will explore how times are perceived, learned, remembered and used to guide decisions and behavior.&#38;nbsp; The underlying brain mechanisms that create a sense of time and organize action will be discussed.&#38;nbsp; Students will research how temporal information processing is foundational to core areas of psychology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and additional psychology course, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3393</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3393x or y</course_identifier_cooked>
+
+<course_name>Psychological Interventions for Developmental Disabilities</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course provides an overview of psychological intervention processes in the field of developmental disabilities.&#38;nbsp; Course content includes discussions of clinical and ethical issues related to diagnosis and treatment, and in-depth review of procedures used to teach appropriate behavior repertoires to individuals with developmental disabilities such as Autism Spectrum Disorders.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001, BC1127/1129, BC2156, or permission of the instructor. Seniors are given priority.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Hoch</course_instructors_actual>
+
+<course_instructors_expected>H. Hoch</course_instructors_expected>
+
+<course_instructors_full>H. Hoch</course_instructors_full>
+
+<classes><class><call_number>07718</call_number>
+
+<class_name>INTERVNTNS DEVELPMNTL DIS</class_name>
+
+<course_identifier>PSYCX3393</course_identifier>
+
+<course_number>3393</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>H. Hoch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3393-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3465</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3466</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3465x-BC3466y</course_identifier_cooked>
+
+<course_name>Field Work and Research Seminar: The Barnard Toddler Center</course_name>
+
+<course_points_min>8</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>8 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The Barnard Toddler Center provides the focus for field work and research in applied developmental psychology, an amalgam of developmental, educational, and clinical psychology. Students assist one morning a week at the Center, make individual class presentations, carry out team research projects, and participate in a two-hour weekly seminar which integrates theory, research, and practice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1128/BC1129 or just BC1129 lecture (without lab) and permission of the instructor. Permission should be requested in the Spring of the year preceding registration. Enrollment limited to 16 students. This is a two-semester course only.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Sawyer Cohen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Sawyer Cohen</course_instructors_full>
+
+<classes><class><call_number>01424</call_number>
+
+<class_name>FLD WRK&#38;RSRCH SEM:TODDLR</class_name>
+
+<course_identifier>PSYCX3465</course_identifier>
+
+<course_number>3465</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:50p - 2:50p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>J. Sawyer Cohen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3465-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02080</call_number>
+
+<class_name>FLD WRK&#38;RSRCH SEM:TODDLR</class_name>
+
+<course_identifier>PSYCX3466</course_identifier>
+
+<course_number>3466</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:30p - 2:30p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>J. Sawyer Cohen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3466-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3473</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3473x or y</course_identifier_cooked>
+
+<course_name>Field Work Seminar in Psychological Services and Counseling</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Supervised field work (minimum of 7 hours per week) applying psychological principles to work and treatment in clinical, educational, medical, and other institutional settings. Seminar discussions of theoretical approaches to clinical problems and case materials.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Three psychology courses and permission of the instructor required during program planning the semester before the course is offered. Enrollment limited to 12 students; seniors are given priority.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Sheehy, M. Silverman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Sheehy, M. Silverman</course_instructors_full>
+
+<classes><class><call_number>09603</call_number>
+
+<class_name>FLDWRK/RSRCH SEM:PSYC SER</class_name>
+
+<course_identifier>PSYCX3473</course_identifier>
+
+<course_number>3473</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>J. Sheehy&#60;br /&#62;
+M. Silverman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3473-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3591</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3592</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3591x-BC3592y</course_identifier_cooked>
+
+<course_name>Senior Research Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussion and conferences on a research project culminate in a written and oral senior thesis. Each project must be supervised by a scientist working at Barnard or at another local institution. Successful completion of the seminar substitutes for the major examination.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001, BC1101, a minimum of five other completed psychology courses, and permission of the instructor. This is a year-long course. Open to senior psychology majors who submit a research proposal which has been approved by the course instructor and the project supervisor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Heuer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Heuer</course_instructors_full>
+
+<classes><class><call_number>04567</call_number>
+
+<class_name>SENIOR RESEARCH SEMINAR I</class_name>
+
+<course_identifier>PSYCX3591</course_identifier>
+
+<course_number>3591</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>L. Heuer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3591-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02904</call_number>
+
+<class_name>SENIOR RESEARCH SEMINAR I</class_name>
+
+<course_identifier>PSYCX3592</course_identifier>
+
+<course_number>3592</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;302 LEHMAN HALL</days_times>
+
+<instructors>L. Heuer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/BC3592-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3602</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC BC3602y</course_identifier_cooked>
+
+<course_name>Individual Projects</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; Research projects planned in consultation with members of the department.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to majors and non-majors with written permission of the department member who will supervise the project.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4232</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC G4232y</course_identifier_cooked>
+
+<course_name>Production and Perception of Language</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Review of classic and current research on spoken communication. Peripheral transduction, auditory and phonetic analysis, word recognition, phrase formation, formal and informal speech, idiolect, and infant and nonhuman listeners.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>BC1001 and on of the following: PSYC W2240, BC2160, BC3164, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PSYB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<subject_area_name>Psychology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4492</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PSYC G4492x</course_identifier_cooked>
+
+<course_name>Psychobiology of Stress</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This seminar will explore factors that modulate stress reactivity and the impact of stress on the structure and function of the nervous system and behavior. Topics will include how developmental stage, sex/gender, time of day, and experience influence how an organism responds to stress at endocrinological, neurobiological, and behavioral levels.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>An Introduction to Psychology course and one of the following: BC1117, BC1119, BC3362, or permission of the instructor. Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Romeo</course_instructors_actual>
+
+<course_instructors_expected>R. Romeo</course_instructors_expected>
+
+<course_instructors_full>R. Romeo</course_instructors_full>
+
+<classes><class><call_number>05463</call_number>
+
+<class_name>PSYCHOBIOLOGY OF STRESS</class_name>
+
+<course_identifier>PSYCG4492</course_identifier>
+
+<course_number>4492</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;200C SCHERMERHORN HALL</days_times>
+
+<instructors>R. Romeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PSYC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PSYC/G4492-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

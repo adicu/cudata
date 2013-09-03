@@ -1,0 +1,1044 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4150</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G4150</course_identifier_cooked>
+
+<course_name>Prokaryotic Molecular Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4152</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G4152</course_identifier_cooked>
+
+<course_name>Eukaryotic Molecular Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4250</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G4250</course_identifier_cooked>
+
+<course_name>Molecular Biophysics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4350</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G4350</course_identifier_cooked>
+
+<course_name>Cellular Membranes and Organelles</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4450</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G4450</course_identifier_cooked>
+
+<course_name>Frontiers In Cell Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4600</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G4600</course_identifier_cooked>
+
+<course_name>Structure and Function of Membrane Channels</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Neural Science M6106 or the equivalent.&#38;nbsp; This course and Physiology G4001 are recommended for students concentrating in Biophysics.&#38;nbsp; A detailed analysis of the biophysical and structural properties of ionic channels in biological membranes</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8001</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>PHAR G8001 (Section 001)</course_identifier_cooked>
+
+<course_name>Principles of Systems Pharmacology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course focuses on fundamental principles in systems pharmacology and their application. Topics include: the effect of body biochemical processes on the disposition of drugs, including quantitative expression of drug absorbation, distribution, metabolism, and excretion (ADME); the use of statistical analysis in pharmacology; specific aspects of systems pharmacology, including autonomic and neuropharmacology and toxicology. These lectures deal with both basic principles and current topics within these diciplines.</course_description>
+
+<corequisites>PHAR G6102</corequisites>
+
+<prerequisites>PHAR G6102</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Wit, K. Allis</course_instructors_actual>
+
+<course_instructors_expected>R. Robinson</course_instructors_expected>
+
+<course_instructors_full>A. Wit, K. Allis, R. Robinson</course_instructors_full>
+
+<classes><class><call_number>91398</call_number>
+
+<class_name>PRINCIPLES OF SYSTEM PHAR</class_name>
+
+<course_identifier>PHARG8001</course_identifier>
+
+<course_number>8001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuW 1:00p - 3:00p&#60;br /&#62;7W-318 PRESBYTERIAN HOSPITAL</days_times>
+
+<instructors>A. Wit&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G8001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8003</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>8004</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G8003-G8004</course_identifier_cooked>
+
+<course_name>Backgrounds In Pharmacology</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to Ph.D. candidates in the Department of Pharmacology.&#38;nbsp; A detailed analysis of classical studies in pharmacology and related fields and the research which has led to our current understanding of the mode of drug action.&#38;nbsp; Students are required to present material for oral presentation and written report.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Goldberg, K. Allis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Goldberg, K. Allis</course_instructors_full>
+
+<classes><class><call_number>86347</call_number>
+
+<class_name>BACKGROUNDS IN PHARMACOLO</class_name>
+
+<course_identifier>PHARG8003</course_identifier>
+
+<course_number>8003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Goldberg&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G8003-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8007</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>8008</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>PHAR G8007-G8008 (Section 001)</course_identifier_cooked>
+
+<course_name>Advances In Pharmacology</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to Ph.D. candidates in the pharmacological sciences training program.&#38;nbsp; A study of current topics of interest in&#38;nbsp; pharmacology and related fields.&#38;nbsp; Students are required to present materials for discussion.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Allis, M. Rosen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Allis, M. Rosen</course_instructors_full>
+
+<classes><class><call_number>76951</call_number>
+
+<class_name>ADVANCES IN PHARMACOLOGY</class_name>
+
+<course_identifier>PHARG8007</course_identifier>
+
+<course_number>8007</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:00p - 4:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>K. Allis&#60;br /&#62;
+M. Rosen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G8007-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>73346</call_number>
+
+<class_name>ADVANCES IN PHARMACOLOGY</class_name>
+
+<course_identifier>PHARG8008</course_identifier>
+
+<course_number>8008</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:00p - 4:00p&#60;br /&#62;724 BLACK BUILDING</days_times>
+
+<instructors>K. Allis&#60;br /&#62;
+M. Rosen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G8008-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8009</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>8010</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>PHAR G8009-G8010 (Section 001)</course_identifier_cooked>
+
+<course_name>Pharmacology Techniques</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>6</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4-6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to Ph.D. candidates in the pharmacological sciences training program.&#38;nbsp; Students are assigned to selected research laboratories to learn current fundamental laboratory techniques.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Goldberg, K. Allis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Goldberg, K. Allis</course_instructors_full>
+
+<classes><class><call_number>82248</call_number>
+
+<class_name>PHARMACOLOGY TECHNIQUES I</class_name>
+
+<course_identifier>PHARG8009</course_identifier>
+
+<course_number>8009</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Goldberg&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G8009-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>78397</call_number>
+
+<class_name>PHARMACOLOGY TECHNIQUES I</class_name>
+
+<course_identifier>PHARG8010</course_identifier>
+
+<course_number>8010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Goldberg&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G8010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8015</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G8015</course_identifier_cooked>
+
+<course_name>Scientific Communication</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Goldberg, K. Allis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Goldberg, K. Allis</course_instructors_full>
+
+<classes><class><call_number>88451</call_number>
+
+<class_name>SCIENTIFIC COMMUNICATION</class_name>
+
+<course_identifier>PHARG8015</course_identifier>
+
+<course_number>8015</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Goldberg&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G8015-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9051</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G9051</course_identifier_cooked>
+
+<course_name>Research In Pharmacology</course_name>
+
+<course_points_min>8</course_points_min>
+
+<course_points_max>12</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>8-12 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to graduate students in the Department of Pharmacology doing dissertation research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Goldberg, K. Allis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Goldberg, K. Allis</course_instructors_full>
+
+<classes><class><call_number>74783</call_number>
+
+<class_name>RESEARCH IN PHARMACOLOGY</class_name>
+
+<course_identifier>PHARG9051</course_identifier>
+
+<course_number>9051</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Goldberg&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G9051-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>82196</call_number>
+
+<class_name>RESEARCH IN PHARMACOLOGY</class_name>
+
+<course_identifier>PHARG9051</course_identifier>
+
+<course_number>9051</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Goldberg&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G9051-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHAR</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<subject_area_name>Pharmacology</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9600</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHAR G9600</course_identifier_cooked>
+
+<course_name>Molecular Pharmacology: From Membrane To Nucleus</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for all graduate students in pharmacology. Prerequisite: familiarity with basic biochemistry and molecular biology. Introduction to molecular approaches to target identification and drug development and delivery for cellular and subcellular processes that contribute to human disease. The principles of drug-receptor interactions; ion channels as molecular targets of neurohormones and drugs; structure and function of G-protein coupled receptors; cytoplasmic signaling molecules including receptor and non-receptor tyrosine kinases and serine-threonine kinases; neuro-psychopharmacology; the pharmacology of inflammation; and novel approaches to gene-targeted pharmacology. Integration of molecular processes and human disease including cancer, neuro degenerative disease; cardiovascular disease, and psychiatric disorders is stressed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Kellendonk, K. Allis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Kellendonk, K. Allis</course_instructors_full>
+
+<classes><class><call_number>13096</call_number>
+
+<class_name>MOL PHARM: FR MEMBRANE-NU</class_name>
+
+<course_identifier>PHARG9600</course_identifier>
+
+<course_number>9600</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:00a - 12:00p&#60;br /&#62;724 BLACK BUILDING</days_times>
+
+<instructors>C. Kellendonk&#60;br /&#62;
+K. Allis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>PHAR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHAR/G9600-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

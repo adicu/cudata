@@ -1,0 +1,2665 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL BC1001xy</course_identifier_cooked>
+
+<course_name>Introduction to Philosophy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of some of the central problems, key figures, and great works in both traditional and contemporary philosophy. Topics and texts will vary with instructor and semester.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Paul, K. Lewis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Paul, K. Lewis</course_instructors_full>
+
+<classes><class><call_number>06226</call_number>
+
+<class_name>INTRODUCTION TO PHILOS</class_name>
+
+<course_identifier>PHILX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>K. Lewis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/BC1001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03948</call_number>
+
+<class_name>INTRODUCTION TO PHILOS</class_name>
+
+<course_identifier>PHILX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>K. Lewis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>37</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/BC1001-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09632</call_number>
+
+<class_name>INTRODUCTION TO PHILOSOPH</class_name>
+
+<course_identifier>PHILX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>E. Paul</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>71</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/BC1001-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03579</call_number>
+
+<class_name>INTRODUCTION TO PHILOSOPH</class_name>
+
+<course_identifier>PHILX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>E. Paul</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>53</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/BC1001-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>1401</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUPH O1401x</course_identifier_cooked>
+
+<course_name>Introduction to Logic</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; Explicit criteria for recognizing valid and fallacious arguments,together with various methods for schematizing discourse for the purpose of logical analysis. Illustrative material taken from science and everyday life.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Morrison</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Morrison</course_instructors_full>
+
+<classes><class><call_number>73328</call_number>
+
+<class_name>ELEMENTARY LOGIC</class_name>
+
+<course_identifier>AUPHO1401</course_identifier>
+
+<course_number>1401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>J. Morrison</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUPH/O1401-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1401</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V1401x</course_identifier_cooked>
+
+<course_name>Introduction to Logic</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; Explicit criteria for recognizing valid and fallacious arguments,together with various methods for schematizing discourse for the purpose of logical analysis. Illustrative material taken from science and everyday life.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Morrison</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Morrison</course_instructors_full>
+
+<classes><class><call_number>02804</call_number>
+
+<class_name>INTRODUCTION TO LOGIC</class_name>
+
+<course_identifier>PHILV1401</course_identifier>
+
+<course_number>1401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>J. Morrison</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>80</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V1401-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2003</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V2003x</course_identifier_cooked>
+
+<course_name>Introduction to the Philosophy of Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introductory course in the philosophy of art. What is art? Should we try to define art? Should photographs count as art? What does it mean to have an aesthetic experience? Can one person&#239;&#191;&#189;s judgment be better than another&#239;&#191;&#189;s? Why do we enjoy watching tragedies or horror movies?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2100</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V2100y</course_identifier_cooked>
+
+<course_name>Philosophy of Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Drawing on classical amd contemporary sources, discussion will focus on the conditions necessary to produce free and responsible citizens of a just and democratic society. Readings from Plato, Rousseau, Dewey, and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Cammarano</course_instructors_expected>
+
+<course_instructors_full>C. Cammarano</course_instructors_full>
+
+<classes><class><call_number>02575</call_number>
+
+<class_name>PHILOSOPHY OF EDUCATION</class_name>
+
+<course_identifier>PHILV2100</course_identifier>
+
+<course_number>2100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>46</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V2100-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V2101x</course_identifier_cooked>
+
+<course_name>History of Philosophy I: Pre-Socratics through Augustine</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exposition and analysis of the positions of the major philosophers from pre-Socratics through Augustine.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Mann</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>W. Mann</course_instructors_full>
+
+<classes><class><call_number>68228</call_number>
+
+<class_name>HIST-PHIL:PRE-SOCRATCS-AU</class_name>
+
+<course_identifier>PHILV2101</course_identifier>
+
+<course_number>2101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;503 HAMILTON HALL</days_times>
+
+<instructors>W. Mann</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>45</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V2101-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2110</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V2110x</course_identifier_cooked>
+
+<course_name>Philosophy and Feminism</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Is there an essential difference between women and men? How do questions about race relate to questions about gender? Is there a &#39;normal&#39; way of being &#39;queer&#39;? An introduction to philosophy and feminism using historical and contemporary texts, art, and public lectures. Focus includes essentialism, difference, identity, knowledge, objectivity, and queerness.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2201</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V2201y</course_identifier_cooked>
+
+<course_name>History of Philosophy II: Aquinas through Kant</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exposition and analysis of the positions of the major philosophers from Aquinas through Kant.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Morrison</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Morrison</course_instructors_full>
+
+<classes><class><call_number>01193</call_number>
+
+<class_name>HISTORY OF PHILOSOPHY II</class_name>
+
+<course_identifier>PHILV2201</course_identifier>
+
+<course_number>2201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>J. Morrison</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>55</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>49</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V2201-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2301</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V2301y</course_identifier_cooked>
+
+<course_name>History of Philosophy III: 19th &#38; 20th Century Philosophy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exposition and analysis of texts by Kant and major 19th-century European Philosophers.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>None.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>2400</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUPH O2400x</course_identifier_cooked>
+
+<course_name>Psychology and Philosophy of Human Experience</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>We will discuss some of the most fundamental questions that one can pose about human experience.&#38;nbsp; For example, we will investigate how we experience time, whether anything really has color, the difference between imagining and seeing, whether beauty is subjective, how we understand other people&#39;s emotions, the ways in which the human mind is structured and the extent to which our minds are functionally fractionable.&#38;nbsp; By drawing on both scientific and philosophical texts we hope to combine the best features of both approaches.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Morrison, J. New</course_instructors_actual>
+
+<course_instructors_expected>Joshua New</course_instructors_expected>
+
+<course_instructors_full>J. Morrison, J. New</course_instructors_full>
+
+<classes><class><call_number>22448</call_number>
+
+<class_name>PSYCHOL &#38; PHILOS OF HUM</class_name>
+
+<course_identifier>AUPHO2400</course_identifier>
+
+<course_number>2400</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>J. Morrison&#60;br /&#62;
+J. New</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUPH/O2400-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2400</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V2400x</course_identifier_cooked>
+
+<course_name>Psychology and Philosophy of Human Experience</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>We will discuss some of the most fundamental questions that one can pose about human experience.&#38;nbsp; For example, we will investigate how we experience time, whether anything really has color, the difference between imagining and seeing, whether beauty is subjective, how we understand other people&#39;s emotions, the ways in which the human mind is structured and the extent to which our minds are functionally fractionable.&#38;nbsp; By drawing on both scientific and philosophical texts we hope to combine the best features of both approaches.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Morrison, J. New</course_instructors_actual>
+
+<course_instructors_expected>Joshua New</course_instructors_expected>
+
+<course_instructors_full>J. Morrison, J. New</course_instructors_full>
+
+<classes><class><call_number>07364</call_number>
+
+<class_name>PSYCHOL &#38; PHILOS OF HUM E</class_name>
+
+<course_identifier>PHILV2400</course_identifier>
+
+<course_number>2400</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>J. Morrison&#60;br /&#62;
+J. New</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>70</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>48</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V2400-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3121</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AUPH O3121x or y</course_identifier_cooked>
+
+<course_name>Plato</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to Platos philosophy through analysis of characteristic dialogues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One philosophy course or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Mann</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>W. Mann</course_instructors_full>
+
+<classes><class><call_number>83452</call_number>
+
+<class_name>PLATO</class_name>
+
+<course_identifier>AUPHO3121</course_identifier>
+
+<course_number>3121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;TBA</days_times>
+
+<instructors>W. Mann</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUPH/O3121-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3121</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL V3121x or y</course_identifier_cooked>
+
+<course_name>Plato</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to Platos philosophy through analysis of characteristic dialogues.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One philosophy course or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Mann</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>W. Mann</course_instructors_full>
+
+<classes><class><call_number>62242</call_number>
+
+<class_name>PLATO</class_name>
+
+<course_identifier>PHILV3121</course_identifier>
+
+<course_number>3121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;702 HAMILTON HALL</days_times>
+
+<instructors>W. Mann</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>55</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>45</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3121-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3131</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL V3131x or y</course_identifier_cooked>
+
+<course_name>Aristotle</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to leading concepts and doctrines of Aristotles philosophy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One philosophy course or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3237</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3237x</course_identifier_cooked>
+
+<course_name>Late Medieval and Modern Philosophy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Study of one or more of the major philosophers from the Renaissance through the 18th century. Sample topics: substance and matter; bodies, minds, and spirits; identity and individuation; ideas of God; causation; liberty and necessity; skepticism; philosophy and science; ethical and political issues. Sample philosophers: Descartes, Spinoza, Leibniz, Conway, Locke, Berkely, Hume, Kant.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One philosophy course or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Paul</course_instructors_expected>
+
+<course_instructors_full>E. Paul</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3251</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUPH O3251y</course_identifier_cooked>
+
+<course_name>Kant</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the connections between theoretical and practical reason in Kant&#39;s thinking with special attention to the Critique of Pure Reason and the project of &#34;transcendental&#34; philosophy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Kitcher</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Kitcher</course_instructors_full>
+
+<classes><class><call_number>13603</call_number>
+
+<class_name>KANT</class_name>
+
+<course_identifier>AUPHO3251</course_identifier>
+
+<course_number>3251</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;702 HAMILTON HALL</days_times>
+
+<instructors>P. Kitcher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUPH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUPH/O3251-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3251</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3251y</course_identifier_cooked>
+
+<course_name>Kant</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the connections between theoretical and practical reason in Kant&#39;s thinking with special attention to the Critique of Pure Reason and the project of &#34;transcendental&#34; philosophy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Kitcher</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Kitcher</course_instructors_full>
+
+<classes><class><call_number>20947</call_number>
+
+<class_name>KANT</class_name>
+
+<course_identifier>PHILV3251</course_identifier>
+
+<course_number>3251</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;702 HAMILTON HALL</days_times>
+
+<instructors>P. Kitcher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>65</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3251-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3264</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL W3264</course_identifier_cooked>
+
+<course_name>19th Century Philosophy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines major themes of Hegel&#39;s philosophy, emphasizing his social and political thought. Topics include Hegel&#39;s critique of Kant, the possibility of metaphysics, the master-slave dialectic, and the role of freedom in social institutions. Readings from Fichte illuminate how Hegel&#39;s thought develops out of Kant&#39;s idealism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>PHIL V2201, V2301 or V3251.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3352</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3352</course_identifier_cooked>
+
+<course_name>20th Century European Philosophy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Reading and discussion of Heidegger, Sartre, Merleau-Ponty, and Foucault. Topics include the crisis in metaphysics, the question of being, the structure of human existence, subjectivity, motivated irrationality, perception, the body, sociality, art, science, technology, and the disciplinary organization of modern society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Carman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Carman</course_instructors_full>
+
+<classes><class><call_number>01435</call_number>
+
+<class_name>20TH CEN EUROPEAN PHILOSO</class_name>
+
+<course_identifier>PHILV3352</course_identifier>
+
+<course_number>3352</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>T. Carman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>66</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3352-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3353</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3353</course_identifier_cooked>
+
+<course_name>European Social Philosophy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Historical survey of European social philosophy from the 18th to the 20th century, with special attention to theories of capitalism and the normative concepts (freedom, alienation, human flourishing) that inform them. A further topic will be the relation between society and the state. Readings from Smith, Hegel, Marx, and Weber.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One philosophy course or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Honneth</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Honneth</course_instructors_full>
+
+<classes><class><call_number>29764</call_number>
+
+<class_name>EUROPEAN SOCIAL THOUGHT</class_name>
+
+<course_identifier>PHILV3353</course_identifier>
+
+<course_number>3353</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;517 HAMILTON HALL</days_times>
+
+<instructors>A. Honneth</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>33</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3353-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3398</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL BC3398xy</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open to students who wish to pursue a project on an individual basis. The study consists in a combination of readings and papers over one semester under the direction of an appropriate instructor. The project and enrollment for the course are both subject to departmental approval.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3411</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3411xy</course_identifier_cooked>
+
+<course_name>Symbolic Logic</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sentential and first-order logic; the significance of a formal system and its use for analysis of meaning and language. Technical exercises are combined with analysis and parsing of English texts. A weekly required discussion section in addition to lectures.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Helzner, T. Lando</course_instructors_actual>
+
+<course_instructors_expected>A. Varzi</course_instructors_expected>
+
+<course_instructors_full>A. Varzi, J. Helzner, T. Lando</course_instructors_full>
+
+<classes><class><call_number>62248</call_number>
+
+<class_name>SYMBOLIC LOGIC</class_name>
+
+<course_identifier>PHILV3411</course_identifier>
+
+<course_number>3411</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;517 HAMILTON HALL</days_times>
+
+<instructors>T. Lando</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>33</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3411-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>72132</call_number>
+
+<class_name>SYMBOLIC LOGIC</class_name>
+
+<course_identifier>PHILV3411</course_identifier>
+
+<course_number>3411</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;614 SCHERMERHORN HALL</days_times>
+
+<instructors>J. Helzner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>120</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>114</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3411-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3551</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL W3551x</course_identifier_cooked>
+
+<course_name>Philosophy of Science</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Philosophical problems within science, and about the nature of scientific knowledge, from 17th- 20th centuries. Sample problems: space, time, and motion; causes and forces; scientific explanation; theory, law, and hypothesis; induction; verification and falsification; models and analogies; scientific revolutions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One philosophy course or permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3601</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3601</course_identifier_cooked>
+
+<course_name>Metaphysics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Systematic treatment of some major metaphysical topics, e.g., necessity, causality, particulars and universals, personal identity. Readings from classical and contemporary authors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Rovane</course_instructors_expected>
+
+<course_instructors_full>C. Rovane</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3685</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>PHIL V3685y (Section 01)</course_identifier_cooked>
+
+<course_name>Philosophy of Language</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the Semantics and pragmatics of the various &#38;nbsp;&#34;if-then&#34; constructions in natural language.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Lewis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Lewis</course_instructors_full>
+
+<classes><class><call_number>09530</call_number>
+
+<class_name>PHILOSOPHY OF LANGUAGE</class_name>
+
+<course_identifier>PHILV3685</course_identifier>
+
+<course_number>3685</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>K. Lewis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>32</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3685-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3701</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3701x</course_identifier_cooked>
+
+<course_name>Ethics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the central problems of moral philosophy; alternative moral ideals and their philosophical formulations; the status and justification of moral judgments; reasons for action; individual rights and social justice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One philosophy course or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Vogt</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Vogt</course_instructors_full>
+
+<classes><class><call_number>70274</call_number>
+
+<class_name>ETHICS</class_name>
+
+<course_identifier>PHILV3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;209 HAVEMEYER HALL</days_times>
+
+<instructors>K. Vogt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>68</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3701-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3710</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3710x</course_identifier_cooked>
+
+<course_name>Law, Liberty and Morality</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of classic philosophical theories about the rule of law, relations between law and morality, legal reasoning, and their implications for selected contemporty legal problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 40 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3720</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3720x</course_identifier_cooked>
+
+<course_name>Ethics and Medicine</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Philosophical examination of moral issues in medical theory and practice. Analysis of the ethics of the doctor-patient relationship, e.g., informed consent, truth-telling, paternalism; topics in bioethics, e.g., abortion, euthanasia, experimentation on humans; justice and access to health care; human genetics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Limited enrollment by permission of the instructor. First-day attendance required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Fisher</course_instructors_actual>
+
+<course_instructors_expected>S. Fisher</course_instructors_expected>
+
+<course_instructors_full>S. Fisher</course_instructors_full>
+
+<classes><class><call_number>01186</call_number>
+
+<class_name>ETHICS AND MEDICINE</class_name>
+
+<course_identifier>PHILV3720</course_identifier>
+
+<course_number>3720</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 7:40p - 8:55p&#60;br /&#62;328 MILBANK HALL</days_times>
+
+<instructors>S. Fisher</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>27</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/V3720-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3960</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL V3960</course_identifier_cooked>
+
+<course_name>Epistemology</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Knowledge of the external world, of other persons, and of ourselves. Selections from traditional and modern texts will be studied.&#38;nbsp; Discussion section required.&#38;nbsp; Unrestricted enrollment.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>4050</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL BC4050x</course_identifier_cooked>
+
+<course_name>Senior Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive study of a philosophical issue or topic, or of a philosopher, group of philosophers, or philosophical school or movement.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Paul</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Paul</course_instructors_full>
+
+<classes><class><call_number>08088</call_number>
+
+<class_name>SENIOR SEMINAR</class_name>
+
+<course_identifier>PHILX4050</course_identifier>
+
+<course_number>4050</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>E. Paul</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/BC4050-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>4051</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL BC4051x</course_identifier_cooked>
+
+<course_name>Senior Thesis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A substantial paper, developing from an Autumn workshop and continuing in the Spring under the direction of an individual advisor.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Carman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Carman</course_instructors_full>
+
+<classes><class><call_number>03600</call_number>
+
+<class_name>SENIOR ESSAY</class_name>
+
+<course_identifier>PHILX4051</course_identifier>
+
+<course_number>4051</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;326 MILBANK HALL</days_times>
+
+<instructors>T. Carman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/BC4051-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>4052</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL BC4052y</course_identifier_cooked>
+
+<course_name>Senior Thesis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp;A substantial paper, developing from an Autumn workshop and continuing into the Spring under the direction of an individual&#38;nbsp; adviser.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Paul</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Paul</course_instructors_full>
+
+<classes><class><call_number>04153</call_number>
+
+<class_name>SENIOR ESSAY</class_name>
+
+<course_identifier>PHILX4052</course_identifier>
+
+<course_number>4052</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>E. Paul</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/BC4052-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4340</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL G4340</course_identifier_cooked>
+
+<course_name>Topics in Phenomenology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Central issues in phenomenology -for example, intentionality, perception, and embodiment- in Husserl, Sartre, and Merleau-Ponty, and with reference to relevant contemporary literature in philosophy and psychology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4495</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PHIL G4495y</course_identifier_cooked>
+
+<course_name>Perception</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course addresses the fabulously rich range of issues about the nature of perception, including: perceptual mental representation and its content; computational explanation; justifying beliefs; knowledge and thought about perception; and perception of music. Perception is an interdisciplinary subject par excellence. Readings will be drawn from philosophy and psychology, aesthetics, and artificial intelligence.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

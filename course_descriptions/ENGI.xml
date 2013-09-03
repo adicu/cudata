@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ENGI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENGI</subject_area_code>
+
+<subject_area_name>Engineering</subject_area_name>
+
+<school_bulletin_prefix_code_1>E</school_bulletin_prefix_code_1>
+
+<course_number_1>1102</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENGI E1102x and y</course_identifier_cooked>
+
+<course_name>The art of engineering</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Core requirement for all entering SEAS students. This course is a bridge between the science-oriented, high school way of thinking and the engineering point of view. Fundamental concepts of math and science are reviewed and re-framed in an engineering context, with numerous examples of each concept drawn from all disciplines of engineering represented at Columbia. Non-technical issues of importance in professional engineering practice such as ethics, engineering project management, and societal impact are addressed. Lab fee: $350.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Vallancourt</course_instructors_actual>
+
+<course_instructors_expected>D. Vallancourt</course_instructors_expected>
+
+<course_instructors_full>D. Vallancourt</course_instructors_full>
+
+<classes><class><call_number>27993</call_number>
+
+<class_name>THE ART OF ENGINEERING</class_name>
+
+<course_identifier>ENGIE1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 11:00a - 1:00p&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>D. Vallancourt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>185</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>E</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>184</student_enrollment_count>
+
+<subject_area_code>ENGI</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ENGI/E1102-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>29701</call_number>
+
+<class_name>THE ART OF ENGINEERING</class_name>
+
+<course_identifier>ENGIE1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 11:00a - 1:00p&#60;br /&#62;301 PUPIN LABORATORIES</days_times>
+
+<instructors>D. Vallancourt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>E</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>150</student_enrollment_count>
+
+<subject_area_code>ENGI</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ENGI/E1102-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENGI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENGI</subject_area_code>
+
+<subject_area_name>Engineering</subject_area_name>
+
+<school_bulletin_prefix_code_1>E</school_bulletin_prefix_code_1>
+
+<course_number_1>2261</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>ENGI E2261x</course_identifier_cooked>
+
+<course_name>Introduction to accounting and finance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Lect: 3.</course_points_notes>
+
+<course_points_cooked>3 pts.  Lect: 3.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The concepts and methods underlying the financial statements of business corporations. Attention to problems of asset valuation, income determination, cash flows, and cost and profit behavior in response to changes in the level of business activity. Analysis of selected corporate financial statements, capital structure, and leverage. Strategies and analytical methods for the evaluation of capital projects. Open to SEAS undergraduates. Others by permission of instructor.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ECON W1105</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>EN</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Webster</course_instructors_expected>
+
+<course_instructors_full>A. Webster</course_instructors_full>
+
+</course><course><academic_department_code>ENGI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>SCNC</subject_area_code>
+
+<subject_area_name>Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3010</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>SCNC W3010y</course_identifier_cooked>
+
+<course_name>Science, technology and society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Lect: 3.</course_points_notes>
+
+<course_points_cooked>3 pts.  Lect: 3.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>By investigating the scientific and technical evolution and subsequent diffusion of contemporary technological innovations, students learn how science and technology fit into the bigger picture; i.e. how technologies technically develop from concept to diffusion into society, how they work, and how they are bi-directionally related to social forces, cultural values, economic trends, environmental factors, and political influences. An essential part of the coursework is participation in a community-based learning project, working with local non-profit organizations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>students must have declared their concentration/major.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. McGourty</course_instructors_expected>
+
+<course_instructors_full>J. McGourty</course_instructors_full>
+
+</course><course><academic_department_code>ENGI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EEHS</subject_area_code>
+
+<subject_area_name>Electrical Engineering - History</subject_area_name>
+
+<school_bulletin_prefix_code_1>E</school_bulletin_prefix_code_1>
+
+<course_number_1>3900</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EEHS E3900y</course_identifier_cooked>
+
+<course_name>History of telecommunications: from the telegraph to the internet</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Lect: 3.</course_points_notes>
+
+<course_points_cooked>3 pts.  Lect: 3.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Historical development of telecommunications from the telegraphy of the mid-1800s to the Internet at present.&#38;nbsp; Included are the technologies of telephony, radio, and computer communications.&#38;nbsp; The coverage includes both the technologies themselves and the historical events that shaped, and in turn were shaped by the technologies.&#38;nbsp; The historical development, both the general context and the particular events concerning communications, is presented chronologically.&#38;nbsp; The social needs that elicited new technologies and the consequences of their adoption are examined.&#38;nbsp; Throughout the course, relevant scientific and engineering principles are explained as needed.&#38;nbsp; These include, among others the concept and effective use of spectrum, multiplexing to improve capacity, digital coding and networking principles.&#38;nbsp; There are no prerequistes, and no prior scientific or engineering knowledge is required.&#38;nbsp; SEAS students may not count this course as a technical elective.&#38;nbsp;The graduate version of this course is EEHS E4900.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Professors Schwartz and Nebeker</course_instructors_expected>
+
+<course_instructors_full>P. Schwartz and Nebeker</course_instructors_full>
+
+</course><course><academic_department_code>ENGI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENGI</subject_area_code>
+
+<subject_area_name>Engineering</subject_area_name>
+
+<school_bulletin_prefix_code_1>E</school_bulletin_prefix_code_1>
+
+<course_number_1>4020</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENGI E4020x</course_identifier_cooked>
+
+<course_name>Safeguarding intellectual and business property</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Lect: 3.</course_points_notes>
+
+<course_points_cooked>3 pts.  Lect: 3.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed for both University engineering students and engineers in industry to provide a broad background in those aspects of the law that are most frequently encountered in a professional engineering career. Topics include patents, protection of know-how, contracts, employer-employee rights, confidential relationships, unfair competition, and trademarks. Principles of law are illustrated by case studies.This course is listed as CHEN E4020 in the Directory of Classes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>EN, CE</course_bulletins>
+
+<course_populations>MSTM</course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Professor Pearlman</course_instructors_expected>
+
+<course_instructors_full>P. Pearlman</course_instructors_full>
+
+</course></courses>

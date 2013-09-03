@@ -1,0 +1,698 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CMBS G4010</course_identifier_cooked>
+
+<course_name>Responsible Conduct of Research and Related Policy Issues</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Rubin, P. Spitalnik, R. Kessin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Rubin, P. Spitalnik, R. Kessin</course_instructors_full>
+
+<classes><class><call_number>13450</call_number>
+
+<class_name>RESP COND OF RES/REL PLCY</class_name>
+
+<course_identifier>CMBSG4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 12:00p - 1:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>J. Rubin&#60;br /&#62;
+P. Spitalnik</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G4010-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>86096</call_number>
+
+<class_name>RESP COND OF RES/REL PLCY</class_name>
+
+<course_identifier>CMBSG4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Rubin&#60;br /&#62;
+P. Spitalnik&#60;br /&#62;
+R. Kessin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>54</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G4010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4110</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4110</course_identifier_cooked>
+
+<course_name>Responsible Conduct of Research and Related Policy Issues Discussion Sections</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4150</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4150</course_identifier_cooked>
+
+<course_name>Microbiology Genetics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Chang</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>F. Chang</course_instructors_full>
+
+<classes><class><call_number>89535</call_number>
+
+<class_name>MOLECULAR GENETICS</class_name>
+
+<course_identifier>CMBSG4150</course_identifier>
+
+<course_number>4150</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:00a - 11:30a&#60;br /&#62;14-240 VANDERBILT CLINIC</days_times>
+
+<instructors>F. Chang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G4150-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4152</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4152</course_identifier_cooked>
+
+<course_name>Eukaryotic Molecular Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4250</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4250</course_identifier_cooked>
+
+<course_name>Molecular Biophysics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4350</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4350</course_identifier_cooked>
+
+<course_name>Cellular Membranes and Organelles</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4450</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4450</course_identifier_cooked>
+
+<course_name>Frontiers In Cell Biology</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANAT</subject_area_code>
+
+<subject_area_name>Anatomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>8901</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>8902</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>ANAT G8901-G8902</course_identifier_cooked>
+
+<course_name>Seminar In Current Experimental Work</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Supervised readings and conferences. Open only to and required for all graduate students in anatomy and cell biology.&#38;nbsp; May be repeated for credit. Content varies from year to year.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Instructor&#39;s permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANAT</subject_area_code>
+
+<subject_area_name>Anatomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9007</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9008</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>ANAT G9007-G9008</course_identifier_cooked>
+
+<course_name>Research Problems and Methods In Anatomy and Cell Biology</course_name>
+
+<course_points_min>2.5</course_points_min>
+
+<course_points_max>10</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2.5-10 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory study, supervised readings, and discussion of&#38;nbsp; modern anatomical problems and research technology to prepare&#38;nbsp; students for research. Content varies from year to year; may be repeated for credit.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Instructor&#39;s permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANAT</subject_area_code>
+
+<subject_area_name>Anatomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9009</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9010</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>ANAT G9009-G9010</course_identifier_cooked>
+
+<course_name>Departmental Seminar.</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Presentation and discussion of current research by members of&#38;nbsp; the staff, senior graduate students, postdoctoral fellows, and visiting scientists. Content varies from year to year; may be repeated for credit.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ANAT</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANAT</subject_area_code>
+
+<subject_area_name>Anatomy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9051</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>9052</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>ANAT G9051-G9052</course_identifier_cooked>
+
+<course_name>Thesis Research In Anatomy</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>15</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5-15 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>All qualified Ph.D. candidates register for this course each&#38;nbsp; term while pursuing dissertation research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

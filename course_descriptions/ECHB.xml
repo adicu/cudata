@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ECHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ECHS</subject_area_code>
+
+<subject_area_name>Economics - History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3066</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3067</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ECHS BC3066x-BC3067y</course_identifier_cooked>
+
+<course_name>Senior Research Seminar in Economic History</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Must be supervised by a faculty member approved by the program adviser.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Dye</course_instructors_actual>
+
+<course_instructors_expected>A. Dye</course_instructors_expected>
+
+<course_instructors_full>A. Dye</course_instructors_full>
+
+<classes><class><call_number>07734</call_number>
+
+<class_name>RESEARCH SEM ECONOMIC HIS</class_name>
+
+<course_identifier>ECHSX3066</course_identifier>
+
+<course_number>3066</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;21 LEHMAN HALL</days_times>
+
+<instructors>A. Dye</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>ECHS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECHS/BC3066-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01207</call_number>
+
+<class_name>RESEARCH SEM ECONOMIC HIS</class_name>
+
+<course_identifier>ECHSX3067</course_identifier>
+
+<course_number>3067</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;21 LEHMAN HALL</days_times>
+
+<instructors>A. Dye</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ECHS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ECHS/BC3067-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

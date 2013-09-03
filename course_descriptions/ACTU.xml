@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ACTU</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<subject_area_name>Actuarial Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4830</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACTU K4830x</course_identifier_cooked>
+
+<course_name>Stochastic Processes for Actuarial Science</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course covers the material and the theoretical background for exam MFE. Subjects include discrete time option pricing, martingales, change of measure/Girsanov&#39;s Theorem, Brownian motion, diffusions, interest rate models, and stochastic integration.</course_description>
+
+<corequisites>Statistics W4606 (prerequisite or corequisite)</corequisites>
+
+<prerequisites>Statistics W4606 (prerequisite or corequisite)</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Hoffmann</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Hoffmann</course_instructors_full>
+
+<classes><class><call_number>62596</call_number>
+
+<class_name>STOCHASTIC PROC-ACTUARIAL</class_name>
+
+<course_identifier>ACTUK4830</course_identifier>
+
+<course_number>4830</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:10p - 8:30p&#60;br /&#62;603 HAMILTON HALL</days_times>
+
+<instructors>M. Hoffmann</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>60</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>52</student_enrollment_count>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACTU/K4830-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ACTU</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<subject_area_name>Actuarial Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4846</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACTU K4846x</course_identifier_cooked>
+
+<course_name>Quantitative Risk Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Quantitative risk management covering the mathematical part of enterprise risk management. Simimulating financial time series. Interest rates and inflation. Risk measures. Long-tailed data. Copulae.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Venter</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Venter</course_instructors_full>
+
+<classes><class><call_number>66147</call_number>
+
+<class_name>QUANTITATIVE RISK MANAGE</class_name>
+
+<course_identifier>ACTUK4846</course_identifier>
+
+<course_number>4846</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 5:00p - 7:00p&#60;br /&#62;520 MATHEMATICS BUILDING</days_times>
+
+<instructors>G. Venter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>50</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACTU/K4846-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ACTU</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<subject_area_name>Actuarial Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4850</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACTU K4850x</course_identifier_cooked>
+
+<course_name>Oral Communication for Actuaries</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is a workshop in communication techniques. Students make presentations individually and in teams. It covers communicating effectively, structuring presentations, delivery techniques and PowerPoint presentations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ACTU</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<subject_area_name>Actuarial Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4900</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACTU K4900x and y</course_identifier_cooked>
+
+<course_name>Proseminar in Actuarial Science</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Industry representatives conduct a series of noncredit seminar sessions designed to expose students to the actuarial profession as well as to address a range of topics in actuarial science.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Rajah</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Rajah</course_instructors_full>
+
+<classes><class><call_number>81097</call_number>
+
+<class_name>PROSEMINAR IN ACTUARIAL</class_name>
+
+<course_identifier>ACTUK4900</course_identifier>
+
+<course_number>4900</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 6:00p&#60;br /&#62;614 SCHERMERHORN HALL</days_times>
+
+<instructors>N. Rajah</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>123</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>123</student_enrollment_count>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACTU/K4900-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ACTU</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<subject_area_name>Actuarial Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4995</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACTU K4995x and y</course_identifier_cooked>
+
+<course_name>Internship in Actuarial Science</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Supervised, structured noncredit internships provide students with industry experience key to professional advancement in the field.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Rajah</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Rajah</course_instructors_full>
+
+<classes><class><call_number>82297</call_number>
+
+<class_name>INTERNSHIP IN ACTUARIAL</class_name>
+
+<course_identifier>ACTUK4995</course_identifier>
+
+<course_number>4995</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>N. Rajah</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>K</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>ACTU</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACTU/K4995-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

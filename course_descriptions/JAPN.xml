@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>JAPN</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>JPNS</subject_area_code>
+
+<subject_area_name>Japanese</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4210</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>JPNS G4210</course_identifier_cooked>
+
+<course_name>Japanese Pedagogy for Elementary Japanese</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>3 weeks</course_points_notes>
+
+<course_points_cooked>3 weeks</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The theory and practice of teaching elementary Japanese courses.&#38;nbsp; Practicum on teaching practice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>JAPN</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>JPNS</subject_area_code>
+
+<subject_area_name>Japanese</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4214</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>JPNS G4214</course_identifier_cooked>
+
+<course_name>Japanese Pedagogy for Intermediate/Advanced Japanese</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>3 weeks</course_points_notes>
+
+<course_points_cooked>3 weeks</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The theory and practice of teaching intermediate and advanced Japanese courses.&#38;nbsp; Practicum on teaching practice.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>JAPN</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>JPNS</subject_area_code>
+
+<subject_area_name>Japanese</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6418</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>JPNS G6418</course_identifier_cooked>
+
+<course_name>Japanese Cultural Linguistics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>2 weeks</course_points_notes>
+
+<course_points_cooked>2 weeks</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Topics in anthro-linguistics; focus on the interface between language and culture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>JAPN</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>JPNS</subject_area_code>
+
+<subject_area_name>Japanese</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6422</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>JPNS G6422</course_identifier_cooked>
+
+<course_name>Japanese Sociolinguistics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>2 weeks</course_points_notes>
+
+<course_points_cooked>2 weeks</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A pedagogically oriented survey of Japanese sociolinguistics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>JAPN</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>JPNS</subject_area_code>
+
+<subject_area_name>Japanese</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6428</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>JPNS G6428</course_identifier_cooked>
+
+<course_name>Japanese Modern Literature for Pedagogues</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>2 weeks</course_points_notes>
+
+<course_points_cooked>2 weeks</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A survey of modern Japanese literature; focus on how to use Japanese literature effectively in Japanese language class.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>JAPN</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>JPNS</subject_area_code>
+
+<subject_area_name>Japanese</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6440</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>JPNS G6440</course_identifier_cooked>
+
+<course_name>Second Language Acquisition Theory for Japanese Pedagogues</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>2 weeks</course_points_notes>
+
+<course_points_cooked>2 weeks</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Theory and a practicum on Japanese as second language acquisition.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

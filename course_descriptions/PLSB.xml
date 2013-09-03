@@ -1,0 +1,3260 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1013</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V1013y</course_identifier_cooked>
+
+<course_name>Political Theory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Political Theory</course_preface>
+
+<course_description>Critical reading and analysis of key texts in political theory. Emphasis will be placed on political problems such as tensions between justice and law, challenges of democratic citizenship, origins and effects of inequality, paradoxes of modern freedom, and persistent gender inequalities.</course_description>
+
+<corequisites>Required discussion section POLS V 1015.</corequisites>
+
+<prerequisites>L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. Enrollment is limited to 80. Optional writing sessions.  Note: POLS W 1002 &#34;Introduction to Political Thought&#34; does *NOT* satisfy the major or minor requirements. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#pt&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Smith</course_instructors_actual>
+
+<course_instructors_expected>M. Smith</course_instructors_expected>
+
+<course_instructors_full>M. Smith</course_instructors_full>
+
+<classes><class><call_number>09427</call_number>
+
+<class_name>POLITICAL THEORY I</class_name>
+
+<course_identifier>POLSV1013</course_identifier>
+
+<course_number>1013</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>M. Smith</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>80</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>60</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/V1013-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1201</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS W1201x and y</course_identifier_cooked>
+
+<course_name>Introduction to American Government &#38; Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Lecture &#38;amp; discussion. Dynamics of political institutions and processes, chiefly of the national government. Emphasis on the actual exercise of political power by interest groups, elites, political parties and political opinion. (Cross-listed by the American Studies Program.)&#38;nbsp;</course_description>
+
+<corequisites>Required discussion section POLS V1211.</corequisites>
+
+<prerequisites>L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;&#60;strong&#62;eBear&#60;/strong&#62;&#60;/a&#62;. The Barnard Spring 2013 section is limited to 100. Not open to students who have taken POLS BC 1001 &#34;Dynamics of American Politics.&#34; &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Phillips, J. Russell, S. Minkoff</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Phillips, J. Russell, S. Minkoff</course_instructors_full>
+
+<classes><class><call_number>29987</call_number>
+
+<class_name>INTRO TO AMERICAN POLITIC</class_name>
+
+<course_identifier>POLSW1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;417 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>J. Phillips</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>130</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>128</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/W1201-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>25996</call_number>
+
+<class_name>INTRO TO AMERICAN POLITIC</class_name>
+
+<course_identifier>POLSW1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;614 SCHERMERHORN HALL</days_times>
+
+<instructors>J. Russell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>100</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/W1201-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00338</call_number>
+
+<class_name>INTRO TO AMERICAN POLITIC</class_name>
+
+<course_identifier>POLSW1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>S. Minkoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>99</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/W1201-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1501</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V1501x and y</course_identifier_cooked>
+
+<course_name>Comparative Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>Introduction to major issues and theories in comparative politics, democratization, and human rights.</course_description>
+
+<corequisites>Required discussion section POLS V1511. May be taken at Barnard or Columbia. Professor El-Ghobashy&#39;s section is limited to 150 students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Kasara, T. Frye</course_instructors_actual>
+
+<course_instructors_expected>M. El-Ghobashy</course_instructors_expected>
+
+<course_instructors_full>K. Kasara, M. El-Ghobashy, T. Frye</course_instructors_full>
+
+<classes><class><call_number>63864</call_number>
+
+<class_name>INTRO TO COMPARATIVE POL</class_name>
+
+<course_identifier>POLSV1501</course_identifier>
+
+<course_number>1501</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>T. Frye</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>138</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/V1501-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>74812</call_number>
+
+<class_name>INTRO TO COMPARATIVE POL</class_name>
+
+<course_identifier>POLSV1501</course_identifier>
+
+<course_number>1501</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;614 SCHERMERHORN HALL</days_times>
+
+<instructors>K. Kasara</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>92</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/V1501-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1601</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V1601x and y</course_identifier_cooked>
+
+<course_name>International Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>Setting and dynamics of global politics; application of theories of international relations to selected historical and contemporary problems.</course_description>
+
+<corequisites>Required discussion section POLS V1611. May be taken at Barnard or Columbia. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;.&#60;a name=&#34;lecture&#34;&#62;&#60;/a&#62; Professor Marten&#39;s section is limited to 220, including 44 incoming Barnard first-year students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Jervis</course_instructors_actual>
+
+<course_instructors_expected>K. Marten</course_instructors_expected>
+
+<course_instructors_full>K. Marten, R. Jervis</course_instructors_full>
+
+<classes><class><call_number>18224</call_number>
+
+<class_name>INTERNATIONAL POLITICS</class_name>
+
+<course_identifier>POLSV1601</course_identifier>
+
+<course_number>1601</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Jervis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>160</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/V1601-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS W3001x</course_identifier_cooked>
+
+<course_name>Introduction to Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Lecture Course</course_preface>
+
+<course_description>Evolution of the theory and content of human rights; the ideology and impact of human rights movements; national and international human rights law and institutions; their application with attention to universality within states, including the U.S., and internationally. (Also listed as HRTS V3001; cross-listed by the Human Rights Program.) For the Barnard Political Science major, this lecture course counts as elective credit only. This is not a Barnard political science course. Therefore, please check the Directory of Classes to see if the course is offered. General Education Requirement: Social Analysis (SOC). General Education Requirement: Reason and Value (REA).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Limited enrollment. &#34;L&#34; sign-up.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Nathan</course_instructors_expected>
+
+<course_instructors_full>A. Nathan</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3002y</course_identifier_cooked>
+
+<course_name>Human Rights and Immigration</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Political Theory</course_preface>
+
+<course_description>This course inquires into the challenges posed by international immigration to the existing system of human rights. It provides a theoretical understanding of the imortance of citizenship and sovereignty within this system. It combines theoretical readings on human rights with case studies on asylum-seekers, refugees and undocumented immigrants. (Cross-listed by the Human Rights Program.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A Political Theory or a Human Rights course. &#60;b&#62;Not an introductory-level course&#60;/b&#62;. Enrollment limited to 25 students; L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#pt&#34; target&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Gundogdu</course_instructors_expected>
+
+<course_instructors_full>A. Gundogdu</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3055</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3055y</course_identifier_cooked>
+
+<course_name>* Colloquium on Political Violence and Terrorism</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>What causes political violence and terrorism? How should we define &#34;terrorism&#34;--is it true, as the old saw goes, that one man&#38;rsquo;s terrorist is another man&#38;rsquo;s freedom fighter? What is the role of religious belief, as opposed to more immediate political goals, in fomenting terrorist action? Are al Qaeda and those linked to it different from terrorists we&#38;rsquo;ve seen in various places around the world in the past, or does all terrorism and political violence stem from the same variety of goals and purposes? Can governments take effective action to prevent or counter terrorism, or are we all doomed to live in insecurity? What is the proper balance between protection against terrorism and protection of civil liberties? This course examines these questions through weekly assigned readings, analysis and discussion.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1501 or POLS V1601 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Marten</course_instructors_actual>
+
+<course_instructors_expected>K. Marten</course_instructors_expected>
+
+<course_instructors_full>K. Marten</course_instructors_full>
+
+<classes><class><call_number>00352</call_number>
+
+<class_name>COLL:POL VIOLENCE &#38; TERRO</class_name>
+
+<course_identifier>POLSX3055</course_identifier>
+
+<course_number>3055</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 10:10a - 12:00p&#60;br /&#62;302 LEHMAN HALL</days_times>
+
+<instructors>K. Marten</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3055-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3101x</course_identifier_cooked>
+
+<course_name>* Colloquium on Black Political Thought</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>Political Theory</course_preface>
+
+<course_description>Advanced political theory colloquium treats black political thought as concerned with the universal problem of domination. Examines how black thinkers relate democracy, slavery and race; redefine race consciousness as linked fate; articulate new social theories to suggest new &#34;meanings&#34; for race; redefine the political to address social and aesthetic concerns.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1013 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;_blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#pt&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Smith</course_instructors_actual>
+
+<course_instructors_expected>M. Smith</course_instructors_expected>
+
+<course_instructors_full>M. Smith</course_instructors_full>
+
+<classes><class><call_number>07698</call_number>
+
+<class_name>COLL: BLACK POLITICAL THO</class_name>
+
+<course_identifier>POLSX3101</course_identifier>
+
+<course_number>3101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>M. Smith</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3101-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUPS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3212</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUPS O3212y</course_identifier_cooked>
+
+<course_name>Environmental Politics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>The political setting in which environmental policy-making occurs. The course will focus on grassroots and top-down policy-making in the United States with some comparative examples.Topics include the conservation movement and national agenda politics, pollution control and iron triangle politics, alternative energy policy and subsidy politics, climate change and issue networks, and transnational environmental issues and negotiation of international policy regimes.&#38;nbsp;(Cross-listed by the American Studies Program.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>None. Some knowledge of American politics and government (i.e. prior high school or college coursework) is recommended. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Pious</course_instructors_actual>
+
+<course_instructors_expected>R. Pious</course_instructors_expected>
+
+<course_instructors_full>R. Pious</course_instructors_full>
+
+<classes><class><call_number>27783</call_number>
+
+<class_name>ENVIRONMENTAL POLITICS</class_name>
+
+<course_identifier>AUPSO3212</course_identifier>
+
+<course_number>3212</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>R. Pious</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUPS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUPS/O3212-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3212</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3212y</course_identifier_cooked>
+
+<course_name>Environmental Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>The political setting in which environmental policy-making occurs. The course will focus on grassroots and top-down policy-making in the United States with some comparative examples.Topics include the conservation movement and national agenda politics, pollution control and iron triangle politics, alternative energy policy and subsidy politics, climate change and issue networks, and transnational environmental issues and negotiation of international policy regimes.&#38;nbsp;(Cross-listed by the American Studies Program.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>None. Some knowledge of American politics and government (i.e. prior high school or college coursework) is recommended. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Pious</course_instructors_actual>
+
+<course_instructors_expected>R. Pious</course_instructors_expected>
+
+<course_instructors_full>R. Pious</course_instructors_full>
+
+<classes><class><call_number>03424</call_number>
+
+<class_name>ENVIRONMENTAL POLITICS</class_name>
+
+<course_identifier>POLSV3212</course_identifier>
+
+<course_number>3212</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>R. Pious</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>103</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/V3212-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3222</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3222x</course_identifier_cooked>
+
+<course_name>Designing Social Inquiry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>The course introduces students to the systematic study of political phenomena. Students will learn how to develop research questions and executable research designs. Then, taking an applied approach, students learn basic statistical and case study techniques for evaluating evidence and making empirical claims. No prior experience with statistics is assumed.</course_description>
+
+<corequisites>POLS BC 3223 Computer Lab (50 minutes per week). Enrollment limited to 25 students: &#34;L&#34; sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;strong&#62;Not an introductory-level course.&#60;/strong&#62; &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus.&#60;/a&#62;</corequisites>
+
+<prerequisites>At least sophomore standing recommended. No prior experience with statistics is assumed.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Minkoff</course_instructors_actual>
+
+<course_instructors_expected>S. Minkoff</course_instructors_expected>
+
+<course_instructors_full>S. Minkoff</course_instructors_full>
+
+<classes><class><call_number>02341</call_number>
+
+<class_name>DESIGNING SOCIAL INQUIRY</class_name>
+
+<course_identifier>POLSX3222</course_identifier>
+
+<course_number>3222</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>S. Minkoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3222-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3254</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3254y</course_identifier_cooked>
+
+<course_name>First Amendment Values</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Examines the first amendment rights of speech, press, religion and assembly. In-depth analysis of landmark Supreme Court rulings provides the basis for exploring theoretical antecedents as well as contemporary applications of such doctrines as freedom of association, libel, symbolic speech, obscenity, hate speech, political speech, commercial speech, freedom of the press and religion. (Cross-listed by the American Studies Program.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1201 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;strong&#62;Not an introductory-level course.&#60;/strong&#62; Not open to students who have taken the colloquium POLS BC3302. Enrollment limited to 25 students; L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Franzese</course_instructors_actual>
+
+<course_instructors_expected>P. Franzese</course_instructors_expected>
+
+<course_instructors_full>P. Franzese</course_instructors_full>
+
+<classes><class><call_number>01940</call_number>
+
+<class_name>FIRST AMENDMENT VALUES</class_name>
+
+<course_identifier>POLSX3254</course_identifier>
+
+<course_number>3254</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;102 SULZBERGER ANNEX</days_times>
+
+<instructors>P. Franzese</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3254-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3304</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3304y</course_identifier_cooked>
+
+<course_name>* Colloquium on Politics and Policy-Making in American Federalism</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Examines increasingly complex relationships existing amongst all levels of American government and theoretical and practical challenges these relationships present for policy-makers and citizens. Themes include which levels of government ought to be doing what, the role of exit and voice, and what it means to produce coherent public policy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1201 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;_blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Minkoff</course_instructors_expected>
+
+<course_instructors_full>S. Minkoff</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3313</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3313x</course_identifier_cooked>
+
+<course_name>American Urban Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>A study of cities in the US focusing on local government structures and relationships with other levels of government. Themes include power and decision-making; the leadership and administration of cities; and present day problems and strategies to deal with them. Topics include urban political economy, political machines and urban reform, race and ethnicity in urban politics, and urban problems such as fiscal strain, poverty, the burden of growth and attracting economic investment, the costs and consequences of urban terror and disaster, and the global city. (Cross-listed by the American Studies Program.)</course_description>
+
+<corequisites>Required discussion section POLS V3314.</corequisites>
+
+<prerequisites>This course counts as an introductory-level course in American Politics. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. Enrollment is limited to 90, including 20 incoming Barnard first-year students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>F. Davidson</course_instructors_expected>
+
+<course_instructors_full>F. Davidson</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3331</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3331x</course_identifier_cooked>
+
+<course_name>* Colloquium on American Political Decisionmaking</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Readings on decisionmaking, policy analysis, and the political setting of the administrative process. Students will simulate an ad hoc Cabinet Committee assigned to prepare a presidential program to deal with aspects of the foreign aid program involving hunger and malnutrition.&#38;nbsp;(Cross-listed by the American Studies Program and by the Athena Center for Leadership Studies.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1201 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Pious</course_instructors_actual>
+
+<course_instructors_expected>R. Pious</course_instructors_expected>
+
+<course_instructors_full>R. Pious</course_instructors_full>
+
+<classes><class><call_number>09245</call_number>
+
+<class_name>COLL:AMER POLTCL DECISION</class_name>
+
+<course_identifier>POLSX3331</course_identifier>
+
+<course_number>3331</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>R. Pious</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3331-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05405</call_number>
+
+<class_name>COLL:AMER POLTCL DECISION</class_name>
+
+<course_identifier>POLSX3331</course_identifier>
+
+<course_number>3331</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>R. Pious</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3331-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3332</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3332x</course_identifier_cooked>
+
+<course_name>* Colloquium on Exploring Political Leadership in the U.S.</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Exploration of the effect of political leadership on political outcomes in the United States, with special attention to how individual characteristics, like personality, political style, ideology, gender, race and class, interact with the political environment in shaping political outcomes. (Cross-listed by the American Studies Program and by the Athena Center for Leadership Studies.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1201 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Davidson</course_instructors_actual>
+
+<course_instructors_expected>F. Davidson</course_instructors_expected>
+
+<course_instructors_full>F. Davidson</course_instructors_full>
+
+<classes><class><call_number>04330</call_number>
+
+<class_name>COLL:EXPLORING POL LEADER</class_name>
+
+<course_identifier>POLSX3332</course_identifier>
+
+<course_number>3332</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>F. Davidson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3332-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3401</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3401x</course_identifier_cooked>
+
+<course_name>Democracy and Dictatorship in Europe</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>Examines the development of democracies and dictatorships in Europe from the French Revolution to the present day. Analyzes the nature and dynamics of European political history and uses the European experience as a foundation upon which to build a broader understanding of how different types of political regimes emerge, function and are sustained over time.&#38;nbsp;(Cross-listed by the European Studies and Human Rights Programs.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A course in European history or comparative politics preferred but not necessary. Enrollment is limited to 120, including 24 incoming Barnard first-year students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Berman</course_instructors_expected>
+
+<course_instructors_full>S. Berman</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3402</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3402x</course_identifier_cooked>
+
+<course_name>The Comparative Politics of Gender Inequality</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>Uses major analytical perspectives in comparative politics to understand the persistence of gender inequality in advanced industrial states. Topics include: political representation and participation; political economy and capitalism; the historical development of welfare states; electoral systems, electoral quotas; the role of supranational and international organizations; and social policy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>&#60;strong&#62;Not an introductory-level course&#60;/strong&#62;. Not open to students who have taken the colloquium POLS BC 3507. Enrollment limited to 20 students; L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Ullman</course_instructors_actual>
+
+<course_instructors_expected>C. Ullman</course_instructors_expected>
+
+<course_instructors_full>C. Ullman</course_instructors_full>
+
+<classes><class><call_number>05871</call_number>
+
+<class_name>COMP POL OF GENDER INEQUA</class_name>
+
+<course_identifier>POLSX3402</course_identifier>
+
+<course_number>3402</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>C. Ullman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3402-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3410</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3410y</course_identifier_cooked>
+
+<course_name>* Colloquium on Human Rights in a Diverse World</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>Political Theory</course_preface>
+
+<course_description>Exploration of the nature of human rights and questions of their validity and relevance, protection and redefinition, in this world of cultural diversity and diversity of national interests.&#38;nbsp;(Cross-listed by the Human Rights Program.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1013 or W3001 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#pt&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Gundogdu</course_instructors_expected>
+
+<course_instructors_full>A. Gundogdu</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3413</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3413y</course_identifier_cooked>
+
+<course_name>Political Movements in the Middle East and North Africa</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>The 2011 &#34;Arab Spring&#34; took all observers by surprise. Yet the region has a rich history of bottom-up demands for accountable government. This course examines the diverse forms of popular mobilization in the Middle East region from the 19th century to 2011, including women&#39;s, human rights, and labor movements. (Cross-listed by the Department of Asian and Middle Eastern Cultures)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Limited to 40 students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. This course counts as an introductory-level course in Comparative Politics. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. El-Ghobashy</course_instructors_expected>
+
+<course_instructors_full>M. El-Ghobashy</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3500</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3500y</course_identifier_cooked>
+
+<course_name>* Colloquium on Political Economy of Corruption and Its Control</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>Comparative political economy course which addresses some important questions concerning corruption and its control: the concept, causes, patterns, consequences, and control of corruption. Introduces students to and engages them in several key social science debates on the causes and effects of political corruption.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1501 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>X. Lu</course_instructors_actual>
+
+<course_instructors_expected>X Lu</course_instructors_expected>
+
+<course_instructors_full>X. Lu</course_instructors_full>
+
+<classes><class><call_number>05173</call_number>
+
+<class_name>COLL:POLIT ECON:CORRPTN/C</class_name>
+
+<course_identifier>POLSX3500</course_identifier>
+
+<course_number>3500</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>X. Lu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3500-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3504</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3504y</course_identifier_cooked>
+
+<course_name>* Colloquium on Social Movements across Time and Space</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>Examines the origins, trajectories, and effects of social movements, from 18th century Britain to 19th century Iran to late 20th century Argentina, China, and the United States. Focuses on social movements&#38;rsquo; relation to political parties, the state, and transnational forces and asks whether social movements promote or undermine democratization.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1501 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. El-Ghobashy</course_instructors_actual>
+
+<course_instructors_expected>M. El-Ghobashy</course_instructors_expected>
+
+<course_instructors_full>M. El-Ghobashy</course_instructors_full>
+
+<classes><class><call_number>09706</call_number>
+
+<class_name>COLL: SOCIAL MOVEMENTS</class_name>
+
+<course_identifier>POLSX3504</course_identifier>
+
+<course_number>3504</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>M. El-Ghobashy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3504-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3505</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3505x</course_identifier_cooked>
+
+<course_name>* Colloquium on Making Democracy Work</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>Examination of democratic consolidation and promotion. What makes democracy work and what, if anything, can outside actors do to help this process along? Topics include the theoretical literature on democratic consolidation, historical cases of intervention, debates about America&#38;rsquo;s role in promoting democracy, and examination of some of the research on democracy promotion. (Cross-listed by the Europen Studies and Human Rights Programs.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1501 POLS V1501 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Berman</course_instructors_expected>
+
+<course_instructors_full>S. Berman</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3521</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3521x</course_identifier_cooked>
+
+<course_name>Civil Rights and Civil Liberties</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Explores seminal caselaw to inform contemporary civil rights and civil liberties jurisprudence and policy.&#38;nbsp; Specifically, the readings examine historical and contemporary first amendment values, including freedom of speech and the press, economic liberties, takings law, discrimination based on race, gender, class and sexual preference, affirmative action, the right to privacy, reproductive freedom, the right to die, criminal procedure and adjudication, the rights of the criminally accused post-9/11 and the death penalty. (Cross-listed by the American Studies and Human Rights Programs.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1201 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;strong&#62;Not an introductory-level course.&#60;/strong&#62; Not open to students who have taken the colloquium POLS BC3326. Enrollment limited to 25 students; L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Franzese</course_instructors_actual>
+
+<course_instructors_expected>P. Franzese</course_instructors_expected>
+
+<course_instructors_full>P. Franzese</course_instructors_full>
+
+<classes><class><call_number>04891</call_number>
+
+<class_name>CIVIL RIGHTS &#38;CIVIL LIBER</class_name>
+
+<course_identifier>POLSX3521</course_identifier>
+
+<course_number>3521</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>P. Franzese</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>30</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>27</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3521-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3604</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3604y</course_identifier_cooked>
+
+<course_name>Civil Wars and International Interventions in Africa</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>Analyzes the causes of violence in civil wars. Examines the debates around emergency aid, peacekeeping and peacebuilding. Focuses on recent conflict situations in Africa -- especially Congo, Sudan, and Rwanda -- as a background against which to understand the distinct dynamics of violence, peace, and international interventions in civil conflicts.&#38;nbsp;(Cross-listed by the Center for the Study of Ethnicity and Race.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least sophomore standing, except in consultation with the &#60;a href=&#34;https://barnard.edu/profiles/severine-autesserre&#34; target=&#34;_blank&#34;&#62;instructor&#60;/a&#62;. Limited to 80 students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Autesserre</course_instructors_expected>
+
+<course_instructors_full>S. Autesserre</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3615</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3615y</course_identifier_cooked>
+
+<course_name>Globalization and International Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>Exploration of how globalization affects the structures and functions of the international economy, state sovereignty, international security, and international civil society. Emphasis is placed on problems of international governance, legitimacy and accountability, and the evolving organizational processes that characterize contemporary international politics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Limited to 69 students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Cooley</course_instructors_expected>
+
+<course_instructors_full>A. Cooley</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3620</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3620y</course_identifier_cooked>
+
+<course_name>Contemporary Chinese Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>Introduction to some basic aspects and major events in Chinese political life under the communists since 1949, focusing on the post-Mao reform period since 1978. Examination of economic and political development in China in a broader context of global transition from authoritarianism and state socialism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Limited to 69 students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. This course counts as an introductory-level course in Comparative Politics. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>X. Lu</course_instructors_actual>
+
+<course_instructors_expected>X. Lu</course_instructors_expected>
+
+<course_instructors_full>X. Lu</course_instructors_full>
+
+<classes><class><call_number>09380</call_number>
+
+<class_name>INTRO CONTEMP CHINESE POL</class_name>
+
+<course_identifier>POLSV3620</course_identifier>
+
+<course_number>3620</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>X. Lu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>69</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>61</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/V3620-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3675</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS V3675y</course_identifier_cooked>
+
+<course_name>Russia and the West</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>Exploration of Russia&#39;s ambiguous relationship with the West, focusing on the political, cultural, philosophic, and historical roots of this relationship, as well as its foreign policy consequences. Cases are drawn from tsarist, Soviet, and post-Soviet periods. Special emphasis is placed on issues of political economy and international security.&#38;nbsp;(Cross-listed by the Athena Center for Leadership Studies.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 40 students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. This course counts as an introductory-level course in International Relations. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Marten</course_instructors_expected>
+
+<course_instructors_full>K. Marten</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3761</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>POLS BC3761x (Section 1)</course_identifier_cooked>
+
+<course_name>Political Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Researching and writing of a senior thesis on a topic selected by the student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A colloquium in the subfield of the proposed topic. Senior standing. &#60;a href=&#34;http://polisci.barnard.edu/senior-research-seminar&#34; target=&#34;_blank&#34;&#62;&#60;b&#62;Admission by application&#60;/b&#62;&#60;/a&#62; through the Barnard department only. Limited enrollment. A student writes a senior thesis in a subfield in which she has successfully completed an introductory course. It is strongly recommended that she has also successfully completed an advanced course in this subfield.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_actual>
+
+<course_instructors_expected>A. Gundogdu</course_instructors_expected>
+
+<course_instructors_full>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_full>
+
+<classes><class><call_number>04087</call_number>
+
+<class_name>RESEARCH SEMINAR</class_name>
+
+<course_identifier>POLSX3761</course_identifier>
+
+<course_number>3761</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>A. Gundogdu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3761-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3761</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>POLS BC3761x (Section 2)</course_identifier_cooked>
+
+<course_name>Political Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Researching and writing of a senior thesis on a topic selected by the student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A colloquium in the subfield of the proposed topic. Senior standing. &#60;a href=&#34;http://polisci.barnard.edu/senior-research-seminar&#34; target=&#34;_blank&#34;&#62;&#60;b&#62;Admission by application&#60;/b&#62;&#60;/a&#62; through the Barnard department only. Limited enrollment. A student writes a senior thesis in a subfield in which she has successfully completed an introductory course. It is strongly recommended that she has also successfully completed an advanced course in this subfield.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_actual>
+
+<course_instructors_expected>M. Smith</course_instructors_expected>
+
+<course_instructors_full>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_full>
+
+<classes><class><call_number>05941</call_number>
+
+<class_name>RESEARCH SEMINAR</class_name>
+
+<course_identifier>POLSX3761</course_identifier>
+
+<course_number>3761</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>M. Smith</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3761-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3761</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>3</course_section_code>
+
+<course_identifier_cooked>POLS BC3761x (Section 3)</course_identifier_cooked>
+
+<course_name>American Government &#38; Politics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Researching and writing of a senior&#38;nbsp; thesis on a topic selected by the student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A colloquium in the subfield of the proposed topic. Senior standing. &#60;a href=&#34;http://polisci.barnard.edu/senior-research-seminar&#34; target=&#34;_blank&#34;&#62;&#60;b&#62;Admission by application&#60;/b&#62;&#60;/a&#62; through the Barnard department only. Limited enrollment. A student writes a senior thesis in a subfield in which she has successfully completed an introductory course. It is strongly recommended that she has also successfully completed an advanced course in this subfield.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_actual>
+
+<course_instructors_expected>K. Johnson</course_instructors_expected>
+
+<course_instructors_full>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_full>
+
+<classes><class><call_number>09217</call_number>
+
+<class_name>RESEARCH SEMINAR</class_name>
+
+<course_identifier>POLSX3761</course_identifier>
+
+<course_number>3761</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>K. Johnson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3761-20123-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3761</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>4</course_section_code>
+
+<course_identifier_cooked>POLS BC3761x (Section 4)</course_identifier_cooked>
+
+<course_name>American Government &#38; Politics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Researching and writing of a senior thesis on a topic selected by the student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A colloquium in the subfield of the proposed topic. Senior standing. &#60;a href=&#34;http://polisci.barnard.edu/senior-research-seminar&#34; target=&#34;_blank&#34;&#62;&#60;b&#62;Admission by application&#60;/b&#62;&#60;/a&#62; through the Barnard department only. Limited enrollment. A student writes a senior thesis in a subfield in which she has successfully completed an introductory course. It is strongly recommended that she has also successfully completed an advanced course in this subfield.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_actual>
+
+<course_instructors_expected>S. Minkoff</course_instructors_expected>
+
+<course_instructors_full>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_full>
+
+<classes><class><call_number>03342</call_number>
+
+<class_name>RESEARCH SEMINAR</class_name>
+
+<course_identifier>POLSX3761</course_identifier>
+
+<course_number>3761</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;303 ALTSCHUL HALL</days_times>
+
+<instructors>S. Minkoff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3761-20123-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3761</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>5</course_section_code>
+
+<course_identifier_cooked>POLS BC3761x (Section 5)</course_identifier_cooked>
+
+<course_name>Comparative Politics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Researching and writing of a senior thesis on a topic selected by the student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A colloquium in the subfield of the proposed topic. Senior standing. &#60;a href=&#34;http://polisci.barnard.edu/senior-research-seminar&#34; target=&#34;_blank&#34;&#62;&#60;b&#62;Admission by application&#60;/b&#62;&#60;/a&#62; through the Barnard department only. Limited enrollment. A student writes a senior thesis in a subfield in which she has successfully completed an introductory course. It is strongly recommended that she has also successfully completed an advanced course in this subfield.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_actual>
+
+<course_instructors_expected>X. Lu</course_instructors_expected>
+
+<course_instructors_full>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_full>
+
+<classes><class><call_number>05338</call_number>
+
+<class_name>RESEARCH SEMINAR</class_name>
+
+<course_identifier>POLSX3761</course_identifier>
+
+<course_number>3761</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>X. Lu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3761-20123-005</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3761</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>6</course_section_code>
+
+<course_identifier_cooked>POLS BC3761x (Section 6)</course_identifier_cooked>
+
+<course_name>International Relations</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Researching and writing of a senior thesis on a topic selected by the student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A colloquium in the subfield of the proposed topic. Senior standing. &#60;a href=&#34;http://polisci.barnard.edu/senior-research-seminar&#34; target=&#34;_blank&#34;&#62;&#60;b&#62;Admission by application&#60;/b&#62;&#60;/a&#62; through the Barnard department only. Limited enrollment. A student writes a senior thesis in a subfield in which she has successfully completed an introductory course. It is strongly recommended that she has also successfully completed an advanced course in this subfield.&#60;a name=&#34;hrts&#34;&#62;&#60;/a&#62;</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_actual>
+
+<course_instructors_expected>A. Cooley</course_instructors_expected>
+
+<course_instructors_full>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_full>
+
+<classes><class><call_number>06130</call_number>
+
+<class_name>RESEARCH SEMINAR</class_name>
+
+<course_identifier>POLSX3761</course_identifier>
+
+<course_number>3761</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>A. Cooley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3761-20123-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3761</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>7</course_section_code>
+
+<course_identifier_cooked>POLS BC3761x (Section 7)</course_identifier_cooked>
+
+<course_name>Comparative Politics &#38; International Relations</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Researching and writing of a senior thesis on a topic selected by the student.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>A colloquium in the subfield of the proposed topic. Senior standing. &#60;a href=&#34;http://www.barnard.edu/polisci/program/sem-sched.html&#34; target=&#34;_blank&#34;&#62;&#60;b&#62;Admission by application&#60;/b&#62;&#60;/a&#62; through the Barnard department only. Limited enrollment. A student writes a senior thesis in a subfield in which she has successfully completed an introductory course. It is strongly recommended that she has also successfully completed an advanced course in this subfield.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_actual>
+
+<course_instructors_expected>E. Giuliano</course_instructors_expected>
+
+<course_instructors_full>A. Cooley, A. Gundogdu, E. Giuliano, K. Johnson, M. Smith, S. Minkoff, X. Lu</course_instructors_full>
+
+<classes><class><call_number>05804</call_number>
+
+<class_name>RESEARCH SEMINAR</class_name>
+
+<course_identifier>POLSX3761</course_identifier>
+
+<course_number>3761</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>E. Giuliano</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3761-20123-007</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3799</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3799x and y</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students who wish to do an independent study project (I.S.P.), should speak with a Political Science faculty member willing to serve as sponsor, then fill out a &#34;Request for Approval of Credit for Independent Study&#34; (see Registrar&#39;s link below) and obtain signatures from the sponsor and from our Department Chair. File this form with the Committee on Programs and Academic Standing, which must approve all requests. (It must be filed with the C.P.A.S. well before the Registrar&#39;s program-filing deadline for the semester of the I.S.P.) Note that no credit is given for an internship or job experience in or by itself, but credit is given for an academic research paper written in conjunction with an internship, subject to the procedures outlined above. The internship and the I.S.P. can be in the same semester, or you may do the I.S.P. in the semester following the internship. A project approved for three or four points counts as an elective course for the purpose of the ten-course major or five-course minor requirement. No more than two such three- or four-point projects may be used for the major, and no more than one for the minor. An independent study project may not be used to satisfy either the colloquium or senior seminar requirement. Each instructor is limited to sponsoring one independent study project per semester. The Registrar will assign a POLS BC 3799 section and call number unique to the faculty sponsor. ----- RELATED LINKS: The Registrar&#39;s ISP form: http://www.barnard.edu/sites/default/files/inline/indstudy.pdf --- and --- the Political Science faculty: http://polisci.barnard.edu/faculty-directory.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3805</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3805x</course_identifier_cooked>
+
+<course_name>* Colloquium on International Organization</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>Exploration of the various structures, institutions, and processes that order relations among states and/or actors in the international system. Emphasis will be placed on contemporary issues such as dilemmas of humanitarian intervention, the politics of international institutions, the rise of non-governmental organizations, and globalization.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1601 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Cooley</course_instructors_actual>
+
+<course_instructors_expected>A. Cooley</course_instructors_expected>
+
+<course_instructors_full>A. Cooley</course_instructors_full>
+
+<classes><class><call_number>00523</call_number>
+
+<class_name>COLL:INTERNATNL ORGANIZAT</class_name>
+
+<course_identifier>POLSX3805</course_identifier>
+
+<course_number>3805</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>A. Cooley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3805-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3810</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3810y</course_identifier_cooked>
+
+<course_name>* Colloquium on Aid, Politics &#38; Violence in Africa</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>Explores the concepts, theoretical traditions and debates around development and humanitarian aid, focusing on the relationships between aid, politics, and violence. It looks at the political and military impacts of aid, the linkage between humanitarian aid and conflict resolution, and aid&#39;s contribution to perpetuating subtle forms of domination.&#38;nbsp;(Cross-listed by the Africana Studies and the Human Rights Programs.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1601 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.&#60;a name=&#34;isp&#34;&#62;&#60;/a&#62;</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Autesserre</course_instructors_actual>
+
+<course_instructors_expected>S. Autesserre</course_instructors_expected>
+
+<course_instructors_full>S. Autesserre</course_instructors_full>
+
+<classes><class><call_number>09651</call_number>
+
+<class_name>COLL:AID,POL,VIOLENCE AFR</class_name>
+
+<course_identifier>POLSX3810</course_identifier>
+
+<course_number>3810</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>S. Autesserre</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>POLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/POLS/BC3810-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3812</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS BC3812y</course_identifier_cooked>
+
+<course_name>* Colloquium on State Failure, Warlords, and Pirates</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>International Relations</course_preface>
+
+<course_description>What are sovereign states, why do they fail, does their failure matter, and can the international community help? This course examines these questions using social science theories and historical case studies. It focuses on the political economy and security consequences of two current forms of state failure: warlordism and piracy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1501 or POLS V1601 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;_blank&#34;&#62;equivalent&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/colloquia&#34; target=&#34;_blank&#34;&#62;Admission by application&#60;/a&#62; through the Barnard department only. Enrollment limited to 16 students. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ir&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Marten</course_instructors_expected>
+
+<course_instructors_full>K. Marten</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4316</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS W4316y</course_identifier_cooked>
+
+<course_name>The American Presidency</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Growth of presidential power, creation and use of the institutionalized presidency, presidential-congressional and presidential-bureaucratic relationships, and the presidency and the national security apparatus.&#38;nbsp;(Cross-listed by the American Studies Program.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1201 or any course that qualifies for the the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;introductory-level&#60;/a&#62; American Politics course. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Pious</course_instructors_expected>
+
+<course_instructors_full>R. Pious</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4321</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS W4321y</course_identifier_cooked>
+
+<course_name>The Constitutional Law of Presidential-Congressional Relations</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>American Government &#38; Politics</course_preface>
+
+<course_description>Constitutional issues involved in presidential-congressional relations, including assertions of presidential emergency powers, control of the administrative agencies, and the constitutional law of diplomatic and war powers.&#38;nbsp;(Cross-listed by the American Studies Program.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS W1201 or any course that qualifies for the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;introductory-level&#60;/a&#62; American Politics course. At least sophomore standing required. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#ap&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Pious</course_instructors_expected>
+
+<course_instructors_full>R. Pious</course_instructors_full>
+
+</course><course><academic_department_code>PLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>POLS</subject_area_code>
+
+<subject_area_name>Political Science</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4445</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>POLS W4445x</course_identifier_cooked>
+
+<course_name>Politics of the Middle East and North Africa</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Comparative Politics</course_preface>
+
+<course_description>This course has two objectives: studying the political economy and history of the Arab states, Israel, Turkey, and Iran, and reviewing major themes in the Middle East political science literature. Topics include: historical legacies of colonialism, the political economy of state-society relations, the politics of religion, the politics of democratization, and burgeoning forms of new media.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>POLS V1501 or the &#60;a href=&#34;http://polisci.barnard.edu/introductory-courses&#34; target=&#34;blank&#34;&#62;equivalent&#60;/a&#62;. Enrollment limited to 70 students. L-course sign-up through &#60;a href=&#34;http://ebear.barnard.edu/&#34; target=&#34;_blank&#34;&#62;eBear&#60;/a&#62;. &#60;a href=&#34;http://polisci.barnard.edu/syllabi#cp&#34; target=&#34;_blank&#34;&#62;Barnard syllabus&#60;/a&#62;.&#60;a name=&#34;colloq&#34;&#62;&#60;/a&#62;</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. El-Ghobashy</course_instructors_expected>
+
+<course_instructors_full>M. El-Ghobashy</course_instructors_full>
+
+</course></courses>

@@ -1,0 +1,3674 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>4235</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U4235x</course_identifier_cooked>
+
+<course_name>Practicum In Public Policy</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>4260</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U4260x</course_identifier_cooked>
+
+<course_name>Critical Issues In Urban Public Policy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>4525</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U4525x</course_identifier_cooked>
+
+<course_name>Postwar Politics In East Central Europe</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>4567</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U4567x or y</course_identifier_cooked>
+
+<course_name>Curent Developments In Russia [In Russian]</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>4733</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U4733x</course_identifier_cooked>
+
+<course_name>Environmental Policy Practicum</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>4735</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U4735x</course_identifier_cooked>
+
+<course_name>Environmental Science for Policy Makers</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6014</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF U6014y</course_identifier_cooked>
+
+<course_name>Accounting and Finance for International and Public Affairs</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Basic concepts of accounting are presented for use in internal decision-making and external financial reporting. Topics include transaction analysis accrual accounting and its application to manufacturing operations, timing of revenue and expense recognition, long-term assets, and depreciation. Emphasis is placed on financial markets and determination of yields of financial instruments.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6017</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6017x or y</course_identifier_cooked>
+
+<course_name>International Trade</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Panagariya, M. Lovely</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Panagariya, M. Lovely</course_instructors_full>
+
+<classes><class><call_number>88447</call_number>
+
+<class_name>INTERNATIONAL TRADE</class_name>
+
+<course_identifier>INAFU6017</course_identifier>
+
+<course_number>6017</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;405 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>A. Panagariya</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>45</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6017-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>93446</call_number>
+
+<class_name>INTERNATIONAL TRADE</class_name>
+
+<course_identifier>INAFU6017</course_identifier>
+
+<course_number>6017</course_number>
+
+<course_section_code>R01</course_section_code>
+
+<days_times>F 1:30p - 3:20p&#60;br /&#62;405A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6017-20123-R01</university_web_bulletin_url>
+
+</class>
+<class><call_number>10897</call_number>
+
+<class_name>INTERNATIONAL TRADE</class_name>
+
+<course_identifier>INAFU6017</course_identifier>
+
+<course_number>6017</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;407 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>M. Lovely</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>35</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>35</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6017-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>87396</call_number>
+
+<class_name>INTERNATIONAL TRADE</class_name>
+
+<course_identifier>INAFU6017</course_identifier>
+
+<course_number>6017</course_number>
+
+<course_section_code>R01</course_section_code>
+
+<days_times>F 11:00a - 12:50p&#60;br /&#62;413 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6017-20131-R01</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6018</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6018x or y</course_identifier_cooked>
+
+<course_name>International Finance and Monetary Theory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Waldman, R. Clarida</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Waldman, R. Clarida</course_instructors_full>
+
+<classes><class><call_number>97997</call_number>
+
+<class_name>INTL FINANCE &#38; MONETARY</class_name>
+
+<course_identifier>INAFU6018</course_identifier>
+
+<course_number>6018</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;403 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>D. Waldman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>70</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>69</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6018-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>83283</call_number>
+
+<class_name>INTRNTNL FINANCE-MONETARY</class_name>
+
+<course_identifier>INAFU6018</course_identifier>
+
+<course_number>6018</course_number>
+
+<course_section_code>R01</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;411 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6018-20123-R01</university_web_bulletin_url>
+
+</class>
+<class><call_number>15847</call_number>
+
+<class_name>INTL FINANCE &#38; MONETARY</class_name>
+
+<course_identifier>INAFU6018</course_identifier>
+
+<course_number>6018</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;410 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>R. Clarida</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>67</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6018-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>91546</call_number>
+
+<class_name>INTRNTNL FINANCE-MONETARY</class_name>
+
+<course_identifier>INAFU6018</course_identifier>
+
+<course_number>6018</course_number>
+
+<course_section_code>R01</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;403 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6018-20131-R01</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6200</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6200x</course_identifier_cooked>
+
+<course_name>Comparative Democratization</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6200</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6200y</course_identifier_cooked>
+
+<course_name>Public Finance II: Issuers/Marketplace</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6210</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6210y</course_identifier_cooked>
+
+<course_name>New Media Basics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6225</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6225x</course_identifier_cooked>
+
+<course_name>Legal Environment of Public Policy Making</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6225</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6225y</course_identifier_cooked>
+
+<course_name>Nonprofit Sector: Policy and Management Perspectives</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6227</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6227x</course_identifier_cooked>
+
+<course_name>Ethical Dilemmas In Public Policy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6241</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6241y</course_identifier_cooked>
+
+<course_name>Environmental Politics, Policy, and Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6242</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF U6242x</course_identifier_cooked>
+
+<course_name>Energy Policy</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is the capstone core course for second-year IEMP concentrators.&#38;nbsp; It provides a survey and analysis of energy-related public issues and policies:&#38;nbsp; access and taxation for natural resources; OPEC and security of supply; energy conservation and technology; environmental regulation at the local (air and water quality) and global (climate) levels, the restructuring and competitization of gas and electricity markets, and the interaction of energy system and economic development.&#38;nbsp; The origin of each policy issue in &#38;quot;market failure&#38;quot; is examined and consequences of alternative policy measures are evaluated.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>U6060</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Brownstein</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Brownstein</course_instructors_full>
+
+<classes><class><call_number>19693</call_number>
+
+<class_name>ENERGY POLICY</class_name>
+
+<course_identifier>INAFU6242</course_identifier>
+
+<course_number>6242</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 11:00a - 12:50p&#60;br /&#62;404 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>M. Brownstein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>39</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>32</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6242-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6350</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6350x</course_identifier_cooked>
+
+<course_name>Global Communications In World Affairs</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6353</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6353y</course_identifier_cooked>
+
+<course_name>Perceptions and Politic of Global News</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6387</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6387z</course_identifier_cooked>
+
+<course_name>Terrorism and Counter Terrorism</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the origins and evolution of modern terrorism, the challenges posed by terrorist groups to states and to the international system, and strategies employed to confront and combat terrorism. We assess a wide variety of terrorist organizations, and explore the psychological, socioeconomic, political, and religious causes of terrorist violence past and present. We also analyze the strengths and weaknesses of various counterterrorism strategies, from the point of view of efficacy as well as ethics, and look into ways in which the new threat of global terrorism might impact the healthy functioning of democratic states.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6404</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6404x</course_identifier_cooked>
+
+<course_name>Women and Human Rights</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6412</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6412x</course_identifier_cooked>
+
+<course_name>State and Society In the Developing World</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Murillo</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Murillo</course_instructors_full>
+
+<classes><class><call_number>29282</call_number>
+
+<class_name>STATE &#38; SOC IN THE DEVP W</class_name>
+
+<course_identifier>INAFU6412</course_identifier>
+
+<course_number>6412</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 9:00a - 10:50a&#60;br /&#62;404 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>M. Murillo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>50</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6412-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6526</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6526x</course_identifier_cooked>
+
+<course_name>Privatization In Comparative Perspective</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6528</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6528y</course_identifier_cooked>
+
+<course_name>Privatization In Eastern Europe and the Former Soviet Union</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6559</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6559z</course_identifier_cooked>
+
+<course_name>The Role of the United Nations in the 21st Century: Challenges and Alternatives</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Does the United Nations matter? The course will offer a broad assessment and analysis of the place, performance and potential of the United Nations within the nation-state system. It will assess the world body based on a range of distinct expectations through the prism of global threats, global norms and global responsibilities. Increasingly the world is confronted with phenomena - related to both security and development - which require global responses; the question this course seeks to answer is to what extent can we rely on the UN to act as a global instrument for constructive change?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6563</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6563z</course_identifier_cooked>
+
+<course_name>The United Nations: History And Practice Of Security Council Sanctions</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Do sanctions work? This six-week intensive course will examine the history and use of multilateral sanctions as an instrument of coercion in the restoration and maintenance of international peace and security. Students will analyze the logic behind the imposition of international sanctions, explore specific factors that enhance and impede sanctions effectiveness, including their perceived credibility, the role of monitoring and enforcement, and challenges to sanctions legitimacy. The course will emphasize practical case studies and perspectives and students will benefit from regular guest speakers who have participated in various Security Council sanctions episodes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6567</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6567z</course_identifier_cooked>
+
+<course_name>Challenges of UN Post&#226;conflict Peacebuilding in Africa</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The objective of this course is to develop a shared understanding of the theory and practice of post-conflict peacebuilding within the context of the evolving nature of UN peace operations and as part of ongoing efforts to improve the international community&#39;s collective ability to facilitate sustainable peace processes in countries emerging from conflict. Current Security Council-mandated peace operations, the challenges and dilemmas they face will be used as case studies to help attain the above objective. Because Africa has been the most important regional setting for these peace operations and has had a critical impact in defining their limitations and possibilities, the case studies will be drawn primarily from UN peacebuilding engagement in Africa.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6569</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6569z</course_identifier_cooked>
+
+<course_name>The UN and Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This six-week course will provide an analytical framework with which to understand the transformation that has characterized development thinking and practice at the United Nations over the last twenty years. It will familiarize participants with the key UN reports and resolutions that define the UN&#39;s contribution and reflect on the evolution in development cooperation in practice through the prism of one UN institution in particular, in this case the United Nations Development Program (UNDP). It will also analyze current debates about the future of development cooperation and the evolving shape of multilateralism. The course will provide practical examples and draw from the extensive practical experience of the instructor.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6602</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6602x or y</course_identifier_cooked>
+
+<course_name>Economic Development for International Affairs</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Urquiola</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Urquiola</course_instructors_full>
+
+<classes><class><call_number>93496</call_number>
+
+<class_name>ECONOMIC DEVELOPMENT FOR</class_name>
+
+<course_identifier>INAFU6602</course_identifier>
+
+<course_number>6602</course_number>
+
+<course_section_code>000</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Urquiola</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6602-20131-000</university_web_bulletin_url>
+
+</class>
+<class><call_number>90846</call_number>
+
+<class_name>ECONOMIC DEVELOPMENT FOR</class_name>
+
+<course_identifier>INAFU6602</course_identifier>
+
+<course_number>6602</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;413 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>M. Urquiola</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>65</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>65</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6602-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>76280</call_number>
+
+<class_name>ECONOMIC DEVELOPMENT FOR</class_name>
+
+<course_identifier>INAFU6602</course_identifier>
+
+<course_number>6602</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;410 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>M. Urquiola</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>65</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>51</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6602-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>23497</call_number>
+
+<class_name>ECONOMIC DEVELOPMENT FOR</class_name>
+
+<course_identifier>INAFU6602</course_identifier>
+
+<course_number>6602</course_number>
+
+<course_section_code>R01</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;410 INTERNATIONAL AFFAIRS BLDG&#60;br /&#62;Th 8:10p - 10:00p&#60;br /&#62;407 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6602-20131-R01</university_web_bulletin_url>
+
+</class>
+<class><call_number>28446</call_number>
+
+<class_name>ECONOMIC DEVELOPMENT FOR</class_name>
+
+<course_identifier>INAFU6602</course_identifier>
+
+<course_number>6602</course_number>
+
+<course_section_code>R02</course_section_code>
+
+<days_times>Th 6:10p - 8:00p&#60;br /&#62;410 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U6602-20131-R02</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6619</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6619z</course_identifier_cooked>
+
+<course_name>Nationalism and Ethnic Conflict</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Nationalism was a common cause of conflict in international politics of past two centuries. Yet, the intensification and the vengeful resurgence of nationalist conflicts in the post- Cold War era have been most unexpected and surprising for policy-makers and scholars alike. The increasing frequency and deadliness of nationalist conflict at the international and the intra- state level, from mass expulsions to state-sponsored genocide, has prompted international and humanitarian interventions that have challenged time-honored norms of state behavior and its integrity. However, despite widespread recognition amongst intellectuals and policymakers of the virulent resurgence of nationalism, there is a widespread lack of consensus on the meaning and origins of, as well as the management strategies for dealing with, nationalist conflict. To many, nationalism appears just an amorphous and protean form of organization that is difficult to be defined, described, and controlled. Most of the literature for this course will be drawn from the contemporary debates on nation and international relations theory and practice, intentionally fusing together theory and case studies. However, while emphasis will be placed on achieving a better understanding of theoretical interpretations and frameworks for action, we will take good care to examine a number of case studies in a variety of contexts. This will familiarize us with the repertoire of strategies, justifications, and practices used by all actors. We will do so through assigned readings, but also by following events and conflict that unfold during this semester. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6635</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6635x</course_identifier_cooked>
+
+<course_name>The Politics of Southeast Asia</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6795</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6795z</course_identifier_cooked>
+
+<course_name>US Foreign Policy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the foundations, decision-making processes, and substance of American foreign policy, particularly as it has developed over the past fifty years. We explore the role of American political culture, the presidency, Congress, and the foreign policy bureaucracy in helping to determine America&#39;s relationship with other states and international organizations. We pay particular attention to the recurring tensions that run through American foreign policy: isolationism v. internationalism, security v. prosperity, diplomacy v. military power, unilateralism v. multilateralism, and realism v. idealism. Each week we will explore a broad theoretical/conceptual theme and then focus on a specific topic that exemplifies a practical application of the theme.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6800</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6800z</course_identifier_cooked>
+
+<course_name>International Relations: Theory &#38; Concepts</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Through a review of major academic literature, lectures, and class discussion, this course examines many of the central concepts, theories, and analytical tools used in contemporary social science to understand international affairs. The theoretical literature is drawn from fields including comparative politics, international relations, political sociology, and economics. The course is designed to enhance students&#39; abilities to think critically and analytically about current problems and challenges in international politics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6805</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6805x</course_identifier_cooked>
+
+<course_name>Limited War and Low Intensity Conflict</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6808</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6808x</course_identifier_cooked>
+
+<course_name>International Conflict Resolution</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6825</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6825y</course_identifier_cooked>
+
+<course_name>Management for International Affairs</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>6850</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U6850y</course_identifier_cooked>
+
+<course_name>Economic Diplomacy In the 20th Century</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>6892</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF S6892z</course_identifier_cooked>
+
+<course_name>Current Issues in International Security</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course explores why states and non-state actors use violence in international politics and if that violence can be mitigated. Topics including war, revolutions, and the effectiveness of peacekeeping will be explored both through theory and contemporary cases.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8010</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8010x</course_identifier_cooked>
+
+<course_name>State and Local Policy Making</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8090</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8090x</course_identifier_cooked>
+
+<course_name>U.S./E.U. Relations: Trade and Monetary Issues</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8101</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>INAF U8101y</course_identifier_cooked>
+
+<course_name>Microfinance and Capital Markets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Nestor</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Nestor</course_instructors_full>
+
+<classes><class><call_number>61033</call_number>
+
+<class_name>MICROFINANCE &#38; CAPITAL</class_name>
+
+<course_identifier>INAFU8101</course_identifier>
+
+<course_number>8101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;407 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>C. Nestor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U8101-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8110</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8110x</course_identifier_cooked>
+
+<course_name>Interdisciplinary Perspectives of the Big Emerging Market</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8112</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8112y</course_identifier_cooked>
+
+<course_name>Trading In Foreign Exchange Markets</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8119</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8119y</course_identifier_cooked>
+
+<course_name>Workshop In International Business and Banking</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8127</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8127y</course_identifier_cooked>
+
+<course_name>European Community and the Challenges of the New Millenium</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8128</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8128y</course_identifier_cooked>
+
+<course_name>Fundraising Nad Proposal Writing</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8150</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8150y</course_identifier_cooked>
+
+<course_name>Economic Transformations In New Democracies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Stark</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Stark</course_instructors_full>
+
+<classes><class><call_number>23318</call_number>
+
+<class_name>ECON TRANSF IN NEW DEMOCR</class_name>
+
+<course_identifier>INAFU8150</course_identifier>
+
+<course_number>8150</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;405A INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>D. Stark</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U8150-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8160</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8160y</course_identifier_cooked>
+
+<course_name>Human Rights and Foreign Policy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8201</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8201</course_identifier_cooked>
+
+<course_name>Colloquium On Financial Management In Government</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Belzberg</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Belzberg</course_instructors_full>
+
+<classes><class><call_number>77031</call_number>
+
+<class_name>CIVIC SUPPORT &#38; PUBLIC ED</class_name>
+
+<course_identifier>INAFU8201</course_identifier>
+
+<course_number>8201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;402B INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>L. Belzberg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>U</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>INAF</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/INAF/U8201-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8213</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8213y</course_identifier_cooked>
+
+<course_name>Colloquium On Policy Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8219</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8219x</course_identifier_cooked>
+
+<course_name>Gender and Applied Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8224</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8224y</course_identifier_cooked>
+
+<course_name>The Presidency and the Media</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8238</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8238y</course_identifier_cooked>
+
+<course_name>Practical Problems In Urban Politics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8400</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8400y</course_identifier_cooked>
+
+<course_name>United States Science and Technology Policy</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8480</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8480y</course_identifier_cooked>
+
+<course_name>Politics and Society In Postrevolutionary East Central Europe</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8628</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8628x</course_identifier_cooked>
+
+<course_name>Corporate Strategies In the Global Business Environment</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>INAF</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>INAF</subject_area_code>
+
+<subject_area_name>International Affairs</subject_area_name>
+
+<school_bulletin_prefix_code_1>U</school_bulletin_prefix_code_1>
+
+<course_number_1>8628</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>INAF U8628y</course_identifier_cooked>
+
+<course_name>Corporate Strategies of the Global Business Environment</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

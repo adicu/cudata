@@ -1,0 +1,4638 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2002</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2002x and y</course_identifier_cooked>
+
+<course_name>New York Theatre</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students attend a variety of performances as well as a weekly lab meeting. Emphasis on expanding students&#39; critical vocabulary and understanding of current New York theatre and its history. Section on contemporary New York theatre management and production practices.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited. Lab fee $175. Permission given by instructor only at first meeting.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. McMath</course_instructors_actual>
+
+<course_instructors_expected>S. McMath, L. Bartholomai</course_instructors_expected>
+
+<course_instructors_full>L. Bartholomai, S. McMath</course_instructors_full>
+
+<classes><class><call_number>04317</call_number>
+
+<class_name>NEW YORK THEATRE</class_name>
+
+<course_identifier>THTRV2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 5:10p - 7:00p&#60;br /&#62;323 MILBANK HALL&#60;br /&#62;W 8:00p - 11:00p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>S. McMath</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2002-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01666</call_number>
+
+<class_name>NEW YORK THEATRE</class_name>
+
+<course_identifier>THTRV2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;323 MILBANK HALL&#60;br /&#62;W 7:00p - 11:00p&#60;br /&#62;323 MILBANK HALL</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>64</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2003</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2003x or y</course_identifier_cooked>
+
+<course_name>Voice and Speech</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Techniques of vocal production tailored to the individual problems and potential of the student. Exercises for use in warm-up, relaxation, breathing, and rehearsal; daily work with poetry and dramatic texts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 14 students. Acting classes are open to all Barnard and Columbia undergraduates. Permission of Theatre Department through audition required: auditions for acting classes and for the semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult Auditions on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Hiltunen</course_instructors_actual>
+
+<course_instructors_expected>T. Hiltunen</course_instructors_expected>
+
+<course_instructors_full>T. Hiltunen</course_instructors_full>
+
+<classes><class><call_number>03455</call_number>
+
+<class_name>VOICE AND SPEECH</class_name>
+
+<course_identifier>THTRV2003</course_identifier>
+
+<course_number>2003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:00a - 10:50a&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>T. Hiltunen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2003-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2004</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2004x or y</course_identifier_cooked>
+
+<course_name>Movement for Actors</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploration of the actor&#39;s physical performance. Classical and contemporary approaches to theatre movement.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Recommended for students intending to focus on acting or directing in the senior thesis. Enrollment limited to 14 students. Acting classes are open to all Barnard and Columbia undergraduates. Permission of Theatre Department through audition required: auditions for acting classes and for the semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Fogarty</course_instructors_expected>
+
+<course_instructors_full>S. Fogarty</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2005</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2005x</course_identifier_cooked>
+
+<course_name>Acting Workshop</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>When offered in Fall semester, open only to first-year students.</course_points_notes>
+
+<course_points_cooked>3 pts.  When offered in Fall semester, open only to first-year students.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course develops the processes and tools an actor needs to approach the text of a play. Students develop their physical, vocal, and imaginative range and skills through voice and speech exercises, work on non-verbal behavior, improvisation, and character development.&#38;nbsp; IN THE FALL SEMESTER OPEN ONLY TO FIRST-YEAR STUDENTS. Course encouraged for prospective BC Theatre and CU Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Acting classes are open to all Barnard and Columbia undergraduates. Permission of Theatre Department through audition required: auditions for acting classes and for the semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Greene, J. King</course_instructors_actual>
+
+<course_instructors_expected>C. Greene</course_instructors_expected>
+
+<course_instructors_full>C. Greene, J. King</course_instructors_full>
+
+<classes><class><call_number>07546</call_number>
+
+<class_name>ACTING WORKSHOP</class_name>
+
+<course_identifier>THTRV2005</course_identifier>
+
+<course_number>2005</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 1:50p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>J. King</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2005-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00488</call_number>
+
+<class_name>ACTING WORKSHOP</class_name>
+
+<course_identifier>THTRV2005</course_identifier>
+
+<course_number>2005</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>F 10:00a - 1:50p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>C. Greene</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2005-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2007</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2007y</course_identifier_cooked>
+
+<course_name>Scene Lab</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp;Provides an overview of the creative process of acting: text analysis, circumstance, establishment of place, pursuit of intention in coordination with exercises and improvisation designed to enhance concentration, imagination, resonance, movement, and projection. Rehearsal 2 hours per week outside class, participation in discussion of plays, playwrights, and performances required. Fulfills one course in Acting for Theatre/Drama Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students. Acting classes are open to all Barnard and Columbia undergraduates. Permission of Theatre Department through audition required: auditions for acting classes and for the semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Greene</course_instructors_actual>
+
+<course_instructors_expected>C. Greene, R. Pietropinto</course_instructors_expected>
+
+<course_instructors_full>C. Greene, R. Pietropinto</course_instructors_full>
+
+<classes><class><call_number>01036</call_number>
+
+<class_name>SCENE LAB</class_name>
+
+<course_identifier>THTRV2007</course_identifier>
+
+<course_number>2007</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:10a - 2:00p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>C. Greene</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2007-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2120</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2120x</course_identifier_cooked>
+
+<course_name>Technical Production</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the equipment, terms, and procedures employed in the creation of scenery, lighting, and sound for the stage. Classroom exercises and field visits emphasize approaches to collaborative process and production management.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Crew assignment optional. Enrollment limited to 10 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Winkler</course_instructors_actual>
+
+<course_instructors_expected>G. Winkler</course_instructors_expected>
+
+<course_instructors_full>G. Winkler</course_instructors_full>
+
+<classes><class><call_number>04585</call_number>
+
+<class_name>TECHNICAL PRODUCTION</class_name>
+
+<course_identifier>THTRV2120</course_identifier>
+
+<course_number>2120</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;230 MILBANK HALL</days_times>
+
+<instructors>G. Winkler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2120-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2121</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2121x or y</course_identifier_cooked>
+
+<course_name>Stage Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course explores the role of the stage manager and production manager in&#38;nbsp; theatrical production. Students undertake hands-on exercises to develop the practical and collaborative skills essential to working both as a stage manager and production manager--script analysis; production timeline and rehearsal management; technical rehearsal; budgeting; working with directors and designers; working with unions; health and safety codes; house management; box office.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor, given at first class meeting.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Banta</course_instructors_expected>
+
+<course_instructors_full>M. Banta</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2140</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V2140x or y</course_identifier_cooked>
+
+<course_name>History and Practice of Producing for the Theatre</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the role and responsibilities of the producer in commercial and not-for-profit theatre; the relationship of the producer to the cast and creative team; the evolution of the role of the producer over the twentieth century; and the pioneering work of great producers of the past century. Students develop criteria to assess artistic and financial merits of theatrical work. Attendance at productions on and off Broadway, meetings with producers and other thetre artists. Lab Fee $150.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Preference given to students who have taken New York Theatre and/or are Theatre/Drama and Theatre Arts majors. Permission of instructor given at first class meeting, required. Course limited to 12.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Chaikelson</course_instructors_actual>
+
+<course_instructors_expected>S. Chaikelson</course_instructors_expected>
+
+<course_instructors_full>S. Chaikelson</course_instructors_full>
+
+<classes><class><call_number>07278</call_number>
+
+<class_name>HISTORY&#38;PRACTICE OF PRODU</class_name>
+
+<course_identifier>THTRV2140</course_identifier>
+
+<course_number>2140</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;201 LEHMAN HALL&#60;br /&#62;Th 6:10p - 10:00p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>S. Chaikelson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V2140-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3000</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3000x or y</course_identifier_cooked>
+
+<course_name>Theatre Traditions in a Global Context</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Provides a broad introduction to several traditions of nonwestern drama and theatrical practice, often placing recent and contemporary writing in relation to established conventions.&#38;nbsp; Taking up plays and performance traditions from Asia, South Asia, and various African traditions, it may also consider the relation between elite and popular culture (adaptations of Shakespeare, for example), and between drama, theatre, and film.&#38;nbsp; &#38;nbsp; Fulfills one course in World Theatre for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Mitra</course_instructors_actual>
+
+<course_instructors_expected>S. Mitra</course_instructors_expected>
+
+<course_instructors_full>S. Mitra</course_instructors_full>
+
+<classes><class><call_number>05245</call_number>
+
+<class_name>WORLD THEATRE</class_name>
+
+<course_identifier>THTRV3000</course_identifier>
+
+<course_number>3000</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>S. Mitra</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3000-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3004</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2>3005</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3004x-V3005y</course_identifier_cooked>
+
+<course_name>Acting Lab</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is an umbrella course whose offerings will change each year. Some are narrow, some broad; all are designed with several objectives in common, including: &#38;nbsp; a. To focus on a particular genre, playwright,&#38;nbsp; approach to live performance. b. To develop an interrelated set of conceptual, analytical, and embodiment skills and approaches. Courses typically involve&#38;nbsp; scene preparation, reading, research, and both individual and group projects, as well as active participation in classroom exercises. c. To develop a sense of the purposes and goals of a specific approach to acting. The acting lab courses are intentionally non-sequential; students with little previous background in acting are strongly encouraged to consider the Acting Workshop and Scene Lab courses. No more than six courses can be taken from the Acting Lab/Advanced Acting Lab offerings during a student&#39;s Barnard career. Auditions are required for all Acting Labs and will take place the first two evenings of each semester. Each course fulfills one course in Acting requirement for Theatre/Drama and Theatre Arts majors. Please check with the Theatre Department office for specific offerings and audition sign-up. Courses will rotate regularly and may include the following:  Acting Solo Performance Physical and vocal techniques for solo performance. Selection and performance of classic and modern texts, development of original material suitable to each student. Acting Improvisation Students will develop skills for ensemble work through improvisation, transformation, storytelling, and scene creation. Acting Commedia dell&#39;arte A practical approach to the comedy of class conflict, both classic and modern, based primarily on the techniques and characters of commedia dell&#39;arte. Acting Puppets and Masks Focuses on an approach to acting that emphasizes physical awareness and communication through posture, gesture, and movement. Masks and puppets will be used for character exploration, scenario development, and chorus work. Includes coordination of text and movement with exploration of 20th Century Expressionist and Surrealist texts.  Acting Chinese Opera Training in the four performance skills of Chinese opera: song, speech, stylized movement/acting, and stage combat. Looks at Chinese opera in its historical context in order to understand the nature of the performance tradition.  Acting Shakespeare An exploration of character, language, and action through sonnets, monologues, and scenes.  Acting Social Comedy The presentation of scenes from a variety of plays spanning a three hundred year period, from Wycherly to Wilde, as a means of investigating developments in the use of comic language. Epigram, antithesis, set-up, punchline: has their use changed? Emphasis on performance, with a consideration of the historical, social and theatrical context.Acting Comedy Exploration of physical, verbal, and technical approaches to comic acting, taking in scene work from classic and contemporary theatre.&#38;nbsp; Acting Naturalism An eclectic approach to naturalistic acting techniques; an examination of performance practice through scene study; emphasis will be placed on works by Williams, Miller, and others. Acting Chekhov Scene study, improvisation, and character and monologue work. An examination of the artistic and social context of Chekhov&#39;s work, including the acting theories of Stanislavski and the politics of naturalism.  Acting Brecht Intensive scene work, along with theoretical reading, analysis, and discussion. In-depth work on three or more major plays, poetry, and selected short pieces. Practical applications of the &#34;alienation effect&#34; and other Brechtian ideas.  Acting the Avant-Garde Intensive monologue and scene work, along with theoretical reading and discussion, exploring the particular performance skills needed for experimental drama, beginning with Jarry, and including Beckett, Artaud, Ionesco, Genet, Stein, and others. &#38;nbsp; &#38;nbsp; Acting The Song Song as it emerges from scene, and as an individual entity. Technique and lyrical analysis. Porter, Gershwin, Berlin, Hammerstein, and others. &#38;nbsp; Acting in the Musical Scene An advanced scene-work technique class tailored to Musical Theatre performance. Classroom material will include composers such as Rodgers, Loesser, Sondheim, Coleman, Schmidt, Flaherty,and others. Previous instruction in voice and scene study is required. Acting Suzuki and Viewpoints Introduces students to Suzuki actor training, which develops a physical approach to training the actor&#39;s expressive abilities; it combines Suzuki work with Viewpoints, an approach to group collaboration on dramatic texts, composition conceived temporally and spatially. Language in Action Develops the analytical, vocal, and interpretive skills for the analysis of a range of dramtic texts in performance, focusing particularly on sound, imagery, rhythm, and rhetoric and the vocal and embodiment work essential to realizing them. Preference given to students who have taken THTR V 2003 Voice and Speech.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment in each section limited to 14 students. Acting classes are open to all Barnard and Columbia undergraduates. Permission of Theatre Department through audition required: auditions for acting classes and for the semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Greene, K. deCamp, R. Guy, S. Fogarty, T. Nelis, W. Waterman</course_instructors_actual>
+
+<course_instructors_expected>K. deCamp, C. Greene, R. Guy, T. Hiltunen, T. Nelis,D. Paul, R. Pietropinto, W. Waterman</course_instructors_expected>
+
+<course_instructors_full>C. Greene, D. Paul, K. deCamp, R. Guy, R. Pietropinto, S. Fogarty, T. Hiltunen,
+T. Nelis, W. Waterman</course_instructors_full>
+
+<classes><class><call_number>07733</call_number>
+
+<class_name>ACTING LAB</class_name>
+
+<course_identifier>THTRV3004</course_identifier>
+
+<course_number>3004</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 6:00p&#60;br /&#62;118 MILBANK HALL</days_times>
+
+<instructors>W. Waterman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3004-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00451</call_number>
+
+<class_name>ACTING LAB</class_name>
+
+<course_identifier>THTRV3004</course_identifier>
+
+<course_number>3004</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 12:10p - 2:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>R. Guy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3004-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09533</call_number>
+
+<class_name>ACTING LAB</class_name>
+
+<course_identifier>THTRV3004</course_identifier>
+
+<course_number>3004</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 2:10p - 4:00p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>R. Guy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3004-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>04687</call_number>
+
+<class_name>ACTING LAB</class_name>
+
+<course_identifier>THTRV3004</course_identifier>
+
+<course_number>3004</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MW 12:10p - 2:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>K. deCamp</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3004-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>04426</call_number>
+
+<class_name>ACTING THE SONG</class_name>
+
+<course_identifier>THTRV3005</course_identifier>
+
+<course_number>3005</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 6:00p&#60;br /&#62;118 MILBANK HALL</days_times>
+
+<instructors>W. Waterman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3005-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05214</call_number>
+
+<class_name>ACTING COMEDY</class_name>
+
+<course_identifier>THTRV3005</course_identifier>
+
+<course_number>3005</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 9:00a - 10:50a&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>C. Greene</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3005-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>06194</call_number>
+
+<class_name>ACTING BRECHT</class_name>
+
+<course_identifier>THTRV3005</course_identifier>
+
+<course_number>3005</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MW 12:10p - 2:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>S. Fogarty</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3005-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>06584</call_number>
+
+<class_name>ACTING SUZUKI &#38; VIEWPOINT</class_name>
+
+<course_identifier>THTRV3005</course_identifier>
+
+<course_number>3005</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MW 9:00a - 10:50a&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>T. Nelis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3005-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3006</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3006x or y</course_identifier_cooked>
+
+<course_name>Advanced Acting Lab</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Special problems of performance. In-class scene work, extensive outside research, rehearsals, and reading. &#38;nbsp; Fulfills additional coursework in Acting for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Preference given to juniors and seniors; THTRV 3004 or 3005 prerequisite. Enrollment limited to 14 students. Acting classes are open to all Barnard and Columbia undergraduates. Permission of Theatre Department through audition required: auditions for acting classes and for the semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Greene</course_instructors_actual>
+
+<course_instructors_expected>C. Greene, R. Guy</course_instructors_expected>
+
+<course_instructors_full>C. Greene, R. Guy</course_instructors_full>
+
+<classes><class><call_number>01708</call_number>
+
+<class_name>ADVANCED ACTING LAB</class_name>
+
+<course_identifier>THTRV3006</course_identifier>
+
+<course_number>3006</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:10p - 4:00p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>C. Greene</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3006-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3122</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3122x and y</course_identifier_cooked>
+
+<course_name>Rehearsal and Performance</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students take part in the full production of a play as actors, designers, dramaturgs, or stage managers. Emphasizes the collaborative nature of production. Appropriate research and reading will be required in addition to artistic assignments.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students cast as actors in a departmental stage production register for this course; course emphasizes the collaborative nature of production, and appropriate research and reading required in addition to artistic assignments. Students working as dramaturgs on departmental productions register for this course as well. Auditions for each semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult  &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Reagan, D. Paul, R. Eckert</course_instructors_actual>
+
+<course_instructors_expected>S. Ali, S. Fogarty, A. Reagan, H. Worthen</course_instructors_expected>
+
+<course_instructors_full>A. Reagan, D. Paul, H. Worthen, R. Eckert, S. Ali, S. Fogarty</course_instructors_full>
+
+<classes><class><call_number>07488</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3122</course_identifier>
+
+<course_number>3122</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Paul</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3122-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04728</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3122</course_identifier>
+
+<course_number>3122</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Reagan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3122-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03025</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3122</course_identifier>
+
+<course_number>3122</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>R. Eckert</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3122-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01121</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3122</course_identifier>
+
+<course_number>3122</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Reagan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3122-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3132</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3132x or y</course_identifier_cooked>
+
+<course_name>Sound Design</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studies the art and practice of designing sound and scoring music for dramatic performance. Students study the relationship between concert and incidental music, and read plays toward the production of a score for live theatre. Students also read broadly in the fields of sound, music, acoustics, and the cultural analysis of sound as a component of performance. Background in music or composition not essential. &#38;nbsp; Fulfills one course in Design for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of instructor given at first class meeting.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>F. Patton</course_instructors_expected>
+
+<course_instructors_full>F. Patton</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3133</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3133x or y</course_identifier_cooked>
+
+<course_name>Costume Design</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studio course exploring designing costumes for the stage. Students become familiar with textual and character analysis, research, sketching and rendering, swatching and introductory costume history.&#38;nbsp; Fulfills one course in Design for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of instructor given at first class meeting.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Kenney</course_instructors_actual>
+
+<course_instructors_expected>S. Goldmark, A. Kenney</course_instructors_expected>
+
+<course_instructors_full>A. Kenney, S. Goldmark</course_instructors_full>
+
+<classes><class><call_number>06517</call_number>
+
+<class_name>COSTUME DESIGN</class_name>
+
+<course_identifier>THTRV3133</course_identifier>
+
+<course_number>3133</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 10:00a - 1:50p&#60;br /&#62;230 MILBANK HALL</days_times>
+
+<instructors>A. Kenney</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3133-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3134</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3134x or y</course_identifier_cooked>
+
+<course_name>Lighting Design</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Focuses on both the technical and creative aspects of theatrical lighting design. Students will learn the role of lighting within the larger design and performance collaboration through individual and group projects, readings, hands-on workshops, and critique of actual designs.&#38;nbsp; Fulfills one course in Design for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 12 students.Permission of instructor given at first class meeting.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Adams</course_instructors_actual>
+
+<course_instructors_expected>B. Adams</course_instructors_expected>
+
+<course_instructors_full>B. Adams</course_instructors_full>
+
+<classes><class><call_number>08247</call_number>
+
+<class_name>LIGHTING DESIGN</class_name>
+
+<course_identifier>THTRV3134</course_identifier>
+
+<course_number>3134</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:35a - 12:00p&#60;br /&#62;230 MILBANK HALL</days_times>
+
+<instructors>B. Adams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3134-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3135</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3135x or y</course_identifier_cooked>
+
+<course_name>Scene Design</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to designing for the theatre. The course will focus on set design, developing skills in script analysis, sketching, model making, storyboarding and design presentation. Some investigation into theatre architecture, scenic techniques and materials, and costume and lighting design. Fulfills one course in Design for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 12 students.Permission of instructor given at first class meeting.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Ginsberg</course_instructors_actual>
+
+<course_instructors_expected>S. Goldmark</course_instructors_expected>
+
+<course_instructors_full>M. Ginsberg, S. Goldmark</course_instructors_full>
+
+<classes><class><call_number>03019</call_number>
+
+<class_name>SCENE DESIGN</class_name>
+
+<course_identifier>THTRV3135</course_identifier>
+
+<course_number>3135</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 11:00a - 1:50p&#60;br /&#62;230 MILBANK HALL</days_times>
+
+<instructors>M. Ginsberg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3135-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENTH</subject_area_code>
+
+<subject_area_name>English - Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3136</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENTH BC3136x or y</course_identifier_cooked>
+
+<course_name>Shakespeare in Performance</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The dramatic text as theatrical event. Differing performance spaces, production practices, and cultural conventions promote differing modes of engagement with dramatic texts. Explores Shakespeare&#39;s plays in the context of actual and possible performances from the Renaissance to the 20th century. Fulfills one (of two) required courses in dramatic literature for OR Shakespeare requirement for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Denison</course_instructors_expected>
+
+<course_instructors_full>P. Denison</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENTH</subject_area_code>
+
+<subject_area_name>English - Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3137</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENTH BC3137x or y</course_identifier_cooked>
+
+<course_name>Restoration and 18th-Century Drama</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Performance conventions, dramatic techniques, and cultural contexts from 1660 to 1800. Playwrights include Wycherley, Etherege, Behn, Trotter, Centlivre, Dryden, Congreve, Gay, Goldsmith, and Sheridan. Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Denison</course_instructors_expected>
+
+<course_instructors_full>P. Denison</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENTH</subject_area_code>
+
+<subject_area_name>English - Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3139</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENTH BC3139x or y</course_identifier_cooked>
+
+<course_name>Modern American Drama and Performance</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Modern American drama in the context of theatrical exploration, cultural contestation, performance history, and social change. Playwrights include Crothers, Glaspell, O&#39;Neill, Odets, Wilder, Stein, Williams, Miller, Hansberry, Albee, Fornes, Kennedy, Mamet, Parks, and Ruhl.&#38;nbsp;Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Denison</course_instructors_expected>
+
+<course_instructors_full>P. Denison</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3141</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3141x or y</course_identifier_cooked>
+
+<course_name>Socialism/Communism in Performance</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analyzes dramatic texts and performances under the Communist regimes behind the Iron Curtain before 1989. Principal focus is on Czech, Polish, and East German playwrights and their productions; we will consider their work in both legal and illegal contexts. In order to gain a wider understanding of the diversity of underground performative cultures, works from Hungary, Romania, and Slovenia will be considered as well. The seminar also attends to dissident performative activities in the framework of the 1980s revolutions, and reflects on works by western authors and emigrant/diasporic writers produced on stages behind the Iron Curtain.&#38;nbsp; Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Sophomore standing. Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>H. Worthen</course_instructors_expected>
+
+<course_instructors_full>H. Worthen</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GMTH</subject_area_code>
+
+<subject_area_name>German/Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3142</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GMTH BC3142x or y</course_identifier_cooked>
+
+<course_name>Bertolt Brecht: The Making of Theatre</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class provides a comprehensive overview of the drama, theatre, and theory of Bertolt Brecht, the most influential European playwright and theorist of the twentieth century, in the context of their original historical contexts and subsequent legacies.&#38;nbsp; Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16; permission of instructor given at first class meeting. Course is conducted in English and readings are in English; German majors and German-speaking students may do readings and papers in German.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>H. Worthen</course_instructors_expected>
+
+<course_instructors_full>H. Worthen</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3143</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3143y</course_identifier_cooked>
+
+<course_name>Drama and Film</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Study of formal and historical relations between two primary means of producing drama: theatre and film. Readings and viewings of work by Bergman, Brecht, Chaplin, Eisenstein, Fellini, Kurosawa, Marlowe, Moliere, Mnouchkine, Shakespeare, and Williams, among others. &#38;nbsp; Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 18 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Garrett</course_instructors_expected>
+
+<course_instructors_full>S. Garrett</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENTH</subject_area_code>
+
+<subject_area_name>English - Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3144</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENTH BC3144y</course_identifier_cooked>
+
+<course_name>Black Theatre</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploration of Black Theater, specifically African-American performance traditions, as an intervening agent in racial, cultural, and national identity. African-American theatre artists to be examined include Amiri Baraka, Kia Corthron, W.E.B. Du Bois, Angelina Grimke, Langston Hughes, Georgia Douglas Johnson, Adrienne Kennedy, Suzan-Lori Parks, Adrian Piper, and August Wilson. Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Cobrin</course_instructors_actual>
+
+<course_instructors_expected>P. Cobrin</course_instructors_expected>
+
+<course_instructors_full>P. Cobrin</course_instructors_full>
+
+<classes><class><call_number>04866</call_number>
+
+<class_name>BLACK THEATRE</class_name>
+
+<course_identifier>ENTHX3144</course_identifier>
+
+<course_number>3144</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>P. Cobrin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>ENTH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ENTH/BC3144-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENTH</subject_area_code>
+
+<subject_area_name>English - Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3145</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENTH BC3145y</course_identifier_cooked>
+
+<course_name>Early American Drama and Performance: Staging a Nation</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Aompeting constructions of American identity in the United States date back to the early republic when a newly emerging nation struggled with the questions: What makes an American American? What makes America America? From colonial times forward, the stage has served as a forum to air differing beliefs as well as medium to construct new beliefs about Nation, self and other. The texts we will read, from colonial times through WWI, explore diverse topics such as politics, Native American rights, slavery, labor unrest, gender roles, and a growing immigrant population. Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Cobrin</course_instructors_expected>
+
+<course_instructors_full>P. Cobrin</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3146</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3146x or y</course_identifier_cooked>
+
+<course_name>American Drama in the 1990s</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines American drama in the period between the fall of the Berlin Wall in 1989 and the attack on the World Trade Center in New York in 2001, considering a range of aesthetic (epic theatre, performance art), social (AIDS), and political (Reaganomics) issues of the period. &#38;nbsp; Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Mustam&#239;&#191;&#189;ki</course_instructors_expected>
+
+<course_instructors_full>P. Mustam&#239;&#191;&#189;ki</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENTH</subject_area_code>
+
+<subject_area_name>English - Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3147</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENTH BC3147x or y</course_identifier_cooked>
+
+<course_name>Shakespeare, Theory, Performance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course focuses on the historical and theoretical implications of Shakespearean drama&#38;nbsp; in performance; attention given to early modern and modern history of Shakespeare&#39;s plays onstage, and to film, television, and digital performance. Substantial engagement with literary, cultural, and performance theory. &#38;nbsp; Fulfills one (of two) required courses in dramatic literature OR Shakespeare requirement for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>W. B. Worthen</course_instructors_expected>
+
+<course_instructors_full>W. B. Worthen</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3150</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3150x</course_identifier_cooked>
+
+<course_name>Western Theatre Traditions: Classic to Romantic</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Dialectical approach to reading and thinking about the history of dramatic theatre in the west, interrogating the ways poetry inflects, and is inflected by, the material dynamics of performance. We will undertake careful study of the practices of performance, and of the sociocultural, economic, political, and aesthetic conditions animating representative plays of the Western tradition from the classical theatre through the early modern period to early romanticism; course will also emphasize development of important critical concepts for the analysis of drama, theatre, and performance. Specific attention will be given to classical Athens, medieval cycle drama, the professional theatre of early modern England, the rival theatres of seventeenth century France and Spain, and eighteenth-century theatre in England and Germany; topics include the sociology of theatre, the impact of print on conceptions of performance, representing gender and race, and the dynamics of court performance. Writing: 2-3 papers; Reading: 1-2 plays, critical and historical reading per week; final examination. Fulfills one (of two) Theatre History requirements for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Worthen</course_instructors_actual>
+
+<course_instructors_expected>W. Worthen</course_instructors_expected>
+
+<course_instructors_full>W. Worthen</course_instructors_full>
+
+<classes><class><call_number>06594</call_number>
+
+<class_name>THEATRE HISTORY I</class_name>
+
+<course_identifier>THTRV3150</course_identifier>
+
+<course_number>3150</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;203 Diana Center</days_times>
+
+<instructors>W. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3150-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3151</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3151y</course_identifier_cooked>
+
+<course_name>Western Theatre Traditions: Modern</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Dialectical approach to reading and thinking about the history of dramatic theatre in the west, interrogating the ways poetry inflects, and is inflected by, the material dynamics of performance. We will undertake careful study of the practices of performance, and of the sociocultural, economic, political, and aesthetic conditions animating representative plays of the Western tradition from the late eighteenth century to today; course will also emphasize development of important critical concepts for the analysis of drama, theatre, and performance. Specific attention will be given to the ideology of realism and naturalism, the development of epic theatre, the theatre of cruelty, postcolonial performance, and the continuing invention of dramatic forms (theatre of the absurd, speechplays, postdramatic theatre), as well as to the political and theoretical impact of race, gender, sexuality in modern performance culture. Writing: 2-3 papers; Reading: 1-2 plays, critical and historical reading per week; final examination. Fulfills one (of two) Theatre History requirements for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. Worthen</course_instructors_actual>
+
+<course_instructors_expected>S. Mitra, H. Worthen, W. Worthen</course_instructors_expected>
+
+<course_instructors_full>H. Worthen, S. Mitra, W. Worthen</course_instructors_full>
+
+<classes><class><call_number>03990</call_number>
+
+<class_name>WESTRN THEATRE TRAD: MODE</class_name>
+
+<course_identifier>THTRV3151</course_identifier>
+
+<course_number>3151</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;203 Diana Center</days_times>
+
+<instructors>W. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>54</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3151-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3152</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3152x or y</course_identifier_cooked>
+
+<course_name>Nazism in Performance</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the cultivation of national and transnational performances as a significant force of National Socialism, at the same time as challenging the notion of &#38;ldquo;Nazi Theatre&#38;rdquo; as monolithic formation. The core of the course inquires into the dialectical analysis of artistic creations in diverse art genres, while working towards an understanding of the social dramaturgy of such events as staging the F&#38;uuml;hrer and the racialized body of the privileged people. Nazism did not harbor ideologies without benefits for the allied nations. Thus, the dynamic performance of transnationalism among the &#38;ldquo;brothers in arms&#38;rdquo; will be included as well, in order to elucidate how works of art crossing into the Third Reich were reimagined, sometimes in ways challenging to the presumed values of the state stage. &#38;nbsp; Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Course enrollment limited to 16; permission of instructor given at first class meeting.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Worthen</course_instructors_actual>
+
+<course_instructors_expected>H. Worthen</course_instructors_expected>
+
+<course_instructors_full>H. Worthen</course_instructors_full>
+
+<classes><class><call_number>09138</call_number>
+
+<class_name>NAZISM IN PERFORMANCE</class_name>
+
+<course_identifier>THTRV3152</course_identifier>
+
+<course_number>3152</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>H. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3152-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3155</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>THTR V3155x or y (Section 1)</course_identifier_cooked>
+
+<course_name>Traditional Indian Theatre</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course provides a perspective on traditional forms of Indian performance from classical theory to contemporary traditional practices. Course covers Sanskrit drama, Kathakali, Ramlila, and Chhau; extensive video of performances and guest practitioners. &#38;nbsp; Fulfills one course in World Theatre requirement for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Mitra</course_instructors_actual>
+
+<course_instructors_expected>S. Mitra</course_instructors_expected>
+
+<course_instructors_full>S. Mitra</course_instructors_full>
+
+<classes><class><call_number>03926</call_number>
+
+<class_name>TRADITIONAL INDIAN PERFOR</class_name>
+
+<course_identifier>THTRV3155</course_identifier>
+
+<course_number>3155</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>S. Mitra</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3155-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3156</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3156x or y</course_identifier_cooked>
+
+<course_name>Modern Asian Performance</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course studies contemporary Asian performance with focus on modernity, covering most nations on the Asian continent; readings cover theoretical and aesthetic questions from performances of healing to revolutionary theatre to diasporic performance.</course_description>
+
+<corequisites>Fulfills one course in World Theatre requirement for Theatre/Drama and Theatre Arts majors.</corequisites>
+
+<prerequisites>Permission of instructor given at first class meeting; enrollment limited to 16. General Education Requirement: CUL or ART.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Mitra</course_instructors_expected>
+
+<course_instructors_full>S. Mitra</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3165</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3165x or y</course_identifier_cooked>
+
+<course_name>Theories of Performance Studies</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course surveys the wide range of genres and categories addressed by the practice of modern &#34;performance studies&#34;; it introduces a number of performance practices, as well as relevant interdisciplinary methodologies. Students consider live performances as well as a number of mediated works, learning to think critically and creatively about the relation between text, technology, and the body. Fulfills the required courses in drama and theatre theory for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Mitra</course_instructors_actual>
+
+<course_instructors_expected>S. Mitra</course_instructors_expected>
+
+<course_instructors_full>S. Mitra</course_instructors_full>
+
+<classes><class><call_number>03141</call_number>
+
+<class_name>THEORIES PERFORMNC STUDIE</class_name>
+
+<course_identifier>THTRV3165</course_identifier>
+
+<course_number>3165</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>S. Mitra</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3165-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3165</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3165x or y</course_identifier_cooked>
+
+<course_name>Theories of Performance Studies</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course surveys the wide range of genres and categories addressed by the practice of modern &#34;performance studies&#34;; it introduces a number of performance practices, as well as relevant interdisciplinary methodologies. Students consider live performances as well as a number of mediated works, learning to think critically and creatively about the relation between text, technology, and the body.&#38;nbsp; Course fulfills the Theatre/Drama and Theatre Arts major requirement in Drama, Theatre, Theory.</course_description>
+
+<corequisites>Fulfills General Education Requirement in ART.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Mitra</course_instructors_actual>
+
+<course_instructors_expected>S. Mitra</course_instructors_expected>
+
+<course_instructors_full>S. Mitra</course_instructors_full>
+
+<classes><class><call_number>03141</call_number>
+
+<class_name>THEORIES PERFORMNC STUDIE</class_name>
+
+<course_identifier>THTRV3165</course_identifier>
+
+<course_number>3165</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>S. Mitra</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3165-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3166</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3166x or y</course_identifier_cooked>
+
+<course_name>Drama, Theatre, and Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive immersion in fundamental principles and practices of world drama, theatre, and performance, past and present. Close readings of performances, plays, video, film, and digital media.&#38;nbsp; Assignments include presentations, performance projects, and critical writing. Fulfills one course in Drama, Theatre, and Theory requirement for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Mustam&#239;&#191;&#189;ki, H. Worthen, S. Mitra</course_instructors_expected>
+
+<course_instructors_full>H. Worthen, P. Mustam&#239;&#191;&#189;ki, S. Mitra</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3167</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3167x or y</course_identifier_cooked>
+
+<course_name>Dramaturgy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course teaches the research skills and practices a production dramaturg develops as part of the conceptual work of theatrical production. Course is focused on a series of activities: analyzing dramatic text, comparing different versions of script, conducting archival and cultural research, and presenting it to the production team.&#38;nbsp; Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts majors. Required for students undertaking a senior thesis in dramaturgy.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of instructor, given at first class meeting; enrollment limited to 12.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Worthen</course_instructors_actual>
+
+<course_instructors_expected>H. Worthen</course_instructors_expected>
+
+<course_instructors_full>H. Worthen</course_instructors_full>
+
+<classes><class><call_number>04222</call_number>
+
+<class_name>DRAMATURGY</class_name>
+
+<course_identifier>THTRV3167</course_identifier>
+
+<course_number>3167</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>H. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3167-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3172</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3172x and y</course_identifier_cooked>
+
+<course_name>Rehearsal and Performance - Design and Technical</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students take part in the full production of a play as designers or stage managers. Emphasizes the collaborative nature of production, the acquisition and development of technical and artistic perspectives on production, and appropriate research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students working in a design, stage management, or backstage capacity on departmental stage production register for this course. Audition not required, but students must meet with Theatre Department Production Manager, Michael Banta (mbanta@barnard.edu).</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Kenney, K. Feely, M. Banta, S. Goldmark</course_instructors_actual>
+
+<course_instructors_expected>M. Banta, K. Feely, S. Goldmark</course_instructors_expected>
+
+<course_instructors_full>A. Kenney, K. Feely, M. Banta, S. Goldmark</course_instructors_full>
+
+<classes><class><call_number>00747</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3172</course_identifier>
+
+<course_number>3172</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Banta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3172-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04868</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3172</course_identifier>
+
+<course_number>3172</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Goldmark</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3172-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04720</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3172</course_identifier>
+
+<course_number>3172</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Feely</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3172-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>05957</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3172</course_identifier>
+
+<course_number>3172</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 3:00p - 5:00p&#60;br /&#62;230 MILBANK HALL</days_times>
+
+<instructors>M. Banta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3172-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03696</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3172</course_identifier>
+
+<course_number>3172</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>F 3:00p - 5:00p&#60;br /&#62;230 MILBANK HALL</days_times>
+
+<instructors>K. Feely</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3172-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09723</call_number>
+
+<class_name>REHEARSAL AND PERFORMANCE</class_name>
+
+<course_identifier>THTRV3172</course_identifier>
+
+<course_number>3172</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>F 3:00p - 5:00p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>A. Kenney</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3172-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3200</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3200x and y</course_identifier_cooked>
+
+<course_name>History and Practice of Directing</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploration of the evolution of the director&#39;s role in Europe and the US, including the study of important figures. Emphasis on text analysis, and varied schools of acting in relation to directing practice. Students gain a foundation in composing stage pictures and using stage movement to tell a story. All students will direct at least one fully-realized scene. &#38;nbsp;Fulfills one course in Directing requirement for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Dalton, S. Fogarty</course_instructors_actual>
+
+<course_instructors_expected>D. Dalton, A. Reagan, S. Fogarty</course_instructors_expected>
+
+<course_instructors_full>A. Reagan, D. Dalton, S. Fogarty</course_instructors_full>
+
+<classes><class><call_number>09128</call_number>
+
+<class_name>HISTORY&#38;PRACTICE OF DIREC</class_name>
+
+<course_identifier>THTRV3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 12:00p - 1:50p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>S. Fogarty</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3200-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04115</call_number>
+
+<class_name>HISTORY&#38;PRACTICE OF DIREC</class_name>
+
+<course_identifier>THTRV3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 12:10p - 2:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>D. Dalton</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3200-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3201</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3201x or y</course_identifier_cooked>
+
+<course_name>Directing Lab</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course focues on developing an individual directorial style, placing emphasis on visual research, and the use of different staging environments: end-stage, in the round, environmental. Class is structured around scene-work and critique, and each student will direct at least three fully-realized scenes. Material typically drawn from European avant-garde. Fulfills additional coursework in Directing required for&#38;nbsp; for Theatre/Drama and Theatre Arts majors concentrating in Directing.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students required to have taken THTRV 3200 History and Practice of Directing, THTRV 3203 Collaboration: Directing and Design, or equivalent. Enrollment limited to 14 students. Permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Fogarty</course_instructors_actual>
+
+<course_instructors_expected>A. Reagan</course_instructors_expected>
+
+<course_instructors_full>A. Reagan, S. Fogarty</course_instructors_full>
+
+<classes><class><call_number>02899</call_number>
+
+<class_name>DIRECTING LABORATORY</class_name>
+
+<course_identifier>THTRV3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:10p - 4:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>S. Fogarty</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3201-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3202</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3202x</course_identifier_cooked>
+
+<course_name>Advanced Directing</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course requires students to draw on all previous theatre training, synthezising scholarship and research toward dynamic fully-realized scene work. Emphasis is on the director-actor relationship; students will direct at least three fully-realized scenes, typically drawn from Shakespeare, Chekhov, or other playwrights. Students may have the opportunity to make devised work, and will collaborate with students in the Advanced Acting class. Required for, but not limited to, students undertaking a senior thesis in directing. Fulfills additional directing coursework in Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to students who have taken at least one course in directing. Required for students approved for Directing thesis, but open to all qualified students. Permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Reagan</course_instructors_actual>
+
+<course_instructors_expected>S. Fogarty, A. Reagan</course_instructors_expected>
+
+<course_instructors_full>A. Reagan, S. Fogarty</course_instructors_full>
+
+<classes><class><call_number>09360</call_number>
+
+<class_name>ADVANCED DIRECTING</class_name>
+
+<course_identifier>THTRV3202</course_identifier>
+
+<course_number>3202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:10p - 4:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>A. Reagan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3202-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3203</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3203x or y</course_identifier_cooked>
+
+<course_name>Collaboration: Directing and Design</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course focuses on developing both technical and collaborative skills of directors and designers.&#38;nbsp; Students are assigned to different roles in creative teams working on a series of at least three fully realized and desgined scenes. Introduction to various design disciplines and directing practice. May be counted as either a course in directing or a course in design for majors. Fulfills requirement for one course in EITHER Directing OR Design for Theatre/Drama and Theatre Arts majors; counts as second or third course in either Directing or Design.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of instructors given at first meeting; enrollment limited to 24.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Goldmark, A. Reagan</course_instructors_expected>
+
+<course_instructors_full>A. Reagan, S. Goldmark</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3250</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3250x or y</course_identifier_cooked>
+
+<course_name>Performance Lab</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In Spring 2012 the course will provide a critical context and embodied understanding of experimental theatre and performance in the United States between 1960 and the present. &#38;nbsp;In the spirit of the critic/practitioners who emerged in this period, students will generate written assignments, research presentations, and scene work inspired by this artistic movement.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 12 students. Acting classes are open to all Barnard and Columbia undergraduates. Permission of Theatre Department through audition required: auditions for acting classes and for the semester&#39;s stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. Acting classes begin meeting after auditions. For required details, consult &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations>BIOT</course_populations>
+
+<course_instructors_actual>J. Brater</course_instructors_actual>
+
+<course_instructors_expected>J. Brater</course_instructors_expected>
+
+<course_instructors_full>J. Brater</course_instructors_full>
+
+<classes><class><call_number>06299</call_number>
+
+<class_name>PERFORMANCE LAB</class_name>
+
+<course_identifier>THTRV3250</course_identifier>
+
+<course_number>3250</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 12:10p - 2:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>J. Brater</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3250-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3300</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3300x or y</course_identifier_cooked>
+
+<course_name>Playwriting Lab</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will create and workshop plays, with a focus on learning new approaches to language and structure. The class will culminate in the writing and staged-readings of 30 page plays and performance texts. Required for students undertaking a senior thesis in playwriting.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor and writing sample required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Oswald</course_instructors_actual>
+
+<course_instructors_expected>S. Oswald</course_instructors_expected>
+
+<course_instructors_full>S. Oswald</course_instructors_full>
+
+<classes><class><call_number>02909</call_number>
+
+<class_name>PLAYWRITING LAB</class_name>
+
+<course_identifier>THTRV3300</course_identifier>
+
+<course_number>3300</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:00a - 12:50p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>S. Oswald</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3300-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3301</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3301x or y</course_identifier_cooked>
+
+<course_name>Play Development</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will focus on rewriting and bringing an existing script to a production-ready state. Students will also read drafts of writers currently produced on New York stages to understand why changes and rewrites were made. Writing projects will culminate in staged readings and possible submissions to theatres. Recommended for senior thesis in playwriting.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor and writing sample required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Oswald</course_instructors_actual>
+
+<course_instructors_expected>S. Oswald</course_instructors_expected>
+
+<course_instructors_full>S. Oswald</course_instructors_full>
+
+<classes><class><call_number>04908</call_number>
+
+<class_name>PLAY DEVELOPMENT</class_name>
+
+<course_identifier>THTRV3301</course_identifier>
+
+<course_number>3301</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>S. Oswald</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3301-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3510</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3510x or y</course_identifier_cooked>
+
+<course_name>Problems in Design</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studio-based course explores the main elements of theatrical design: sets, costumes, lighting, and sound. Students examine these design elements as both individual and interrelated components of a production. A series of guest artists contribute to understanding the design process, collaboration, and making a design idea a reality on stage. Fulfills one course in Design requirement for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Some design experience is helpful, though not required. Enrollment limited to 12 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3600</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3600x and y</course_identifier_cooked>
+
+<course_name>The Theatre Workshop</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Various topics presented by visiting theatre scholars, artists, and practioners in a lecture/seminar/workshop series that will meet for at least four sessions during each semester. Topics, times, and visiting instructors will be announced by the department. Students must attend all classes to receive credit for the course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>To be taken only for P/D/F. Auditions for this class are sometimes required; please check with Theatre Department in advance. If audition is required, auditions held 6pm on the first Tuesday and Wednesday class days of each semester. Class begins meeting after auditions. For required details, consult  &#34;Auditions&#34; on the Barnard Theatre Department website in advance: theatre.barnard.edu/auditions</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Greene</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Greene</course_instructors_full>
+
+<classes><class><call_number>03874</call_number>
+
+<class_name>THE THEATRE WORKSHOP</class_name>
+
+<course_identifier>THTRV3600</course_identifier>
+
+<course_number>3600</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>C. Greene</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3600-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ENTA</subject_area_code>
+
+<subject_area_name>English - Theatre Arts</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3702</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ENTA W3702x</course_identifier_cooked>
+
+<course_name>Drama, Theatre, and Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Theatre typically exceeds the claims of theory. What does this tell us about both theatre and theory? We will consider why theatre practitioners often provide the most influential theoretical perspectives, how the drama inquires into (among other things) the possibilities of theatre, and the various ways in which the social, spiritual, performative, political, and aesthetic elements of drama and theatre interact. Two papers, weekly responses, and a class presentation are required. Readings include Aristotle, Artaud, Bharata, Boal, Brecht, Brook, Castelvetro, Craig, Genet, Grotowski, Ibsen, Littlewood, Marlowe, Parks, Schechner, Shakespeare, Sowerby, Weiss, and Zeami. &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; Fulfills the one course in Drama, Theatre, and Theory requirement for Theatre/Drama and Theatre Arts majors.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Biers</course_instructors_expected>
+
+<course_instructors_full>K. Biers</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3737</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3737x or y</course_identifier_cooked>
+
+<course_name>Modernism and 20th Century Theatre</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Interdisciplinary study of major European and American theatrical trends since the mid-19th century through readings of drama, theory, and criticism; music listening; video viewings; study of visual art; and excursions to New York performances and museums. Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Garrett</course_instructors_expected>
+
+<course_instructors_full>S. Garrett</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3750</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3750y</course_identifier_cooked>
+
+<course_name>The History Play</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Study of plays that treat historical themes. Investigates suggestive parallels between the disciplines of theatre and history that arise when artists adapt the story of the past for dramatic purposes. Plays by Aeschylus, Cervantes, Marlowe, Shakespeare, Brecht, Weiss, Churchill, Parks, and others. Fulfills one (of two) required courses in dramatic literature for Theatre/Drama and Theatre Arts major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 16 students.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3997x and y</course_identifier_cooked>
+
+<course_name>Senior Thesis: Performance</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will act in, direct, design, or dramaturg a play in the Barnard Department of Theatre season, or write a short play or solo performance piece that will be produced (according to departmental guidelines) in the Senior Thesis Festival. Collaboration is expected and students will meet weekly with faculty and other seniors. A written proposal must be submitted in the spring of the junior year and be approved. In addition to the performance, an extensive written Casebook is required: see departmental guidelines.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Appropriate coursework and substantial production experience, including a major crew assignment in the junior year. Enrollment limited to senior Theatre majors. Combined and special majors may be considered under exceptional circumstances. Permission of the instructor required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Reagan, C. Greene, H. Worthen, K. deCamp, S. Goldmark, S. Oswald</course_instructors_actual>
+
+<course_instructors_expected>S. Goldmark, S. Oswald, K. deCamp, S. Fogarty, C. Greene, H. Worthen</course_instructors_expected>
+
+<course_instructors_full>A. Reagan, C. Greene, H. Worthen, K. deCamp, S. Fogarty, S. Goldmark, S. Oswald</course_instructors_full>
+
+<classes><class><call_number>03156</call_number>
+
+<class_name>SENIOR THESIS: PERFORMANC</class_name>
+
+<course_identifier>THTRV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>C. Greene</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3997-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03882</call_number>
+
+<class_name>SENIOR THESIS: PERFORMANC</class_name>
+
+<course_identifier>THTRV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Goldmark</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3997-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>04474</call_number>
+
+<class_name>SENIOR THESIS: PERFORMANC</class_name>
+
+<course_identifier>THTRV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>H. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3997-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>08629</call_number>
+
+<class_name>SENIOR THESIS: DIRECTING</class_name>
+
+<course_identifier>THTRV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 3:00p - 5:00p&#60;br /&#62;229 MILBANK HALL</days_times>
+
+<instructors>A. Reagan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3997-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04815</call_number>
+
+<class_name>SENIOR THESIS:PLAYWRITING</class_name>
+
+<course_identifier>THTRV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;LL105 Diana Center</days_times>
+
+<instructors>S. Oswald</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3997-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>02620</call_number>
+
+<class_name>SENIOR THESIS:SOLO PERFOR</class_name>
+
+<course_identifier>THTRV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 12:00p - 2:00p&#60;br /&#62;LL200 Diana Center</days_times>
+
+<instructors>K. deCamp</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3997-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>09488</call_number>
+
+<class_name>SENIOR THESIS: DRAMATURGY</class_name>
+
+<course_identifier>THTRV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>H. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3997-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3998x and y</course_identifier_cooked>
+
+<course_name>Senior Thesis: Research</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In-depth research project culminating in a substantial written thesis on any aspect of drama, performance, or theatre research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to senior Theatre majors. Combined and special majors may be considered under exceptional circumstances. Permission of the instructor required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Mitra, W. Worthen</course_instructors_actual>
+
+<course_instructors_expected>S. Mitra, H. Worthen, W.B. Worthen</course_instructors_expected>
+
+<course_instructors_full>H. Worthen, S. Mitra, W. Worthen</course_instructors_full>
+
+<classes><class><call_number>05554</call_number>
+
+<class_name>SENIOR THESIS: RESEARCH</class_name>
+
+<course_identifier>THTRV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>W. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3998-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09448</call_number>
+
+<class_name>SENIOR THESIS: RESEARCH</class_name>
+
+<course_identifier>THTRV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Mitra</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3998-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07475</call_number>
+
+<class_name>SENIOR THESIS: RESEARCH</class_name>
+
+<course_identifier>THTRV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>W. Worthen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>THTR</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/THTR/V3998-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>THEB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>THTR</subject_area_code>
+
+<subject_area_name>Theatre</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3999</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>THTR V3999x and y</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students submit, before the semester begins, a detailed proposal for independent research to a faculty sponsor.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor and the chair required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

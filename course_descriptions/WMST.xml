@@ -1,0 +1,1467 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST V1001y</course_identifier_cooked>
+
+<course_name>Introduction To Women&#39;s and Gender Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lecture and discussion. Introduction to the ways in which femininity and masculinity have been represented in literature and constructed in culture. The new interdisciplinary scholarship on gender analyses is presented in works of literature, film, social science, and contemporary theory.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations>AUD</course_populations>
+
+<course_instructors_actual>L. Ciolkowski, R. Young</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Ciolkowski, R. Young</course_instructors_full>
+
+<classes><class><call_number>07651</call_number>
+
+<class_name>INTRO-WOMEN &#38; GENDER STUD</class_name>
+
+<course_identifier>WMSTV1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>L. Ciolkowski&#60;br /&#62;
+R. Young</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>90</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>90</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/V1001-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1050</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST BC1050x</course_identifier_cooked>
+
+<course_name>Women and Health</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to women&#39;s health across the life span; course emphasizes the scientific basis of present knowledge. Instructors integrate biology with sociology, anthropology, psychology, history, medicine, and women&#39;s studies to explore the diverse influences on women&#39;s health.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Young</course_instructors_expected>
+
+<course_instructors_full>R. Young</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3117</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>WMST BC3117y</course_identifier_cooked>
+
+<course_name>Women and Film</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A critical interpretation of film from a feminist perspective and explanation of the relationship of gender to the language of film.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3121</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST BC3121y</course_identifier_cooked>
+
+<course_name>Black Women In America</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An examination of the experiences of African American women from slavery through the present. Emphasis will be on the history and historiography of these experiences, as well as on critical issues facing African-American women today.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3123</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST BC3123y</course_identifier_cooked>
+
+<course_name>Women and Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussion of the methods necessary to analyze visual images of women in their historical, racial, and class contexts, and to understand the status of women as producers, patrons, and audiences of art and architecture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Kampen</course_instructors_expected>
+
+<course_instructors_full>N. Kampen</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3125</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST V3125x or y</course_identifier_cooked>
+
+<course_name>Introduction to Sexuality Studies</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sexuality is often taken to be a natural and unchanging element of individual life. In this&#38;nbsp; course, we seek to examine ways in which sex is both social and political. That is to say, sexuality has different meanings in different contexts, and it has different effects in terms of power relations within the social order. To this end, we will examine how sexuality has been socially constructed, paying careful attention to the ways these ideas relate to other social forces such as gender, race, and class. We begin with a historical examination as to how sexuality has been defined as a natural component of self by early sexologists and eugenicists, paying careful attention to their contemporary legacies. We continue this historical overview through an examination of early scholars who increasingly argued that sexuality has a social basis, culminating in the theoretical analyses of Foucault. The first part of this course thus seeks to historically situate and denaturalize some of the basic concepts we tend to take for granted, including that of &#38;ldquo;sexuality&#38;rdquo; itself. In the second part of the course, we will consider the state of sexual politics within the contemporary United States, focusing upon key arenas of political struggle including sex education, prostitution, and homosexuality.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3130</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST BC3130y</course_identifier_cooked>
+
+<course_name>Discourses of Desire: Introduction To Gay and Lesbian Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Who or what constitutes the subject of gay and lesbian studies? Explores historical, methodological, and epistemological crisis points of essentialism/constructionism; sexuality across cultures; gender versus sexuality; bisexuality and the binary regimes of hetero/homo and male/female; community; identity; the politics of liberation; the place of feminism in les/bi/gay studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3132</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST BC3132x</course_identifier_cooked>
+
+<course_name>Gendered Controversies: Women&#39;s Bodies and Global Conflicts</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A seminar investigating the significance of social, political, and cultural conflict centered on issues concerning women&#39;s lives.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Jakobsen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Jakobsen</course_instructors_full>
+
+<classes><class><call_number>09228</call_number>
+
+<class_name>GENDERED CONTROVERSIES</class_name>
+
+<course_identifier>WMSTX3132</course_identifier>
+
+<course_number>3132</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>J. Jakobsen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>69</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/BC3132-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3134</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>WMST BC3134y</course_identifier_cooked>
+
+<course_name>Unheard Voices: African Women&#39;s Literature</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Themes include the politics of the canon in Africa, the problems of language, postcolonial counter-discourse, the African-American continuum, and Third World and Western feminism. Readings include novels, short stories, poetry, and drama by Elora Nwapa, Buchi Emecheta, Nawal El Saadawi, Miriam Tlali, Bessie Head, Molara Ogundipe-Leslie, Ama Ata Aidoo, and Tess Onwueme.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Y. Christianse</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Y. Christianse</course_instructors_full>
+
+<classes><class><call_number>08742</call_number>
+
+<class_name>UNHEARD VOICES: AFRICAN W</class_name>
+
+<course_identifier>WMSTX3134</course_identifier>
+
+<course_number>3134</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>Y. Christianse</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/BC3134-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3135</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST BC3135y</course_identifier_cooked>
+
+<course_name>Women in Israel: An Introduction</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course focuses primarily on the contemporary status and experiences of Jewish and non-Jewish women living in Israel, with sessions on: women and the law; Jewish minorities; Palestinian women; Jewish women and the military; violence against women; Israeli feminism; pre-State Israel and women and the Palestinian/Israeli conflict.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 13 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Klepfisz</course_instructors_expected>
+
+<course_instructors_full>I. Klepfisz</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3136</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST BC3136x</course_identifier_cooked>
+
+<course_name>Asian American Women&#39;s Literature</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores selected texts written by Asian American women from diverse backgrounds, focusing on issues such as identity, gender, generation, race, class, region, and language.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3311</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST V3311x</course_identifier_cooked>
+
+<course_name>Colloquium In Feminist Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: Feminist Texts I, or II, and permission of the instructor. An exploration of the relationship between new feminist theory and feminist practice, both within the academy and in the realm of political organizing.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Campt</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Campt</course_instructors_full>
+
+<classes><class><call_number>03612</call_number>
+
+<class_name>FEMINIST THEORY</class_name>
+
+<course_identifier>WMSTV3311</course_identifier>
+
+<course_number>3311</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 9:00a - 10:50a&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>T. Campt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>34</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/V3311-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>3513</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST S3513z</course_identifier_cooked>
+
+<course_name>Reading the Body</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The body has always been a key site for interpretation. The question of how to read bodies in their myriad roles as targets (and agents) of disciplinary power, as the embodiment of Nature and the expression of modem cultural logics of gender, race, sexuality, and nation opens up a wide new field for thinking about the ways bodies work and how they &#34;mean.&#34; A heavily interdisciplinary exploration of the body, this course ranges from the reading of bodies in scientific, sociological, literary, and historical texts to interrogating the representation of the body in anthropological, philosophical, photographic, art historical and cinematic sources. Topics will include: Discipline and the modem body; cosmetic surgery and other forms of body modification or &#34;somatechnics&#34;; sexual violence and narratives of trauma; commodity culture and media constructions of the body; eating disorders and cultural constructions of gender; diseased bodies, hysteria and psychoanalysis; transnational bodies and the politics oflabor; technology and embodiment in a digital age. Some of the key questions that will structure our work include: What does it mean to explore the body as a socially meaningful, historical object of analysis rather than as a purely &#34;biological entity&#34;? How do we defme &#34;deviant&#34; bodies and which bodies get to count as &#34;normal&#34;? How does our understanding of Nature and Culture,authenticity and artifice structure our beliefs about the body and gender, sexuality, ethnicity and race? What does it mean to be &#34;embodied&#34; and how does embodiment complicate some of the ways we think about identity and difference? Authors may include: Sigmund Freud, Franz Kafka, Michel Foucault, Judith Halberstam, Nancy Tuana, Alice Sebold, Margaret Atwood, Susan Bordo and Kobena Mercer. Films may include: Jennie Livingston&#39;s &#34;Paris Is Burning&#34; (1992) and Lauren Greenfield&#39;s &#34;Thin&#34; (2006).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3520</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2>3521</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>WMST V3520x-V3521y</course_identifier_cooked>
+
+<course_name>Senior Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A yearlong seminar in which students prepare a 20- to 25-page thesis based on original research. This course aims to prepare students for intellectual work in either an academic or an applied context.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nelson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Nelson</course_instructors_full>
+
+<classes><class><call_number>03661</call_number>
+
+<class_name>SENIOR SEMINAR I</class_name>
+
+<course_identifier>WMSTV3521</course_identifier>
+
+<course_number>3521</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;754 EXT SCHERMERHORN HALL</days_times>
+
+<instructors>A. Nelson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/V3521-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3813</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>WMST V3813y</course_identifier_cooked>
+
+<course_name>Colloquium On Feminist Inquiry</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisites: WMST V1001 and the instructor&#39;s permission. A survey of research methods from the social sciences and interpretive models from the humanities, inviting students to examine the tension between the production and interpretation of data. Students receive firsthand experience practicing various research methods and interpretive strategies, while considering larger questions about how we know what we know.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Povinelli</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Povinelli</course_instructors_full>
+
+<classes><class><call_number>16996</call_number>
+
+<class_name>COLLOQUIUM ON FEMINIST IN</class_name>
+
+<course_identifier>WMSTV3813</course_identifier>
+
+<course_number>3813</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;754 EXT SCHERMERHORN HALL</days_times>
+
+<instructors>E. Povinelli</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/V3813-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3915</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST V3915x or y</course_identifier_cooked>
+
+<course_name>Gender and Power in Transnational Perspective</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp;How have development and globalization impacted (and attempted to impact) gender and sexuality around the world? How do gender and sexuality circulate across national, political, and technological borders in the contemporary era of neoliberal globalization? How has feminism itself become part of these increasingly complex cultural circulations, to women&#38;rsquo;s benefit as well as detriment? In addition to linking together what Chandra Mohanty has described as the &#38;ldquo;One Third&#38;rdquo; and &#38;ldquo;Two Thirds&#38;rdquo; worlds, this discussionbased seminar seeks to reconnect the disparately gendered intimate and global spheres, situating the feminized &#38;ldquo;private&#38;rdquo; domains of love, sex, and caring within fields of action such as geopolitics and global political economy.&#38;nbsp; How do formations of gender and sexuality shift when intimate relations are transnationalized? Does the globalization of intimacy exacerbate inequalities of gender, race, class, and nation, or might it also and simultaneously create unexpected opportunities to alleviate these? Under what circumstances does feminism itself get intertwined in circuits of gendered power? In the first part of this class, we will carefully examine issues of gender, sexuality, and development. In the latter, we turn increasingly toward issues of emotion and transnational intimate exchange and emotional labor while situating these encounters within the economic context we discussed in the first section.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4000</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>WMST G4000y (Section 001)</course_identifier_cooked>
+
+<course_name>Genealogies of Feminism: Theories of Intimacy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;lt;!-- /* Font Definitions */ @font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:&#34;&#34;; margin-top:0in; margin-right:0in; margin-bottom:10.0pt; margin-left:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:&#34;Times New Roman&#34;; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Cambria; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:&#34;Times New Roman&#34;; mso-bidi-theme-font:minor-bidi;} @page Section1 {size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.Section1 {page:Section1;} --&#38;gt; This course traces the Genealogies of Feminism through feminist and&#38;nbsp; queer preoccupations with intimacy in the context of threats to&#38;nbsp; intimate attachments caused by divisions of social difference and&#38;nbsp; the inequities of power and by institutional, ideological and legal&#38;nbsp; efforts to regulate kinship and affiliation.&#38;nbsp; We will explore key&#38;nbsp; feminist theoretical work about sites and spaces of intimacy such&#38;nbsp; as love, the family (mother- daughter relationships, sisters, gay&#38;nbsp; and straight marriage and adultery, motherhood, adoption and&#38;nbsp; abortion), home and domesticity, friendship, activist community,&#38;nbsp; collaboration, biopolitics and embodiment, and social networks.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Application Instructions: E-mail Professor Hirsch (mh2349@columbia.edu) by noon on Tuesday, November 6th, with the subject heading, &#34;Intimacy seminar.&#34; In your message, include basic information: your name, school, major or field, year of study, and relevant courses taken, along with a brief statement about why you are interested in taking the course.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Hirsch, N. Tadiar</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Hirsch, N. Tadiar</course_instructors_full>
+
+<classes><class><call_number>20773</call_number>
+
+<class_name>GENEAL-FEM:THEOR&#39;S OF IN</class_name>
+
+<course_identifier>WMSTG4000</course_identifier>
+
+<course_number>4000</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;754 EXT SCHERMERHORN HALL</days_times>
+
+<instructors>M. Hirsch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>12</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/G4000-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4000</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>WMST G4000y (Section 002)</course_identifier_cooked>
+
+<course_name>Genealogies of Feminism: Forms of Life: Culture as Aesthetics, Experience, Embodiement</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;lt;!-- /* Font Definitions */ @font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:&#34;&#34;; margin-top:0in; margin-right:0in; margin-bottom:10.0pt; margin-left:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:&#34;Times New Roman&#34;; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Cambria; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:&#34;Times New Roman&#34;; mso-bidi-theme-font:minor-bidi;} @page Section1 {size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.Section1 {page:Section1;} --&#38;gt; This course explores theories of forms of life, human and social, which have been seen to develop in the course of a global history of contemporary modernity, with an attention to the role of aesthetics and affect, communication technology and built form in shaping and expressing dominant as well as marginalized and/or alternative forms of sociality, subjectivity and collective being and experience. We will examine several scholarly literatures that deal with issues of beauty, embodiment, sensory experience, pleasure, pain, subjectivity and structures of feeling, and their relations to questions of gender and power, social order and struggle, and historical change. We will also look at questions of biopolitics, violence and the limits and possibilities of different humanist and post-humanist conceptions of &#38;ldquo;life&#38;rdquo; for understanding politics in contemporary contexts. Readings include Marx, Benjamin, Buck-Morss, Levi-Strauss, Foucault, Ranci&#38;egrave;re, Esposito, as well as contemporary feminist ethnography of Southeast Asia.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Hirsch, N. Tadiar</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Hirsch, N. Tadiar</course_instructors_full>
+
+<classes><class><call_number>04473</call_number>
+
+<class_name>GENEAL FEMINISM:FORMS OF</class_name>
+
+<course_identifier>WMSTG4000</course_identifier>
+
+<course_number>4000</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>N. Tadiar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/G4000-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4300</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>WMST W4300x or y</course_identifier_cooked>
+
+<course_name>Advanced Topics In Women&#39;s and Gender Studies</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This seminar considers the family at a historical and socio-technical juncture at which its form is both remarkably flexible and deeply intractable. The course begins with an overview of sociological and feminist scholarship on the family. We then examine how developments stemming from genetic science have spurred the emergence of new reproductive technologies over the last few decades and, in turn, novel forms of procreation and affiliation. To what extent do assisted reproduction practices such as in vitro fertilization, prenatal diagnosis, and surrogacy offer novels ways for constituting and conceptualizing the family? Which constituencies benefit from these possibilities, which enable them and which are constrained by them? To what extent do clinical and reproductive genetics privilege biological relatedness and, therefore, traditional gender ideologies? How is the family now simultaneously case as a source of (health) risk, a necessary resource for optimal (healthy) living, and a volitional social form? We will take up these questions against the backdrop of forms of kin-keeping sociality (family reunions, genealogy, etc.), on the one hand, and, on the other hand, &#34;biosociality&#34; and biological affinity. Readings include works by Cartsen, Engels, Franklin &#38;amp; McKinnon, Furstenberg, Nelkin, Povinelli, Katz Rothman, Strathern and Weston.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nelson</course_instructors_actual>
+
+<course_instructors_expected>A. Nelson, G. Pflugfelder, T. Sheffield</course_instructors_expected>
+
+<course_instructors_full>A. Nelson, G. Pflugfelder, T. Sheffield</course_instructors_full>
+
+<classes><class><call_number>12424</call_number>
+
+<class_name>ADV TPS:POLITICS OF THE</class_name>
+
+<course_identifier>WMSTW4300</course_identifier>
+
+<course_number>4300</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;754 EXT SCHERMERHORN HALL</days_times>
+
+<instructors>A. Nelson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/W4300-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>4320</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>WMST V4320x or y (Section 001)</course_identifier_cooked>
+
+<course_name>Queer Theories and Histories</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course will cover a range of (mostly U.S. and mostly 20th-Century) materials that thematize gay, lesbian, bisexual, transgender experience and identity. We will study fiction and autobiographical texts, historical, psychoanalytic, and sociological materials, queer theory, and films, focusing on modes of representing sexuality and on the intersections between sexuality and race, ethnicity, class, gender, and nationality. We will also investigate connections between the history of LGBT activism and current events. Authors will include Foucault, Freud, Butler, Sedgwick, Anzaldua, Moraga, Smith. Students will present, and then write up, research projects of their own choosing. Enrollment limited to 20 students.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Jakobsen, G. Pflugfelder</course_instructors_expected>
+
+<course_instructors_full>G. Pflugfelder, J. Jakobsen</course_instructors_full>
+
+</course><course><academic_department_code>WMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>WMST</subject_area_code>
+
+<subject_area_name>Women&#39;s Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>WMST G6001x (Section 001)</course_identifier_cooked>
+
+<course_name>Theoretical Paradigms of Feminist Scholarship</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course on &#38;quot;The Subject of Rigths&#38;quot; will explore feminist and other critiques of liberal paradigms; considering alternative languages and practices for emancipation. This course is open to graduate students in all disciplines and fulfills one of the requirements for the IRWaG graduate certificate.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Abu-Lughod</course_instructors_actual>
+
+<course_instructors_expected>L. Abu-Lughod</course_instructors_expected>
+
+<course_instructors_full>L. Abu-Lughod</course_instructors_full>
+
+<classes><class><call_number>23766</call_number>
+
+<class_name>PARADIGMS: GENDER, CULTUR</class_name>
+
+<course_identifier>WMSTG6001</course_identifier>
+
+<course_number>6001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;754 EXT SCHERMERHORN HALL</days_times>
+
+<instructors>L. Abu-Lughod</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>19</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>WMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/WMST/G6001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

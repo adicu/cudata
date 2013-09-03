@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ACLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<subject_area_name>Athena Center</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3450</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACLS BC3450x and y</course_identifier_cooked>
+
+<course_name>Women and Leadership</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; Examination of the social conditions and linguistic practices that have shaped the historical and contemporary gendering of leadership, power, and authority in the United States and around the world. Through examples drawn from the social, political, and economic worlds, we will explore leadership in varying racial, class, and regional contexts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of instructor. Limited to 15.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Lewis, S. Angevine</course_instructors_actual>
+
+<course_instructors_expected>S. Angevine</course_instructors_expected>
+
+<course_instructors_full>A. Lewis, S. Angevine</course_instructors_full>
+
+<classes><class><call_number>09891</call_number>
+
+<class_name>WOMEN AND LEADERSHIP</class_name>
+
+<course_identifier>ACLSX3450</course_identifier>
+
+<course_number>3450</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 9:00a - 10:50a&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>A. Lewis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACLS/BC3450-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04851</call_number>
+
+<class_name>WOMEN AND LEADERSHIP</class_name>
+
+<course_identifier>ACLSX3450</course_identifier>
+
+<course_number>3450</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>S. Angevine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>33</student_enrollment_count>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACLS/BC3450-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06901</call_number>
+
+<class_name>WOMEN AND LEADERSHIP</class_name>
+
+<course_identifier>ACLSX3450</course_identifier>
+
+<course_number>3450</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 9:00a - 10:50a&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>S. Angevine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACLS/BC3450-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ACLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<subject_area_name>Athena Center</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACLS BC3997x</course_identifier_cooked>
+
+<course_name>Interdisciplinary Senior Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Limited to seniors participating in the Athena Scholars Program.&#38;nbsp;&#38;nbsp; Students will develop a social action project where they must demonstrate leadership skills in an off-campus setting.&#38;nbsp; Students will be expected to develop and implement a detailed plan to start their project.&#38;nbsp; Then they will collaborate with other class members to advance their projects, report to their peers on their accomplishments and have an opportunity to work closely with organizations across the city on their efforts.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ACLS BC3450.  Enrollment limited to Barnard seniors participating in the Athena Scholars Program.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Lewis, K. Kolbert</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Lewis, K. Kolbert</course_instructors_full>
+
+<classes><class><call_number>02742</call_number>
+
+<class_name>INTERDISCIPLINARY SENIOR</class_name>
+
+<course_identifier>ACLSX3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>A. Lewis&#60;br /&#62;
+K. Kolbert</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACLS/BC3997-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ACLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<subject_area_name>Athena Center</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACLS BC3998y</course_identifier_cooked>
+
+<course_name>Interdisciplinary Senior Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Limited to seniors participating in the Athena Scholars Program. Students will develop a social action project where they must demonstrate leadership skills in an off-campus setting. Students will be expected to develop and implement a detailed plan to start their project. Then they will collaborate with other class members to advance their projects, report to their peers on their accomplishments and have an opportunity to work closely with organizations across the city on their efforts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ACLS BC3450. Enrollment limited to Barnard seniors participating in the Athena Scholars Program</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Kolbert</course_instructors_actual>
+
+<course_instructors_expected>A. Lewis</course_instructors_expected>
+
+<course_instructors_full>A. Lewis, K. Kolbert</course_instructors_full>
+
+<classes><class><call_number>09746</call_number>
+
+<class_name>INTERDISCIPLINARY SENIOR</class_name>
+
+<course_identifier>ACLSX3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>K. Kolbert</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>ACLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACLS/BC3998-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

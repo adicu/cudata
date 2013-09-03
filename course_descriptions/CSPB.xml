@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>CSPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<subject_area_name>Centennial Scholars</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1889</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CTSC BC1889y</course_identifier_cooked>
+
+<course_name>Working With Ideas</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>C.N. - 06732</course_points_notes>
+
+<course_points_cooked>4.5 pts.  C.N. - 06732</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An interdisciplinary course designed to lay the foundation for the core of the Program, which is an extended apprenticeship with the student&#39;s mentor(s).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Denburg</course_instructors_expected>
+
+<course_instructors_full>D. Denburg</course_instructors_full>
+
+</course><course><academic_department_code>CSPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<subject_area_name>Centennial Scholars</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3501</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CTSC BC3501x or y</course_identifier_cooked>
+
+<course_name>First Semester Apprenticeship</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>C.N. -  03319</course_points_notes>
+
+<course_points_cooked>4 pts.  C.N. -  03319</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>First semester working with mentor(s).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Denburg</course_instructors_actual>
+
+<course_instructors_expected>D. Denburg</course_instructors_expected>
+
+<course_instructors_full>D. Denburg</course_instructors_full>
+
+<classes><class><call_number>03319</call_number>
+
+<class_name>FIRST SEMESTER APPRENTICE</class_name>
+
+<course_identifier>CTSCX3501</course_identifier>
+
+<course_number>3501</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Denburg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CTSC/BC3501-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<subject_area_name>Centennial Scholars</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3502</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CTSC BC3502x or y</course_identifier_cooked>
+
+<course_name>Second Semester Apprenticeship</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>C.N. - 06204</course_points_notes>
+
+<course_points_cooked>4 pts.  C.N. - 06204</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Second semester working with student&#39;s mentor(s).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CTSC BC 1889y Working with Ideas.  CTSC BC 3501 First Semester Apprenticeship.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Denburg</course_instructors_actual>
+
+<course_instructors_expected>D. Denburg</course_instructors_expected>
+
+<course_instructors_full>D. Denburg</course_instructors_full>
+
+<classes><class><call_number>06204</call_number>
+
+<class_name>SECOND SEMESTER APPRENTIC</class_name>
+
+<course_identifier>CTSCX3502</course_identifier>
+
+<course_number>3502</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Denburg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CTSC/BC3502-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<subject_area_name>Centennial Scholars</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3503</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CTSC BC3503x or y</course_identifier_cooked>
+
+<course_name>Third Semester Apprenticeship</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>C.N. - 06203</course_points_notes>
+
+<course_points_cooked>4 pts.  C.N. - 06203</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Third semester working with student&#39;s mentor(s).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CTSC BC 1889y Working with Ideas, 06732 4.5pts.  CTSC BC 3501 First Semester Apprenticeship 03319 4.0pts.  CTSC BC 3502 Second Semester Apprenticeship 06204 4.0pts</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Denburg</course_instructors_actual>
+
+<course_instructors_expected>D. Denburg</course_instructors_expected>
+
+<course_instructors_full>D. Denburg</course_instructors_full>
+
+<classes><class><call_number>06203</call_number>
+
+<class_name>THIRD SEMESTER APPRENTICE</class_name>
+
+<course_identifier>CTSCX3503</course_identifier>
+
+<course_number>3503</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Denburg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CTSC/BC3503-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<subject_area_name>Centennial Scholars</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3597</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CTSC BC3597x</course_identifier_cooked>
+
+<course_name>Presentation Symposium</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>C.N. - 04615</course_points_notes>
+
+<course_points_cooked>1 pt.  C.N. - 04615</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Denburg</course_instructors_expected>
+
+<course_instructors_full>D. Denburg</course_instructors_full>
+
+</course><course><academic_department_code>CSPB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<subject_area_name>Centennial Scholars</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3598</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CTSC BC3598y</course_identifier_cooked>
+
+<course_name>Presentation Symposium</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>C. N. - 07023</course_points_notes>
+
+<course_points_cooked>1 pt.  C. N. - 07023</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CTSC BC 3597x Presentation Symposium 04615 1.0pt.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Denburg</course_instructors_actual>
+
+<course_instructors_expected>D. Denburg</course_instructors_expected>
+
+<course_instructors_full>D. Denburg</course_instructors_full>
+
+<classes><class><call_number>07023</call_number>
+
+<class_name>PRESENTATION SYMPOSIUM</class_name>
+
+<course_identifier>CTSCX3598</course_identifier>
+
+<course_number>3598</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;514 ALTSCHUL HALL</days_times>
+
+<instructors>D. Denburg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>CTSC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CTSC/BC3598-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

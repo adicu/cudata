@@ -1,0 +1,3578 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1156</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1156x</course_identifier_cooked>
+
+<course_name>Legacy of the Mediterranean I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course investigates key intellectual moments in the rich literary history that originated in classical Greece and Rome and continues to inspire some of the world&#39;s greatest masterpieces. Close readings of works reveal how psychological and ideological paradigms, including the self and civilization, shift over time, while the historical trajectory of the course invites inquiry into the myth of progress at the heart on canonicity. Texts include Euripides,&#38;nbsp;The Bacchae;&#38;nbsp;the Homeric Hymn to Demeter; Homer,&#38;nbsp;Odyssey; Vergil,&#38;nbsp;Aeneid; Dante,&#38;nbsp;Inferno; Chaucer,&#38;nbsp;The Canterbury Tales; Margery Kempe, The Book of Margery Kempe; Shakespeare [selection depends on NYC theatre offerings]; Madame de Lafayette,&#38;nbsp;La Princesse de Cleves.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Pedatella</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Pedatella</course_instructors_full>
+
+<classes><class><call_number>03082</call_number>
+
+<class_name>LEGACY OF THE MEDITERRANE</class_name>
+
+<course_identifier>FYSBX1156</course_identifier>
+
+<course_number>1156</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>S. Pedatella</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1156-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1164</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1164x</course_identifier_cooked>
+
+<course_name>Women and Culture I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course investigates key intellectual moments in the rich literary history that originated in classical Greece and Rome and continues to inspire some the the world&#39;s greatest masterpieces.&#38;nbsp; Close readings of works reveal how psychological and ideological paradigms, including the self and civilization, shift over time, while the historical trajectory of the course invites inquiry into the myth of progress at the heart of canonicity.&#38;nbsp; Texts include: Aeschylus, Oresteia; Hymn to Demeter; Ovid, Metamorphoses; Sei Shonagon, The Pillow Book; Marie de France, Lais; Chaucer, The Canterbury Tales; Sor Juana Ines de la Cruz, selected poetry; Shakespeare, As You Like It; Aphra Behn, Oroonoko; and Lady Hyegyong, The Memoirs of Lady Hyegyong.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Fleischer</course_instructors_actual>
+
+<course_instructors_expected>G. Fleischer</course_instructors_expected>
+
+<course_instructors_full>G. Fleischer</course_instructors_full>
+
+<classes><class><call_number>02334</call_number>
+
+<class_name>WOMEN AND CULTURE I</class_name>
+
+<course_identifier>FYSBX1164</course_identifier>
+
+<course_number>1164</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>G. Fleischer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1164-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1166</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1166y</course_identifier_cooked>
+
+<course_name>The Art of Being Oneself</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Transparency in writing is a creation. It conveys the sense that the writer is putting all of his or her cards on the table, that the voice is candid and reasonable, that the person writing is knowable in an essential respect. Although in recent decades such a prose style has not been especially cherished in literature, it has characterized works that endure and that survive translation. Great artists in whatever medium tend to write clearly, vividly, concisely, and memorably about such complicated subjects as aesthetics, technique, political identity, the workings of society, and the shadings of emotion that galvanize human action. This course will look at examples ranging across time, space, and literary medium: the essay, the lecture, the autobiography, the journal, the letter, and the short story. Readings in the past have included Phillip Lopate, The Personal Essay; Eugene Delacroix, The Journals; Wolfgang Amadeus Mozart, Letter; Chinua Achebe, Home and Exile; Paul Taylor, Private Domain; and Eudora Welty, One Writer&#39;s Beginnings.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Aloff</course_instructors_actual>
+
+<course_instructors_expected>M. Aloff</course_instructors_expected>
+
+<course_instructors_full>M. Aloff</course_instructors_full>
+
+<classes><class><call_number>04846</call_number>
+
+<class_name>THE ART OF BEING ONESELF</class_name>
+
+<course_identifier>FYSBX1166</course_identifier>
+
+<course_number>1166</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>M. Aloff</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1166-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1169</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1169x</course_identifier_cooked>
+
+<course_name>Legacy of the Mediterranean I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course investigates key intellectual moments in the rich literary history that originated in classical Greece and Rome and continues to inspire some of the world&#39;s greatest masterpieces. Close readings of works reveal how psychological and ideological paradigms, including the self and civilization, shift over time, while the historical trajectory of the course invites inquiry into the myth of progress at the heart on canonicity. Texts include Euripides, The Bacchae; the Homeric Hymn to Demeter; Homer, Odyssey; Vergil, Aeneid; Dante, Inferno; Chaucer, The Canterbury Tales; Margery Kempe, The Book of Margery Kempe; Shakespeare [selection depends on NYC theatre offerings]; Madame de Lafayette, La Princesse de Cleves.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Plotkin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Plotkin</course_instructors_full>
+
+<classes><class><call_number>05747</call_number>
+
+<class_name>LEGACY OF THE MEDITERRANE</class_name>
+
+<course_identifier>FYSBX1169</course_identifier>
+
+<course_number>1169</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>C. Plotkin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1169-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1189</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1189x</course_identifier_cooked>
+
+<course_name>Enchanted Imagination</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp;A survey of fantasy works that examines the transformative role of the Imagination in aesthetic and creative experience, challenges accepted boundaries between the imagined and the real, and celebrates Otherness and Magicality in a disenchanted world. Readings will be selected from fairy tales, Shakespeare&#39;s A Midsummer Night&#39;s Dream and The Tempest; Romantic poetry by Blake, Coleridge, Keats, and Dickinson; Romantic art by Friedrich, Waterhouse, and Dore; Mary Shelley&#39;s Frankenstein, Lewis Carroll&#39;s Alice books, Tennyson&#39;s Idylls of the King, Tolkien&#39;s Lord of the Rings; Magical Realist works by Borges, Garcia Marquez, and Allende; Sondheim &#38;amp; Lapine&#39;s Into the Woods, Rushdie&#39;s Haroun and the Sea of Stories.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Pagano</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Pagano</course_instructors_full>
+
+<classes><class><call_number>04339</call_number>
+
+<class_name>THE ENCHANTED IMAGINATION</class_name>
+
+<course_identifier>FYSBX1189</course_identifier>
+
+<course_number>1189</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;102 SULZBERGER ANNEX</days_times>
+
+<instructors>J. Pagano</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1189-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1192</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1192y</course_identifier_cooked>
+
+<course_name>Legacy of the Mediterranean II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course investigates key intellectual moments in the rich literary history that originated in classical Greece and Rome and continues to inspire some of the world&#39;s greatest masterpieces. Trips to museums and the opera situate the works in an interdisciplinary context available only in New York City. Works include Milton, Paradise Lost; Voltaire,Candide; Puccini, La Boheme[excursion to the Metropolitan Opera]; William Wordsworth (selected poetry); Mary Shelley, Frankenstein; Darwin, Marx, and Freud (selected essays); Joseph Conrad; Heart of Darkness; T. S. Eliot, The Waste Land; Virginia Woolf, To the Lighthouse; Zora Neale Hurston; Their Eyes Were Watching God.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Sastry</course_instructors_actual>
+
+<course_instructors_expected>S. Sastry</course_instructors_expected>
+
+<course_instructors_full>S. Sastry</course_instructors_full>
+
+<classes><class><call_number>08904</call_number>
+
+<class_name>LEGACY OF MEDITERRANEAN I</class_name>
+
+<course_identifier>FYSBX1192</course_identifier>
+
+<course_number>1192</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>S. Sastry</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1192-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1193</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1193y</course_identifier_cooked>
+
+<course_name>Legacy of the Mediterranean II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course investigates key intellectual moments in the rich literary history that originated in classical Greece and Rome and continues to inspire some of the world&#39;s greatest masterpieces. Trips to museums and the opera situate the works in an interdisciplinary context available only in New York City. Works include Milton, Paradise Lost; Voltaire,Candide; Puccini, La Boheme[excursion to the Metropolitan Opera]; William Wordsworth (selected poetry); Mary Shelley, Frankenstein; Darwin, Marx, and Freud (selected essays); Joseph Conrad; Heart of Darkness; T. S. Eliot, The Waste Land; Virginia Woolf, To the Lighthouse; Zora Neale Hurston; Their Eyes Were Watching God.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Smith</course_instructors_actual>
+
+<course_instructors_expected>K. Smith</course_instructors_expected>
+
+<course_instructors_full>K. Smith</course_instructors_full>
+
+<classes><class><call_number>07174</call_number>
+
+<class_name>LEGACY OF MEDITERRANEAN I</class_name>
+
+<course_identifier>FYSBX1193</course_identifier>
+
+<course_number>1193</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>K. Smith</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1193-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1194</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1194y</course_identifier_cooked>
+
+<course_name>Legacy of the Mediterranean II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course investigates key intellectual moments in the rich literary history that originated in classical Greece and Rome and continues to inspire some of the world&#39;s greatest masterpieces. Trips to museums and the opera situate the works in an interdisciplinary context available only in New York City. Works include Milton, Paradise Lost; Voltaire,Candide; Puccini, La Boheme[excursion to the Metropolitan Opera]; William Wordsworth (selected poetry); Mary Shelley, Frankenstein; Darwin, Marx, and Freud (selected essays); Joseph Conrad; Heart of Darkness; T. S. Eliot, The Waste Land; Virginia Woolf, To the Lighthouse; Zora Neale Hurston; Their Eyes Were Watching God.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Pilinovsky</course_instructors_actual>
+
+<course_instructors_expected>H. Pilinovsky</course_instructors_expected>
+
+<course_instructors_full>H. Pilinovsky</course_instructors_full>
+
+<classes><class><call_number>07388</call_number>
+
+<class_name>LEGACY OF MEDITERRANEAN I</class_name>
+
+<course_identifier>FYSBX1194</course_identifier>
+
+<course_number>1194</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>H. Pilinovsky</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1194-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1203</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1203x</course_identifier_cooked>
+
+<course_name>Crisis of Authority</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Governing authority can be defined as the relationship between ruler and ruled in which the framing of issues, the myths and narrative history of the state, and the reasoned elaboration of the government&#39;s decision are accepted by the citizens of subjects of the state. The crisis of authority occurs when this relationship is disrupted. In this seminar we will examine such crises in Ancient Greece, Renaissance Western Europe, twentieth-century United States, and post-communist Eastern Europe, through the writings of such authors as Plato, Machiavelli, Milton, Mill, de Tocqueville, King, and Michnik.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Pious</course_instructors_actual>
+
+<course_instructors_expected>R. Pious</course_instructors_expected>
+
+<course_instructors_full>R. Pious</course_instructors_full>
+
+<classes><class><call_number>03247</call_number>
+
+<class_name>THE CRISIS OF AUTHORITY</class_name>
+
+<course_identifier>FYSBX1203</course_identifier>
+
+<course_number>1203</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>R. Pious</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1203-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1228</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1228x</course_identifier_cooked>
+
+<course_name>Ethnicity and Social Transformation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Novels, memoirs, films and fieldwork based on the American experience of immigration during the twentieth centure. Readings will include works by Bernard Malamud, Philip Roth, Christina Garcia, Julia Alvarez, Fae Ng, Gish Jen, Langston Hughes, Toni Morrison, and Malcolm X.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Ellsberg</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Ellsberg</course_instructors_full>
+
+<classes><class><call_number>06400</call_number>
+
+<class_name>ETHNICITY &#38; SOCIAL TRANSF</class_name>
+
+<course_identifier>FYSBX1228</course_identifier>
+
+<course_number>1228</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>M. Ellsberg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1228-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1271</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1271y</course_identifier_cooked>
+
+<course_name>Americas II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Offers a revisionist perspective by transcending the traditional and arbitrary distinction that seperates North and South American literatures. Emanating from what might be called the geographical site of modernity, American literature is characterized by unprecedented diversity and innovation. In addition to the classic American novels, short stories, and poetry, the following multicultural curriculum features genres ranging from slave narratives and manifestoes to gothicism and magic realism. A general lecture series dramatizes the historical vitality of American letter. Readings include Nathaniel Hawthorne, The Blithedale Romance; Frederick Douglass, Narrative of the Life of Frederick Douglass; Jos&#38;eacute; Marti, Walt Whitman, Emily Dickinson, Langston Hughes, Gwendolyn Bennett, and T. S. Eliot, selected poetry; Machado de Assis, Dom Casmurro; William Faulkner, Jorge Luis Borges, and Gabriel Garcia Marquez, selected stories.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Mehta</course_instructors_actual>
+
+<course_instructors_expected>L. Mehta</course_instructors_expected>
+
+<course_instructors_full>L. Mehta</course_instructors_full>
+
+<classes><class><call_number>02188</call_number>
+
+<class_name>THE AMERICAS II</class_name>
+
+<course_identifier>FYSBX1271</course_identifier>
+
+<course_number>1271</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>L. Mehta</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1271-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1286</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1286y</course_identifier_cooked>
+
+<course_name>Culture, Ethics and Economics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What if humans were only capable of caring for their own interests? What kind of economic world could we expect to find? One in which the common good would be attained by market forces, or one in which many would be left behind? This course uses a diversity of sources to examine the interplay of culture, ethics and economics. The starting point is Adam Smith&#39;s work. Economists and policy makers have focused on one side of Adam Smith&#39;s work represented by self-regarding behavior and the supremacy of the invisible hand in market functioning. However, Adam Smith also pointed out that one of humans&#39; central emotions is &#38;quot;sympathy&#38;quot;, a natural tendency to care about the well-being of others. In light of the recent events as well as research this other side of Adam Smith&#39;s work appears now more relevant. We analyze evidence of cooperative versus self-regarding behaviors and its relationship with the economy, human evolution and cultural values in a variety of settings. Readings include works from Adam Smith, Milton Freedman, Charles Dickens, David Rockefeller and Chris Gardner.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Pereira</course_instructors_actual>
+
+<course_instructors_expected>S. Pereira</course_instructors_expected>
+
+<course_instructors_full>S. Pereira</course_instructors_full>
+
+<classes><class><call_number>02644</call_number>
+
+<class_name>CULTURE, ETHICS &#38; ECONOMI</class_name>
+
+<course_identifier>FYSBX1286</course_identifier>
+
+<course_number>1286</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>S. Pereira</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1286-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1288</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1288y</course_identifier_cooked>
+
+<course_name>Race, Democracy, and Education</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; In this seminar we will explore historical and contemporary ideas about education, race and democracy.&#38;nbsp;&#38;nbsp; Drawing on multiple disciplinary frameworks, we will examine conceptions of the role of education in a democracy and the tensions between ideals of democracy, the exclusionary treatment of particular groups, and their struggles for inclusion in the democratic polity at different points in our history as a nation. We will consider the ways public education reproduces as well as challenges inequality and discuss its potential to provide skills and dispositions for democratic citizenship in our increasingly diverse society</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Bell</course_instructors_actual>
+
+<course_instructors_expected>L. Bell</course_instructors_expected>
+
+<course_instructors_full>L. Bell</course_instructors_full>
+
+<classes><class><call_number>07198</call_number>
+
+<class_name>RACE, DEMOCRACY, &#38; EDUCAT</class_name>
+
+<course_identifier>FYSBX1288</course_identifier>
+
+<course_number>1288</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>L. Bell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1288-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1289</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1289y</course_identifier_cooked>
+
+<course_name>Violence and Justice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What is the relationship between violence and justice? Are these mutually exclusive terms or do they at times overlap? Is violent disobedience of law unjustifiable at all times? How about violence used by to draw attention to questions of injustice?&#38;nbsp; This first year seminar aims to inquire into these challenging questions by studying the theoretical debates on the relationship between violence, politics, and justice (e.g. Sorel, Fanon, Arendt, Zizek), analyzing different conceptions of civil disobedience (e.g. Plato, Thoreau, Marcuse, Rawls, Habermas), looking at examples of political struggles (e.g. civil rights movement, student protests of late 60s, labor movement, anti-colonial struggle, anti-globalization protests, suffragettes), and grappling with the question of how representations of violence affect our judgment about its legitimacy (e.g. Conrad&#39;s Secret Agent).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Gundogdu</course_instructors_actual>
+
+<course_instructors_expected>A. Gundogdu</course_instructors_expected>
+
+<course_instructors_full>A. Gundogdu</course_instructors_full>
+
+<classes><class><call_number>03109</call_number>
+
+<class_name>VIOLENCE AND JUSTICE</class_name>
+
+<course_identifier>FYSBX1289</course_identifier>
+
+<course_number>1289</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>A. Gundogdu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1289-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1291</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1291xy</course_identifier_cooked>
+
+<course_name>Utopias</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In his 1516 work Utopia, Englishman Thomas More created a name for a perfect society from Greek roots meaning either no-place or the good place (eutopia). More&#39;s vision of an ideal alternative world reflected his worries about social problems in England as well as the possibilities he imagined in America, which offered a real new world for most Europeans in the early 1500s. More was neither the first nor last person to imagine an alternate world, and this class will examine the ways writers, politicians, social critics, and revolutionaries have constructed eutopias (or good societies) as well as dystopias (bad societies) in fiction and in real life. We will ask how utopian fiction has developed as a distinctive genre, and we will also ask how utopian thought is a product of its particular time. What motivates writers and thinkers to come up with alternative models of society? What has made utopian fiction and science fiction so interesting to so many different kinds of writers? Additionally, what is the relationship between people who have written fictional visions of the future and those people who have tried to create real utopian societies? Can one person&#39;s eutopia become another&#39;s dystopia? Readings in the class will range from Plato&#39;s Republic through modern science fiction and studies of surbubia. Texts include More&#39;s Utopia, Columbus&#39;s journals, Shakespeare&#39;s The Tempest, the Communist Manifesto, Gilman&#39;s Herland, and Hopkins&#39;s Of One Blood. We will also examine attempts to create utopias, including several American experimental communes from the early 1800s, nationalist racial dystopias such as Nazi Germany, and master-planned communities in the modern United States.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Kenny</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Kenny</course_instructors_full>
+
+<classes><class><call_number>06018</call_number>
+
+<class_name>UTOPIAS</class_name>
+
+<course_identifier>FYSBX1291</course_identifier>
+
+<course_number>1291</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>G. Kenny</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1291-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1292</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1292x</course_identifier_cooked>
+
+<course_name>The Americas I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Transcends the traditional and arbitrary distinction that separates North and South American literatures. The Americas emerge not as a passive colonial object but as an active historical and aesthetic agent. Emanating from what might be called the geographical site of modernity, American literature is characterized by unprecedented diversity and innovation. In addition to classic American novels, short stories, and poetry, the multicultural curriculum features genres ranging from creation myths and slave narratives to Gothicism and magic realism. Texts include: Popul Vuh; Shakespeare, The Tempest; Sor Juana In&#38;eacute;s de la Cruz, Anne Bradstreet, and Phillis Wheatley, selected poetry; Madre Mar&#38;iuml;a de San Jos&#38;iuml;, Vida; Charles Brockden Brown, Edgar Huntly; Toussaint L&#39;Ouverture, selected letters; Leonora Sansay, Secret History; Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano; William Apess, A Sonof the Forest; Esteban Echeverr&#38;iuml;a, &#34;The Slaughterhouse&#34;; Herman Melville, &#34;Benito Cereno.&#34;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Rosenthal</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Rosenthal</course_instructors_full>
+
+<classes><class><call_number>04970</call_number>
+
+<class_name>THE AMERICAS I</class_name>
+
+<course_identifier>FYSBX1292</course_identifier>
+
+<course_number>1292</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>J. Rosenthal</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1292-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1295</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1295y</course_identifier_cooked>
+
+<course_name>Envisioning Equality Between the Sexes</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What constitutes equality between the sexes? By studying visions of equality between the sexes offered in law, politics, international development, religion, literature,&#38;nbsp; psychology, anthropology, and the writings of activists, we will explore what such equality must or might look like. Focusing on western authors, we will consider issues such as rights, equality and difference, reproductive roles, violence, and language.&#38;nbsp; Texts will include&#38;nbsp; Elizabeth Cady Stanton, A Woman&#38;rsquo;s Bible; the U.N.&#38;rsquo;s &#38;ldquo;Convention on the Elimination of Discrimination Against Women&#38;rdquo;; the Supreme Court&#38;rsquo;s decision in United States v. Virginia et al.; Marge Piercy, Woman on the Edge of Time; Catherine MacKinnon, Only Words; and Rebecca Walker, &#38;ldquo;Becoming the Third Wave.&#38;rdquo; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Ullman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Ullman</course_instructors_full>
+
+<classes><class><call_number>02886</call_number>
+
+<class_name>EQUALITY BETWEEN THE SEXE</class_name>
+
+<course_identifier>FYSBX1295</course_identifier>
+
+<course_number>1295</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>C. Ullman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1295-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1296</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1296x and y</course_identifier_cooked>
+
+<course_name>The Hudson River in Art and Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Called &#38;ldquo;America&#38;rsquo;s River,&#38;rdquo; the Hudson not only runs right behind our campus, but right through American history. In the nineteenth century, the Hudson River was a complex social and cultural entity, simultaneously a commercial conduit, a historic place at the center of the American Revolution, an industrial resource, and a privileged site for a very particular set of aesthetic experiences. This curriculum explores these perspectives as facets of modernity and as participating in the constitution of a modern subject, while also examining how the nineteenth-century Hudson set the stage for its twentieth-century role as birthplace of modern environmentalism. Readings will include literary works by Washington Irving and James Fenimore Cooper as well as essays and poems on subjects from fairies to trees to architecture to railroad travel.&#38;nbsp; Close analysis of works of architecture, landscape design, and the iconic paintings of the Hudson River School will be accompanied by an exploration of the various methods for&#38;nbsp;&#38;ldquo;reading&#38;rdquo; these objects and paintings. Visits to Museum collections and to sites along the river will be an important part of the curriculum.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Davis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Davis</course_instructors_full>
+
+<classes><class><call_number>04046</call_number>
+
+<class_name>HUDSON RIVER&#38;MDRNZN OF AM</class_name>
+
+<course_identifier>FYSBX1296</course_identifier>
+
+<course_number>1296</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>M. Davis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1296-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1297</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1297xy</course_identifier_cooked>
+
+<course_name>Capitalism, Liberalism and Freedom</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The authors of the Declaration of Independence held as self-evident that &#38;ldquo;all men are created equal&#38;hellip; endowed with certain inalienable rights, that among these are life, liberty and the pursuit of happiness.&#38;rdquo; The meaning of these words, especially their relationship to the economy and the state, has evolved since the words were penned. Today they are the subject of a passionate political struggle. This course examines the thinking about capitalism and freedom from the classical liberals, including Locke, Smith and Tocqueville, through to today&#38;rsquo;s conservative movement and its opponents. Readings contrast selections from the &#38;ldquo;conservative cannon,&#38;rdquo; including Friedrich Hayek and Milton Friedman, with several liberal or progressive counterparts. We will read Barbara Ehrenreich, Nickel and Dimed; Michael Lewis, Liar&#38;rsquo;s Poker; and conclude by examining the landmark Supreme Court case, Citizens United.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Dye</course_instructors_actual>
+
+<course_instructors_expected>A. Dye</course_instructors_expected>
+
+<course_instructors_full>A. Dye</course_instructors_full>
+
+<classes><class><call_number>02667</call_number>
+
+<class_name>CAPITALISM,LIBERALISM,FRE</class_name>
+
+<course_identifier>FYSBX1297</course_identifier>
+
+<course_number>1297</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;308 Diana Center</days_times>
+
+<instructors>A. Dye</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1297-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1329</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1329y</course_identifier_cooked>
+
+<course_name>Women and Culture II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course examines constraints on canonicity, especially as they pertain to the portrayal of women in literature and culture. The curriculum explores a diverse range of intellectual and experiential possibilities for women, and it challenges traditional dichotomies--culture/nature, logos/pathos, mind/body--that cast gender as an essential attribute rather than a cultural construction. Readings include Milton, Paradise Lost; Leonora Sansay, Secret History; Mary Wollstonecraft, A Vindication of the Rights of Woman; Emily Bront&#38;euml;,&#38;nbsp; Wuthering Heights; Emily Dickinson, selected poetry; Sigmund Freud, selected essays; Virginia Woolf, Mrs. Dalloway; Gertrude Stein, Doctor Faustus Lights the Lights; Bessie Head, When Rain Clouds Gather.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Levin</course_instructors_actual>
+
+<course_instructors_expected>K. Levin</course_instructors_expected>
+
+<course_instructors_full>K. Levin</course_instructors_full>
+
+<classes><class><call_number>01375</call_number>
+
+<class_name>WOMEN AND CULTURE II</class_name>
+
+<course_identifier>FYSBX1329</course_identifier>
+
+<course_number>1329</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>K. Levin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1329-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1457</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1457x</course_identifier_cooked>
+
+<course_name>The Beautiful Sea</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Consideration of mostly American texts that--and writers who--share a central engagement with the sea, seafaring and coastal life. Particular attention to the sea as workplace and as escape. Texts include Homer, The Odyssey; the Book of Jonah; St. Brendan, Navigations; Bradford, Of Plymouth Plantation; Mather, &#38;quot;Surprising Sea Deliverances&#38;quot;; Franklin, &#38;quot;Maritime Observations&#38;quot;; Dana, Two Years Before the Mast; Melville, Moby-Dick, or The Whale; Thoreau, Cape Cod; Twain, Life on the Mississippi; Chopin, The Awakening; Jewett, The Country of the Pointed Firs; Slocum, Sailing Alone Around the World; Beston, The Outermost House; Carson, Under the Sea Wind; Rich, &#38;quot;Diving into the Wreck&#38;quot;; Casey, Spartina.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. McCaughey</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. McCaughey</course_instructors_full>
+
+<classes><class><call_number>01273</call_number>
+
+<class_name>THE BEAUTIFUL SEA</class_name>
+
+<course_identifier>FYSBX1457</course_identifier>
+
+<course_number>1457</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>R. McCaughey</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1457-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1460</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1460y</course_identifier_cooked>
+
+<course_name>Memory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Memory is arguably the most important faculty that we possess. Not surprisingly, memory has been a ubiquitous topic in poetry, science, fiction, and in the media. Ironically, memory&#39;s value is perhaps best understood when it ceases to exist. Indeed, it isn&#39;t hard to imagine the devastation that comes with memory loss. In this course, we will survey various components of memory, including its role in writing and history, and its existence in various non-human populations. In addition, we will explore the fragility of memory, including distortions, unusual memories, and basic forgetting. Readings will include poems, theoretical essays, scientific articles, and fiction. Assignments will consist of essays, opinion pieces, and creative stories. Students will also participate in a final in-class debate.&#38;nbsp; Readings will include works from William Blake, James Joyce, Mary Elizabeth Coleridge, Emily Dickinson, Ben Jonson, Mary Carruthers, Francis Yates, Aristotle, William James, Elizabeth Loftus, Spinoza, Luria, J.L. Borges, S. Freud, Oliver Sacks, Truman Capote</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1462</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1462y</course_identifier_cooked>
+
+<course_name>Science, Literature and Culture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In this seminar, we will explore the cultural intersection of science and literature by reading pieces of creative writing (novels, plays, poems, short stories) alongside pieces of scientific writing (articles, essays, treatises). Topics will include the &#38;quot;proper&#38;quot; purposes and aims of scientific pursuit, the possibilities of artificial life and artificial intelligence, the implications of geological discovery and the theory of evolution, the impact of early theories of psychology and anthropology, the application of quantum and chaos theory to human existence, and the consequences of genetic experimentation. How do fiction writers engage such scientific theories in the themes and structures of their works, and to what end? How do scientists engage elements of storytelling in the explanation of their theories? What stories of human experience are fiction and science telling at different moments in Western history, and do science and literature seem to represent two different &#38;quot;cultures&#38;quot; at those moments? Readings will include works by Plato, Chaucer, Bacon, Descartes, Newton, Pope, Mary Shelley, Lyell, Tennyson, Darwin, Arnold, Dreiser, Freud, Anderson, Boas, Hurston, Einstein, Durenmatt, Snow, Pynchon, Borges, Stoppard and Ishiguro.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Hollibaugh</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Hollibaugh</course_instructors_full>
+
+<classes><class><call_number>03370</call_number>
+
+<class_name>SCIENCE LITERATURE &#38; CULT</class_name>
+
+<course_identifier>FYSBX1462</course_identifier>
+
+<course_number>1462</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>L. Hollibaugh</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1462-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1463</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1463y</course_identifier_cooked>
+
+<course_name>Energy and Culture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course proposes that significant issues on the history of the last 200 years can be seen through the lens of industrial and intellectual engagement with energy. Whether coal, oil, solar, or nuclear, methods of energy extraction and forms of use have influenced the economic, political, and cultural conditions of the modern world. We will investigate significant moments of energy transition in the past and speculate about the possibilities of the present and near future, emphasizing how these periods can be seen as both industrial challenge and cultural opportunity. We will read sociological and scientific accounts of energy use and supply, histories of the development of energy technologies, and explore novels, films, art and architecture that express cultural engagement with changes in energy regimes. Texts will include selections from Lewis Mumford, Technics and Civilization (1934); Amory Lovins, Soft Energy Paths(1977); and Bill McKibben, Eaarth: Making a Life on a Tough New Planet (2010). &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1464</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1464y</course_identifier_cooked>
+
+<course_name>God, Women, and Islam</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This seminar introduces students to a spectrum of sources from the Islamic tradition, broadly defined, that center around the idea of God and its relation to women. A variety of genres, fiction and non-fiction, will be studied, including passages from Muslim scripture, the Quran, and sayings of the Prophet and other authoritative figures. Particular emphasis is placed on retrieving the voice of women, in addition to introducing what men have had to say about the relation between women and God. Texts include biographical accounts of women as divine authorities in Sufism (sometimes described as saints, for example in Attar&#39;s 13th-century biographical dictionary), selections from The Arabian Nights, and devotional writings by Muslim women in the Middle East and South Asia. Contemporary works include Moroccan feminist Fatema Mernissi&#39;s Beyond the Veil, Saba Mahmoud&#39;s anthropological study Politics of Piety: The Islamic Revival and the Feminist Subject, and contemporary Arabic, Persian and Turkish fiction in translation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1465</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1465x</course_identifier_cooked>
+
+<course_name>On Dreams and Nightmares</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In the dead of night it is not uncommon for even the most socially staid of individuals to fly, to ride an elephant at breakneck speed, to visit with the dead, or to expose themselves in public. Ancient Egyptians struggled to understand how and why we dream, as have countless individuals in other times and cultures. Some thinkers, ancient and modern, have dismissed dreams as essentially meaningless byproducts of natural processes. Others have taken dreams seriously as a primary means of access to an ordinarily imperceivable world in which one can commune with spirits and deities and receive from them valuable information about future events or even one&#39;s own health. The implications of this belief have led to vigorous theological debates as to whose dreams may be trusted (and, alternatively, whose need to be actively suppressed). From Freud onward, many have felt that dreams offer the key not to other worlds but to the complicated realm of the psyche. Over the course of our semester we will look at how scientists, philosophers, hypochondriacs, pious pagans and monotheists, opium addicts, psychologists, playwrights, novelists, artists, and film directors have understood dreams and been inspired by them. Authors whose works we will read include Aristotle, Cicero, Chung Tzu, Sigmund Freud, Carl Jung, Andre Breton, H.P. Lovecraft, Jorge Borges, Ursula Le Guin, Neil Gaimon, and many others. Special attention will likewise be paid to the phenomenon of lucid dreaming and to the immense influence this practice has had on the creative output of both writers and filmmakers.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Morris</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Morris</course_instructors_full>
+
+<classes><class><call_number>02034</call_number>
+
+<class_name>ON DREAMS AND NIGHTMARES</class_name>
+
+<course_identifier>FYSBX1465</course_identifier>
+
+<course_number>1465</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>E. Morris</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1465-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1566</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1566y</course_identifier_cooked>
+
+<course_name>Exploring the Poles</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Experience the Arctic and Antarctic from the perspective of the early polar explorers: Nansen, Scott and Amundsen, Shackelton. Study the effect of extreme environmental conditions on expedition planning and implementation. Consider the relative importance of luck and skill in ultimate outcomes. Read classic works and journal accounts, including Nansen&#39;s Farthest North, Lansing&#39;s Endurance. Explore the dynamics of expeditions and the role of varying environmental conditions through role play. Use a web-based exploration tool to follow varying polar conditions during the expeditions and discuss emerging issues. Course web site: http://www.phys.barnard.edu/~kay/exp/.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Pfirman</course_instructors_actual>
+
+<course_instructors_expected>S. Pfirman</course_instructors_expected>
+
+<course_instructors_full>S. Pfirman</course_instructors_full>
+
+<classes><class><call_number>05994</call_number>
+
+<class_name>EXPLORING THE POLES</class_name>
+
+<course_identifier>FYSBX1566</course_identifier>
+
+<course_number>1566</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>S. Pfirman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1566-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1568</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1568y</course_identifier_cooked>
+
+<course_name>Mortals, Creatures and Subjects</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines concepts of the self in ancient, medieval, and modern philosophy and literature. The Greeks saw human beings as mortals, in contrast to the gods. Christians in the Middle Ages regarded themselves as immortal creatures reflecting the image of God. Since the seventeenth century we have come to understand selves very differently, namely as subjects defined by selfreflection, self-determination, self-definition, inwardness, and irreducible psychological complexity. Authors include, Homer, Plato, Augustine, Montaigne, Descartes, Pascal, Camus, and Sartre.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Carman</course_instructors_actual>
+
+<course_instructors_expected>T. Carman</course_instructors_expected>
+
+<course_instructors_full>T. Carman</course_instructors_full>
+
+<classes><class><call_number>02129</call_number>
+
+<class_name>MORTALS, CREATURES, SUBJE</class_name>
+
+<course_identifier>FYSBX1568</course_identifier>
+
+<course_number>1568</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>T. Carman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1568-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1572</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1572x</course_identifier_cooked>
+
+<course_name>Animals in Text and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Interdisciplinary examination of the intimate and fraught connections between animals and humans in literature, philosophy and culture. We will consider topics such as the historical constructions of species boundaries and of the multiple meanings and uses of animals in human life; animal and human identity; emotions evoked by animals; and conceptualizations of animals as colonized &#38;quot;others.&#38;quot; Readings include Aesop, Edward Albee, Angela Carter, John Coetzee, Geoffrey Chaucer, Gustave Flaubert, Jean LeFontaine, Marie de France, Michael Pollan, Ovid, selections from Genesis (in the Hebrew Bible), and Virginia Woolf.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Szell</course_instructors_actual>
+
+<course_instructors_expected>T. Szell</course_instructors_expected>
+
+<course_instructors_full>T. Szell</course_instructors_full>
+
+<classes><class><call_number>00801</call_number>
+
+<class_name>ANIMALS IN TEXT &#38; SOCIETY</class_name>
+
+<course_identifier>FYSBX1572</course_identifier>
+
+<course_number>1572</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;404 BARNARD HALL</days_times>
+
+<instructors>T. Szell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1572-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1586</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1586y</course_identifier_cooked>
+
+<course_name>Global Literature: Thinking Latin America: How to Read about Globalization from the Margins</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course explores how Spanish America emerged as a laboratory of aesthetic, philosophical and political thought by questioning the ideological foundations of western global and technological expansion. In this course we will explore the writings of writers who examined the conditions of possibility of violence of Iberian imperial expansion from the sixteenth century to the present. It will provide a literary and historical genealogy of the modern and postmodern views on nature, ecology, animal and human bodies. We will be especially interested in the analysis of dichotomies that lay the foundations of the Iberian political and scientific views on nature as well as the modern technical administration of human life through interpretative analysis and close readings of texts. We will examine how dichotomies truth/falsity, civilization/barbarism, male/female, raw material/commodities, nature/technology, developed/underdeveloped countries, while taken for granted by the imperial project, were questioned from the periphery. The field of study will range from the 15th to the 20th century, as authors include Bartolom&#38;eacute; de Las Casas, Gin&#38;eacute;s de Sep&#38;uacute;lveda, Jos&#38;eacute; de Acosta, Sor Juana In&#38;eacute;s de la Cruz, Sim&#38;oacute;n Bolivar, Doming Faustino Sarmiento, Jos&#38;eacute; Mart&#38;iacute;, Enrique Dusell, Jos&#38;eacute; Enrique Rod&#38;oacute;, Domitila Barrios de Chungara, Rigoberta Mench&#38;uacute;, Jorge Luis Borges.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>O. Bentancor</course_instructors_actual>
+
+<course_instructors_expected>O. Bentancor</course_instructors_expected>
+
+<course_instructors_full>O. Bentancor</course_instructors_full>
+
+<classes><class><call_number>01543</call_number>
+
+<class_name>THINKING LATIN AMERICA</class_name>
+
+<course_identifier>FYSBX1586</course_identifier>
+
+<course_number>1586</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>O. Bentancor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1586-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1588</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1588y</course_identifier_cooked>
+
+<course_name>Eating and Food</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; Eating behaviors and the biological necessity of food begin in infancy and continue developing over the course of a lifetime. After examining eating and food from the perspective of individuals, we will turn our attention to understanding how food decisions and habits are influenced by a hierarchy of social groups, from families to the global population. Writing assignments and discussion during seminar will draw on food-related activities outside of class in addition to varied readings including recent peer-reviewed science publications (medical, nutritional, anthropological, ecological), poems (Blake, Wordsworth, Whitman, Hughes, Hong), novels (Defoe, Martel), religious and folklore sources (Old and New Testaments, Aesop, Grimm) and historically significant essays (Swift, Malthus, Hardin, Lappe). &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>H. Callahan</course_instructors_expected>
+
+<course_instructors_full>H. Callahan</course_instructors_full>
+
+</course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1589</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1589x</course_identifier_cooked>
+
+<course_name>Global Literature:  Politics and the Novel</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Among its many pleasures, the novel offers a platform for writers to comment on political issues of their day: colonialism, economic exploitation, political corruption, religious strife, social conventions, and simply, human cruelty. Yet, what distinguishes superior novels from mere political treatises is the privileging of aesthetic values, the attention to form and style, the power of language, and the crafting of complex characters whose motivations the novelist him/herself may not understand. How do novelists use the techniques of fiction (plot structure, character development, setting) to convey political commitments and judgments? How do they link individual human lives to larger political structures? Traversing time and space, we read novels that grapple with the &#38;quot;big issues&#38;quot;of their day through the lives of individual characters. Texts include Ivan Turgenev&#39;s Fathers and Sons, Joseph Conrad&#39;s The Secret Agent, Carlos Fuentes&#39; The Death of Artemio Cruz, Naguib Mahfouz&#39;s Miramar, Ngugi wa Thiong&#39;o&#39;s Petals of Blood, Amitav Ghosh&#39;s The Glass Palace, and Orhan Pamuk&#39;s Snow.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. El-Ghobashy</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. El-Ghobashy</course_instructors_full>
+
+<classes><class><call_number>06183</call_number>
+
+<class_name>GLOBAL LIT:POLTCS &#38;THE NO</class_name>
+
+<course_identifier>FYSBX1589</course_identifier>
+
+<course_number>1589</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>M. El-Ghobashy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1589-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1591</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1591xy</course_identifier_cooked>
+
+<course_name>Genes, Stem Cells and Society</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Using scientific, popular and artistic sources we will explore the growing knowledge in genetics (particularly human genetics), our ability to manipulate the genes of various organisms and the social and ethical implications of these changes. In addition, we will explore the science and implications of advances in stem cell technology and cloning. Some of the approach in this course will be based on science; we will explore what technological advances have been made recently and what can be expected to occur in the near future. In other parts of the course we will examine works of fiction that explore genetics and its technological uses. Finally, other sections will involve readings about the ethical implications and possible social impact of recent scientific advances in genetics.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Morton</course_instructors_actual>
+
+<course_instructors_expected>B. Morton</course_instructors_expected>
+
+<course_instructors_full>B. Morton</course_instructors_full>
+
+<classes><class><call_number>07009</call_number>
+
+<class_name>GENES, STEM CELLS, &#38; SOCI</class_name>
+
+<course_identifier>FYSBX1591</course_identifier>
+
+<course_number>1591</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;404 BARNARD HALL</days_times>
+
+<instructors>B. Morton</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1591-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1592</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1592xy</course_identifier_cooked>
+
+<course_name>&#34;Cannibal Cousins&#34;: Haiti</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Haiti and the Dominican Republic &#38;ndash; two nations that share the same 30,000 square mile island and over five centuries of interconnected history, yet that have long remained deeply divided. In this course, students will examine the commonalities and the conflicts that mark the relationship between these two nations. Considering the false frontiers that separate profoundly related peoples across the Americas, students will look at the extent to which nation-language borders of the Caribbean reflect the legacy of a colonial history whose influence in many ways undermines regional community to the present day. Beginning with Christopher Columbus&#38;rsquo; fraught &#38;ldquo;discovery&#38;rdquo; of Hispaniola and ending with the 2010 earthquake and its aftermath, the course explores social, political, and cultural phenomena common to both nations &#38;ndash; among which, slavery and freedom; constructions of race, gender, and sexuality; Euro-North American imperialist intervention; and diaspora and migration &#38;ndash; as these issues manifest in primary and secondary works of creative fiction, history, anthropology, and political theory. From fugitive slave notices to short stories by Junot Diaz and Edwidge Danticat, this course traces the history of a divided Caribbean family through its most provocative representative texts. This First Year Seminar is a Critical Consortium for Interdisciplinary Studies (CCIS) Lab&#38;nbsp;&#38;ndash;&#38;nbsp;part of an exciting initiative to look at contemporary realities in an interdisciplinary and transnational context. As such, the course considers Haiti and the Dominican Republic from a primarily Haitian standpoint, then brings this perspective to the (seminar) table in occasional joint class meetings with a similarly themed FYS, in which overlapping and related materials are approached from a Dominican perspective. The aim of these linked courses is to paint a rich, polyphonic portrait of this long-embattled Caribbean island.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Glover</course_instructors_actual>
+
+<course_instructors_expected>K. Glover</course_instructors_expected>
+
+<course_instructors_full>K. Glover</course_instructors_full>
+
+<classes><class><call_number>06672</call_number>
+
+<class_name>CANNIBAL COUSINS: HAITI</class_name>
+
+<course_identifier>FYSBX1592</course_identifier>
+
+<course_number>1592</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>K. Glover</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1592-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1593</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1593xy</course_identifier_cooked>
+
+<course_name>&#34;Cannibal Cousins&#34;: Dominican Republic</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Haiti and the Dominican Republic &#38;ndash; two nations that share the same 30,000 square mile island and over five centuries of interconnected history, yet that have long remained deeply divided. In this course, students will examine the commonalities and the conflicts that mark the relationship between these two nations. Considering the false frontiers that separate profoundly related peoples across the Americas, students will look at the extent to which nation-language borders of the Caribbean reflect the legacy of a colonial history whose influence in many ways undermines regional community to the present day. Beginning with Christopher Columbus&#38;rsquo; fraught &#38;ldquo;discovery&#38;rdquo; of Hispaniola and ending with the 2010 earthquake and its aftermath, the course explores social, political, and cultural phenomena common to both nations &#38;ndash; among which, slavery and freedom; constructions of race, gender, and sexuality; Euro-North American imperialist intervention; and diaspora and migration &#38;ndash; as these issues manifest in primary and secondary works of creative fiction, history, anthropology, and political theory. From fugitive slave notices to short stories by Junot Diaz and Edwidge Danticat, this course traces the history of a divided Caribbean family through its most provocative representative texts. This First Year Seminar is a Critical Consortium for Interdisciplinary Studies (CCIS) Lab&#38;nbsp;&#38;ndash;&#38;nbsp;part of an exciting initiative to look at contemporary realities in an interdisciplinary and transnational context. As such, the course considers Haiti and the Dominican Republic from a primarily Dominican standpoint, then brings this perspective to the (seminar) table in occasional joint class meetings with a similarly themed FYS, in which overlapping and related materials are approached from a Haitian perspective. The aim of these linked courses is to paint a rich, polyphonic portrait of this long-embattled Caribbean island.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Horn</course_instructors_actual>
+
+<course_instructors_expected>M. Horn</course_instructors_expected>
+
+<course_instructors_full>M. Horn</course_instructors_full>
+
+<classes><class><call_number>06904</call_number>
+
+<class_name>CANNIBAL COUSINS: DOMINCN</class_name>
+
+<course_identifier>FYSBX1593</course_identifier>
+
+<course_number>1593</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>M. Horn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1593-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1601</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1601x</course_identifier_cooked>
+
+<course_name>Reacting to the Past</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Carnes</course_instructors_actual>
+
+<course_instructors_expected>M. Carnes</course_instructors_expected>
+
+<course_instructors_full>M. Carnes</course_instructors_full>
+
+<classes><class><call_number>01446</call_number>
+
+<class_name>REACTING TO THE PAST</class_name>
+
+<course_identifier>FYSBX1601</course_identifier>
+
+<course_number>1601</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>M. Carnes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1601-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1602</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1602x</course_identifier_cooked>
+
+<course_name>Reacting to the Past</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Postlewate</course_instructors_actual>
+
+<course_instructors_expected>L. Postlewate</course_instructors_expected>
+
+<course_instructors_full>L. Postlewate</course_instructors_full>
+
+<classes><class><call_number>07430</call_number>
+
+<class_name>REACTING TO THE PAST</class_name>
+
+<course_identifier>FYSBX1602</course_identifier>
+
+<course_number>1602</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>L. Postlewate</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1602-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1608</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1608y</course_identifier_cooked>
+
+<course_name>Reacting to the Past</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Milnor</course_instructors_actual>
+
+<course_instructors_expected>K. Milnor</course_instructors_expected>
+
+<course_instructors_full>K. Milnor</course_instructors_full>
+
+<classes><class><call_number>06492</call_number>
+
+<class_name>RE-ACTING (TO) THE PAST</class_name>
+
+<course_identifier>FYSBX1608</course_identifier>
+
+<course_number>1608</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1608-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1610</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1610x</course_identifier_cooked>
+
+<course_name>Reacting to the Past</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Stokes</course_instructors_actual>
+
+<course_instructors_expected>P. Stokes</course_instructors_expected>
+
+<course_instructors_full>P. Stokes</course_instructors_full>
+
+<classes><class><call_number>05266</call_number>
+
+<class_name>REACTING TO THE PAST</class_name>
+
+<course_identifier>FYSBX1610</course_identifier>
+
+<course_number>1610</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>P. Stokes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1610-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1619</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1619y</course_identifier_cooked>
+
+<course_name>Reacting to the Past</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Shapiro</course_instructors_actual>
+
+<course_instructors_expected>J. Shapiro</course_instructors_expected>
+
+<course_instructors_full>J. Shapiro</course_instructors_full>
+
+<classes><class><call_number>02952</call_number>
+
+<class_name>REACTING TO THE PAST</class_name>
+
+<course_identifier>FYSBX1619</course_identifier>
+
+<course_number>1619</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>J. Shapiro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1619-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1708</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1708y</course_identifier_cooked>
+
+<course_name>Creativity</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploring a diverse array of sources from literature, psychology, and philosophy, we will consider questions such as: Can anything general be said about the structure of the creative process? What is the nature of the creative experience, and what significance does it have for finding happiness and meaning in life? Is there really a link between madness and creative genius? Can creativity be measured and explained? Can it be learned and taught? Through a varied series of assignments, students will be expected to think and write clearly, critically &#38;ndash; and creatively! &#38;ndash; about creativity. Authors include, Mihaly Csikszentmihalyi, Kay Jamison, Plato, Walt Whitman. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1709</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1709x</course_identifier_cooked>
+
+<course_name>Drama, Theatre, and Art</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The seminar will explore multiple ways of perceiving the world through drama, theatre, and art. Beginning with Greek drama and Shakespeare, we will focus on 18th-20th century works that foreground aesthetics and metatheatricality, as well as individual agency and social change. We will investigate malleable categories such as realism, impressionism, and modernism. Performances, films, and museums will provide cross-disciplinary contexts. Authors include Euripides, William Shakespeare, George Farquhar, Timberlake Wertenbaker, Arthur Pinero, James Joyce, Virginia Woolf, Thorton Wilder, Tom Stoppard, Marie Irenes Fornes, and Yasmina Rez.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Denison</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Denison</course_instructors_full>
+
+<classes><class><call_number>08198</call_number>
+
+<class_name>DRAMA, THEATRE, AND ART</class_name>
+
+<course_identifier>FYSBX1709</course_identifier>
+
+<course_number>1709</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>P. Denison</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1709-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FYSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<subject_area_name>First Year Seminar - Barnard</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1710</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FYSB BC1710xy</course_identifier_cooked>
+
+<course_name>Classics Through Time</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Artists constantly look to the past to find material to examine, criticize, take up as their own, and make new. We will spend time thinking deeply about five different groups of artists and the work they made in answer to a &#34;classic.&#34; We will examine the source material as well as different permutations of the original. We will encounter playwrights, choreographers, filmmakers, visual artists, novelists and poets, and the critics who grappled with sometimes shocking new work woven from old threads. We will read the work of Euripides, Racine, Woolf, Shakespeare, and Auden, among other less well known writers. We will view performances and films by George Balanchine, Martha Graham, The Wooster Group, SITI Company, and Peter Greenaway. Along the way we will constantly ask how formal choices in art create meaning. We will work consistenly on our own viewing discipline, and hone our ability to articulate our thoughts about art in speech and writing. The final project will be an academic/creative hybrid; students will develop and pitch their own contemporary version of The Tempest.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Reagan</course_instructors_actual>
+
+<course_instructors_expected>A. Reagan</course_instructors_expected>
+
+<course_instructors_full>A. Reagan</course_instructors_full>
+
+<classes><class><call_number>07411</call_number>
+
+<class_name>CLASSICS OVER TIME</class_name>
+
+<course_identifier>FYSBX1710</course_identifier>
+
+<course_number>1710</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>A. Reagan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FYSB</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FYSB/BC1710-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

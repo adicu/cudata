@@ -1,0 +1,1912 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL V1101x</course_identifier_cooked>
+
+<course_name>Elementary Italian; Full year Italian</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>No credit is given is given for V1101 until V1102 is completed.</course_points_notes>
+
+<course_points_cooked>4 pts.  No credit is given is given for V1101 until V1102 is completed.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to Italian grammar, with emphasis on reading, listening, speaking, and writing. &#38;nbsp;</course_description>
+
+<corequisites>Ital V1101</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Beneduce, J. Rhodes, L. Rosenau, M. Fraga, P. Vanhove, S. Fabian, S. Fleck</course_instructors_actual>
+
+<course_instructors_expected>TBA</course_instructors_expected>
+
+<course_instructors_full>F. Beneduce, J. Rhodes, L. Rosenau, M. Fraga, P. Vanhove, S. Fabian, S. Fleck,
+T. TBA</course_instructors_full>
+
+<classes><class><call_number>75751</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MTuWTh 9:00a - 9:50a&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>F. Beneduce</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>74046</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MTuWTh 10:00a - 10:50a&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>J. Rhodes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>68951</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MTuWTh 11:00a - 11:50a&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>S. Fleck</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>14027</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MTuWTh 12:00p - 12:50p&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>M. Fraga</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>75341</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>MTuW 12:00p - 12:50p&#60;br /&#62;507 HAMILTON HALL&#60;br /&#62;Th 12:00p - 12:50p&#60;br /&#62;255 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>P. Vanhove</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>63498</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>MTuWTh 1:00p - 1:50p&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>F. Beneduce</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>66800</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MTuWTh 9:00a - 9:50a&#60;br /&#62;507 HAMILTON HALL</days_times>
+
+<instructors>L. Rosenau</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>16029</call_number>
+
+<class_name>ELEMENTARY ITALIAN I</class_name>
+
+<course_identifier>ITALV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>S. Fabian</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1101-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1102</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL V1102y</course_identifier_cooked>
+
+<course_name>Elementary Italian; Full year Italian</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>If preceded by Ital 1101</course_points_notes>
+
+<course_points_cooked>4 pts.  If preceded by Ital 1101</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>See description for Ital W1101.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Ital W1101</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Beneduce, J. Rhodes, L. Rosenau, M. Fraga, P. Vanhove, S. Fabian, S. Fleck</course_instructors_actual>
+
+<course_instructors_expected>R. Bauman</course_instructors_expected>
+
+<course_instructors_full>F. Beneduce, J. Rhodes, L. Rosenau, M. Fraga, P. Vanhove, R. Bauman, S. Fabian,
+S. Fleck</course_instructors_full>
+
+<classes><class><call_number>64097</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MTuWTh 9:00a - 9:50a&#60;br /&#62;507 HAMILTON HALL</days_times>
+
+<instructors>L. Rosenau</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>64195</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuThF 1:10p - 2:25p&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>S. Fabian</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>24683</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MTuWTh 9:00a - 9:50a&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>F. Beneduce</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>73539</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MTuWTh 10:00a - 10:50a&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>J. Rhodes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>63697</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MTuWTh 11:00a - 11:50a&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>S. Fleck</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>17320</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MTuWTh 12:00p - 12:50p&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>M. Fraga</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>14247</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>MTuWTh 12:00p - 12:50p&#60;br /&#62;507 HAMILTON HALL</days_times>
+
+<instructors>P. Vanhove</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>10941</call_number>
+
+<class_name>ELEMENTARY ITALIAN II</class_name>
+
+<course_identifier>ITALV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>MTuWTh 1:00p - 1:50p&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>F. Beneduce</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1102-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1111</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>W</school_bulletin_prefix_code_2>
+
+<course_number_2>1112</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL W1111x-W1112y</course_identifier_cooked>
+
+<course_name>Elementary Conversation</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive practice in pronunciation, vocabulary, comprehension of the spoken language, and conversation. Conversation courses may not be used to satisfy the language requirement or fulfill major or concentration requirements.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ITAL W1112, W1111 or the equivalent, or sufficient fluency to satisfy the instructor. Limited enrollment. Recommended parallel: ITAL V/W1101-V/W1102.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>TBD</course_instructors_expected>
+
+<course_instructors_full>T. TBD</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1111</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>ITAL W1111x (Section 01)</course_identifier_cooked>
+
+<course_name>Elementary Conversation</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive practice in pronunciation, vocabulary, comprehension of the spoken language, and conversation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>TBA</course_instructors_expected>
+
+<course_instructors_full>T. TBA</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1112</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL W1112y</course_identifier_cooked>
+
+<course_name>Elementary Conversation</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>See description of Ital W1111.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Ital W1111</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>TBA</course_instructors_expected>
+
+<course_instructors_full>T. TBA</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1121</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL V1121y</course_identifier_cooked>
+
+<course_name>Intensive Elementary Italian</course_name>
+
+<course_points_min>6</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>No previous knowledge of Italian required.&#38;nbsp; May be used toward the fulfillment of the language requirement.&#38;nbsp; An integrated course with oral-aural practice, reading and conversation, this course covers two semesters of elementary Italian in one.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Limited enrollment.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Spinelli</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Spinelli</course_instructors_full>
+
+<classes><class><call_number>74942</call_number>
+
+<class_name>INTENSIVE ELEMENTARY ITAL</class_name>
+
+<course_identifier>ITALV1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 12:00p - 1:50p&#60;br /&#62;607 HAMILTON HALL</days_times>
+
+<instructors>B. Spinelli</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1121-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>12697</call_number>
+
+<class_name>INTENSIVE ELEMENTARY ITAL</class_name>
+
+<course_identifier>ITALV1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 12:00p - 1:50p&#60;br /&#62;607 HAMILTON HALL</days_times>
+
+<instructors>B. Spinelli</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V1121-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3335</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL V3335x or y</course_identifier_cooked>
+
+<course_name>Advanced Italian I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Written and oral self-expression in Italian; brief papers and oral reports on a variety of topics, including films and literature; grammar review.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>V1201-V1202 or equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Beneduce, F. Franze</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>F. Beneduce, F. Franze</course_instructors_full>
+
+<classes><class><call_number>17788</call_number>
+
+<class_name>ADVANCED ITALIAN I</class_name>
+
+<course_identifier>ITALV3335</course_identifier>
+
+<course_number>3335</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;511 HAMILTON HALL</days_times>
+
+<instructors>F. Franze</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>16</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3335-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>63658</call_number>
+
+<class_name>ADVANCED ITALIAN</class_name>
+
+<course_identifier>ITALV3335</course_identifier>
+
+<course_number>3335</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;511 HAMILTON HALL</days_times>
+
+<instructors>F. Beneduce</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3335-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3337</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL V3337y</course_identifier_cooked>
+
+<course_name>The Language of Laughter: Advanced Italian through Film Comedy (Advanced Italian II)</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students will develop advanced language competence while analyzing and discussing Italian comedies and how they reflect changing Italian culture and society.&#38;nbsp; Films by Monicelli, Germi, Wertmuller, Moretti Sodini and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ITAL V3335 or the equivalent.  General Education Requirement:  The Visual and Performing Arts (ART).</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Gozzi</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Gozzi</course_instructors_full>
+
+<classes><class><call_number>60646</call_number>
+
+<class_name>ITALIAN THROUGH CINEMA</class_name>
+
+<course_identifier>ITALV3337</course_identifier>
+
+<course_number>3337</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;254 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>M. Gozzi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3337-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3642</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL V3642y</course_identifier_cooked>
+
+<course_name>Italian Film: Imagining the Nation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the representation of national identity in Italian cinema from the Facist era to the present. Examines how both geography and history are used to construct an image of Italy and the Italians. Special focus on the cinematic representation of travel and journeys between North and South. Films by major neo-realist directors (Rossellini, De Sica, Visconti) as well as by leading contemporaries (Moretti, Amelio).</course_description>
+
+<corequisites>Cap at 25.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Moe</course_instructors_expected>
+
+<course_instructors_full>N. Moe</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLIA</subject_area_code>
+
+<subject_area_name>Comparative Literature - Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3660</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>CLIA V3660y (Section 01)</course_identifier_cooked>
+
+<course_name>Mafia Movies: From Sicily to The Sopranos</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines representations of the mafia in American and Italian film and literature.&#38;nbsp; Special attention to questions of ethnic identity and immigration.&#38;nbsp; Comparison of the different histories and myths of the mafia in the U.S. and Italy.&#38;nbsp; Readings include novels, historical studies, and film criticism. Limited to 25 students.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Moe</course_instructors_actual>
+
+<course_instructors_expected>R. Bauman</course_instructors_expected>
+
+<course_instructors_full>N. Moe, R. Bauman</course_instructors_full>
+
+<classes><class><call_number>01766</call_number>
+
+<class_name>MAFIA MOVIES</class_name>
+
+<course_identifier>CLIAV3660</course_identifier>
+
+<course_number>3660</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 10:00p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>N. Moe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>46</student_enrollment_count>
+
+<subject_area_code>CLIA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CLIA/V3660-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3993</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL V3993y</course_identifier_cooked>
+
+<course_name>Senior Thesis Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced research seminar for senior Italian majors aimed at guiding them in the writing of their thesis. Readings and discussions will encourage reflection on the significance of doing scholarship within a specific disciplinary context as well as the challenges and rewards of interdisciplinary research. Thesis topic to be chosen in consultation with the instructor; a second faculty member may be the primary director of the thesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Leake, J. Cavallo, N. Moe, P. Valesio, T. Barolini</course_instructors_actual>
+
+<course_instructors_expected>N. Moe</course_instructors_expected>
+
+<course_instructors_full>E. Leake, J. Cavallo, N. Moe, P. Valesio, T. Barolini</course_instructors_full>
+
+<classes><class><call_number>65895</call_number>
+
+<class_name>SENIOR THESIS/TUTORIAL</class_name>
+
+<course_identifier>ITALV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>T. Barolini</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3993-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>62247</call_number>
+
+<class_name>SENIOR THESIS/TUTORIAL</class_name>
+
+<course_identifier>ITALV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Valesio</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3993-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>14268</call_number>
+
+<class_name>SENIOR THESIS/TUTORIAL</class_name>
+
+<course_identifier>ITALV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Cavallo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3993-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>16779</call_number>
+
+<class_name>SENIOR THESIS/TUTORIAL</class_name>
+
+<course_identifier>ITALV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Leake</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3993-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>07698</call_number>
+
+<class_name>SENIOR SEMINAR WITH THESI</class_name>
+
+<course_identifier>ITALV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>N. Moe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3993-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>26090</call_number>
+
+<class_name>SENIOR THESIS/TUTORIAL</class_name>
+
+<course_identifier>ITALV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>T. Barolini</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3993-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>23224</call_number>
+
+<class_name>SENIOR THESIS/TUTORIAL</class_name>
+
+<course_identifier>ITALV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Leake</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/V3993-20131-005</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4110</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL G4110x</course_identifier_cooked>
+
+<course_name>Representations of the South in Modern Italian Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Literary representations of the Italian South from the late nineteenth century to the present. Special attention to the symbolic importance of the South in modern Italian culture. Short stories and novels by Verga, D&#39;Annunzio, Pirandello, Alvaro, Levi, Lampedusa, and Sciascia.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to qualified undergraduates with permission of instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4252</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>ITAL W4252x (Section 01)</course_identifier_cooked>
+
+<course_name>Antonio Gramsci: Literature, Culture, Power</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the writings of Antonio Gramsci and their influence on literary criticism, cultural studies, and filmmaking. Includes works by Luigi Pirandello, Giuseppe Tomasi di Lampedusa, Pier Paolo Pasolini; criticism by Raymond Williams, Edward Said, Stuart Hall; films by Luchino Visconti, the Taviani Brothers, Pasolini.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to undergraduates with permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Moe</course_instructors_expected>
+
+<course_instructors_full>N. Moe</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4340</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL G4340x</course_identifier_cooked>
+
+<course_name>Italy&#39;s Southern Question: Geography, Culture, and Power</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>Readings and discussion in English.  Optional readings in Italian.</course_preface>
+
+<course_description>Examines Italy&#39;s Southern Question from the nineteenth century to the present, investigating the interrelations among cultural representation, geography, and power.&#38;nbsp; Focuses on three writer/artists who produced major representations and theorizations of the Southern Question in three different cultural forms:&#38;nbsp; the fiction Giovanni Verga, the theoretical writings of Antonio Gramsci, and the films of Luchino Visconti.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Open to undergraduates with permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Moe</course_instructors_expected>
+
+<course_instructors_full>N. Moe</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4502</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL W4502x</course_identifier_cooked>
+
+<course_name>Italian Cultural Studies I: From Unification to World War I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An interdisciplinary investigation into Italian culture and society in the years between Unification in 1860 and the outbreak of World War I. Drawing on novels, historical analyses, and other sources including film and political cartoons, the course examines some of the key problems and trends in the cultural and political history of the period. Lectures, discussion and required readings will be in English. Students with a knowledge of Italian are encouraged to read the primary literature in Italian.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4503</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL W4503y</course_identifier_cooked>
+
+<course_name>Italian Cultural Studies II: From World War I to the Present</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An interdisciplinary investigation into Italian culture and society in the years between World War I and the present. Drawing on historical analyses, literary texts, letters, film, cartoons, popular music, etc., the course examines some of the key problems and trends in the cultural and political history of the period. Lectures, discussion and required readings will be in English. Students with a knowledge of Italian are encouraged to read the primary literature in Italian.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Moe</course_instructors_actual>
+
+<course_instructors_expected>N. Moe</course_instructors_expected>
+
+<course_instructors_full>N. Moe</course_instructors_full>
+
+<classes><class><call_number>04378</call_number>
+
+<class_name>ITL CULTRL STUDIES II:WWI</class_name>
+
+<course_identifier>ITALW4503</course_identifier>
+
+<course_number>4503</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;327 MILBANK HALL</days_times>
+
+<instructors>N. Moe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ITAL/W4503-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ITLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ITAL</subject_area_code>
+
+<subject_area_name>Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4520</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ITAL W4520x or y</course_identifier_cooked>
+
+<course_name>See Naples and Die: Portrait of a City</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the cultural history of Naples and the Neapolitans over the past two centuries in diverse areas including literature, film, theatre, and music. Works will include texts by Serao, Croce, Benjamin, Gramsci, De Filippo, and Ortese; films by Rossellini, Rosi, and Pasolini.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Moe</course_instructors_expected>
+
+<course_instructors_full>N. Moe</course_instructors_full>
+
+</course></courses>

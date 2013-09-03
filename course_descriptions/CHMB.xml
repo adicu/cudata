@@ -1,0 +1,3642 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC1002y</course_identifier_cooked>
+
+<course_name>Fundamentals of Chemistry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the fundamental concepts of chemistry from an electronic and molecular perspective as well as the macroscopic behavior of matter.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>High school algebra and geometry. Designed as an introduction to more advanced work for students with little background in chemistry or weak problem-solving skills. Students who receive a D in Chemistry 2001x may subsequently take CHEM BC1002y without forfeiting credit for 2001x.  Does not count toward laboratory science general education requirement. Permission of instructor. Enrollment limited to 30. Lecture: MWF 11:00-11:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Sever</course_instructors_actual>
+
+<course_instructors_expected>M. Sever</course_instructors_expected>
+
+<course_instructors_full>M. Sever</course_instructors_full>
+
+<classes><class><call_number>09633</call_number>
+
+<class_name>FUNDAMENTALS OF CHEMISTRY</class_name>
+
+<course_identifier>CHEMX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 11:00a - 11:50a&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC1002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC2001x</course_identifier_cooked>
+
+<course_name>General Chemistry I</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Atoms; elements and compounds; gases; solutions; equilibrium; acid-base, precipitation, and oxidation-reduction reactions; thermochemistry. Laboratory experience with both qualitative and quantitative techniques.</course_description>
+
+<corequisites>Lecture and laboratory must be taken together unless permission of the instructor is given.  Lecture: MWF 11:00-11:50; Lab lecture and laboratory one afternoon: MTWRF: 1:10-5:00; sign up is located on the 8th floor of Altschul for lab sections.  Counts towards Lab Science requirement.</corequisites>
+
+<prerequisites>Algebra (Math SAT I score of 600 or permission of the instructor for first-year students).</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Alexander, J. Magyar</course_instructors_actual>
+
+<course_instructors_expected>J. Magyar</course_instructors_expected>
+
+<course_instructors_full>J. Alexander, J. Magyar</course_instructors_full>
+
+<classes><class><call_number>06144</call_number>
+
+<class_name>GENERAL CHEMISTRY I</class_name>
+
+<course_identifier>CHEMX2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 11:00a - 11:50a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>J. Alexander&#60;br /&#62;
+J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>138</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC2001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07816</call_number>
+
+<class_name>GENERAL CHEMISTRY I</class_name>
+
+<course_identifier>CHEMX2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MWF 11:00a - 11:50a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC2001-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC2002y</course_identifier_cooked>
+
+<course_name>General Chemistry II</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Kinetics and mechanisms of chemical reactions; nuclear chemistry and radioactivity; atomic and molecular structure; selected topics in environmental chemistry, organic chemistry, and biochemistry.</course_description>
+
+<corequisites>Counts towards Lab Science requirement.</corequisites>
+
+<prerequisites>CHEM BC2001 or permission of the instructor. Students who have completed CHEM BC3230 or its equivalent may not subsequently receive credit toward the degree for CHEM BC2002. Lecture: TuTh 8:40-9:55; Lab lecture and laboratory: M 1:10-5:00.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Charnick</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Charnick</course_instructors_full>
+
+<classes><class><call_number>00442</call_number>
+
+<class_name>GENERAL CHEMISTRY II</class_name>
+
+<course_identifier>CHEMX2002</course_identifier>
+
+<course_number>2002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 1:10p - 2:00p&#60;br /&#62;903 ALTSCHUL HALL&#60;br /&#62;M 2:10p - 5:00p&#60;br /&#62;813 ALTSCHUL HALL&#60;br /&#62;TuTh 8:40a - 9:55a&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>S. Charnick</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC2002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2102</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC2102y</course_identifier_cooked>
+
+<course_name>General Chemistry II Laboratory</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Laboratory portion of CHEM BC2002.</course_description>
+
+<corequisites>General Chemistry II lectures or equivalent and permission of instructor.  Lab lecture and laboratory: M 1:10-5:00.</corequisites>
+
+<prerequisites>General Chemistry I with laboratory.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Charnick</course_instructors_actual>
+
+<course_instructors_expected>J. Magyar, S. Charnick</course_instructors_expected>
+
+<course_instructors_full>J. Magyar, S. Charnick</course_instructors_full>
+
+<classes><class><call_number>03912</call_number>
+
+<class_name>GENERAL CHEM II LABORATOR</class_name>
+
+<course_identifier>CHEMX2102</course_identifier>
+
+<course_number>2102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 1:10p - 2:00p&#60;br /&#62;903 ALTSCHUL HALL&#60;br /&#62;M 2:10p - 5:00p&#60;br /&#62;813 ALTSCHUL HALL</days_times>
+
+<instructors>S. Charnick</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC2102-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3230</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3230y</course_identifier_cooked>
+
+<course_name>Organic Chemistry I</course_name>
+
+<course_points_min>3.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Atomic and molecular structure; stereochemistry of organic molecules; introduction to organic reactions and reaction mechanisms.</course_description>
+
+<corequisites>With lab, counts towards Lab Science requirement.</corequisites>
+
+<prerequisites>CHEM BC2001 or equivalent with a grade of C or better, or CHEM BC2001 and CHEM BC2002 or equivalent. Credit will not be given for any course below the 3000 level after completing CHEM BC3230 or its equivalent. Lecture: MWF: 11:00-11:50; Problem section: Th 12:00-12:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Rojas</course_instructors_actual>
+
+<course_instructors_expected>C. Rojas</course_instructors_expected>
+
+<course_instructors_full>C. Rojas</course_instructors_full>
+
+<classes><class><call_number>07359</call_number>
+
+<class_name>ORGANIC CHEMISTRY I-LEC</class_name>
+
+<course_identifier>CHEMX3230</course_identifier>
+
+<course_number>3230</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 11:00a - 11:50a&#60;br /&#62;202 ALTSCHUL HALL&#60;br /&#62;Th 12:00p - 12:50p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>C. Rojas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>130</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3230-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3231</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3231x</course_identifier_cooked>
+
+<course_name>Organic Chemistry II</course_name>
+
+<course_points_min>3.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Extension of concepts from Organic Chemistry I to conjugated systems; chemistry of the carbonyl group; NMR and IR spectroscopy; bioorganic chemistry.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3230. Lecture: MWF 10:00-10:50; Problem section: Th 12:00-12:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Merrer</course_instructors_actual>
+
+<course_instructors_expected>D. Merrer</course_instructors_expected>
+
+<course_instructors_full>D. Merrer</course_instructors_full>
+
+<classes><class><call_number>07716</call_number>
+
+<class_name>ORGANIC CHEMISTRY II-LEC</class_name>
+
+<course_identifier>CHEMX3231</course_identifier>
+
+<course_number>3231</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:00a - 10:50a&#60;br /&#62;202 ALTSCHUL HALL&#60;br /&#62;Th 12:00p - 12:50p&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>78</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3231-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3232</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3232y</course_identifier_cooked>
+
+<course_name>Intermediate General Chemistry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Selected aspects of general chemistry, primarily for pre-health professions and biological science students who have taken Organic Chemistry. Thermodynamics, equilibrium, kinetics, complex ions and coordination compounds, and radiochemistry, with applications to analytical chemistry and biochemistry.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Organic Chemistry I. Optional parallel laboratory work: CHEM BC3338. CHEM C1404 is not an acceptable equivalent for CHEM BC3232. Lecture: MWF 10:00-10:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Alexander</course_instructors_actual>
+
+<course_instructors_expected>J. Alexander</course_instructors_expected>
+
+<course_instructors_full>J. Alexander</course_instructors_full>
+
+<classes><class><call_number>07571</call_number>
+
+<class_name>INTERMEDIATE GENERAL CHEM</class_name>
+
+<course_identifier>CHEMX3232</course_identifier>
+
+<course_number>3232</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:00a - 10:50a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>J. Alexander</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>57</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3232-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3252</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3252y</course_identifier_cooked>
+
+<course_name>Thermodynamics and Kinetics</course_name>
+
+<course_points_min>3.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the laws of thermodynamics; application primarily to ideal systems. Free energy and equilibrium. Kinetics: rate laws and mechanisms, experimental techniques.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3231, Physics I (Mechanics), and Calculus II or III. Lecture: MWF 10:00-10:50. Problem section: F 11:00-11:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crowther</course_instructors_actual>
+
+<course_instructors_expected>A. Crowther</course_instructors_expected>
+
+<course_instructors_full>A. Crowther</course_instructors_full>
+
+<classes><class><call_number>07590</call_number>
+
+<class_name>THERMODYNAMICS-KINETICS</class_name>
+
+<course_identifier>CHEMX3252</course_identifier>
+
+<course_number>3252</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:00a - 10:50a&#60;br /&#62;805 ALTSCHUL HALL&#60;br /&#62;F 11:00a - 11:50a&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3252-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3253</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3253x</course_identifier_cooked>
+
+<course_name>Quantum Chemistry</course_name>
+
+<course_points_min>3.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exact and approximate solutions to the Schrodinger equation. The structure of atoms and molecules. Chemical bonding and spectroscopy. Computer-based molecular modeling.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Physics and Calculus II or III or permission of instructor. Lecture: MWF 11:00-11:50. Problem section: F 12:00-12:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crowther</course_instructors_actual>
+
+<course_instructors_expected>A. Crowther</course_instructors_expected>
+
+<course_instructors_full>A. Crowther</course_instructors_full>
+
+<classes><class><call_number>01266</call_number>
+
+<class_name>QUANTUM CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3253</course_identifier>
+
+<course_number>3253</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 11:00a - 11:50a&#60;br /&#62;805 ALTSCHUL HALL&#60;br /&#62;F 12:00p - 12:50p&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3253-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3271</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3271x</course_identifier_cooked>
+
+<course_name>Inorganic Chemistry</course_name>
+
+<course_points_min>3.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Structure, bonding and spectroscopy in inorganic compounds: applications of group theory to chemistry; ligand field theory; vibrational and electronic spectroscopy of transition metal complexes; selected topics from coordination chemistry, organometallics, bioinorganic chemistry, solid state and materials chemistry, mineralogy, and biogeochemistry.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3231x or Permission of Instructor. Lecture: TuTh 10:10-11:25. Problem section: W 12:00-12:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Pez</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Pez</course_instructors_full>
+
+<classes><class><call_number>06259</call_number>
+
+<class_name>INORGANIC CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3271</course_identifier>
+
+<course_number>3271</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;805 ALTSCHUL HALL&#60;br /&#62;W 12:00p - 12:50p&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>G. Pez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3271-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3280</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3280y</course_identifier_cooked>
+
+<course_name>Advanced Organic Chemistry</course_name>
+
+<course_points_min>3.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of topics in structural, mechanistic, and synthetic organic chemistry, including molecular orbital treatment of structure, bonding, and chemical reactivity; elucidation of organic reaction mechanisms; pericyclic reactions; stereoelectronic effects; asymmetric reactions; and natural product total synthesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of organic chemistry. Lecture: MWF 11:00-11:50. Problem section: TBA.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Merrer</course_instructors_expected>
+
+<course_instructors_full>D. Merrer</course_instructors_full>
+
+</course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3282</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3282y</course_identifier_cooked>
+
+<course_name>Biological Chemistry</course_name>
+
+<course_points_min>3.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to biochemical building blocks, macromolecules, and metabolism. Structures of amino acids, lipids, carbohydrates, nucleic acids. Protein structure and folding. Enzyme mechanisms, kinetics, allostery. Membranes. Protein and genetic engineering. Catabolism and anabolism with emphasis on chemical intermediates, metabolic energy, catalysis by specific enzymes, regulation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of organic chemistry, one year of biology. Lecture: MWF 9:00-9:50. Problem section: W 12:00-12:50.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Sever</course_instructors_actual>
+
+<course_instructors_expected>M. Sever</course_instructors_expected>
+
+<course_instructors_full>M. Sever</course_instructors_full>
+
+<classes><class><call_number>05294</call_number>
+
+<class_name>BIOLOGICAL CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3282</course_identifier>
+
+<course_number>3282</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 9:00a - 9:50a&#60;br /&#62;903 ALTSCHUL HALL&#60;br /&#62;W 12:00p - 12:50p&#60;br /&#62;903 ALTSCHUL HALL</days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>56</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3282-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3328</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3328y</course_identifier_cooked>
+
+<course_name>Introductory Organic Chemistry Laboratory</course_name>
+
+<course_points_min>2.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Basic techniques of experimental organic chemistry. Principles and methods of separation, purification, and characterization of organic compounds. Selected organic reactions.</course_description>
+
+<corequisites>CHEM BC3230 or equivalent.  Lecture and laboratory one afternoon: MTWRF: 1:10-5:30.  Lab only Th: 8:30 am - 12:00 pm</corequisites>
+
+<prerequisites>General Chemistry I with lab.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Vadakkan, M. Rao</course_instructors_actual>
+
+<course_instructors_expected>M. Rao, J. Vadakkan</course_instructors_expected>
+
+<course_instructors_full>J. Vadakkan, M. Rao</course_instructors_full>
+
+<classes><class><call_number>08102</call_number>
+
+<class_name>INTRO ORGANIC CHEMISTRY-L</class_name>
+
+<course_identifier>CHEMX3328</course_identifier>
+
+<course_number>3328</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Vadakkan&#60;br /&#62;
+M. Rao</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>120</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3328-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3333</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3333x</course_identifier_cooked>
+
+<course_name>Modern Techniques of Organic Chemistry Laboratory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced experimental organic techniques and introduction to qualitative and quantitative organic analysis. Emphasis on instrumental and chromatographic methods. Selected reactions.</course_description>
+
+<corequisites>CHEM BC3231. Lecture: Tu 12:00-12:50; Laboratory one afternoon: M 12:10-4:30, or Tu or Th 1:10-5:30.</corequisites>
+
+<prerequisites>CHEM BC3328 with a grade of C- or better and CHEM BC3230.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Rojas, M. Rao</course_instructors_actual>
+
+<course_instructors_expected>M. Rao, C. Rojas</course_instructors_expected>
+
+<course_instructors_full>C. Rojas, M. Rao</course_instructors_full>
+
+<classes><class><call_number>03013</call_number>
+
+<class_name>MODERN TECH-ORGANIC CHEM</class_name>
+
+<course_identifier>CHEMX3333</course_identifier>
+
+<course_number>3333</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 12:10p - 4:30p&#60;br /&#62;716 ALTSCHUL HALL&#60;br /&#62;Tu 12:00p - 12:50p&#60;br /&#62;805 ALTSCHUL HALL&#60;br /&#62;TuTh 1:10p - 5:30p&#60;br /&#62;716 ALTSCHUL HALL</days_times>
+
+<instructors>C. Rojas&#60;br /&#62;
+M. Rao</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3333-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3335</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3335x</course_identifier_cooked>
+
+<course_name>Modern Techniques of Organic Chemistry Laboratory</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Identical to CHEM BC3333, with additional preparative experiments and an independent synthesis project.</course_description>
+
+<corequisites>CHEM BC3231.  Lecture: Tu 12:00-12:50; Laboratory two afternoons: TuTh 1:10-5:30.</corequisites>
+
+<prerequisites>CHEM BC3328 with a grade of C- or better and CHEM BC3230.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Rojas, M. Rao</course_instructors_actual>
+
+<course_instructors_expected>M. Rao, C. Rojas</course_instructors_expected>
+
+<course_instructors_full>C. Rojas, M. Rao</course_instructors_full>
+
+<classes><class><call_number>00945</call_number>
+
+<class_name>MODERN TECH-ORGANIC CHEM</class_name>
+
+<course_identifier>CHEMX3335</course_identifier>
+
+<course_number>3335</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:00p - 12:50p&#60;br /&#62;805 ALTSCHUL HALL&#60;br /&#62;TuTh 1:10p - 5:30p&#60;br /&#62;716 ALTSCHUL HALL</days_times>
+
+<instructors>C. Rojas&#60;br /&#62;
+M. Rao</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3335-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3337</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3337x</course_identifier_cooked>
+
+<course_name>Modern Techniques of Organic Chemistry Laboratory</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>CHEM BC3333x + CHEM BC3337x = BC3335x</course_points_notes>
+
+<course_points_cooked>2 pts.  CHEM BC3333x + CHEM BC3337x = BC3335x</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3333x. Lecture: Tu 12:00-12:50; Laboratory one afternoon: M 12:10-4:30.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Rojas, M. Rao</course_instructors_actual>
+
+<course_instructors_expected>M. Rao, C. Rojas</course_instructors_expected>
+
+<course_instructors_full>C. Rojas, M. Rao</course_instructors_full>
+
+<classes><class><call_number>02076</call_number>
+
+<class_name>MODERN TECH-ORGANIC CHEM-</class_name>
+
+<course_identifier>CHEMX3337</course_identifier>
+
+<course_number>3337</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 12:10p - 4:20p&#60;br /&#62;716 ALTSCHUL HALL&#60;br /&#62;Tu 12:00p - 12:50p&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>C. Rojas&#60;br /&#62;
+M. Rao</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3337-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3338</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3338y</course_identifier_cooked>
+
+<course_name>Quantitative and Instrumental Techniques Laboratory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Quantitative techniques in volumetric analysis, radiochemistry, spectrophotometry, and pH measurement. Data analysis with spreadsheets.</course_description>
+
+<corequisites>For students not majoring in chemistry or biochemistry: CHEM BC3232 or CHEM BC3252.  Lecture: Tu 1:10-2:00; Laboratory one afternoon: Tu 2:10-6:00 or Th 1:10-5:00.</corequisites>
+
+<prerequisites>General Chemistry with lab, Organic I lab.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Merrer, J. Alexander, O. Jebejian</course_instructors_actual>
+
+<course_instructors_expected>J. Alexander, O. Jebejian, D. Merrer</course_instructors_expected>
+
+<course_instructors_full>D. Merrer, J. Alexander, O. Jebejian</course_instructors_full>
+
+<classes><class><call_number>08694</call_number>
+
+<class_name>QUANTITATVE-INSTRMNTL TEC</class_name>
+
+<course_identifier>CHEMX3338</course_identifier>
+
+<course_number>3338</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 1:10p - 2:00p&#60;br /&#62;903 ALTSCHUL HALL&#60;br /&#62;Tu 2:10p - 6:00p&#60;br /&#62;813 ALTSCHUL HALL</days_times>
+
+<instructors>D. Merrer&#60;br /&#62;
+J. Alexander&#60;br /&#62;
+O. Jebejian</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3338-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04695</call_number>
+
+<class_name>QUANTITATVE-INSTRMNTL TEC</class_name>
+
+<course_identifier>CHEMX3338</course_identifier>
+
+<course_number>3338</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 1:10p - 2:00p&#60;br /&#62;903 ALTSCHUL HALL&#60;br /&#62;Th 1:10p - 5:00p&#60;br /&#62;813 ALTSCHUL HALL</days_times>
+
+<instructors>D. Merrer&#60;br /&#62;
+J. Alexander&#60;br /&#62;
+O. Jebejian</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3338-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3340</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3340y</course_identifier_cooked>
+
+<course_name>Quantitative and Instrumental Techniques Laboratory</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Identical to CHEM BC3338, but with a greater variety and number of experiments.</course_description>
+
+<corequisites>For students not majoring in chemistry or biochemistry: CHEM BC3232 or CHEM BC3252.  Lecture: Tu 1:10-2:00; Laboratory two afternoons: Tu 2:10-6:00 and Th 1:10-5:00.</corequisites>
+
+<prerequisites>General Chemistry with lab, Organic I lab.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Merrer, J. Alexander, O. Jebejian</course_instructors_actual>
+
+<course_instructors_expected>J. Alexander, O. Jebejian, D. Merrer</course_instructors_expected>
+
+<course_instructors_full>D. Merrer, J. Alexander, O. Jebejian</course_instructors_full>
+
+<classes><class><call_number>08876</call_number>
+
+<class_name>QUANTITATVE-INSTRMNTL TEC</class_name>
+
+<course_identifier>CHEMX3340</course_identifier>
+
+<course_number>3340</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 1:10p - 2:00p&#60;br /&#62;903 ALTSCHUL HALL&#60;br /&#62;Tu 2:10p - 6:00p&#60;br /&#62;813 ALTSCHUL HALL&#60;br /&#62;Th 1:10p - 5:00p&#60;br /&#62;813 ALTSCHUL HALL</days_times>
+
+<instructors>D. Merrer&#60;br /&#62;
+J. Alexander&#60;br /&#62;
+O. Jebejian</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3340-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3342</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3342y</course_identifier_cooked>
+
+<course_name>Quantitative and Instrumental Techniques Laboratory</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>CHEM BC3338 + CHEM BC3342 = BC3340</course_points_notes>
+
+<course_points_cooked>2 pts.  CHEM BC3338 + CHEM BC3342 = BC3340</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3338. Laboratory one afternoon: Tu 2:10-6:00 or Th 1:10-5:00.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Merrer, J. Alexander, O. Jebejian</course_instructors_actual>
+
+<course_instructors_expected>J. Alexander, O. Jebejian, D. Merrer</course_instructors_expected>
+
+<course_instructors_full>D. Merrer, J. Alexander, O. Jebejian</course_instructors_full>
+
+<classes><class><call_number>08891</call_number>
+
+<class_name>QUANTITATVE-INSTRMNTL TEC</class_name>
+
+<course_identifier>CHEMX3342</course_identifier>
+
+<course_number>3342</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 6:00p&#60;br /&#62;813 ALTSCHUL HALL</days_times>
+
+<instructors>D. Merrer&#60;br /&#62;
+J. Alexander&#60;br /&#62;
+O. Jebejian</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3342-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07569</call_number>
+
+<class_name>QUANTITATVE-INSTRMNTL TEC</class_name>
+
+<course_identifier>CHEMX3342</course_identifier>
+
+<course_number>3342</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 1:10p - 5:00p&#60;br /&#62;813 ALTSCHUL HALL</days_times>
+
+<instructors>D. Merrer&#60;br /&#62;
+J. Alexander&#60;br /&#62;
+O. Jebejian</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3342-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3355</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3355x</course_identifier_cooked>
+
+<course_name>Biochemistry Laboratory Techniques</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamental techniques, including colorimetric assays, SDS-PAGE, IEX chromatography, and enzyme kinetics, used to isolate and characterize various classes of biological molecules such as nucleotides, proteins, lipids, and carbohydrates. Theory and application of modern laboratory instrumentation, such as UV-Vis, GC-MS, and HPLC in the analysis of biological systems.</course_description>
+
+<corequisites>Biochemistry (CHEM BC3282y, CHEM C3501x, or equivalent). Lecture: Tu 12:00-12:50; Laboratory two afternoons: Tu Th 1:10-5:00.</corequisites>
+
+<prerequisites>Organic II lab (CHEM BC3333x, BC3335x, or equivalent) and quantitative analysis lab (BC3338y, BC3340y, or equivalent).</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Sever</course_instructors_actual>
+
+<course_instructors_expected>M. Sever, S. Liu</course_instructors_expected>
+
+<course_instructors_full>M. Sever, S. Liu</course_instructors_full>
+
+<classes><class><call_number>08439</call_number>
+
+<class_name>BIOCHEMISTRY LAB TECHNIQU</class_name>
+
+<course_identifier>CHEMX3355</course_identifier>
+
+<course_number>3355</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:00p - 12:50p&#60;br /&#62;530 ALTSCHUL HALL&#60;br /&#62;TuTh 1:10p - 5:00p&#60;br /&#62;606 ALTSCHUL HALL</days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3355-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3357</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3357x</course_identifier_cooked>
+
+<course_name>Biochemistry Laboratory Techniques</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Similar to CHEM BC3355, with experiments modified to be accomplished in one laboratory period per week.</course_description>
+
+<corequisites>Lecture: Tu 12:00-12:50; Laboratory: Tu or Th 1:10-5:00</corequisites>
+
+<prerequisites>Same as CHEM BC3355.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Sever</course_instructors_actual>
+
+<course_instructors_expected>M. Sever, S. Liu</course_instructors_expected>
+
+<course_instructors_full>M. Sever, S. Liu</course_instructors_full>
+
+<classes><class><call_number>02033</call_number>
+
+<class_name>BIOCHEMISTRY LAB TECHNIQU</class_name>
+
+<course_identifier>CHEMX3357</course_identifier>
+
+<course_number>3357</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 12:00p - 12:50p&#60;br /&#62;530 ALTSCHUL HALL&#60;br /&#62;TuTh 1:10p - 5:00p&#60;br /&#62;606 ALTSCHUL HALL</days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3357-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05217</call_number>
+
+<class_name>BIOCHEMISTRY LAB TECHNIQU</class_name>
+
+<course_identifier>CHEMX3357</course_identifier>
+
+<course_number>3357</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 12:00p - 12:50p&#60;br /&#62;530 ALTSCHUL HALL&#60;br /&#62;TuTh 1:10p - 5:00p&#60;br /&#62;606 ALTSCHUL HALL</days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3357-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3365</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3365x</course_identifier_cooked>
+
+<course_name>Integrated Chemistry Laboratory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Experiments in kinetics, thermodynamics, and electrochemistry using instrumental methods; preparation and characterization of inorganic compounds; solids; some computer applications.</course_description>
+
+<corequisites>Lecture: W 1:10-2:00; Laboratory: M 1:10-5:30 and W 2:10-6:30.</corequisites>
+
+<prerequisites>CHEM BC3252 and CHEM BC3338 or equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crowther</course_instructors_actual>
+
+<course_instructors_expected>A. Crowther, S. Liu</course_instructors_expected>
+
+<course_instructors_full>A. Crowther, S. Liu</course_instructors_full>
+
+<classes><class><call_number>02826</call_number>
+
+<class_name>INTEGRATED CHEMSTRY LABOR</class_name>
+
+<course_identifier>CHEMX3365</course_identifier>
+
+<course_number>3365</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 1:10p - 5:30p&#60;br /&#62;606 ALTSCHUL HALL&#60;br /&#62;W 1:10p - 2:00p&#60;br /&#62;514 ALTSCHUL HALL&#60;br /&#62;W 2:10p - 6:30p&#60;br /&#62;606 ALTSCHUL HALL</days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3365-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3368</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3368y</course_identifier_cooked>
+
+<course_name>Integrated Chemistry Laboratory II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Experiments in spectroscopy: UV-Vis, fluorescence, Raman, infrared.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3253 and CHEM BC3338 or equivalent. Lecture: Tu 12:00-12:50; Laboratory: MW 1:10-5:00.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Castillo, S. Liu</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Castillo, S. Liu</course_instructors_full>
+
+<classes><class><call_number>09131</call_number>
+
+<class_name>INTEGRATED CHEMISTRY LAB</class_name>
+
+<course_identifier>CHEMX3368</course_identifier>
+
+<course_number>3368</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 1:10p - 5:30p&#60;br /&#62;606 ALTSCHUL HALL&#60;br /&#62;W 1:10p - 2:00p&#60;br /&#62;530 ALTSCHUL HALL&#60;br /&#62;W 2:00p - 5:30p&#60;br /&#62;606 ALTSCHUL HALL</days_times>
+
+<instructors>A. Castillo&#60;br /&#62;
+S. Liu</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3368-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3590</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3590y</course_identifier_cooked>
+
+<course_name>Senior Colloquium</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Readings, discussions, and presentations about contemporary research in chemistry and biochemistry. Th 10:35-12:25.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Sever</course_instructors_expected>
+
+<course_instructors_full>M. Sever</course_instructors_full>
+
+</course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3597</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3597x and y</course_identifier_cooked>
+
+<course_name>Problems in Chemistry</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Individual research projects at Barnard or Columbia, culminating in a comprehensive written report.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3333 or CHEM BC3338 and permission of instructor. 4 hours of laboratory work by arrangement.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crowther, C. Rojas, D. Merrer, J. Magyar, M. Buzzeo, M. Sever</course_instructors_actual>
+
+<course_instructors_expected>C. Rojas, M. Buzzeo, D. Merrer, A. Crowther, J. Magyar, M. Sever</course_instructors_expected>
+
+<course_instructors_full>A. Crowther, C. Rojas, D. Merrer, J. Magyar, M. Buzzeo, M. Sever</course_instructors_full>
+
+<classes><class><call_number>03664</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>C. Rojas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01537</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Buzzeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>05823</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>07294</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>01343</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>02865</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>06140</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>C. Rojas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>03664</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>01987</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Buzzeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>01343</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>02372</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20131-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>04770</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3597</course_identifier>
+
+<course_number>3597</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3597-20131-007</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3598</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3598x and y</course_identifier_cooked>
+
+<course_name>External Problems in Chemistry</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Individual research projects at other institutions, culminating in a comprehensive written report.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3333 and CHEM BC3338. Mandatory pass/fail grading. Permission of instructor (a Barnard professor who will act as liaison) is required.   8 hours of laboratory work by arrangement.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Merrer</course_instructors_actual>
+
+<course_instructors_expected>D. Merrer</course_instructors_expected>
+
+<course_instructors_full>D. Merrer</course_instructors_full>
+
+<classes><class><call_number>09971</call_number>
+
+<class_name>EXTERNAL PROBLEMS IN CHEM</class_name>
+
+<course_identifier>CHEMX3598</course_identifier>
+
+<course_number>3598</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3598-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>00188</call_number>
+
+<class_name>EXTERNAL PROBLEMS IN CHEM</class_name>
+
+<course_identifier>CHEMX3598</course_identifier>
+
+<course_number>3598</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3598-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3599</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3599x and y</course_identifier_cooked>
+
+<course_name>Problems in Chemistry</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Individual research projects at Barnard or Columbia, culminating in a comprehensive written report.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC3333 and CHEM BC3338. Permission of instructor. 8 hours of laboratory work by arrangement.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crowther, C. Rojas, D. Merrer, J. Magyar, M. Buzzeo, M. Sever</course_instructors_actual>
+
+<course_instructors_expected>C. Rojas, M. Buzzeo, D. Merrer, A. Crowther, J. Magyar, M. Sever</course_instructors_expected>
+
+<course_instructors_full>A. Crowther, C. Rojas, D. Merrer, J. Magyar, M. Buzzeo, M. Sever</course_instructors_full>
+
+<classes><class><call_number>02182</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>C. Rojas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05095</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Buzzeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>01197</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>00639</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>03432</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>03858</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>08950</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>C. Rojas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>02533</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>06060</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>03432</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Buzzeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>08383</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20131-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>09449</call_number>
+
+<class_name>PROBLEMS IN CHEMISTRY</class_name>
+
+<course_identifier>CHEMX3599</course_identifier>
+
+<course_number>3599</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3599-20131-007</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CHMB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<subject_area_name>Chemistry</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3901</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3902</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CHEM BC3901x-BC3902y</course_identifier_cooked>
+
+<course_name>Senior Honors Thesis</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Enrollment restricted by invitation of the department.</course_points_notes>
+
+<course_points_cooked>4 pts.  Enrollment restricted by invitation of the department.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Guided research in Chemistry or Biochemistry, under the sponsorship of a faculty member, leading to the senior thesis. Weekly seminar F 2:10-4:00 and 8 hours research to be arranged.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Crowther, C. Rojas, D. Merrer, J. Magyar, M. Buzzeo, M. Sever</course_instructors_actual>
+
+<course_instructors_expected>M. Buzzeo</course_instructors_expected>
+
+<course_instructors_full>A. Crowther, C. Rojas, D. Merrer, J. Magyar, M. Buzzeo, M. Sever</course_instructors_full>
+
+<classes><class><call_number>00140</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Buzzeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3901-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>07231</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>C. Rojas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3901-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>05640</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3901-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>07402</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3901-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>09791</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3901-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>02487</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3901-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>09233</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3902</course_identifier>
+
+<course_number>3902</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 2:10p - 4:00p&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>M. Sever</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3902-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04142</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3902</course_identifier>
+
+<course_number>3902</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>C. Rojas</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3902-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>07599</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3902</course_identifier>
+
+<course_number>3902</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Merrer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3902-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>03759</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3902</course_identifier>
+
+<course_number>3902</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Magyar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3902-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>02420</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3902</course_identifier>
+
+<course_number>3902</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Buzzeo</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3902-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>08492</call_number>
+
+<class_name>SENIOR HONORS THESIS</class_name>
+
+<course_identifier>CHEMX3902</course_identifier>
+
+<course_number>3902</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Crowther</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>CHEM</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CHEM/BC3902-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

@@ -1,0 +1,1521 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4003</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G4003</course_identifier_cooked>
+
+<course_name>Advanced Mechanics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lagrange&#38;rsquo;s formulation of mechanics, calculus of variations, the Action Principle, Hamilton&#38;rsquo;s formulation of mechanics, rigid body motion, Euler angles, continuum mechanics, introduction to chaotic dynamics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nicolis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Nicolis</course_instructors_full>
+
+<classes><class><call_number>24447</call_number>
+
+<class_name>ADVANCED MECHANICS</class_name>
+
+<course_identifier>PHYSG4003</course_identifier>
+
+<course_number>4003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Nicolis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4003-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4019</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G4019</course_identifier_cooked>
+
+<course_name>Mathematical Methods of Physics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Highlights of complex analysis, differential equations, integral equations, Green&#38;rsquo;s functions, special functions, Fourier and other transforms, approximation methods, group theory and representations, differential geometry and manifolds.&#38;nbsp; Emphasis on applications to physical problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Nicolis</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Nicolis</course_instructors_full>
+
+<classes><class><call_number>12798</call_number>
+
+<class_name>MATHEMATICL METHODS OF PH</class_name>
+
+<course_identifier>PHYSG4019</course_identifier>
+
+<course_number>4019</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;222 PUPIN LABORATORIES</days_times>
+
+<instructors>A. Nicolis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4019-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4021</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G4021</course_identifier_cooked>
+
+<course_name>Quantum Mechanics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The formulation of quantum mechanics in terms of state vectors and linear operators, three dimensional spherically symmetric potentials, the theory of angular momentum and spin, time-independent and time-dependent perturbation theory, scattering theory, identical particles</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Weinberg</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Weinberg</course_instructors_full>
+
+<classes><class><call_number>15033</call_number>
+
+<class_name>QUANTUM MECHANICS I</class_name>
+
+<course_identifier>PHYSG4021</course_identifier>
+
+<course_number>4021</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;420 PUPIN LABORATORIES</days_times>
+
+<instructors>E. Weinberg</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>31</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4021-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4023</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G4023</course_identifier_cooked>
+
+<course_name>Thermal and Statistical Physics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Pre or co-requisite: G4021. Thermodynamics, kinetic theory, and methods of statistical mechanics; energy and entropy; Boltzmann, Fermi, and Bose distributions; ideal and real gases; blackbody radiation; chemical equilibrium; phase transitions; ferromagnetism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Cambareri, M. Ruderman</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Cambareri, M. Ruderman</course_instructors_full>
+
+<classes><class><call_number>26960</call_number>
+
+<class_name>THERMAL &#38; STATISTICAL PHY</class_name>
+
+<course_identifier>PHYSG4023</course_identifier>
+
+<course_number>4023</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;214 PUPIN LABORATORIES</days_times>
+
+<instructors>G. Cambareri&#60;br /&#62;
+M. Ruderman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>37</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G4023-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4302</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G4302</course_identifier_cooked>
+
+<course_name>General Relativity and Black Holes</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Special relativity and its role in physics, the Newtonian theory of gravity from Einstein&#38;rsquo;s viewpoint, the equivalence principle, differential geometry and geodesics, Einstein&#38;rsquo;s equations, light bending and gravitational lensing, Newtonian thermodynamics of black holes.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4386</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G4386</course_identifier_cooked>
+
+<course_name>Geometrical Concepts In Physics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Material from topology and differential geometry with illustrations of their use in electrodynamics, general relativity, and Yang-Mills theory.&#38;nbsp; In particular, topological and differential manifolds, tensors, vector bundles, connections, and Lie groups.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4415</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G4415</course_identifier_cooked>
+
+<course_name>Introduction To Formal Logic</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Sentential and first-order logic, the significance of a formal system, and its use for the analysis of meaning and language.&#38;nbsp; Technical exercises are combined with analysis and parsing of English texts.&#38;nbsp; There is a required weekly discussion section in addition to the lectures.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Helzner, T. Lando</course_instructors_actual>
+
+<course_instructors_expected>H. Gaifman, A. Varzi</course_instructors_expected>
+
+<course_instructors_full>A. Varzi, H. Gaifman, J. Helzner, T. Lando</course_instructors_full>
+
+<classes><class><call_number>68148</call_number>
+
+<class_name>SYMBOLIC LOGIC</class_name>
+
+<course_identifier>PHILG4415</course_identifier>
+
+<course_number>4415</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;517 HAMILTON HALL</days_times>
+
+<instructors>T. Lando</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/G4415-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>16566</call_number>
+
+<class_name>INTRO TO SYMBOLIC LOGIC</class_name>
+
+<course_identifier>PHILG4415</course_identifier>
+
+<course_number>4415</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;614 SCHERMERHORN HALL</days_times>
+
+<instructors>J. Helzner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/G4415-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4501</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G4501</course_identifier_cooked>
+
+<course_name>Theory of Knowledge</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Knowledge of the external world, of other persons, and of ourselves.&#38;nbsp; Selections from traditional and modern texts studied.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Collins, I. Levi</course_instructors_expected>
+
+<course_instructors_full>I. Levi, J. Collins</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4561</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G4561</course_identifier_cooked>
+
+<course_name>Probability and Induction</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Contemporary developments and major philosophical problems in the analysis of nondemonstrative reasoning.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Helzner</course_instructors_actual>
+
+<course_instructors_expected>I. Levi</course_instructors_expected>
+
+<course_instructors_full>I. Levi, J. Helzner</course_instructors_full>
+
+<classes><class><call_number>15263</call_number>
+
+<class_name>PROBABILITY &#38; DECISION</class_name>
+
+<course_identifier>PHILG4561</course_identifier>
+
+<course_number>4561</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;716 PHILOSOPHY HALL</days_times>
+
+<instructors>J. Helzner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/G4561-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4574</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G4574</course_identifier_cooked>
+
+<course_name>The Scientific Revolution</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Selected episodes in the Scientific Revolution (16th-18th centuries) in relation to contemporaneous and later developments in philosophy, especially philosophy of science.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Gabbey</course_instructors_expected>
+
+<course_instructors_full>A. Gabbey</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4675</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G4675</course_identifier_cooked>
+
+<course_name>The Direction of Time</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A survey of the various attempts to reconcile the macroscopic directionality of time with the time-reversibility of the fundamental laws of physics. The second law of thermodynamics, the concept of entropy, statistical mechanics, cosmological problems, the problems of memory, the possibility of multiple time directions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Albert</course_instructors_expected>
+
+<course_instructors_full>D. Albert</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSPH</subject_area_code>
+
+<subject_area_name>Computing Science - Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4801</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CSPH G4801</course_identifier_cooked>
+
+<course_name>Mathematical Logic, I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Syntax and semantics.&#38;nbsp; Deductive systems.&#38;nbsp; Completeness and compactness theorems.&#38;nbsp; First-order calculi.&#38;nbsp; Godel&#38;rsquo;s completeness theorem.&#38;nbsp; Basic model theory.&#38;nbsp; Skolem functions.&#38;nbsp; Skolem-Lowenheim theorems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Albert</course_instructors_expected>
+
+<course_instructors_full>D. Albert</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSPH</subject_area_code>
+
+<subject_area_name>Computing Science - Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4802</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CSPH G4802</course_identifier_cooked>
+
+<course_name>Mathematical Logic, II: the Incompleteness Results</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>First-rule number theory.&#38;nbsp; Computable functions and relations.&#38;nbsp; Decision problems and fixed-point theorems.&#38;nbsp; Godel&#39;s incompleteness theorem.&#38;nbsp; Church&#39;s undecidability theorem.&#38;nbsp; Indefinability of the truth predicate.&#38;nbsp; Undecidability of various theories.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>H. Gaifman</course_instructors_expected>
+
+<course_instructors_full>H. Gaifman</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6020</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G6020</course_identifier_cooked>
+
+<course_name>Early Universe Cosmology and Particle Astrophysics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Review of the standard Friedmann-Robertson-Walker Universe, the classical cosmological tests (age of the Universe, distances, etc.).&#38;nbsp; Big-bang nucleosynthesis, neutrino astrophysics, cosmological consequences of new elementary particles, the dark-matter problem, large-scale structure and the cosmic microwave background, and inflation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6036</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G6036</course_identifier_cooked>
+
+<course_name>Statistical Mechanics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Fundamentals of statistical mechanics; theory of ensembles; quantum statistics; imperfect gases; cooperative phenomena.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Aleiner</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>I. Aleiner</course_instructors_full>
+
+<classes><class><call_number>70608</call_number>
+
+<class_name>STATISTICAL MECHANICS</class_name>
+
+<course_identifier>PHYSG6036</course_identifier>
+
+<course_number>6036</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;214 PUPIN LABORATORIES</days_times>
+
+<instructors>I. Aleiner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>31</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G6036-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6037</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G6037</course_identifier_cooked>
+
+<course_name>Quantum Mechanics, I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The fundamental principles of quantum mechanics; elementary examples; angular momentum and the rotation group; spin and identical particles; isospin; time-independent and time-dependent pertubation theory.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Physics G4021-G4022, or their equivalents</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Gyulassy</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Gyulassy</course_instructors_full>
+
+<classes><class><call_number>60726</call_number>
+
+<class_name>QUANTUM MECHANICS I</class_name>
+
+<course_identifier>PHYSG6037</course_identifier>
+
+<course_number>6037</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 9:30a - 10:45a&#60;br /&#62;214 PUPIN LABORATORIES</days_times>
+
+<instructors>M. Gyulassy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>34</student_enrollment_count>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHYS/G6037-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHYS</subject_area_code>
+
+<subject_area_name>Physics</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6438</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHYS G6438</course_identifier_cooked>
+
+<course_name>Quantum Field Theory</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the conceptual framework and the calculational tools of perturbative quantum field theory.&#38;nbsp; Intended for those with an enthusiastic interest in using quantum field theory for mathematical and/or physical applications but who may lack the standard graduate physics level background.&#38;nbsp; Classical mechanics, developments of quantum mechanics and quantum field theory.&#38;nbsp; Certain phenomenological aspects of quantum field theory are sacrificed in order to have time to cover all of these essential formal developments.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6551</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G6551</course_identifier_cooked>
+
+<course_name>The Philosophy of Science</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The logic of inquiry in natural sciences: substantive as well as methodological concepts such as cause, determination, measurement, error, predication, and reduction. The roles of theory and experiment.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Albert</course_instructors_expected>
+
+<course_instructors_full>D. Albert</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9232</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G9232</course_identifier_cooked>
+
+<course_name>Physics and Philosophy In the 17th Century</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>3 or 6 pts.</course_points_notes>
+
+<course_points_cooked>3 or 6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The philosophically important aspects of the development of physical science in the 17th century: the conception of scientific method and the elaboration of the fundamental concepts of classical mechanics. Readings from Aristotle, medieval theories, Galileo, Descartes, Huyghens, Leibniz, Boyle, Newton, and Locke.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Mercer</course_instructors_expected>
+
+<course_instructors_full>C. Mercer</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9503</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G9503</course_identifier_cooked>
+
+<course_name>Topics In the Philosophy of Science</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>3 or 6 pts. Ph. Kitcher</course_points_notes>
+
+<course_points_cooked>3 or 6 pts. Ph. Kitcher</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Focus on some questions that have been much-discussed in recent philosophy of science and some that have been neglected. Considers the claims of the sciences to deliver truth (or approximate truth), the relations between truth to other values, the social character of scientific knowledge, and the role(s) of scientific knowledge in a democratic society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Ph. Kitcher</course_instructors_expected>
+
+<course_instructors_full>P. Kitcher</course_instructors_full>
+
+</course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9576</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G9576</course_identifier_cooked>
+
+<course_name>The Philosophy of Space and Time</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>6</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-6 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The philosophical foundations of the special and general theories of relativity.&#38;nbsp; Readings from the texts of Sklar, Friedman, Reichenbach, and others will be assigned.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Albert</course_instructors_actual>
+
+<course_instructors_expected>D. Albert</course_instructors_expected>
+
+<course_instructors_full>D. Albert</course_instructors_full>
+
+<classes><class><call_number>17702</call_number>
+
+<class_name>THE PHILOSOPHY OF SPACE &#38;</class_name>
+
+<course_identifier>PHILG9576</course_identifier>
+
+<course_number>9576</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 12:10p - 2:00p&#60;br /&#62;716 PHILOSOPHY HALL</days_times>
+
+<instructors>D. Albert</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PHIL/G9576-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>PHPH</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PHIL</subject_area_code>
+
+<subject_area_name>Philosophy</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9577</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>PHIL G9577</course_identifier_cooked>
+
+<course_name>Topics In the Foundations of Quantum Mechanics</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>3 or 6 pts</course_points_notes>
+
+<course_points_cooked>3 or 6 pts</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A discussion of the various attempts to solve the problem of measurement in Quantum Mechanics, with an emphasis on theories without a collapse of the wave function and the many-worlds interpretation. A variety of related topics such as self-measurement and Quantum Cosmology will also be treated.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>D. Albert</course_instructors_expected>
+
+<course_instructors_full>D. Albert</course_instructors_full>
+
+</course></courses>

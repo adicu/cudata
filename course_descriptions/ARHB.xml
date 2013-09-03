@@ -1,0 +1,4757 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC1001x</course_identifier_cooked>
+
+<course_name>Introduction to Art History I</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Attempting to offer an introduction to artistic creation on a global scale, this course is team-taught by specialists in a number of different cultural and historical traditions. In the fall semester we will discuss the art of Europe, the Middle East, India, Japan, and China, in periods ranging from the Paleolithic to the Renaissance. Museum trips are an integral part of the course. Note: weekly discussion groups to be arranged.Discussion Section Required. General Education Requirement: Cultures in Comparison (CUL). General Education Requirement: Historical Studies (HIS). General Education Requirement: The Visual and Performing Arts (ART).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Moxey</course_instructors_actual>
+
+<course_instructors_expected>K. Moxey</course_instructors_expected>
+
+<course_instructors_full>K. Moxey, P. Moxey</course_instructors_full>
+
+<classes><class><call_number>01791</call_number>
+
+<class_name>INTRODUCTION TO ART HISTO</class_name>
+
+<course_identifier>AHISX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>P. Moxey</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>85</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC1001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC1002y</course_identifier_cooked>
+
+<course_name>Introduction to the History of Art II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The second part of the Introduction to the History of Art goes from the Renaissance to 2012, circles the world, and includes all media.&#38;nbsp; It is organized around 26 themes (one for each lecture) and approximately 100 works of art.&#38;nbsp; Visits to the Metropolitan Museum of Art, the Frick Collection, the Museum of Modern Art, and the Highline park supplement lectures and discussion sections. Note: weekly discussion groups to be arranged.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Higonnet</course_instructors_actual>
+
+<course_instructors_expected>A. Higonnet</course_instructors_expected>
+
+<course_instructors_full>A. Higonnet</course_instructors_full>
+
+<classes><class><call_number>01823</call_number>
+
+<class_name>INTRODUCTION TO ART HISTO</class_name>
+
+<course_identifier>AHISX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;304 BARNARD HALL</days_times>
+
+<instructors>A. Higonnet</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>196</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC1002-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2001</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC2001x and y</course_identifier_cooked>
+
+<course_name>Introduction to Drawing</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class.</course_points_notes>
+
+<course_points_cooked>3 pts.  Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will focus on individual and collaborative projects designed to explore the fundamental principles of image making. Students acquire a working knowledge of concepts in contemporary art through class critiques, discussion, and individual meetings with the professor. &#38;nbsp;Reading materials will provide historical and philosophical background to the class assignments.&#38;nbsp; Class projects will range from traditional to experimental and multi-media.&#38;nbsp;Image collections will be discussed in class with an awareness of contemporary image production.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Hewitt</course_instructors_actual>
+
+<course_instructors_expected>L. Hewitt</course_instructors_expected>
+
+<course_instructors_full>L. Hewitt</course_instructors_full>
+
+<classes><class><call_number>04250</call_number>
+
+<class_name>INTRODUCTION TO DRAWING</class_name>
+
+<course_identifier>AHISX2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 12:50p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>L. Hewitt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC2001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05241</call_number>
+
+<class_name>INTRODUCTION TO DRAWING</class_name>
+
+<course_identifier>AHISX2001</course_identifier>
+
+<course_number>2001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 12:50p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>L. Hewitt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>35</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC2001-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2005</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>2007</course_number_2>
+
+<course_term_offered_2>x</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC2005x-BC2007x</course_identifier_cooked>
+
+<course_name>Painting I and III</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Course Limited to 15 Students. Permission of Instructor. Attend the first Class.</course_points_notes>
+
+<course_points_cooked>3 pts.  Course Limited to 15 Students. Permission of Instructor. Attend the first Class.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will focus on individual and collaborative projects designed to explore the fundamental principles of image making. Students acquire a working knowledge of concepts in contemporary art through class critiques, discussion, and individual meetings with the professor. &#38;nbsp;Reading materials will provide historical and philosophical background to the class assignments.&#38;nbsp; Class projects will range from traditional to experimental and multi-media.&#38;nbsp;Image collections will be discussed in class with an awareness of contemporary image production.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Snitzer</course_instructors_actual>
+
+<course_instructors_expected>J. Snitzer</course_instructors_expected>
+
+<course_instructors_full>J. Snitzer</course_instructors_full>
+
+<classes><class><call_number>05809</call_number>
+
+<class_name>PAINTING I</class_name>
+
+<course_identifier>AHISX2005</course_identifier>
+
+<course_number>2005</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 6:00p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Snitzer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC2005-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04593</call_number>
+
+<class_name>PAINTING III</class_name>
+
+<course_identifier>AHISX2007</course_identifier>
+
+<course_number>2007</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 6:00p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Snitzer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC2007-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2006</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>2008</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC2006y-BC2008y</course_identifier_cooked>
+
+<course_name>Painting II and IV</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class.</course_points_notes>
+
+<course_points_cooked>3 pts.  Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A continuation of painting I &#38;amp; III,&#38;nbsp;open to all skill levels.&#38;nbsp; Students will further develop techniques to communicate individual and collective ideas in painting.&#38;nbsp; This course will focus on individual and collaborative projects designed to explore the fundamental principles of image making. &#38;nbsp;Students acquire a working knowledge of traditional studio skills and related concepts in contemporary art through class critiques, discussion, and individual meetings with the professor. &#38;nbsp;Reading materials will provide historical and philosophical background to the class assignments.&#38;nbsp;&#38;nbsp;Class projects will range from traditional to experimental and multi-media.&#38;nbsp;Image collections will be discussed in class with an awareness of contemporary image production.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Westerbeke</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Westerbeke</course_instructors_full>
+
+<classes><class><call_number>02013</call_number>
+
+<class_name>PAINTING II</class_name>
+
+<course_identifier>AHISX2006</course_identifier>
+
+<course_number>2006</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 6:00p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Westerbeke</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC2006-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02328</call_number>
+
+<class_name>PAINTING IV</class_name>
+
+<course_identifier>AHISX2008</course_identifier>
+
+<course_number>2008</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 6:00p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Westerbeke</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC2008-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3003</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3003x and y</course_identifier_cooked>
+
+<course_name>Supervised Projects in Photography</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class.</course_points_notes>
+
+<course_points_cooked>3 pts.  Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed for students to conduct independent projects in photography. Priority for enrollment to the class will be Barnard College students who are enrolling in classes at ICP (International Center of Photography). &#38;nbsp;The cost of ICP will be covered by Barnard College. All of the other students enrolling in the course (CC, GS SOA) will be responsible for their own ICP course expenses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 15 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Miller</course_instructors_actual>
+
+<course_instructors_expected>J. Miller</course_instructors_expected>
+
+<course_instructors_full>J. Miller</course_instructors_full>
+
+<classes><class><call_number>07389</call_number>
+
+<class_name>SUPERVISED PROJ PHOTOGRAP</class_name>
+
+<course_identifier>AHISX3003</course_identifier>
+
+<course_number>3003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Miller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3003-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03690</call_number>
+
+<class_name>SUPERVISED PROJ PHOTOGRAP</class_name>
+
+<course_identifier>AHISX3003</course_identifier>
+
+<course_number>3003</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Miller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>32</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3003-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3015</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3015</course_identifier_cooked>
+
+<course_name>Synthesis: An Approach to Mixed-Media</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Synthesis: the composition, combination or transformation of parts or elements to form a whole. This studio course will explore the unique position of combining various mediums and techniques in the visual arts platform.&#38;nbsp; What does it mean to use principles of drawing in the making of a photograph? Why explore sculptural forms through the materiality of painting?&#38;nbsp; &#38;nbsp; We will look closely at a select group of contemporary artists who move fluidly through various forms and modes of working.&#38;nbsp; The course consists of the following key areas: material, form, concept, intersection and synthesis. Through out the studio course, students will address conceptual, formal and process-oriented issues related to working across mediums in the visual arts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Hewitt</course_instructors_expected>
+
+<course_instructors_full>L. Hewitt</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3031</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3031y</course_identifier_cooked>
+
+<course_name>Imagery and Form in the Arts</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class. Application not required.</course_points_notes>
+
+<course_points_cooked>3 pts.  Enrollment limited to 15 students. Instructor&#39;s permission required. Attend the first day of class. Application not required.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Operation of imagery and form in dance, music, theater, visual arts and writing; students are expected to do original work in one of these arts. Concepts in contemporary art will be explored.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Hewitt</course_instructors_actual>
+
+<course_instructors_expected>J. Snitzer</course_instructors_expected>
+
+<course_instructors_full>J. Snitzer, L. Hewitt</course_instructors_full>
+
+<classes><class><call_number>03350</call_number>
+
+<class_name>IMAGERY AND FORM IN THE A</class_name>
+
+<course_identifier>AHISX3031</course_identifier>
+
+<course_number>3031</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;501 Diana Center&#60;br /&#62;M 5:00p - 6:00p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>L. Hewitt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3031-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3080</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS V3080x</course_identifier_cooked>
+
+<course_name>Pre-Columbian Art and Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of the pre-Hispanic art of Mesoamerica, Central America, and the Andean region from the earliest of times to the Spanish conquest.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3123</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3123y</course_identifier_cooked>
+
+<course_name>Woman and Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussion of the methods necessary to analyze visual images of women in their historical, racial, and class contexts, and to understand the status of women as producers, patrons, and audiences of art and architecture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Davis</course_instructors_expected>
+
+<course_instructors_full>M. Davis</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3201</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS V3201y</course_identifier_cooked>
+
+<course_name>Arts of China</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the arts of Chinaceramics, bronzes, painting, and sculpturefrom the earliest farming cultures (ca. 5000 B.C.E.) to the end of the traditional period (ca. 1750 C.E.).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Harrist</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Harrist</course_instructors_full>
+
+<classes><class><call_number>18979</call_number>
+
+<class_name>THE ARTS OF CHINA</class_name>
+
+<course_identifier>AHISV3201</course_identifier>
+
+<course_number>3201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;612 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Harrist</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>60</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>54</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/V3201-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3203</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS V3203x</course_identifier_cooked>
+
+<course_name>Arts of Japan</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of Japanese art from the Neolithic through the Edo period, with emphasis on Buddhist art, scroll painting, decorative screens, and wood-block prints.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Reynolds</course_instructors_actual>
+
+<course_instructors_expected>J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>J. Reynolds</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3203</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAH O3203x</course_identifier_cooked>
+
+<course_name>Arts of Japan</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of Japanese art from the Neolithic through the Edo period, with emphasis on Buddhist art, scroll painting, decorative screens, and wood-block prints.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Reynolds</course_instructors_actual>
+
+<course_instructors_expected>J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>J. Reynolds</course_instructors_full>
+
+<classes><class><call_number>18700</call_number>
+
+<class_name>THE ARTS OF JAPAN</class_name>
+
+<course_identifier>AUAHO3203</course_identifier>
+
+<course_number>3203</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>J. Reynolds</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAH/O3203-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3230</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS W3230x</course_identifier_cooked>
+
+<course_name>Medieval Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A course developed collaboratively and taught digitally that spans one thousand years of architecture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Murray</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Murray</course_instructors_full>
+
+<classes><class><call_number>15313</call_number>
+
+<class_name>MEDIEVAL ARCHITECTURE</class_name>
+
+<course_identifier>AHISW3230</course_identifier>
+
+<course_number>3230</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;612 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Murray</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>67</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>63</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/W3230-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3248</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS V3248x</course_identifier_cooked>
+
+<course_name>Greek Art and Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of the principal monuments and themes of Greek art in sculpture, painting, architecture, and city planning from the Mycenaeans to the Roman conquest.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>I. Mylonopoulos</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>I. Mylonopoulos</course_instructors_full>
+
+<classes><class><call_number>77224</call_number>
+
+<class_name>GREEK ART AND ARCHITECTUR</class_name>
+
+<course_identifier>AHISV3248</course_identifier>
+
+<course_number>3248</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;612 SCHERMERHORN HALL</days_times>
+
+<instructors>I. Mylonopoulos</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>67</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>68</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/V3248-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3250</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS V3250y</course_identifier_cooked>
+
+<course_name>Roman Art and Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Architecture, sculpture, and painting of ancient Rome from the second century B.C. to the end of the Roman Empire in the West.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3340</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS W3340y</course_identifier_cooked>
+
+<course_name>Masterpieces of the Art of China, Korea, and Japan</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The decorative arts of ceramics, lacquers, and jades; Buddhist art, architecture, sculpture; and later painting. Museum laboratory sessions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3400</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS V3400x</course_identifier_cooked>
+
+<course_name>Italian Renaissance Painting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The origins and development of Renaissance painting: humanism and religion, perspective and art theory, the revival of the classical form and content. Emphasis on major centers, especially Florence and Venice and the courts, and on the major masters: Mascaccio, Fra Angelico, Piero della Francesca, Giovanni Bellini, Leonardo da Vinci.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3530</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3530x</course_identifier_cooked>
+
+<course_name>Advanced Studio</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An interpretive study of the theoretical and critical issues in visual art. Projects that are modeled after major movements in contemporary art will be executed in the studio. Each student develops an original body of artwork and participates in group discussions of the assigned readings.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 15 students. Permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Snitzer</course_instructors_actual>
+
+<course_instructors_expected>J. Snitzer</course_instructors_expected>
+
+<course_instructors_full>J. Snitzer</course_instructors_full>
+
+<classes><class><call_number>01726</call_number>
+
+<class_name>ADVANCED STUDIO</class_name>
+
+<course_identifier>AHISX3530</course_identifier>
+
+<course_number>3530</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 6:00p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Snitzer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3530-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3626</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3626y</course_identifier_cooked>
+
+<course_name>In and Around Abstract Expressionism</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course focuses on the history of the artistic phenomenon of abstract expressionism in the United States, Europe, Latin America and Japan. To place abstract expressionism within its proper historical context, we will explore the modern, anti-modern, avant-garde, and neo-avant-garde artistic practices that have been elaborated in various ways in different locations from the 1920s to the 1960s, and the major critical and historical accounts of modernism in the arts during these years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Alberro</course_instructors_actual>
+
+<course_instructors_expected>A. Alberro</course_instructors_expected>
+
+<course_instructors_full>A. Alberro</course_instructors_full>
+
+<classes><class><call_number>04585</call_number>
+
+<class_name>IN/AROUND ABSTRACT EXPRSN</class_name>
+
+<course_identifier>AHISX3626</course_identifier>
+
+<course_number>3626</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;405 MILBANK HALL</days_times>
+
+<instructors>A. Alberro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>100</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3626-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3642</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3642</course_identifier_cooked>
+
+<course_name>American Art and Culture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An examination of North American painting, sculpture, photography, graphic art and decorative arts from the Colonial Period until World War I. Artists discussed will include Benjamin West, John Singleton Copley, Thomas Cole, Lilly Martin Spencer, Harriet Powers, Rafael Aragon, Robert Duncanson, Frederick Church, Winslow Homer, Thomas Eakins, James MacNeill Whistler, Mary Cassatt, Thomas Moran, Henry Ossawa Tanner and Eadweard Muybridge.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE, SIPA, SO</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Davis</course_instructors_actual>
+
+<course_instructors_expected>M. Davis</course_instructors_expected>
+
+<course_instructors_full>M. Davis</course_instructors_full>
+
+<classes><class><call_number>05440</call_number>
+
+<class_name>NORTH AMERICAN ART AND</class_name>
+
+<course_identifier>AHISX3642</course_identifier>
+
+<course_number>3642</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>M. Davis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3642-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3650</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS W3650y</course_identifier_cooked>
+
+<course_name>20th Century Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Major developments in 20th-century art, with emphasis on modernist and avant-garde practices and their relevance for art up to the present.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Krauss</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>R. Krauss</course_instructors_full>
+
+<classes><class><call_number>61966</call_number>
+
+<class_name>TWENTIETH CENTURY ART</class_name>
+
+<course_identifier>AHISW3650</course_identifier>
+
+<course_number>3650</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;501 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Krauss</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>160</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>160</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/W3650-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3654</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3654x</course_identifier_cooked>
+
+<course_name>Institutional Critique</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines precedents for institutional critique in the strategies of early twentieth-century historical avant-garde and the post-war neo-avant-garde. Explores ideas about the institution and violence, investigates the critique and elaboration of institutional critique from the late 1970s to the early 1990s, and considers the legacies of institutional critiques in the art of the present.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Deutsche</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+<classes><class><call_number>05167</call_number>
+
+<class_name>INSTITUTIONAL CRITIQUE</class_name>
+
+<course_identifier>AHISX3654</course_identifier>
+
+<course_number>3654</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>R. Deutsche</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>51</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3654-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3655</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3655</course_identifier_cooked>
+
+<course_name>The Discourse of Public Art and Public Space</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of the meaning of the term &#38;ldquo;public space&#38;rdquo; in contemporary debates in art, architecture, and urban discourse and the place of these debates within broader controversies over the meaning of democracy. Readings include Theodor Adorno, Vito Acconci, Michel de Certeau, Douglas Crimp, Thomas Crow, Jurgen Habermas, David Harvey, Fredric Jameson, Miwon Kwon, Henri Lefebvre, Bruce Robbins, Michael Sorkin, Mark Wigley, and Krzysztof Wodiczko.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3658</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3658x</course_identifier_cooked>
+
+<course_name>History and Theory of the Avant Garde</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the idea and practice of artistic avant-gardism in Europe and the United States from the mid-nineteenth to the late-twentieth century. It explores the changing relationship of avant-gardism to bourgeois society, concepts of democracy, art institutions, political radicalism, and non-art forms of culture, such as mass culture and third-world cultures. It studies theories of the modernist, historical, and neo-avant-gardes. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Courses in nineteenth- and/or twentieth-century art are recommended as prerequisites for this course.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3662</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3662x</course_identifier_cooked>
+
+<course_name>18th Century Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>From the rococo to neo-classicism, this lecture course studies the century of Enlightenment, nascent consumer culture, early industrialization, and political revolution.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Higonnet</course_instructors_expected>
+
+<course_instructors_full>A. Higonnet</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3673</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3673y</course_identifier_cooked>
+
+<course_name>History of Photography</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will survey selected social, cultural and aesthetic or technical developments in the history of photography, from the emergence of the medium in the 1820s and 30s through to the present day. Rather than attempt comprehensively to review every aspect of photography and its legacies in the nineteenth, twentieth and twenty-first centuries, the course will instead trace significant developments through a series of case studies. Some of the latter will focus on individuals, genres or movements, and others on various discourses of the photographic image.&#38;nbsp; Particular attention will be placed on methodological and theoretical concerns pertaining to the medium.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Elcott</course_instructors_actual>
+
+<course_instructors_expected>N. Elcott</course_instructors_expected>
+
+<course_instructors_full>N. Elcott</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3673</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAH O3673y</course_identifier_cooked>
+
+<course_name>History of Photography</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will survey selected social, cultural and aesthetic or technical developments in the history of photography, from the emergence of the medium in the 1820s and 30s through to the present day. Rather than attempt comprehensively to review every aspect of photography and its legacies in the nineteenth, twentieth and twenty-first centuries, the course will instead trace significant developments through a series of case studies. Some of the latter will focus on individuals, genres or movements, and others on various discourses of the photographic image.&#38;nbsp; Particular attention will be placed on methodological and theoretical concerns pertaining to the medium.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Elcott</course_instructors_actual>
+
+<course_instructors_expected>N. Elcott</course_instructors_expected>
+
+<course_instructors_full>N. Elcott</course_instructors_full>
+
+<classes><class><call_number>93449</call_number>
+
+<class_name>HISTORY OF PHOTOGRAPHY</class_name>
+
+<course_identifier>AUAHO3673</course_identifier>
+
+<course_number>3673</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;614 SCHERMERHORN HALL</days_times>
+
+<instructors>N. Elcott</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAH/O3673-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3674</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3674x</course_identifier_cooked>
+
+<course_name>Art since 1945</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the history of art in post-war Europe and the United States from 1945 to the present, emphasizing questions of methodology of modernist studies and the diversity of theoretical approaches.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3675</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3675y</course_identifier_cooked>
+
+<course_name>Feminism and Postmodernism and the Visual Arts: The 1970&#39;s and 1980&#39;s</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines art and criticism of the 1970s and 1980s that were informed by feminist and postmodern ideas about visual representation. Explores postmodernism as (1) a critique of modernism, (2) a critique of representation, and (3) what Gayatri Spivak called a radical acceptance of vulnerability. Studies art informed by feminist ideas about vision and subjectivity. Places this art in relation to other aesthetic phenomena, such as modernism, minimalism, institution-critical art, and earlier feminist interventions in art.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Deutsche</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+<classes><class><call_number>08335</call_number>
+
+<class_name>FEMINISM/POSTMODERNISM IN</class_name>
+
+<course_identifier>AHISX3675</course_identifier>
+
+<course_number>3675</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>R. Deutsche</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>77</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3675-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3681</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3681y</course_identifier_cooked>
+
+<course_name>Directions in Contemporary Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduces the history of contemporary artistic practices from the 1960s to the present, and the major critical and historical accounts of modernism and postmodernism in the arts. Focusing on the interrelationships between modernist culture and the emerging concepts of postmodern and contemporary art, the course addresses a wide range of historical and methodological questions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Alberro</course_instructors_expected>
+
+<course_instructors_full>A. Alberro</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3682</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3682y</course_identifier_cooked>
+
+<course_name>Early Modernism and the Crisis of Representation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course studies the emergence and development of Modernism in all of its complexity. Particular attention will be paid to the ways in which Modern artists responded to the dramatically changing notions of space, time and dimension in the late nineteenth and early twentieth century. What impact did these dramatic changes have on existing concepts of representation? What challenges did they pose for artists? To what extent did Modernism contribute to an understanding of the full consequences of these new ideas of time and space? These concerns will lead us to examine some of the major critical and historical accounts of modernism in the arts as they were developed between the 1860s and the 1920s.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>20th Century Art recommended.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Alberro</course_instructors_expected>
+
+<course_instructors_full>A. Alberro</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3687</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3687x</course_identifier_cooked>
+
+<course_name>Modern Japanese Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class will explore Japanese painting, prints, photography and performance art from the mid-19th century to the present. We will consider artists responses to rapid modernization, debates over cultural identity, and the ever-changing role of tradition in modern art practice. We will also discuss the impact of natural disaster and war on the arts, and the role of art in mediating social conflict. There are no prerequisites, but the survey of Japanese art history and classes in modern Japanese studies would provide useful background.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>J. Reynolds</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3895</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS V3895x and y</course_identifier_cooked>
+
+<course_name>Introductory Colloquium: The Literature and Methods of Art History</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to different methodological approaches to art history as well as a variety of critical texts by such authors as W&#246;lfflin, Riegl, Panofsky, and Gombrich.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3938</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3938y</course_identifier_cooked>
+
+<course_name>Modern Native American Art in the South West</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Undergraduate Travel Seminar limited to 14 Students. Applicaiton due on November 7, 2012</course_points_notes>
+
+<course_points_cooked>4 pts.  Undergraduate Travel Seminar limited to 14 Students. Applicaiton due on November 7, 2012</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Traces the impact of new mediums, new audiences and new institutions of production on artists of Pueblo, Navajo and Apache background over the past century and explores how modernity and postmodernity intersect with indigeneity in a contemporary artist&#38;rsquo; work. Course includes visits with artists and curators and examination of objects&#38;nbsp;&#38;nbsp;&#38;nbsp;&#38;nbsp;&#38;nbsp;&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Hutchinson</course_instructors_actual>
+
+<course_instructors_expected>E. Hutchinson</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson</course_instructors_full>
+
+<classes><class><call_number>01809</call_number>
+
+<class_name>MODERN NATIVE ART--SOUTHW</class_name>
+
+<course_identifier>AHISX3938</course_identifier>
+
+<course_number>3938</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;318 MILBANK HALL</days_times>
+
+<instructors>E. Hutchinson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3938-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3939</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3939x</course_identifier_cooked>
+
+<course_name>Contemporary Photography</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office April 7th.</course_points_notes>
+
+<course_points_cooked>4 pts.  Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office April 7th.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; This undergraduate seminar will explore key texts that have informed the current condition and possibilities of the medium of photography.The course readings will consist of writings by critics and historians which reflect the unstable status of the photographic object between: technology and culture, mass culture and avant-garde art, discourse and documentation, analogue and digital.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Alberro</course_instructors_expected>
+
+<course_instructors_full>A. Alberro</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3948</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3948y</course_identifier_cooked>
+
+<course_name>The Visual Culture of the Harlem Renaissance</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the paintings, photographs, sculptures, films, and graphic arts of the Harlem Renaissance and the publications, exhibitions, and institutions involved in the production and consumption of images of African-Americans. Focuses on impact of Black northward and transatlantic migration and the roles of region, class, gender, and sexuality.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 15 students. Barnard Art History seminar application required. See dept. website for application and instructions. www.barnard.edu/arthist</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Hutchinson</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>3948</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS C3948x</course_identifier_cooked>
+
+<course_name>Nineteenth-Century Criticism</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>Seminars have limited enrollment. Permission of the instructor is required for admission to all Barnard and Columbia seminars. In addition, it is strongly recommended that students seeking admission to a seminar have previously had a lecture course in the area. Students must sign up for Columbia seminars at 826 Schermerhorn.</course_preface>
+
+<course_description>Selected readings in philosophy and criticism of art with special emphasis on the problem of the observer in the context of 19th-century modernity. Texts by Diderot, Kant, Blake, Goethe, Hegel, Ruskin, Baudelaire, and Nietzsche.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Crary</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Crary</course_instructors_full>
+
+<classes><class><call_number>19916</call_number>
+
+<class_name>NINETEENTH-CENTURY CRIT</class_name>
+
+<course_identifier>AHISC3948</course_identifier>
+
+<course_number>3948</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 10:10a - 12:00p&#60;br /&#62;930 SCHERMERHORN HALL</days_times>
+
+<instructors>J. Crary</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>0</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>C</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/C3948-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3949</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3949x</course_identifier_cooked>
+
+<course_name>The Art of Witness: Memorials and Historical Trauma</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office by March 30th, 2012.</course_points_notes>
+
+<course_points_cooked>4 pts.  Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office by March 30th, 2012.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines aesthetic responses to collective historical traumas, such as slavery, the Holocaust, the bombing of Hiroshima, AIDS, homelessness, immigration, and the recent attack on the World Trade Center. Studies theories about trauma, memory, and representation. Explores debates about the function and form of memorials.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Deutsche</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+<classes><class><call_number>07300</call_number>
+
+<class_name>ART OF WITNESS: MEMORIALS</class_name>
+
+<course_identifier>AHISX3949</course_identifier>
+
+<course_number>3949</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>R. Deutsche</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3949-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3950</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3950y</course_identifier_cooked>
+
+<course_name>Photography and Video in Asia</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>East Asia is now perhaps the world&#38;rsquo;s most dynamic region, and its dramatic social and economic transformation has been mirrored in the work of a host of startlingly original and innovative visual artists. The class will explore the ideas and visual idioms that inform the leading contemporary photo artists in China, Korea, Japan, Taiwan, and Hong Kong. We will begin with a historical survey of the development of photography in East Asia since the mid-19th century, but we will concentrate on the period from 1960 to the present.&#38;nbsp; Figures whose work will be explored include such Japanese artists and photographers as Eikoh Hosoe, Daido Moriyama, Tomatsu Shomei, Miyako Ishiuchi, Nobuyoshi Araki, Yasumasa Morimura, Moriko Mori, Naoya Hatakeyema, and Tomoko Sawada. From China, we will examine the work of artists like Zhang Huan, Hong Hao, Yang Fudong, Lin Tianmiao, and Xing Danwen, while Korean artists to be covered include Atta Kim andYeondoo Jung. Since many of these artists work regularly in video as well as photography, there will be regular video screenings throughout the semester.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Phillips</course_instructors_expected>
+
+<course_instructors_full>C. Phillips</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3951</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3951</course_identifier_cooked>
+
+<course_name>Contemporary Art and the Public Sphere</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Critically examines contemporary debates about the meaning of public art and public space, placing them within broader controversies over definitions of urban life and democracy. Explores ideas about what it means to bring the term public into proximity with the term art. Considers the differing ideas about social unity that inform theories of public space as well as feminist criticism of the masculine presumptions underlying certain critical theories of public space/art.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>AHIS BC1001 - BC1002 or equivalent. Enrollment Limited to 15 students. Permission of the instructor. Preference to seniors and Art History majors.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3952</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3952</course_identifier_cooked>
+
+<course_name>Art and Mass/Popular/Everyday Culture: 1850 to the Present</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines interactions between art in Europe and the United States during the 19th and 20th centuries, on the one hand, and non-art forms of culture that are called variously mass, popular, and everyday culture, on the other. Places art/mass culture interactions within the rise of bourgeois society, the invention of democracy, and relations of class, gender, sexuality, and race. Studies major critical theories and debates about the relationship between art and mass culture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>AHIS BC1001 - BC1002 or equivalent. Enrollment limited to 15 students. Permission of the instructor. Preference to seniors and Art History majors.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3957</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3957y</course_identifier_cooked>
+
+<course_name>1980s Feminism and Postmodernism in the Visual Arts</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of art and criticism that is informed by feminist and postmodern ideas about subjectivity in visual representation which first achieved prominence in the late 1970s and 1980s, exerting a profound influence on contemporary aesthetic practice. Explored in relation to earlier concepts of feminism, modernism, social art history, and &#239;&#191;&#189;art as institution.&#239;&#191;&#189; Artworks discussed include those of Barbara Kruger, Cindy Sherman, Louise Lawler, Krzysztof Wodiczko, Hans Haacke, Mary Kelly, and Catherine Opie, among others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>AHIS BC1001 - BC1002 or equivalent. Enrollment limited to 15 students. Permission of the instructor. Preference to seniors and Art History majors.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3959</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3959x</course_identifier_cooked>
+
+<course_name>Senior Research Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Independent research for the senior thesis. Students develop and write their senior thesis in consultation with an individual faculty adviser in art history and participate in group meetings scheduled throughout the senior year.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Course open to Barnard Art History majors only.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Deutsche</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+<classes><class><call_number>07493</call_number>
+
+<class_name>SENIOR RESEARCH SEMINAR</class_name>
+
+<course_identifier>AHISX3959</course_identifier>
+
+<course_number>3959</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>R. Deutsche</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3959-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3960</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3960y</course_identifier_cooked>
+
+<course_name>Senior Research Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Independent research for the senior thesis. Students develop and write their senior thesis in consultation with an individual faculty adviser in Art History and participate in group meetings scheduled throughout the senior year.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Course open to Barnard Art History majors only.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Deutsche</course_instructors_actual>
+
+<course_instructors_expected>R. Deutsche</course_instructors_expected>
+
+<course_instructors_full>R. Deutsche</course_instructors_full>
+
+<classes><class><call_number>05407</call_number>
+
+<class_name>SENIOR RESEARCH SEMINAR</class_name>
+
+<course_identifier>AHISX3960</course_identifier>
+
+<course_number>3960</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>R. Deutsche</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3960-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3961</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3961y</course_identifier_cooked>
+
+<course_name>Winslow Homer and American Realism</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Seminar course limited to 15 undergraduates.</course_points_notes>
+
+<course_points_cooked>4 pts.  Seminar course limited to 15 undergraduates.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; Winslow Homer is in many ways the quintessential American Realist.&#38;nbsp; One need only glance at his sunny pictures of women playing croquet or his stunning snapshots of surf breaking on the Maine Coast to recognize the bold graphic energy of his work and its seemingly national subject matter.&#38;nbsp; Homer was promoted as an untrained and naive observer of his time, but in fact he was a sophisticated artists with extensive engagement in the evolving aesthetic and cultural dialogues of the late nineteenth century in America and abroad.&#38;nbsp; In this course, we will get beyond the surface of Homer&#39;s art, interrogating how these qualities have come to signal what they do while examining the course of his career in its art historical and historical contexts.&#38;nbsp; Rather than seeing Homer as a realist simply documenting his time, students will come to understand the ways in which his work raises and attempts to address key questions posed in the United States as it recovered from the Civil War and experienced the rapid urbanization and industrialization of the Post-War era.&#38;nbsp; Through the close examination of Homer&#39;s output in a variety of mediums, including illustration, painting, watercolor and etchings, we will explore Homer&#39;s deep engagement with the international aesthetic developments of Impressionism, Aestheticism and Realism.&#38;nbsp; Class meetings will be augmented by two field trips, one to the Metropolitan Museum of Art and the other to the Century Club.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Elizabeth Hutchinson</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACLG</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Engineering -- Chemical Engineering</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3968</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACLG BC3968y</course_identifier_cooked>
+
+<course_name>Art Criticism II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Contemporary art and its criticism written by artists ( rather than by art historians or journalistic reviewers). Spring section II includes texts by Victor Burgin, Judith Barry, Andrea Fraser, Coco Fusco, John Kelsey, Jutta Koether, Yvone Rainer, Juan Downey, Maria Eichorn, Jeff Wall, Mike Kelley, Falkie Pisano, and Melanie Gilligan. We will consider theoretical and practical implications of each artist&#38;rsquo;s oeuvre. Also, considers the art and writing of each artist together.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Guagnini</course_instructors_expected>
+
+<course_instructors_full>N. Guagnini</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3968</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3968x</course_identifier_cooked>
+
+<course_name>Art Criticism I</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office by March 30th, 2012.</course_points_notes>
+
+<course_points_cooked>4 pts.  Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office by March 30th, 2012.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Contemporary art and its criticism written by artists (rather than by art historians or journalistic reviewers). Fall section I will include Allan Kaprow, Robert Morris, Robert Smithson, Brian O&#38;rsquo;Doherty/Patrick Ireland, Dan Graham, Ad Reinhart, Daniel Buren, Helio Oiticica, Art and Language, Adrian Piper, Joseph Kosuth, mary Kelly, and Martha Rosler. We will consider theoretical and practical implications of each artist&#38;rsquo;s oeuvre. Also, considers the art and writing of each artist together.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Miller, N. Guagnini</course_instructors_actual>
+
+<course_instructors_expected>John Miller</course_instructors_expected>
+
+<course_instructors_full>J. Miller, N. Guagnini</course_instructors_full>
+
+<classes><class><call_number>07232</call_number>
+
+<class_name>ART CRITICISM</class_name>
+
+<course_identifier>AHISX3968</course_identifier>
+
+<course_number>3968</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>J. Miller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3968-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09137</call_number>
+
+<class_name>ART CRITICISM</class_name>
+
+<course_identifier>AHISX3968</course_identifier>
+
+<course_number>3968</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>N. Guagnini</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3968-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3970</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3970x</course_identifier_cooked>
+
+<course_name>Methods and Theories of Art History</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to critical writings that have shaped histories of art, including texts on iconography and iconology, the psychology of perception, psychoanalysis, social history, feminism and gender studies, structuralism, semiotics, and post-structuralism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Barnard Art History Major Requirement. Enrollment limited only to Barnard Art History majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Hutchinson, J. Reynolds</course_instructors_actual>
+
+<course_instructors_expected>E. Hutchinson, J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson, J. Reynolds</course_instructors_full>
+
+<classes><class><call_number>08145</call_number>
+
+<class_name>METHODS &#38; THEORIES OF ART</class_name>
+
+<course_identifier>AHISX3970</course_identifier>
+
+<course_number>3970</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;502 Diana Center</days_times>
+
+<instructors>E. Hutchinson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3970-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>06349</call_number>
+
+<class_name>METHODS &#38; THEORIES OF ART</class_name>
+
+<course_identifier>AHISX3970</course_identifier>
+
+<course_number>3970</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>J. Reynolds</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3970-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3971</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3971y</course_identifier_cooked>
+
+<course_name>Rococco and It&#39;s Revivials</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Undergraduate Seminar Limited to 15 Students with Permission of Instructor. Application required by November 7, 2012.</course_points_notes>
+
+<course_points_cooked>4 pts.  Undergraduate Seminar Limited to 15 Students with Permission of Instructor. Application required by November 7, 2012.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The useful arts of eighteenth-century France &#38;ndash; furniture, interior decoration, clothing etc.. --&#38;nbsp; have always been considered among the masterpieces of decorative arts history.&#38;nbsp; A revolution in scholarship has made it possible to understand how these objects inaugurated some of modernity&#38;rsquo;s key values: individualism, private home life, consumer culture, women&#38;rsquo;s involvement in the arts, global capitalism, and an orientalist fascination with the Near and Far Easts.&#38;nbsp; Several class sessions will take place in the great decorative arts galleries of the Metropolitan Museum and the Frick Collection, where students will give presentations on individual objects.&#38;nbsp;&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Higonnet</course_instructors_actual>
+
+<course_instructors_expected>A. Higonnet</course_instructors_expected>
+
+<course_instructors_full>A. Higonnet</course_instructors_full>
+
+<classes><class><call_number>06666</call_number>
+
+<class_name>ROCOCO AND ITS REVIVAL</class_name>
+
+<course_identifier>AHISX3971</course_identifier>
+
+<course_number>3971</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 9:00a - 10:50a&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>A. Higonnet</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3971-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3976</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3976y</course_identifier_cooked>
+
+<course_name>Japanese Photography</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Seminar course limited to 15 undergraduates. Application due in the BC AH office November 10, 2010. See Dept website for application. www.barnard.edu/arthist</course_points_notes>
+
+<course_points_cooked>4 pts.  Seminar course limited to 15 undergraduates. Application due in the BC AH office November 10, 2010. See Dept website for application. www.barnard.edu/arthist</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will examine the history of Japanese photography from the middle of the 19th century to the present. The class will be organized both chronologically and thematically. Throughout its history, photography has been an especially powerful medium for addressing the most challenging issues facing Japanese society. Among the topics under discussion will be: tourist photography and the representation of women within that genre in the late 19th century, the politics of propaganda photography, the construction of Japanese cultural identity through the representation of&#38;nbsp; &#226;tradition&#226; in photography, and the interest in marginalized urban subcultures in the photography of the 1960s and 1970s. Although the course will be focused on Japan, the class will read from the literature on photography elsewhere in order to situate Japanese work within a broader context.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>J. Reynolds</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3985</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3985x</course_identifier_cooked>
+
+<course_name>Introduction to Connoisseurship</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office by March 30th, 2012.</course_points_notes>
+
+<course_points_cooked>4 pts.  Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Applications are due in the Barnard Art History office by March 30th, 2012.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Factors involved in judging works of art, with emphasis on paintings; materials, technique, condition, attribution; identification of imitations and fakes; questions of relative quality.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Ainsworth</course_instructors_actual>
+
+<course_instructors_expected>M. Ainsworth</course_instructors_expected>
+
+<course_instructors_full>M. Ainsworth</course_instructors_full>
+
+<classes><class><call_number>05399</call_number>
+
+<class_name>INTRO TO CONNOISSEURSHIP</class_name>
+
+<course_identifier>AHISX3985</course_identifier>
+
+<course_number>3985</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 9:00a - 10:50a&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>M. Ainsworth</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3985-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3990</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS BC3990x</course_identifier_cooked>
+
+<course_name>Japanese Prints: Images of Japan&#39;s Floating World</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Due by Nov 9, 2011 See Barnard Art History Website www.barnard.edu/arthist</course_points_notes>
+
+<course_points_cooked>4 pts.  Undergraduate seminar course. Course limited to 15 Students with instructor&#39;s permission. Application process required. Due by Nov 9, 2011 See Barnard Art History Website www.barnard.edu/arthist</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Ukiyo-e, the &#34;images of the floating world,&#34; present a vivid and highly romanticized vision of the dynamic urban culture of Japan during the 17th through 19th centuries. Considers ways in which these images promoted kabuki theater, glamorized life in the licensed prostitution quarters, and represented sexuality and gender. We will study how print designers and publishers dodged government censorship as they ruthlessly parodied contemporary life, literature, and venerable artistic traditions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 15 students. Permission of the instructor. Sophomore standing.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>J. Reynolds</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3999</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AHIS BC3999x and y</course_identifier_cooked>
+
+<course_name>Independent Research</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>Seminars have limited enrollment. Permission of the instructor is required for admission to all Barnard and Columbia seminars. In addition, it is strongly recommended that students seeking admission to a seminar have previously had a lecture course in the area. Students must sign up for Columbia seminars at 826 Schermerhorn.</course_preface>
+
+<course_description>Independent research, primarily for the senior essay, under a chosen faculty adviser and with the chairs permission.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Miller, J. Snitzer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Miller, J. Snitzer</course_instructors_full>
+
+<classes><class><call_number>01403</call_number>
+
+<class_name>INDEPENDENT PROJECT</class_name>
+
+<course_identifier>AHISX3999</course_identifier>
+
+<course_number>3999</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 5:00p - 7:00p&#60;br /&#62;402 Diana Center</days_times>
+
+<instructors>J. Snitzer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3999-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01403</call_number>
+
+<class_name>INDEPENDENT PROJECT</class_name>
+
+<course_identifier>AHISX3999</course_identifier>
+
+<course_number>3999</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Miller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/BC3999-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4089</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS W4089x</course_identifier_cooked>
+
+<course_name>Native American Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This introduction to Native North American art surveys traditions of painting, sculpture, ceramics, textiles, photography and architecture and traces the careers of contemporary Indian modernists and postmodernists.&#38;nbsp;&#38;nbsp; It emphasizes artistic developments as a means of preserving culture and resisting domination in response to intertribal contact, European colonization and American expansion.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE, SIPA, SO</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Hutchinson</course_instructors_actual>
+
+<course_instructors_expected>E. Hutchinson</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>4089</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAH O4089x</course_identifier_cooked>
+
+<course_name>Native American Art</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This introduction to Native North American art surveys traditions of painting, sculpture, ceramics, textiles, photography and architecture and traces the careers of contemporary Indian modernists and postmodernists.&#38;nbsp;&#38;nbsp; It emphasizes artistic developments as a means of preserving culture and resisting domination in response to intertribal contact, European colonization and American expansion.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE, SIPA, SO</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Hutchinson</course_instructors_actual>
+
+<course_instructors_expected>E. Hutchinson</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson</course_instructors_full>
+
+<classes><class><call_number>19702</call_number>
+
+<class_name>NATIVE AMERICAN ART</class_name>
+
+<course_identifier>AUAHO4089</course_identifier>
+
+<course_number>4089</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>E. Hutchinson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAH/O4089-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4110</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS W4110y</course_identifier_cooked>
+
+<course_name>Japanese Architecture from the mid-19th C. to the Present</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines Japanese architecture and urban planning from the mid-19th century to the present. We will address topics such as the establishment of an architectural profession along western lines in the late 19th century, the emergence of a modernist movement in the 1920&#39;s, the use of biological metaphors and the romanticization of technology in the theories and designs of the Metabolist Group, and the shifting significance of pre-modern Japanese architectural practices for modern architects. There will be an emphasis on the complex relationship between architectural practice and broader political and social change in Japan. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Reynolds</course_instructors_actual>
+
+<course_instructors_expected>J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>J. Reynolds</course_instructors_full>
+
+<classes><class><call_number>00415</call_number>
+
+<class_name>MODERN JAPANESE ARCHITECT</class_name>
+
+<course_identifier>AHISW4110</course_identifier>
+
+<course_number>4110</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>J. Reynolds</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>43</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/W4110-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4480</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS W4480y</course_identifier_cooked>
+
+<course_name>Art in the Age of the Reformation</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the ways in which the culture and social functions of artistic production in Germany and the Netherlands were transformed as a consequence of the dissemination of the ideologies of humanism and the Reformation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Moxey</course_instructors_actual>
+
+<course_instructors_expected>K. Moxey</course_instructors_expected>
+
+<course_instructors_full>K. Moxey, P. Moxey</course_instructors_full>
+
+<classes><class><call_number>01982</call_number>
+
+<class_name>ART &#38; THE AGE OF REFORMAT</class_name>
+
+<course_identifier>AHISW4480</course_identifier>
+
+<course_number>4480</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;LL104 Diana Center</days_times>
+
+<instructors>P. Moxey</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/W4480-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>4480</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAH O4480y</course_identifier_cooked>
+
+<course_name>Art in the Age of the Reformation</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the ways in which the culture and social functions of artistic production in Germany and the Netherlands were transformed as a consequence of the dissemination of the ideologies of humanism and the Reformation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Moxey</course_instructors_actual>
+
+<course_instructors_expected>K. Moxey</course_instructors_expected>
+
+<course_instructors_full>K. Moxey, P. Moxey</course_instructors_full>
+
+<classes><class><call_number>24728</call_number>
+
+<class_name>ART &#38; THE AGE OF REFORMAT</class_name>
+
+<course_identifier>AUAHO4480</course_identifier>
+
+<course_number>4480</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;TBA</days_times>
+
+<instructors>P. Moxey</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAH/O4480-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4626</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS W4626</course_identifier_cooked>
+
+<course_name>Tourism and the North American Landscape</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the relationship between 19th-century landscapes (paintings, photographs and illustrations) and tourism in North America. The semiotics of tourism, the tourist industry as patron, the tourist as audience, and the visual implications of new forms of travel explored via the work of Cole, Moran, Jackson, and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Hutchinson</course_instructors_actual>
+
+<course_instructors_expected>E. Hutchinson</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson</course_instructors_full>
+
+<classes><class><call_number>03746</call_number>
+
+<class_name>TOURISM &#38; NORTH AMER LAND</class_name>
+
+<course_identifier>AHISW4626</course_identifier>
+
+<course_number>4626</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;203 Diana Center</days_times>
+
+<instructors>E. Hutchinson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AHIS/W4626-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>4626</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUAH O4626</course_identifier_cooked>
+
+<course_name>Tourism and the North American Landscape</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the relationship between 19th-century landscapes (paintings, photographs and illustrations) and tourism in North America. The semiotics of tourism, the tourist industry as patron, the tourist as audience, and the visual implications of new forms of travel explored via the work of Cole, Moran, Jackson, and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Hutchinson</course_instructors_actual>
+
+<course_instructors_expected>E. Hutchinson</course_instructors_expected>
+
+<course_instructors_full>E. Hutchinson</course_instructors_full>
+
+<classes><class><call_number>83288</call_number>
+
+<class_name>TOURISM &#38; NORTH AMER LAND</class_name>
+
+<course_identifier>AUAHO4626</course_identifier>
+
+<course_number>4626</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>E. Hutchinson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AUAH</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUAH/O4626-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4703</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS W4703y</course_identifier_cooked>
+
+<course_name>Modern Japanese Architecture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course Description to Come</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Reynolds</course_instructors_expected>
+
+<course_instructors_full>J. Reynolds</course_instructors_full>
+
+</course><course><academic_department_code>ARHB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AHIS</subject_area_code>
+
+<subject_area_name>Art History</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4850</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AHIS W4850y</course_identifier_cooked>
+
+<course_name>Collecting</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Bridge Course Open to Undergraduates</course_points_notes>
+
+<course_points_cooked>3 pts.  Bridge Course Open to Undergraduates</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Graduate Lecture open to undergraduates. This course studies the nearly universal human phenomenon of collecting. We will begin by gauging the range and basic structures of the phenomenon, looking at collections ranging from sock monkeys through anatomical waxes to ukiyo-e cards. These examples will enable us to compare and contrast theories of collecting, of which the most important will be psychological and anthropological. Moving from these general theories to the historically particular, we will next turn to the history of high-end collecting, Renaissance curiosity cabinets, and the origins of museum. The history of the art museum will then be studied in some detail, through both analysis of art museum types &#38;ndash; principally national or municipal, private, monographic, and geographic &#38;ndash; and through case studies of personal collections. Finally, the course will address art-work about collecting. Lectures, readings, and discussion sections will be reinforced by multiple visits to New York City museums.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Higonnet</course_instructors_expected>
+
+<course_instructors_full>A. Higonnet</course_instructors_full>
+
+</course></courses>

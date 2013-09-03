@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>FUND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FUND</subject_area_code>
+
+<subject_area_name>Fundraising</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>1000</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FUND K1000x</course_identifier_cooked>
+
+<course_name>test</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This is a&#38;nbsp; test course for SCE.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>ANTH V1000</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

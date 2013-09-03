@@ -1,0 +1,1460 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>QMSS G4010x (Section 001)</course_identifier_cooked>
+
+<course_name>Quantitative Theory and Methodology in the Social Sciences</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This interdisciplinary course, taken in the fall semester, is a comprehensive introduction to quantitative research in the social sciences. The course focuses on foundational ideas of social science research, including strengths and weaknesses of different research designs, interpretation of data drawn from contemporary and historical contexts, and strategies for evaluating evidence. The majority of the course is comprised of two-week units examining particular research designs, with a set of scholarly articles that utilize that design (e.g., experimental designs, with a set of readings that use this method to examine discrimination in labor and housing markets).</course_description>
+
+<corequisites>QMSS G4021</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Panagopoulos, S. Iorga</course_instructors_actual>
+
+<course_instructors_expected>C. Weiss</course_instructors_expected>
+
+<course_instructors_full>C. Panagopoulos, C. Weiss, S. Iorga</course_instructors_full>
+
+<classes><class><call_number>64531</call_number>
+
+<class_name>QUANT THRY/METHODOLOGY-SO</class_name>
+
+<course_identifier>QMSSG4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;201A PHILOSOPHY HALL</days_times>
+
+<instructors>C. Panagopoulos</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>27</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4010-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4013</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4013x</course_identifier_cooked>
+
+<course_name>Quantitative Analytic Techniques I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>3</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is meant to introduce students to the main concepts, methods and interpretations behind statistical analysis in the social sciences. The chief goal is to help students interpret quantitative data in helpful and provocative ways. The hope is that by trying to measure the social world, students will see their thinking become clearer and their understandings of concepts grow more complex. They will also become competent at reading statistical results in social science publications and in other media. This course is Part 1 of a two part sequence (the other is G4014, offered in the Spring). Material learned now will seamlessly flow into next semester&#39;s topics. It is hoped that students will take Part II as well.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Eirich</course_instructors_actual>
+
+<course_instructors_expected>G. Eirich</course_instructors_expected>
+
+<course_instructors_full>G. Eirich</course_instructors_full>
+
+<classes><class><call_number>21947</call_number>
+
+<class_name>QUANT ANALYTIC TECHNIQUES</class_name>
+
+<course_identifier>QMSSG4013</course_identifier>
+
+<course_number>4013</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 9:30a - 12:30p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>G. Eirich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4013-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4014</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4014y</course_identifier_cooked>
+
+<course_name>Quantitative Analytic Techniques II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is the second part of a two course sequence focusing on applied data analysis. This course is meant to continue the introduction to applied statistical analysis that was started in QMSS G4013.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>QMSS G4013</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Eirich</course_instructors_actual>
+
+<course_instructors_expected>G. Eirich</course_instructors_expected>
+
+<course_instructors_full>G. Eirich</course_instructors_full>
+
+<classes><class><call_number>20952</call_number>
+
+<class_name>QUANT ANALYTIC TECHNIQUES</class_name>
+
+<course_identifier>QMSSG4014</course_identifier>
+
+<course_number>4014</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 11:00a - 2:30p&#60;br /&#62;558 SCHERMERHORN HALL</days_times>
+
+<instructors>G. Eirich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4014-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4015</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4015x and y</course_identifier_cooked>
+
+<course_name>Data Analysis</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface>This course is open to QMSS Students only.</course_preface>
+
+<course_description>Prerequisite:&#38;nbsp; introductory statistics course that includes linear regression.&#38;nbsp; Taken in the spring semester, specific tools used in social science research are covered.&#38;nbsp; Students will gain experience with linear regression, analysis of variance, probability models, statistical graphics, polynomial models, analysis of multivariate outcomes and repeated measures, hierarchical analysis, and logistic regression.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One semester of undergraduate statistics</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Eirich, N. Beauchamp</course_instructors_actual>
+
+<course_instructors_expected>G. Eirich</course_instructors_expected>
+
+<course_instructors_full>G. Eirich, N. Beauchamp</course_instructors_full>
+
+<classes><class><call_number>61146</call_number>
+
+<class_name>DATA ANALYSIS FOR THE SOC</class_name>
+
+<course_identifier>QMSSG4015</course_identifier>
+
+<course_number>4015</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 10:30a - 1:30p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>G. Eirich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4015-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>68397</call_number>
+
+<class_name>DATA ANALYSIS FOR THE SOC</class_name>
+
+<course_identifier>QMSSG4015</course_identifier>
+
+<course_number>4015</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Th 9:00a - 12:00p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>N. Beauchamp</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4015-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>87201</call_number>
+
+<class_name>DATA ANALYSIS FOR THE SOC</class_name>
+
+<course_identifier>QMSSG4015</course_identifier>
+
+<course_number>4015</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:10p - 8:10p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>N. Beauchamp</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4015-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4016</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4016y</course_identifier_cooked>
+
+<course_name>Regression Models in Temporal Processes</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will introduce students to the main concepts and methods behind regression analysis of temporal processes and highlight the benefits and limitations of using temporally ordered data. We will study the complementary areas of time series data and longitudinal (or panel) data. The goal is to focus on substantive understanding and practical applications, as opposed to formal statistical and mathematical formulae. In addition, the course will spend most of the time on traditional explanatory models used in sociology, economics, psychology and public health - not models developed for financial forecasting, for instance. There are no formal prerequisites for the course, but a solid understanding of the mechanics and interpretation of OLS regression will be assumed (we will briefly review it at the beginning of the course). Neither calculus nor matrix algebra is required. The class will be taught primarily with the program STATA.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Eirich</course_instructors_actual>
+
+<course_instructors_expected>G. Eirich</course_instructors_expected>
+
+<course_instructors_full>G. Eirich</course_instructors_full>
+
+<classes><class><call_number>93696</call_number>
+
+<class_name>REGESSION MODEL-TEMP PROC</class_name>
+
+<course_identifier>QMSSG4016</course_identifier>
+
+<course_number>4016</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>G. Eirich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4016-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4021</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>4022</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4021x-G4022y</course_identifier_cooked>
+
+<course_name>Qmss Seminar (Fall and Spring Semesters)</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>per  semester.  Invited speakers</course_points_notes>
+
+<course_points_cooked>2 pts.  per  semester.  Invited speakers</course_points_cooked>
+
+<course_preface>This seminar is free and open to the public. Please contact qmss@columbia.edu to rsvp if you are not QMSS and interested in attending.</course_preface>
+
+<course_description>QMSS students participate in a weekly seminar. Speakers include faculty from Columbia and other universities, researchers from applied settings, as well as QMSS students presenting their master&#39;s thesis research. The fall semester focuses on the ways in which academic researchers and scholars use quantitative analysis in their work.The spring semester showcases the ways in which quantitative analysis is used outside academia.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Eirich, N. Beauchamp</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Eirich, N. Beauchamp</course_instructors_full>
+
+<classes><class><call_number>80848</call_number>
+
+<class_name>RES SEM IN QUANT MTHS-SOC</class_name>
+
+<course_identifier>QMSSG4021</course_identifier>
+
+<course_number>4021</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:30p - 9:30p&#60;br /&#62;602 HAMILTON HALL</days_times>
+
+<instructors>G. Eirich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>50</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4021-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>10782</call_number>
+
+<class_name>RES SEM IN QUANT MTHS-SOC</class_name>
+
+<course_identifier>QMSSG4022</course_identifier>
+
+<course_number>4022</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>N. Beauchamp</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4022-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4040</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4040</course_identifier_cooked>
+
+<course_name>Exit Polls and the Media&#39;s Coverage of Elections</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface>This course is no longer offered.</course_preface>
+
+<course_description>This is a course about how exit polls are conducted and how the news media use exit polls for reporting presidential primaries and elections. It also will be about their misuse. Most major news organizations use exit polls to analyze the meaning of elections. The mandate for the new government, as expressed by voters in exit polls, is sometimes at odds with the political &#239;&#191;&#189;spin&#239;&#191;&#189; of the winning candidates. Reporters usually rely on the exit polls for their interpretations, but not always. Sometimes their interpretation of an election is contradicted by the polls. A critical review of the use of exit polls will be covered.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students are assumed to have had at least one semester of graduate-level statistics involving the general linear model (multiple regression and analysis-of-variance).</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>W. Mitofsky</course_instructors_expected>
+
+<course_instructors_full>W. Mitofsky</course_instructors_full>
+
+</course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4050</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4050x and y</course_identifier_cooked>
+
+<course_name>Internship in Social Research</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>2 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course gives students two credits of academic credit for the work they perform in such an social science oriented internships.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Wawro</course_instructors_actual>
+
+<course_instructors_expected>Christopher Weiss</course_instructors_expected>
+
+<course_instructors_full>C. Weiss, G. Wawro</course_instructors_full>
+
+<classes><class><call_number>87747</call_number>
+
+<class_name>INTERNSHIP IN SOCIAL RES</class_name>
+
+<course_identifier>QMSSG4050</course_identifier>
+
+<course_number>4050</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Wawro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4050-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>12999</call_number>
+
+<class_name>INTERNSHIP IN SOCIAL RES</class_name>
+
+<course_identifier>QMSSG4050</course_identifier>
+
+<course_number>4050</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Wawro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4050-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4060</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4060y</course_identifier_cooked>
+
+<course_name>Survey Methods</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is open to all Graduate School of Arts and Sciences students. It focuses on concepts, techniques and issues involved in scientifically collecting data by asking people questions. But these can be neither grasped nor used well without also understanding the sociology and politics of their epistemology. Students will leave the course with a grasp of what specifically is involved in carrying out a survey, the theoretical foundations of survey methods, how the work of any particular survey you may do is socially grounded, and how this social location must then be entered into carrying out a survey.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>W. McAllister</course_instructors_actual>
+
+<course_instructors_expected>W. McAllister</course_instructors_expected>
+
+<course_instructors_full>W. McAllister</course_instructors_full>
+
+<classes><class><call_number>85897</call_number>
+
+<class_name>SURVEY METHODS</class_name>
+
+<course_identifier>QMSSG4060</course_identifier>
+
+<course_number>4060</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;270B INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>W. McAllister</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4060-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4061</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4061y</course_identifier_cooked>
+
+<course_name>Statistical Analysis of Missing Data</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will focuse on the potential implications of missing data for data anlyses as well as potential solutions. The course will begin by discussing different types of mechanisms that can generate missing data, then move on to exploring different missing data methods. The course will also explore various computer software for missing data. Students should have previous experience with generalized linear modeling including the following concepts: the binomial probability model, logisitic regression, transformation of variables, and use of regression diagnostics to diagnose lack of model fit. Students should have some previous familiarity with either Stata or R; both will be used in this course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Goodrich</course_instructors_actual>
+
+<course_instructors_expected>B. Goodrich</course_instructors_expected>
+
+<course_instructors_full>B. Goodrich</course_instructors_full>
+
+<classes><class><call_number>96551</call_number>
+
+<class_name>STAT ANALYSIS-MISSING DAT</class_name>
+
+<course_identifier>QMSSG4061</course_identifier>
+
+<course_number>4061</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;309 HAMILTON HALL</days_times>
+
+<instructors>B. Goodrich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4061-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4062</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4062y</course_identifier_cooked>
+
+<course_name>Social Network Analysis</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The course starts with the micro-structure of networks and the foundational concepts of graph theory, and then moves to the macro, including the famous small-world phenomena and other means of describing and characterizing large-scale structures. After having laid the groundwork, it moves on to some hands-on work with network analysis and visualization tools. The course will then turn to network formation and social behavior on networks. Topics will include information percolation and contagion across networks, strategic games on social networks, and spatial and agent-based models.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Beauchamp</course_instructors_actual>
+
+<course_instructors_expected>N. Beauchamp</course_instructors_expected>
+
+<course_instructors_full>N. Beauchamp</course_instructors_full>
+
+<classes><class><call_number>29040</call_number>
+
+<class_name>SOCIAL NETWORK ANALYSIS</class_name>
+
+<course_identifier>QMSSG4062</course_identifier>
+
+<course_number>4062</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>N. Beauchamp</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4062-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4063</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4063y</course_identifier_cooked>
+
+<course_name>Data Visualization</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course particularly pays attention to the applied techniques to data visualization&#38;nbsp;narratives and also takes an interest in data visualization challenges. We will draw on case&#38;nbsp;studies from current hot topics, news media to visualization research. In addition to participating&#38;nbsp;in class discussions, students will have to complete several scripting, data analysis and&#38;nbsp;visualization design assignments as well as a final project. Students will be expected to write up&#38;nbsp;the results of the project in the form of a conference paper submission. The main topics covered will be:&#38;nbsp;(1) models and fundamentals: perceptions and colors; principles and designs; abstraction and&#38;nbsp;interaction; values; text and images; space and maps;&#38;nbsp;(2) tools and techniques: &#38;ldquo;big data&#38;rdquo; tools; Statistics packages &#38;amp; R; Javascript &#38;amp; D3; mash-ups;&#38;nbsp;mapping;&#38;nbsp;(3) real world topics and case studies: DataKind; Social network analysis; data journalism.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>I. Hsiao</course_instructors_expected>
+
+<course_instructors_full>I. Hsiao</course_instructors_full>
+
+<classes><class><call_number>11852</call_number>
+
+<class_name>DATA VISUALIZATION</class_name>
+
+<course_identifier>QMSSG4063</course_identifier>
+
+<course_number>4063</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;403 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4063-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4070</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4070y</course_identifier_cooked>
+
+<course_name>GIS Spatial Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course introduces students to basic spatial analytic skills. It covers introductory concepts and tools in Geographic Information Systems (GIS),and database management. As well, the course introduces students to the process of developing and writing an original spatial research project. The focus on spatial analysis recognizes the fact that Geographic Information Systems (GIS) has become an increasingly useful tool for observing and analyzing social and physical phenomena over time and space. Most of the physical and social sciences, as well as a number of professions are currently building an infrastructure of GIS data that allows for new interdisciplinary analyses to occur and for new spatial relationships to be realized. This is especially true for social scientific analyses, where a wealth of spatial data on cultural, economic, physical, and demographic characteristics of the social world remains unexamined. Students will do a series of in-class labs and develop a final research project from these labs or an independent project.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Undergraduate Statistics</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Porter</course_instructors_actual>
+
+<course_instructors_expected>J. Porter</course_instructors_expected>
+
+<course_instructors_full>J. Porter</course_instructors_full>
+
+<classes><class><call_number>25543</call_number>
+
+<class_name>GIS &#38; SPATIAL ANALYSIS-</class_name>
+
+<course_identifier>QMSSG4070</course_identifier>
+
+<course_number>4070</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 10:10a - 12:00p&#60;br /&#62;252 ENGINEERING TERRACE</days_times>
+
+<instructors>J. Porter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G4070-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4071</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4071y</course_identifier_cooked>
+
+<course_name>Advanced GIS &#38; Spatial Statistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course focuses on the analysis of vector data in social science using Geographic Information Systems (GIS). The course will be taught using R and ArcGIS 10.0 to learn spatial data analysis, spatial cluster analysis and interpolation. It will also cover geographically weighted regression. Previous experience with GIS (QMSS G4070 or another introductory GIS course) is required.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>QMSS G4070</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Mazumdar</course_instructors_expected>
+
+<course_instructors_full>S. Mazumdar</course_instructors_full>
+
+</course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4080</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G4080y</course_identifier_cooked>
+
+<course_name>Designing Social Science Research</course_name>
+
+<course_points_min>2</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>This course covers 7 weeks</course_points_notes>
+
+<course_points_cooked>2 pts.  This course covers 7 weeks</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; The course consists of seven sessions, each including one lecture and one seminar. During these meetings, the participants learn about theory on research design, do (group) exercises, and discuss assignments. The major part of the course (sessions 1 to 5) focuses on how to identify a relevant research question in the light of the existing literature and how to develop a theoretical and empirical framework that allows to answer this question. Furthermore, the participants learn how to choose a consistent analytical and methodical approach. While a broad variety of methodological approaches is discussed, specific attention is paid to the logic of comparison of qualitative research designs (based on &#239;&#191;&#189;MSDO&#239;&#191;&#189; and &#239;&#191;&#189;MDSO&#239;&#191;&#189; approaches). Drawing on the logic of comparison discussed in the first part of the course, two further sessions (6 and 7) give an introduction to Charles Ragin&#239;&#191;&#189;s &#239;&#191;&#189;Qualitative Comparative Analysis&#239;&#191;&#189; (QCA). All sessions include one lecture and one seminar and have a highly interactive character. It is the main aim of the lectures to provide an overview (not a complete presentation!) of the literature to be read. Exercises and assignments are done and discussed during seminars. Each session introduces a new topic that enables the participants to gradually develop their own research proposals. Examples, exercises, and assignments help the participants to understand how each topic contributes towards writing their proposal, which is to be submitted at the end of the course. Depending on the participants` individual interests, this proposal can also be developed in preparation of an MSc or PhD thesis project.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>TBD</course_instructors_expected>
+
+<course_instructors_full>T. TBD</course_instructors_full>
+
+</course><course><academic_department_code>QMSS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<subject_area_name>Quantitative Methods - Social Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>5999</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>QMSS G5999x and y</course_identifier_cooked>
+
+<course_name>Masters Thesis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-4 pts.</course_points_cooked>
+
+<course_preface>This course is open to QMSS students only.</course_preface>
+
+<course_description>The thesis class is designed to provide students with benchmarks and guidance towards completing a work of research, which is the culmination of their studies at QMSS.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Cho</course_instructors_actual>
+
+<course_instructors_expected>S. Cho</course_instructors_expected>
+
+<course_instructors_full>S. Cho</course_instructors_full>
+
+<classes><class><call_number>93597</call_number>
+
+<class_name>MASTER&#39;&#39;S THESIS</class_name>
+
+<course_identifier>QMSSG5999</course_identifier>
+
+<course_number>5999</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;270B INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>S. Cho</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G5999-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>29694</call_number>
+
+<class_name>MASTER&#39;&#39;S THESIS</class_name>
+
+<course_identifier>QMSSG5999</course_identifier>
+
+<course_number>5999</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>S. Cho</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>QMSS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/QMSS/G5999-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

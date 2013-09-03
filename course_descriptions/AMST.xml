@@ -1,0 +1,2741 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1010</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W1010y</course_identifier_cooked>
+
+<course_name>Introduction to American studies: major themes in the American experience</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Required for American studies majors and concentrators</course_points_notes>
+
+<course_points_cooked>3 pts.  Required for American studies majors and concentrators</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Inquiry into the values and cultural expressions of the people of the&#38;nbsp; United States. Through an examination of literature, history,&#38;nbsp; social thought, and the arts--with a special emphasis on film--we&#38;nbsp; will explore how modern Americans have understood and argued about&#38;nbsp; their country&#39;s promise and perils.&#38;nbsp; Lecture, discussion sections, and weekly film screenings.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3920</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3920x</course_identifier_cooked>
+
+<course_name>American studies senior project colloquium</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Required for American studies students who intend to do a senior research project in spring</course_points_notes>
+
+<course_points_cooked>1 pt.  Required for American studies students who intend to do a senior research project in spring</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course is for American studies majors planning to complete senior projects in the spring. The course is designed to help students clarify their research agenda, sharpen their questions, and locate their primary and secondary sources. Through class discussions and a &#34;workshop&#34; peer review process, each member of the course will enter spring semester with a completed 5-8 page prospectus and bibliography that will provide an excellent foundation for the work of actually writing the senior essay. The colloquium will meet every other week at a convenient time for the participants, and is required for everyone planning to do a senior research project.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco</course_instructors_full>
+
+<classes><class><call_number>63867</call_number>
+
+<class_name>SENIOR PROJECT COLLOQUIUM</class_name>
+
+<course_identifier>AMSTW3920</course_identifier>
+
+<course_number>3920</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>A. Delbanco</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3920-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3930x</course_identifier_cooked>
+
+<course_name>American Literature and Culture from 1850 to the Civil War</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In this seminar we trace the growing crisis over slavery and disunion as the United States moved toward war against itself. Readings include fiction, poetry, memoirs, political discourse, and journalism by such authors as Harriet Beecher Stowe, Frederick Douglass, Oliver Wendell Holmes, Harriet Jacobs, Daniel Webster, John C. Calhoun, Abraham Lincoln, and Herman Melville. We consider the perspectives of slaves and slavemasters, North and South, men and women, committed partisans and neutral observers-- in an effort to understand what was at stake in the rising discord during the decade that preceded Civil War.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_full>
+
+<classes><class><call_number>27781</call_number>
+
+<class_name>JOUR, DEM &#38; THE DIGITAL</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Miller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>23458</call_number>
+
+<class_name>EQUITY IN HIGHER EDUCATIO</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>A. Delbanco&#60;br /&#62;
+R. Lehecka</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>28382</call_number>
+
+<class_name>SHAKESPEARE IN AMERICA</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. Shapiro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>17172</call_number>
+
+<class_name>GENDER HISTORY &#38; AMERICAN</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>H. Hallett</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3930x</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Writing September 11: Narratives and Arguments</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The terrorist attacks of September 11, 2001 were one of the greatest traumas in American history, and like all traumas, they demanded not just practical response but interpretation. How should we understand what happened that day&#38;mdash;as an act of war, a criminal conspiracy, a punishment? How should we commemorate the victims? How did the attacks change the way Americans thought about their society and their role in the world? This seminar will examine some of the answers to such questions offered by novelists, journalists, and intellectuals in the years after 9/11. Readings will include the official government inquiry, &#38;ldquo;The 9/11 Commission Report,&#38;rdquo; and some of the conspiracy theories that challenged it; &#38;ldquo;American Ground: Unbuilding the World Trade Center,&#38;rdquo; by William Langewiesche; &#38;ldquo;Terror and Liberalism&#38;rdquo; by Paul Berman; &#38;ldquo;Terrorist&#38;rdquo; by John Updike; &#38;ldquo;Falling Man&#38;rdquo; by Don DeLillo; and other works of fiction and nonfiction.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_full>
+
+<classes><class><call_number>27781</call_number>
+
+<class_name>JOUR, DEM &#38; THE DIGITAL</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Miller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>23458</call_number>
+
+<class_name>EQUITY IN HIGHER EDUCATIO</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>A. Delbanco&#60;br /&#62;
+R. Lehecka</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>28382</call_number>
+
+<class_name>SHAKESPEARE IN AMERICA</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. Shapiro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>17172</call_number>
+
+<class_name>GENDER HISTORY &#38; AMERICAN</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>H. Hallett</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>AMST W3930x (Section 001)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Journalism, Democracy, and the Digital Revolution</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Attend first class for instructor permission</course_points_notes>
+
+<course_points_cooked>4 pts.  Attend first class for instructor permission</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The American news media occupy a complex role in the life of the nation: at once a constitutionally protected feature of democracy and a product of free enterprise. With an eye to the 2012 presidential election, this class will explore the transformation of the media from the heyday of the great 20th century news organizations to the triumph of Twitter. How have the disruption of the mainstream media and the rise of radically decentralized sources of information affected the political discourse and the decisions Americans make? We&#38;rsquo;ll look back at the Grey Lady, Walter Cronkite and Watergate, and into the future, where favored news purveyors are raw rather than mediated, hot rather than cool, personal rather than formal, targeted rather than broad, passionate rather than neutral. We&#38;rsquo;ll have visits from media players and prognosticators, examine where journalistic standards are going, and assess the impact of news sources from Fox News to the latest hashtag.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_full>
+
+<classes><class><call_number>27781</call_number>
+
+<class_name>JOUR, DEM &#38; THE DIGITAL</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Miller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>002</course_section_code>
+
+<course_identifier_cooked>AMST W3930x (Section 002)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Equity in American Higher Education</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Interview required.</course_points_notes>
+
+<course_points_cooked>4 pts.  Interview required.</course_points_cooked>
+
+<course_preface>Interview required.</course_preface>
+
+<course_description>In this seminar we examine the roles colleges and universities play in American society; the differential access high school students have to college based on family background and income, ethnicity, and other characteristics; the causes and consequences of this&#38;nbsp; differential access; and some attempts to make access more equitable. Readings and class meetings cover the following subjects historically and in the 21st century: the variety of American institutions of higher education; admission and financial aid policies at selective and less selective, private and public, colleges; affirmative action and race-conscious admissions; what &#34;merit&#34; means in college admissions; and the role of the high school in helping students attend college. Students in the seminar are required to spend at least four hours each week as volunteers at the Double Discovery Center (DDC) in addition to completing assigned reading, participating in seminar discussions, and completing written assignments. DDC is an on-campus program that helps New York City high school students who lack many of the resources needed to succeed in college and to be successful in gaining admission and finding financial aid. The seminar integrates students&#39; first-hand experiences with readings and class discussions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_full>
+
+<classes><class><call_number>23458</call_number>
+
+<class_name>EQUITY IN HIGHER EDUCATIO</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>A. Delbanco&#60;br /&#62;
+R. Lehecka</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>003</course_section_code>
+
+<course_identifier_cooked>AMST W3930x (Section 003)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Shakespeare in America</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Application required by email. See American Studies website.</course_points_notes>
+
+<course_points_cooked>4 pts.  Application required by email. See American Studies website.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The seminar explores the reception and influence of Shakespeare from 1776 to the present.&#38;nbsp; Readings include poems, stories, plays, and essays by a broad range of writers, including: Irving, Emerson, Maungwudaus, Aldridge, Bacon, Hawthorne, Lincoln, Melville, Lowell, Dickinson, Whitman, James, Twain, Booth, Addams, Keller, Hughes, Berryman, Thurber, Ransom, McCarthy, Plath, Mori, Ozick, and Smiley.&#38;nbsp; Requirements include an in-class presentation and a term paper.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_full>
+
+<classes><class><call_number>28382</call_number>
+
+<class_name>SHAKESPEARE IN AMERICA</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. Shapiro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>004</course_section_code>
+
+<course_identifier_cooked>AMST W3930x (Section 004)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Gender History &#38; American Film</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Attend first class for instructor permission</course_points_notes>
+
+<course_points_cooked>4 pts.  Attend first class for instructor permission</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This seminar explores the history of American gender in the last one hundred years through American film. Motion pictures have played a unique role in shaping and reflecting new ideals and images of womanhood and manhood in the modern United States. Throughout the twentieth century, movies and their stars have born a complex relationship to transformations affecting the lives of American men and women. We will examine motion pictures and movie stars as primary sources that, when juxtaposed with other kinds of historical evidence, indicate changes in the gendering of work, leisure, sexuality, family life, and politics. Additionally, we will consider how the changing institutional history of American film production during the twentieth century connected to the gendered images it sold. For much of the period under review, Hollywood used specific genres to target particular audiences and movies were not afforded the protection of free speech. This made films and movie stars peculiarly reflective of, and vulnerable to, the nation&#38;rsquo;s changing fantasies and fears regarding sexuality and gender roles. Students will write several short papers and complete a research project on a film of their choice.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco, C. Miller, H. Hallett, J. Shapiro, R. Lehecka</course_instructors_full>
+
+<classes><class><call_number>17172</call_number>
+
+<class_name>GENDER HISTORY &#38; AMERICAN</class_name>
+
+<course_identifier>AMSTW3930</course_identifier>
+
+<course_number>3930</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>H. Hallett</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3930-20123-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3930</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>005</course_section_code>
+
+<course_identifier_cooked>AMST W3930x (Section 005)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Freedom and Citizenship in the United States</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Application required. Please see American Studies website.</course_points_notes>
+
+<course_points_cooked>4 pts.  Application required. Please see American Studies website.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Freedom and Citizenship in the United States will examine the historical development of ideas of freedom and citizenship in the American context.&#38;nbsp; We will examine texts that treat of issues like the rights and responsibilities of membership in a political association, the nature and limits of the power of the collective over the individual, and the norms of exclusion and inclusion that define a body politic.&#38;nbsp; The course will focus exclusively on primary texts, and the order of readings will be roughly chronological, emphasizing the historical development of the concepts of citizenship, nation, and American identity.&#38;nbsp; The first weeks the course will be dedicated to reading and discussing major texts in Western political history that frame the 17th century founding of the American colonies.&#38;nbsp; The rest of the course will situate the American case in this historical development, beginning with an examination of the Puritan migration to New England and the early communities they formed, and continuing with the study of major documents surrounding the Revolution, the Civil War, Reconstruction, the New Deal, the Civil Rights Movement, and contemporary debates about the meaning of American citizenship. In addition to the classroom requirements, students will be expected to volunteer a minimum of 4 hours a week with the Double Discovery Center (DDC), in connection to the Freedom and Citizenship Project which DDC conducts in partnership with the American Studies Program.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3931y</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Hispanic New York and the Latinoization of the United States.</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Of all the major cities in the United States, New York displays the widest spectrum of immigrants from all over Latin America and the Caribbean, including a large number of writers, artists, and other intellectuals. Because of this rich diversity, New York is both one of the leading Hispanic cities in the US and one of the pivotal points of Latin American culture. This seminar is a survey of the cultural heritage that sustains this diversity. We will explore the history and the demographic evolution of New York&#38;rsquo;s Latino and Latin American population, its racial, ethnic, and religious make-up, and its longstanding tradition in arts, music, and literature; in this last regard, the readings include fiction, non-fiction, and poetry originally written both in English and Spanish (English translations will be provided for students who doesn&#38;rsquo;t read Spanish). We will also analyze the connections between New York&#38;rsquo;s Hispanic cultural tradition and the broader US culture, as well as its place in the Spanish-American intellectual world. Language note: Classes will be held in English; papers and other class written responses can be delivered in English or Spanish.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>73317</call_number>
+
+<class_name>FOOD AND AMERICAN CULTURE</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>R. Adams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>85780</call_number>
+
+<class_name>HOLLYWOOD&#39;&#39;S CINEMA OF &#39;&#39;</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>M. Spiegel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>69259</call_number>
+
+<class_name>A CULTURAL HIST OF WALL S</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>S. Fraser</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>61198</call_number>
+
+<class_name>THE LANGUAGES OF AMERICA</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>62780</call_number>
+
+<class_name>RACE,POVERTY,AMER CRIM</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Price</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3931y</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Disability, Embodiment, and Social Justice</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What does it mean to be disabled in America?&#38;nbsp; This course approaches disability less as a medical condition affecting individual bodies than as a social, environmental, and historical phenomenon. We will investigate the role of culture in shaping and reflecting on disability in contemporary American culture.&#38;nbsp; How have philosophers, policy makers, authors and artists framed the political and ethical debates surrounding the status of disability?&#38;nbsp; How have imaginative representations in literature, film, and the visual arts contributed to and/or challenged those understandings? &#38;nbsp;Given that nearly every one of us will be disabled at some point in life, these questions could not be more important. &#38;nbsp;This course seeks to address them by considering a broad array of texts, including philosophical debates about morality and ethics, history, and literary, filmic, and visual representations.&#38;nbsp; In addition to our consideration of cultural representations, an experiential learning requirement will also give students the opportunity to work closely with an organization dedicated to serving the needs of people with disabilities.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>73317</call_number>
+
+<class_name>FOOD AND AMERICAN CULTURE</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>R. Adams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>85780</call_number>
+
+<class_name>HOLLYWOOD&#39;S CINEMA OF &#39;</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>M. Spiegel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>69259</call_number>
+
+<class_name>A CULTURAL HIST OF WALL S</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>S. Fraser</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>61198</call_number>
+
+<class_name>THE LANGUAGES OF AMERICA</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>62780</call_number>
+
+<class_name>RACE,POVERTY,AMER CRIM</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Price</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3931y</course_identifier_cooked>
+
+<course_name>Topices in American Studies: The New York Intellectuals</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>From the 1930s through the 1970s, the group of writers known as the New York Intellectuals--many, though not all of them, first generation American Jews--created a new style of intellectual discourse in America: politically radical but independent of party dogmas, committed to experiment and complexity in literature, and highly personal even when dealing with abstract issues. In this seminar we will read the major works, in several genres, of the leading New York Intellectuals, including Hannah Arendt, Clement Greenberg, Richard Hofstadter, Irving Howe, Delmore Schwartz, Susan Sontag and Lionel Trilling; and discuss some of the central themes and debates that energized their work, including Communism and anti-Communism, the relation of the avant-garde to the mass audience, the promise of American liberalism, and the influence of Jewishness on the intellectual&#39;s vocation.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>73317</call_number>
+
+<class_name>FOOD AND AMERICAN CULTURE</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>R. Adams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>85780</call_number>
+
+<class_name>HOLLYWOOD&#39;S CINEMA OF &#39;</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>M. Spiegel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>69259</call_number>
+
+<class_name>A CULTURAL HIST OF WALL S</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>S. Fraser</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>61198</call_number>
+
+<class_name>THE LANGUAGES OF AMERICA</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>62780</call_number>
+
+<class_name>RACE,POVERTY,AMER CRIM</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Price</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3931y</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Transmedia</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Transmedia, widely regarded as the future of entertainment, raises crucial questions about how an individual creator&#38;rsquo;s role changes as the creative project grows.&#38;nbsp; Translation from one medium to another becomes a more tightly controlled form of storytelling where creators must navigate between the desire to add excitement and the threat of diluting impact. In today&#38;rsquo;s entertainment industry, properties like Batman become simultaneously films, cartoons, video games, online webisodes, and re-appear in multiple versions beyond their original expression (comics, in this example)&#38;mdash;all with the aim of enlarging their commercial potential, and connecting with many audiences. Increasingly, writers and creators are being enlisted to build these variations even before the first incarnation of the project is released.&#38;nbsp;This course will explore transmedia in the present, and speculate about its future. It will also explore its history as exemplified by such works as L. Frank Baum&#38;rsquo;s The Wonderful Wizard of Oz.&#38;nbsp; We will examine the tensions between creative and commercial goals, and between contradictory audiences.&#38;nbsp;Guest speakers will include writers, artists, and people involved in projects ranging across the media, including Broadway adaptations. &#38;nbsp;Readings and viewings will include primary sources (novels, graphic novels, films, etc.), criticism and theory, and intellectual property law. Students will be expected to&#38;nbsp;compose 2 response papers and either give a presentation on a transmedia property of their choice or write a research paper.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>73317</call_number>
+
+<class_name>FOOD AND AMERICAN CULTURE</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>R. Adams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>69259</call_number>
+
+<class_name>A CULTURAL HIST OF WALL S</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>S. Fraser</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>61198</call_number>
+
+<class_name>THE LANGUAGES OF AMERICA</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>62780</call_number>
+
+<class_name>RACE,POVERTY,AMER CRIM</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Price</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3931y</course_identifier_cooked>
+
+<course_name>Post-wars: The Cultural Consequences of Modern American Wars</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Tra War is an engine of change like no other. This interdisciplinary seminar aims to take the measure of war&#38;rsquo;s impact on American culture by examining the costs and consequences of its aftermath in particular historical moments, beginning with the Civil War and concluding with the &#38;ldquo;War on terror.&#38;rdquo;&#38;nbsp; The class will consider how cultural production reflects war&#38;rsquo;s making and remaking of family structures and gender roles, racial categories, federal policies and public discourse about the &#38;nbsp;constitution of national identity in the wake of conflicts involving deadly force.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>73317</call_number>
+
+<class_name>FOOD AND AMERICAN CULTURE</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>R. Adams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>69259</call_number>
+
+<class_name>A CULTURAL HIST OF WALL S</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>S. Fraser</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>61198</call_number>
+
+<class_name>THE LANGUAGES OF AMERICA</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>62780</call_number>
+
+<class_name>RACE,POVERTY,AMER CRIM</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Price</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>AMST W3931y (Section 1)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Food and American Culture</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Tell me what you eat and I will tell you what you are,&#34; wrote the nineteenth-century French epicure Jean Anthelme Brillat-Savarin. While this may seem like a straightforward equation, it is anything but. This course investigates Brillat-Savarin&#38;acute;s dictum by examining the varied ways food is produced, prepared, and consumed in the United States. Beginning with what seem to be highly individualized and embodied questions of taste, we will expand outward to consider how food shapes personal, regional, national, and global identities. We will treat cookbooks and recipes, diet guides, works of art, and food television as cultural texts that can provide insight into the meaning of food and eating. We will also study issues of hunger, poverty, and food justice, the gendering of food preparation and consumption, questions of eating and body image, and restaurant culture. In addition to reading and writing assignments, this course will also include an experiential component, which will give students opportunities to volunteer in a soup kitchen or food pantry, work on an urban farm, and enjoy some of the culinary delights of New York City.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>73317</call_number>
+
+<class_name>FOOD AND AMERICAN CULTURE</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>R. Adams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>2</course_section_code>
+
+<course_identifier_cooked>AMST W3931y (Section 2)</course_identifier_cooked>
+
+<course_name>Hollywood&#194;&#180;s Countercultural Cinema: Movies of the 1970s</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Dominated by outcasts and anti-heroes, movies of the 1970s freshly engaged the conversation about what American society is and should be. A new generation of maverick American auteurs (including Coppola, Altman, Kubrick, Ashby, Lumet, Pakula and Scorcese) saved Hollywood from financial collapse by channeling and giving voice to the frenetic activities of the previous decade -while also speaking directly into the moment. They tackled previously taboo subjects; challenged traditional narrative expectations; revised Classic Hollywood film genres, and engaged race and gender in new ways. Originally considered a &#34;lost generation,&#34; the filmmakers of the 1970s are now recognized as having produced a turning point in American filmmaking. Through close-readings of some of the decade&#38;acute;s greatest works, and through readings in film, cultural and social theory, this course will examine the role of movies in American discourse. What do movies do for and to us? What prisms cloud the windows they offer on a by-gone era? What does the current viewer &#34;hear&#34; in film from the past that wasn&#38;acute;t heard then? Can we speak of different &#34;styles of heroism&#34; in film eras? Do current movies (and HBO series) pursue different strategies for engaging the present? How has the viewer changed, and how is the context of viewing different today?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>85780</call_number>
+
+<class_name>HOLLYWOOD&#39;S CINEMA OF &#39;</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>M. Spiegel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>3</course_section_code>
+
+<course_identifier_cooked>AMST W3931y (Section 3)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: A Cultural History of Wall Street</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will examine the impact of Wall Street on American life from the time of the American Revolution through the dot.com boom of the 1990s, its collapse at the turn of the millennium, and the current financial meltdown. Class discussions and readings will range widely to explore the ways the Street has been integrated into the country&#38;rsquo;s economic, political, and cultural affairs, and examine how Americans have handled their fundamental ambivalence about whether the Street has been a force for good or evil. We will focus on some of the principal iconic representations of the Street as they have appeared in cartoons, political tracts, movies, economic treatises, sermons, novels, histories, and other cultural artifacts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>69259</call_number>
+
+<class_name>A CULTURAL HIST OF WALL S</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>S. Fraser</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>4</course_section_code>
+
+<course_identifier_cooked>AMST W3931y (Section 4)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: The Languages of America</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The United States, often thought of as a nation where since its origins all foreign languages spoken by immigrants have withered away upon exposure to English, has actually always harbored a complex mixture of languages and dialects. This course will examine the history of language in America, including the robust role of German in colonial times and beyond (once as commonly heard in America as Spanish); creole languages such as Gullah, Louisiana Creole French and Hawaiian &#38;ldquo;Pidgin&#38;rdquo; English; Black English including its history and present; Native American languages and modern efforts to preserve them; and the history of Asian languages in modern America, including Chinese, Korean, Vietnamese, and Hmong. The course also serves, in ancillary fashion, as an introduction to the variety among languages of the world and to a scientific perspective on human language.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>61198</call_number>
+
+<class_name>THE LANGUAGES OF AMERICA</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>J. McWhorter</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-004</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>5</course_section_code>
+
+<course_identifier_cooked>AMST W3931y (Section 5)</course_identifier_cooked>
+
+<course_name>Immigrant New York</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>SEE HISTORY 4462</course_points_notes>
+
+<course_points_cooked>4 pts.  SEE HISTORY 4462</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>For the past century and a half, New York City has been the first home of millions of immigrants to the United States. This course will compare immigrants&#39; encounter with New York at the dawn of the twentieth century with contemporary issues, organizations, and debates shaping immigrant life in New York City. This is a service learning course. Each student will be required to work 2-4 hours/week in the Riverside Language Center or in programs for immigrants run by Community Impact.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3931</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>6</course_section_code>
+
+<course_identifier_cooked>AMST W3931y (Section 6)</course_identifier_cooked>
+
+<course_name>Topics in American Studies: Race, Poverty, and American Criminal Justice</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will examine the influence of race and poverty in the American system of confronting the challenge of crime.&#38;nbsp; Students will explore some history, including the various purposes of having an organized criminal justice system within a community; the principles behind the manner in which crimes are defined; and the utility of punishment.&#38;nbsp; Our focus will be on the social, political and economic effects of the administration of our criminal justice system, with emphatic examination of the role of conscious and unconscious racism, as well as community biases against the poor.&#38;nbsp; Students will examine the larger implications for a community and culture that are presented by these pernicious features.&#38;nbsp; We will reflect on the fairness of our past and present American system of confronting crime, and consider the possibilities of future reform.&#38;nbsp; Readings will include historical texts, analytical reports, some biography, and a few legal materials.&#38;nbsp; We will also watch documentary films which illuminate the issues and problems.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Price, J. McWhorter, M. Spiegel, R. Adams, S. Fraser</course_instructors_full>
+
+<classes><class><call_number>62780</call_number>
+
+<class_name>RACE,POVERTY,AMER CRIM</class_name>
+
+<course_identifier>AMSTW3931</course_identifier>
+
+<course_number>3931</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;317 HAMILTON HALL</days_times>
+
+<instructors>C. Price</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3931-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3990</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3990y</course_identifier_cooked>
+
+<course_name>Senior Research Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Open to American Studies seniors doing research project</course_points_notes>
+
+<course_points_cooked>4 pts.  Open to American Studies seniors doing research project</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A seminar devoted to the research and writing, under the instructor&#39;s supervision, of a substantial paper on a topic in American studies. Class discussions of issues in research, interpretation, and writing.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>AMST W3920</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Delbanco</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Delbanco</course_instructors_full>
+
+<classes><class><call_number>80530</call_number>
+
+<class_name>RESEARCH SEM IN AMER STUD</class_name>
+
+<course_identifier>AMSTW3990</course_identifier>
+
+<course_number>3990</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>A. Delbanco</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>AMST</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AMST/W3990-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>AMST W3997x</course_identifier_cooked>
+
+<course_name>Supervised Individual Research</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>For students who want to do independent study of topics not covered by normal program offerings, or for senior American Studies majors working on the Senior Honors Project independent of 3990y. The student must find a faculty sponsor and work out a plan of study; a copy of this plan should be submitted to the program director.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST W3998y</course_identifier_cooked>
+
+<course_name>Supervised Individual Research</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>4</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1-4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>For students who want to do independent study of topics not covered by normal program offerings, or for senior American Studies majors working on the Senior Honors Project independent of 3990y. The student must find a faculty sponsor and work out a plan of study; a copy of this plan should be submitted to the program director.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>4450</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AMST S4450z</course_identifier_cooked>
+
+<course_name>The Sixties</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course investigates the cultural, political, social, and economic changes of the 1960s, focusing on white supremacy and the civil rights movement, the Vietnam war and the antiwar movement, the women&#39;s movement, the gay movement, the &#34;sex, drugs, rock-n-roll&#34; upheavals and the resistances to all of the above, and their origins and consequences.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AMST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AMST</subject_area_code>
+
+<subject_area_name>American Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>7020</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>AMST G7020x (Section 001)</course_identifier_cooked>
+
+<course_name>American Cultural Criticism</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A graduate colloquium on the history of American cultural criticism since the early nineteenth century.&#38;nbsp; Themes to be considered include the search for indigenous forms of artistic expression appropriate to a democratic society; the consequences of urbanism and corporate industrialization for American culture and values; the implications of ethno-racial diversity for American culture and national identity; tensions between popular or mass culture, the avant-garde, and high culture; the shift from a modernist to a postmodernist sensibility; and the public role of the critic in the United States.&#38;nbsp;  Cultural criticism is a difficult genre to define with precision, since it often overlaps with autobiography, journalism, and academic scholarship.&#38;nbsp; Much of the cultural criticism written in the last century has concerned itself with new developments in the arts, literature, and the media.&#38;nbsp; The best cultural critics have refused to examine such trends in isolation; instead, they have always tried to interpret culture in relation to society or politics, exploring the connections between changing forms of expression and American social structure, power relations, and ideology.&#38;nbsp; As a result, cultural criticism often entails social criticism--that is to say a critical inquiry into American social institutions.&#38;nbsp; Moreover, American cultural critics have long sought to identify the values and meanings that define their countrys moral identity. They have written explicitly as public moralists, and their work has illuminated our understanding of the possibilities and limitations of the nations civic and moral traditions.&#38;nbsp; Critics have called upon their fellow citizens to reconsider their most cherished beliefs or to live up to values they profess to hold dear. The cultural criticism they have written has thus served as a spur to self-criticism, both for its authors and for American culture as a whole.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

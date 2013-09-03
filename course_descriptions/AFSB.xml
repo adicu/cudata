@@ -1,0 +1,1839 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2004</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC2004x</course_identifier_cooked>
+
+<course_name>Introduction to African Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Interdisciplinary and thematic approach to the study of Africa, moving from pre-colonial through colonial and post-colonial periods to contemporary Africa. Focus will be on its history, societal relations, politics and the arts. The objective is to provide a critical survey of the history as well as the continuing debates in Africana studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. George</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. George</course_instructors_full>
+
+<classes><class><call_number>02457</call_number>
+
+<class_name>INTRODUCTN TO AFRICAN STU</class_name>
+
+<course_identifier>AFRSX2004</course_identifier>
+
+<course_number>2004</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;203 Diana Center</days_times>
+
+<instructors>A. George</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>33</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC2004-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2005</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC2005x</course_identifier_cooked>
+
+<course_name>Caribbean Culture and Societies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Multidisciplinary exploration of the Anglophone, Hispanic and Francophone Caribbean. Discusses theories about the development and character of Caribbean societies; profiles representative islands; and explores enduring and contemporary issues in Caribbean studies (race, color and class; politics and governance; political economy, the struggles for liberation; cultural and identity and migration.)</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Horn</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Horn</course_instructors_full>
+
+<classes><class><call_number>07078</call_number>
+
+<class_name>CARIBBEAN CULTURE &#38; SOCIE</class_name>
+
+<course_identifier>AFRSX2005</course_identifier>
+
+<course_number>2005</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;302 BARNARD HALL</days_times>
+
+<instructors>M. Horn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC2005-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2006</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC2006y</course_identifier_cooked>
+
+<course_name>Introduction to the African Diaspora</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Interdisciplinary and thematic approach to the African diaspora in the Americas: its motivations, dimensions, consequences, and the importance and stakes of its study. Beginning with the contacts between Africans and the Portuguese in the 15th century, this class will open up diverse paths of inquiry as students attempt to answer questions, clear up misconceptions, and challenge assumptions about the presence of Africans in the &#39;New World.&#39;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Naylor</course_instructors_actual>
+
+<course_instructors_expected>C. Naylor</course_instructors_expected>
+
+<course_instructors_full>C. Naylor</course_instructors_full>
+
+<classes><class><call_number>07625</call_number>
+
+<class_name>INTRODUCTION AFRICAN DIAS</class_name>
+
+<course_identifier>AFRSX2006</course_identifier>
+
+<course_number>2006</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;325 MILBANK HALL</days_times>
+
+<instructors>C. Naylor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC2006-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2010</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>2010</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC2010y-BC2010y</course_identifier_cooked>
+
+<course_name>Colonialism in Africa</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will prepare students to examine diplomatic interactions involving African and European polities during the eighteenth and nineteenth century and the role that military force played in helping European nations secure access to territory and control of resources on the African continent. Students will also examine the vast array of forensic evidence (the broad range of ritual compacts and treaties, the forms of proof and the legal debates) that European merchants and political representatives used to secure entitlements to land and resources.</course_description>
+
+<corequisites>None</corequisites>
+
+<prerequisites>None</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Ralph</course_instructors_expected>
+
+<course_instructors_full>M. Ralph</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>2510</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>AFRS BC2510x (Section 001)</course_identifier_cooked>
+
+<course_name>Ethnicity and Food</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>When people produce, consume or refuse food, choices that often seem &#34;natural,&#34; unthinking and highly personal are in fact daily acts of identity and belonging that place individuals in the global circulation of goods, people and resources. This course examines representations of food and foodways as a way of understanding the politics of representation and the complex interplay of race, ethnicity and gender. The course&#39;s units on Ethnicity, Migration and Identity; Food &#38;amp; Globalization; Food and Power; and the Politics of Pork, will allow students to understand foodways as key expressions or embodiments of cultural affiliations and food choices as linked to questions of morality and values.</course_description>
+
+<corequisites>None</corequisites>
+
+<prerequisites>None</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Hall</course_instructors_actual>
+
+<course_instructors_expected>K. F. Hall</course_instructors_expected>
+
+<course_instructors_full>K. F. Hall, K. Hall</course_instructors_full>
+
+<classes><class><call_number>01852</call_number>
+
+<class_name>FOOD,ETHNICITY, GLOBALIZA</class_name>
+
+<course_identifier>AFRSX2510</course_identifier>
+
+<course_number>2510</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;LL103 Diana Center</days_times>
+
+<instructors>K. Hall</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>37</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC2510-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3020</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3020y</course_identifier_cooked>
+
+<course_name>Harlem Crossroads</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studies Harlem in the context of African-American and African diaspora culture and society as well as American urbanization. Primarily focusing on Harlem of the nineteenth and twentieth centuries, the course offers students opportunities to discuss political economy, immigration, migration and the role of the city in social life.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Laurie Woodard</course_instructors_expected>
+
+<course_instructors_full>L. Woodard</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3055</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3055x</course_identifier_cooked>
+
+<course_name>Slave Resistance in the United States from the Colonial Era to the Civil War</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analyzes the multifaceted nature of slave resistance, its portrayal and theorization by scholars.&#38;nbsp; Critically examines the various pathways of resistance of enslaved Africans and African-Americans, both individually and collectively (e.g., running away, non-cooperation, theft, arson, as well as verbal and physical confrontation, revolts and insurrections).&#38;nbsp; Considers how gender shaped acts of resistance.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Naylor</course_instructors_expected>
+
+<course_instructors_full>C. Naylor</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3100</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>AFRS BC3100x (Section 01)</course_identifier_cooked>
+
+<course_name>Medicine and Power in African History</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines medical discourse and practice in Africa, emphasizing relationships between power and medical knowledge. Topics include: medicine and empire, tropical medicine, colonial public health and social control, labor, reproductive health, and HIV/AIDS.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Cynn</course_instructors_expected>
+
+<course_instructors_full>C. Cynn</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3110</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>AFRS BC3110x (Section 01)</course_identifier_cooked>
+
+<course_name>Africana Colloquium: Critical Race Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; Students will examine the origins and development of race-thinking in the Anglo&#226;American world with a particular focus on representation and reading practices.&#38;nbsp; Our conversations will draw upon a number of articulations of race theory, including specific post-1980s Critical Race Theory. The course examines &#34;race&#34; narratives as well as critical readings on race from psychoanalytic, post&#226;colonial, feminist, and critical legal perspectives. These readings will be framed by several interlocking questions:&#38;nbsp; how does representation both respond to and influence socioeconomic conditions? What is the relationship of race to color, ethnicity, and nation? How does race interact with other categories such as class, sexuality and gender?&#38;nbsp;&#38;nbsp; What cultural work is performed by racial definitions and categories such as hybridity and purity?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must attend first day of class and admission will be decided then. Enrollment limited to 20 students. Priority will be given to Africana majors and CCIS students (Africana Studies, American Studies and Women&#39;s Studies majors; minors in Race and Ethnic Studies). General Education Requirement: Social Analysis (SOC). General Education Requirement: Literature (LIT)</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Hall</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Hall</course_instructors_full>
+
+<classes><class><call_number>06842</call_number>
+
+<class_name>THE AFRICANA COLLOQUIUM</class_name>
+
+<course_identifier>AFRSX3110</course_identifier>
+
+<course_number>3110</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 6:10p - 8:00p&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>K. Hall</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3110-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3110</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>02</course_section_code>
+
+<course_identifier_cooked>AFRS BC3110y (Section 02)</course_identifier_cooked>
+
+<course_name>Africana Colloquium: Diasporas of the Indian Ocean</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The Indian Ocean has been called the cradle of globalization. We consider the Indian Ocean and east African diasporas and their aesthetic histories by engaging literary and other cultural exchanges (including film, visual arts, music, and dance). This course considers the overlapping transnational vectors that have characterized Indian Ocean history and we do so specifically through questions about the creation of diasporic public space and cultural memory, while also considering material cultures. We ask, for example, how the lived experience is recorded within those long histories of trade and imperialism. We engage with memoirs, epistles, newspapers, music and performance. We turn to archives, contemporary novels, memoir and song, dance and other visual arts to read how they chronicle and transmit cultural memory. We focus on: Durban (South Africa), Bombay (India), Zanzibar (Tanzania) and the Mascarenes (Port Louis in Mauritius and Saint Denis in La Reunion) and the Seychelles. This year, our course will be taught simultaneously between Barnard in New York and the University of Cape Town, South Africa. Students from both campuses will be encouraged to interact electronically and to establish a blog and website. The course will also have live-streamed guest speakers from chosen sites around the Indian Ocean. Because of time zones, we have chosen the most practical times (Cape Town is six, then seven hours ahead of New York). How does this influence the course methodology? Come and find out.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Y. Christianse</course_instructors_actual>
+
+<course_instructors_expected>Y. Christianse</course_instructors_expected>
+
+<course_instructors_full>Y. Christianse</course_instructors_full>
+
+<classes><class><call_number>05430</call_number>
+
+<class_name>COLL: DIASPORAS INDIAN OC</class_name>
+
+<course_identifier>AFRSX3110</course_identifier>
+
+<course_number>3110</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;501 Diana Center</days_times>
+
+<instructors>Y. Christianse</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3110-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3120</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3120y</course_identifier_cooked>
+
+<course_name>History of African-American Music</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey interrogates the cultural and aesthetic development of a variety of interconnected musical genres - such as blues, jazz, gospel, soul, funk, R&#38;amp;B, hip-hop, classical and their ever changing same/names - viewed as complex human activities daringly danced at dangerous discourses inside and outside the American cultural mainstreams.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>W. Lowe</course_instructors_expected>
+
+<course_instructors_full>W. Lowe</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3121</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3121x</course_identifier_cooked>
+
+<course_name>Black Women in America</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; Examines the roles of black women in the U.S. as thinkers, activists and creators during the nineteenth and twentieth centuries. Focusing on the intellectual work, social activism and cultural expression of African American women, we examine how they understood their lives, resisted oppression and struggled to change society. We will also discuss theoretical frameworks (such as &#34;double jeopardy,&#34; or &#34;intersectionality&#34;) developed for the study of black women. The seminar will encourage students to pay particular attention to the diversity of black women and critical issues facing Black women today. This course is the same as&#38;nbsp;WMST BC3121.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must attend first day of class and admission will be decided then. Priority will be given to CCIS students (Africana Studies, American Studies and Women&#39;s Studies majors; minors in Race and Ethnic Studies). Enrollment limited to 20 students.
+
+General Education Requirement: Historical Studies (HIS).</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. F. Hall</course_instructors_expected>
+
+<course_instructors_full>K. F. Hall</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3146</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3146x</course_identifier_cooked>
+
+<course_name>African American and African Writing and the Screen</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; Focuses on the context and history of representations of African Americans and Africans in early American and other cinematographies; the simultaneous development of early film and the New Negro, Negritude and Pan African movements; and pioneer African American and African cinema.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Y. Christianse</course_instructors_expected>
+
+<course_instructors_full>Y. Christianse</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3149</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3149y</course_identifier_cooked>
+
+<course_name>Literature of the Great Migration</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>(Also ENGL BC 3148) Examination of fiction, poetry, essays and films about the Great Migration (1910-1950) of African-Americans from the rural South to the urban North, focusing on literary production in New York and Chicago. (This course satisfies the Harlem Requirement for the Africana Studies major).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Q. Prettyman</course_instructors_expected>
+
+<course_instructors_full>Q. Prettyman</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3150</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3150y</course_identifier_cooked>
+
+<course_name>Race and Performance In The Caribbean</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis of the shifting place and perception of Afro-Caribbean performance in Caribbean societies.&#38;nbsp;This course takes&#38;nbsp;a cross-cultural approach that examines performance through the lens of ethnography, anthropology, music and literary criticism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor. Sophomore Standing. Enrollment limited to 18 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3517</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>AFRS BC3517x (Section 001)</course_identifier_cooked>
+
+<course_name>African American Women and Music</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the music making practices of African-American women in blues, gospel, jazz, and rock at different periods in the 20th century. Considers the content and context of these musical productions as well as artist biographies in order to understand the significance of music for these producers and their audiences.</course_description>
+
+<corequisites>None</corequisites>
+
+<prerequisites>None</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Mahon</course_instructors_actual>
+
+<course_instructors_expected>M. Mahon</course_instructors_expected>
+
+<course_instructors_full>M. Mahon</course_instructors_full>
+
+<classes><class><call_number>09866</call_number>
+
+<class_name>AFRICAN AMER WOMEN &#38; MUSI</class_name>
+
+<course_identifier>AFRSX3517</course_identifier>
+
+<course_number>3517</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>M. Mahon</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>26</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3517-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFEN</subject_area_code>
+
+<subject_area_name>African Studies/English</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3520</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFEN BC3520y</course_identifier_cooked>
+
+<course_name>Atlantic Crossings</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the literature of transatlantic travel from Columbus&#39;s first voyage in 1492 to Caryl Phillips&#39;s re-tracing of his mother&#39;s migration in The Atlantic Sound (2000) to recent re-imaginings of slavery and the Middle Passage by M. Nourbese Philip and Marlon James. Even before Columbus&#39;s first encounter, the &#34;Indies&#34; sparked English desires for riches and adventure. We will first investigate how English writers promoted an idea of the West Indies and then came to inhabit its heterogeneous spaces, filling them with longing and anxiety. The class will chart the emergence of modern race thinking from the rich interaction of peoples and goods in the early modern Caribbean. We will also question how ideals of freedom and &#34;English-ness&#34; co-existed with slavery, bondage and creole life. The class will then look at the ways later writers revisit the Caribbean&#39;s colonial origins and discuss how notions of the West Indies may haunt modern Atlantic travel.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 20 students. Sign-up with the English Department required. Only registering for the course through eBear or SSOL will not ensure your enrollment.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Hall</course_instructors_expected>
+
+<course_instructors_full>K. Hall</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFEN</subject_area_code>
+
+<subject_area_name>African Studies/English</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3525</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFEN BC3525y</course_identifier_cooked>
+
+<course_name>Atlantic Crossings: The West Indies and the Atlantic World</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class charts the emergence of modern race thinking in the early modern English Caribbean. We will study literature of transatlantic travel from Columbus&#39;s first voyage to Caryl Phillip&#39;s The Atlantic Sound as well as recent&#38;nbsp;re-imaginings of slavery and the Middle Passage by M. NourbeSe Philip and Marlon James.&#38;nbsp;&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of Instructor</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3528</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>AFRS BC3528x (Section 001)</course_identifier_cooked>
+
+<course_name>Harlem on My Mind: The Political Economy of Harlem</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Drawing on social histories, primary sources, fiction, and popular culture this course will explore the postwar history of Harlem. We will place Harlem in the broader context of New York City and explore how domestic and transnational migration patterns have shaped its history. Specific topics include: urbanization, migration and settlement patterns; racial liberalism and political incorporation; critical engagement with East Harlem as research cite for &#34;culture of poverty&#34; theorists; state criminalization of youth; underground, illegal and illicit economy from the 1960s to the 1990s; struggles over property and gentrification; and perhaps most importantly, exploring Harlem as cultural and political center of the Black World throughout the twentieth century.</course_description>
+
+<corequisites>None</corequisites>
+
+<prerequisites>None</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Murch</course_instructors_actual>
+
+<course_instructors_expected>D. Murch</course_instructors_expected>
+
+<course_instructors_full>D. Murch</course_instructors_full>
+
+<classes><class><call_number>05927</call_number>
+
+<class_name>HIST CULT POLIT ECON HARL</class_name>
+
+<course_identifier>AFRSX3528</course_identifier>
+
+<course_number>3528</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;405 BARNARD HALL</days_times>
+
+<instructors>D. Murch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3528-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3550</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3550y</course_identifier_cooked>
+
+<course_name>Harlem Seminar: Gay Harlem</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course explores Harlem&#39;s role in the production of sexual modernity and in particular as a space of queer encounter.&#38;nbsp; While much of our investigation will be devoted to the intersection of race and sexuality in African American life, we also consider Harlems history as an Italian and a Puerto Rican neighborhood as well as its discrete micro-cosmopolitanism within the larger global city.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>This course is being taught concurrently at Vassar College.  Vassar and Barnard students will collaborate to produce an interactive map of gay Harlem.  Students should be prepared for three off campus meetings that will occur on three Fridays during the semester. The dates of these outings shall be determined by the first day of classes.
+
+Enrollment is by permission of the instructor and is limited to 16 students.  Students must come to the first class to be considered for admission and should contact Africana@barnard.edu indicating interest in the course.  Please use the subject line &#39;&#39;Gay Harlem.&#39;&#39;</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3556</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3556y</course_identifier_cooked>
+
+<course_name>Ethnography of Black America</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course critically examines ethnographic texts about Blacks in the United States, focusing as much on what they proffer about Black American culture as on the various socio-political contexts in which this body of scholarship has been produced. The goal is to advance an understanding of the larger social forces undergirding the production not only of formations of Black culture, but of knowledge about Black America. A further goal is to foster a critical understanding of the anthropological enterprise itself.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Brown</course_instructors_actual>
+
+<course_instructors_expected>J. Brown</course_instructors_expected>
+
+<course_instructors_full>J. Brown</course_instructors_full>
+
+<classes><class><call_number>06044</call_number>
+
+<class_name>ANTHROPOLOGY OF BLACK AME</class_name>
+
+<course_identifier>AFRSX3556</course_identifier>
+
+<course_number>3556</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 4:10p - 6:00p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>J. Brown</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3556-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3560</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3560x</course_identifier_cooked>
+
+<course_name>Human Rights and Social Change in Sub-Saharan Africa</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the evolution of the ideas, institutions and practices associated with social justice in Africa and their relationship to contemporary international human rights movement and focuses on the role of human rights in social change. A number of themes will re-occur throughout the course, notably tensions between norms and reality, cultural diversity, economic and political asymmetries, the role of external actors, and women as rights providers. Countries of special interest include Liberia, Senegal, South African and Tanzania.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Martin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Martin</course_instructors_full>
+
+<classes><class><call_number>08422</call_number>
+
+<class_name>HUM RGTS SUB-SAHARAN AFR</class_name>
+
+<course_identifier>AFRSX3560</course_identifier>
+
+<course_number>3560</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;501 MILBANK HALL</days_times>
+
+<instructors>J. Martin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3560-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3570</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3570x</course_identifier_cooked>
+
+<course_name>Africana Issues: Diasporas of the Indian Ocean</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The Indian Ocean has been called the cradle of globalization, a claim bolstered by seasonal monsoon winds and the trade that these enabled. We will consider the aesthetic histories of such trade by engaging literary and other cultural exchanges (including film, visual arts, music, and dance). What did the Zulu prophet Isaiah Shembe learn from Gujarati poets? Other than a major slaving center and source of spices, what did role did Zanzibar play in the development of music and literary forms that look to Oman as well as the East Coast of Africa? We focus on four sites: Durban (South Africa), Bombay (India), Zanzibar (Tanzania) and Port Louis (Mauritius). This course will be taught simultaneously between Barnard in New York and the University of Witwatersrand in Johannesburg, South Africa. Students from both campuses will be encouraged to interact electronically and to establish a blog and website. The course will also have live-streamed guest speakers from chosen sites around the Indian Ocean.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Y. Christianse (Barnard) and I. Hofmeyr (Uni of Witwatersrand, Johannesburg)</course_instructors_expected>
+
+<course_instructors_full>J. Johannesburg), Y. Christianse (Barnard) and I. Hofmeyr (Uni of Witwatersrand</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3589</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3589y</course_identifier_cooked>
+
+<course_name>Black Feminisms</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What is Black feminism? What is womanism? How do we define Black feminist and womanist thought and praxis?&#38;nbsp; In what ways do Black feminists and womanists challenge European-American/Western feminist constructions and African-American nationalist ideologies? In this course we will utilize Patricia Hill Collins&#38;rsquo; seminal work, Black Sexual Politics: African Americans, Gender and the New Racism, as the core theoretical framework for our exploration and analysis of key dimensions of contemporary U.S. popular culture. We will specifically address how the work of African-American artists/scholars/activists critiques sexism, racism, classism, heterosexism and ethnocentrism within the U.S. context. In addition, we will analyze how Black feminists/womanists frame and interrogate the politics of race, gender, socioeconomic status, and sexuality in the United States during the contemporary era. In order to examine Black feminism(s) and womanism(s) in popular culture from myriad perspectives, the required readings for this course reflect a variety of disciplinary backgrounds, as well as a range of genres (e.g., essay, visual art, documentary, film, music video, and song). For this course, students will write 2 (5-7-page) essays and 1 (12-15-page) research paper. In addition to the written assignments and class participation, groups of students will co-lead selected class discussions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the Instructor</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Naylor</course_instructors_actual>
+
+<course_instructors_expected>C. Naylor</course_instructors_expected>
+
+<course_instructors_full>C. Naylor</course_instructors_full>
+
+<classes><class><call_number>08493</call_number>
+
+<class_name>BLK FEMINISM IN U.S. POP</class_name>
+
+<course_identifier>AFRSX3589</course_identifier>
+
+<course_number>3589</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>C. Naylor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3589-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3590</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3590x</course_identifier_cooked>
+
+<course_name>The Middle Passage</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In addition to learning about the history of the Middle Passage, students will examine literary and political responses to this forced immigration out of Africa. Identifying responses to slave holding pasts, the seminar culminates in a visit to an historic site of importance in the Middle Passage.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Admission to this seminar is by application only. Applications will be made available on the Africana Studies website: www.barnard.edu/africana</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Hall</course_instructors_expected>
+
+<course_instructors_full>K. Hall</course_instructors_full>
+
+</course><course><academic_department_code>AFSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<subject_area_name>Africana Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>BC</school_bulletin_prefix_code_2>
+
+<course_number_2>3999</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AFRS BC3998x-BC3999y</course_identifier_cooked>
+
+<course_name>Senior Seminar</course_name>
+
+<course_points_min>8</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>8 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A two-semester program of interdisciplinary research leading to the writing of the senior essay. Senior Seminar is not an independent study, but a structured seminar on methodology and criticism, which in the first semester results in an approved and substantial thesis proposal and annotated bibliography, and in the second semester produces the final thesis. In some cases, a senior seminar in one of the departments contributing to the program may be substituted for the first semester of the Senior Thesis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Campt</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Campt</course_instructors_full>
+
+<classes><class><call_number>07828</call_number>
+
+<class_name>SENIOR SEMINAR</class_name>
+
+<course_identifier>AFRSX3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;403 BARNARD HALL</days_times>
+
+<instructors>T. Campt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3998-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>08816</call_number>
+
+<class_name>SENIOR SEMINAR</class_name>
+
+<course_identifier>AFRSX3999</course_identifier>
+
+<course_number>3999</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>T. Campt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>AFRS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AFRS/BC3999-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

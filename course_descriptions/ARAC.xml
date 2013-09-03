@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ARAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MDES</subject_area_code>
+
+<subject_area_name>Middle East</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1210</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>MDES S1210z</course_identifier_cooked>
+
+<course_name>First Year Arabic, I</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An introduction to the language of classical and modern Arabic literature. Designed to develop the skills necessary for reading and speaking in this country or in the Middle East. Integrates the skills of listening, speaking, reading, and writing with an introduction to Arabic culture.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MDES</subject_area_code>
+
+<subject_area_name>Middle East</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1211</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>MDES S1211z</course_identifier_cooked>
+
+<course_name>First Year Arabic, II</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Mandatory placement exam for students who did not take S1210 at Columbia.</course_points_notes>
+
+<course_points_cooked>5 pts.  Mandatory placement exam for students who did not take S1210 at Columbia.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The continuation of S1210, above.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>MDES S1210, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MDES</subject_area_code>
+
+<subject_area_name>Middle East</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1213</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>MDES S1213z</course_identifier_cooked>
+
+<course_name>Spoken Arabic: Levantine</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MDES</subject_area_code>
+
+<subject_area_name>Middle East</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1214</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>MDES S1214z</course_identifier_cooked>
+
+<course_name>Second Year Arabic, I</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Mandatory placement exam for visiting students.</course_points_notes>
+
+<course_points_cooked>5 pts.  Mandatory placement exam for visiting students.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A continuation of the study of the language of contemporary writing in Arabic. Designed to increase vocabulary and extend facility with grammatical forms. Listening, speaking, reading, and writing abilities will develop beyond the range of a simple sentence to that of more complex, lengthier discourse. Students begin to feel confident conversing with native speakers.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>MDES W1211-W1212, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ARAC</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>MDES</subject_area_code>
+
+<subject_area_name>Middle East</subject_area_name>
+
+<school_bulletin_prefix_code_1>S</school_bulletin_prefix_code_1>
+
+<course_number_1>1215</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>MDES S1215z</course_identifier_cooked>
+
+<course_name>Second Year Arabic, II.</course_name>
+
+<course_points_min>5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Mandatory placement exam for students who did not take MDES S1214 at Columbia.</course_points_notes>
+
+<course_points_cooked>5 pts.  Mandatory placement exam for students who did not take MDES S1214 at Columbia.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A continuation of the study of the language of contemporary writing in Arabic. Designed to increase vocabulary and extend facility with grammatical forms. Listening, speaking, reading, and writing abilities will develop beyond the range of a simple sentence to that of more complex, lengthier discourse. Students begin to feel confident conversing with native speakers.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Prerequisites: MDES W1211-W1212 and W1214 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

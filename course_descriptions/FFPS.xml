@@ -1,0 +1,677 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>FFPS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3047</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN BC3047x or y</course_identifier_cooked>
+
+<course_name>Topics In French and Francophone Culture</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FFPS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3405</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>W</school_bulletin_prefix_code_2>
+
+<course_number_2>3406</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>FREN W3405x and y-W3406</course_identifier_cooked>
+
+<course_name>Advanced Grammar and Composition, I and II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Borer, C. Marange, P. Hubert-Leibler, S. Lazur, S. Skippon, V. Aurora</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Borer, C. Marange, P. Hubert-Leibler, S. Lazur, S. Skippon, V. Aurora</course_instructors_full>
+
+<classes><class><call_number>67785</call_number>
+
+<class_name>THIRD-YEAR GRAMMAR &#38; COMP</class_name>
+
+<course_identifier>FRENW3405</course_identifier>
+
+<course_number>3405</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;652 SCHERMERHORN HALL</days_times>
+
+<instructors>C. Marange</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3405-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>20248</call_number>
+
+<class_name>THIRD-YEAR GRAMMAR &#38; COMP</class_name>
+
+<course_identifier>FRENW3405</course_identifier>
+
+<course_number>3405</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;413 HAMILTON HALL</days_times>
+
+<instructors>A. Borer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3405-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>65579</call_number>
+
+<class_name>THIRD-YEAR GRAMMAR &#38; COMP</class_name>
+
+<course_identifier>FRENW3405</course_identifier>
+
+<course_number>3405</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;413 HAMILTON HALL</days_times>
+
+<instructors>S. Skippon</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3405-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>13682</call_number>
+
+<class_name>THIRD-YEAR GRAMMAR &#38; COMP</class_name>
+
+<course_identifier>FRENW3405</course_identifier>
+
+<course_number>3405</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;507 PHILOSOPHY HALL</days_times>
+
+<instructors>S. Lazur</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3405-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>60039</call_number>
+
+<class_name>THIRD-YEAR GRAMMAR &#38; COMP</class_name>
+
+<course_identifier>FRENW3405</course_identifier>
+
+<course_number>3405</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;411 HAMILTON HALL</days_times>
+
+<instructors>A. Borer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3405-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>15421</call_number>
+
+<class_name>THIRD-YEAR GRAMMAR &#38; COMP</class_name>
+
+<course_identifier>FRENW3405</course_identifier>
+
+<course_number>3405</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;316 HAMILTON HALL</days_times>
+
+<instructors>V. Aurora</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3405-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>74094</call_number>
+
+<class_name>THIRD-YEAR GRAMMAR &#38; COMP</class_name>
+
+<course_identifier>FRENW3405</course_identifier>
+
+<course_number>3405</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;201A PHILOSOPHY HALL</days_times>
+
+<instructors>P. Hubert-Leibler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>15</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3405-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FFPS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3420</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN W3420x</course_identifier_cooked>
+
+<course_name>Introduction To French and Francophone Studies, I</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines conceptions of culture and civilization in France from the Enlightenment to the Exposition Coloniale of 1931, with an emphasis on the historical development and ideological foundations of French colonialism. Authors and texts include: the Encyclop&#38;eacute;die; the D&#38;eacute;claration des droits de l&#39;homme et du citoyen; the Code noir; Diderot; Chateaubriand; Tocqueville; Claire de Duras; Renan; Gobineau; Gauguin; Drumont.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN 3405 (Advanced Grammar and Composition) or an AP score of 5 or the permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Saada</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Saada</course_instructors_full>
+
+<classes><class><call_number>21269</call_number>
+
+<class_name>INTRO-FRANCOPHONE STUDIES</class_name>
+
+<course_identifier>FRENW3420</course_identifier>
+
+<course_number>3420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;316 HAMILTON HALL</days_times>
+
+<instructors>E. Saada</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3420-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FFPS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3421</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN W3421y</course_identifier_cooked>
+
+<course_name>Introduction To French and Francohone Studies, II</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Universalism vs. exceptionalism, tradition vs. modernity, integration and exclusion, racial, gender, regional, and national identities are considered in this introduction to the contemporary French-speaking world in Europe, the Americas, and Africa. Authors include: Aim&#38;eacute; C&#38;eacute;saire, L&#38;eacute;opold Sedar Senghor, Frantz Fanon, Maryse Cond&#38;eacute;.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>FREN W 1202 or the equivalent, or the director of undergraduate studies&#39; or the instructor&#39;s permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Glover</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Glover</course_instructors_full>
+
+<classes><class><call_number>09044</call_number>
+
+<class_name>INTRO-FRANCOPHONE STUDIES</class_name>
+
+<course_identifier>FRENW3421</course_identifier>
+
+<course_number>3421</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>K. Glover</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>FREN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/FREN/W3421-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>FFPS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3502</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>FREN W3502y</course_identifier_cooked>
+
+<course_name>Cultural Studies: Religion, Literature, and the Arts in Early Modern France</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FFPS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>FREN</subject_area_code>
+
+<subject_area_name>French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3505</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>FREN W3505x</course_identifier_cooked>
+
+<course_name>Cultural Studies: Cultural Diversity in Contemporary France</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>FFPS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLFR</subject_area_code>
+
+<subject_area_name>Comparative Literature - French</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3690</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CLFR W3690y</course_identifier_cooked>
+
+<course_name>Writing/Rewriting the Caribbean</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, CE, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

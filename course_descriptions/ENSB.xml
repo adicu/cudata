@@ -1,0 +1,1844 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC1001x</course_identifier_cooked>
+
+<course_name>Environmental Science I</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Integrated study of the Hudson River ecosystem with emphasis on its natural history, physical dynamics, chemistry and pollutant history, the structure and functioning of ecosystems and&#38;nbsp;energy flow and nutrient cycling. Includes a reading of Robert Boyle&#39;s The Hudson River: A Natural and Unnatural History, Rachel Carson&#39;s &#38;quot;Flood Tide&#38;quot;, &#38;nbsp;and Farley Mowat&#39;s Never Cry Wolf.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited. Students must sign up for course in 404 Altschul during the program-planning period of the previous spring. Note BC1001 is not required for an environmental policy major. Laboratory fee $30.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Bower</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Bower</course_instructors_full>
+
+<classes><class><call_number>04606</call_number>
+
+<class_name>ENVIRONMENTAL SCIENCE I</class_name>
+
+<course_identifier>EESCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>P. Bower</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>98</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC1001-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04686</call_number>
+
+<class_name>ENVIRONMENTAL SCIENCE I</class_name>
+
+<course_identifier>EESCX1001</course_identifier>
+
+<course_number>1001</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>P. Bower</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC1001-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>1002</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC1002y</course_identifier_cooked>
+
+<course_name>Environmental Science II</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Interdisciplinary, integrated study of groundwater, radionuclides, toxics, and human health in the context of a semester-long, detailed exploration of a simulated brownfield and local community. Includes a reading of Jonathan Harr&#39;s A Civil Action and Rachel Carson&#39;s Silent Spring.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited. BC1001. Course is not required for an environmental policy major. Laboratory fee $30.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Bower</course_instructors_actual>
+
+<course_instructors_expected>P. Bower</course_instructors_expected>
+
+<course_instructors_full>P. Bower</course_instructors_full>
+
+<classes><class><call_number>02491</call_number>
+
+<class_name>ENVIRONMENTAL SCIENCE II</class_name>
+
+<course_identifier>EESCX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>P. Bower</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>102</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC1002-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>02524</call_number>
+
+<class_name>ENVIR SCIENCE II - LEC</class_name>
+
+<course_identifier>EESCX1002</course_identifier>
+
+<course_number>1002</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;202 ALTSCHUL HALL</days_times>
+
+<instructors>P. Bower</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC1002-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2100</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC V2100x and y</course_identifier_cooked>
+
+<course_name>Earth&#39;s Environmental Systems:  Climate</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studies formation of winds, storms, and ocean currents. Recent influence of human activity: global warming, and climate change. Laboratory exploration of topics through demonstrations, experimentation, computer data analysis, and modeling.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>High school algebra. Recommended preparation: High school chemistry/physics, and one semester college science.  Enrollment limited.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Winckler, J. McManus, M. Ting, T. Shaw</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Winckler, J. McManus, M. Ting, T. Shaw</course_instructors_full>
+
+<classes><class><call_number>17673</call_number>
+
+<class_name>EARTH&#39;S ENVIRO SYST: CLI</class_name>
+
+<course_identifier>EESCV2100</course_identifier>
+
+<course_number>2100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;413 KENT HALL&#60;br /&#62;Tu 4:10p - 7:00p&#60;br /&#62;558 SCHERMERHORN HALL</days_times>
+
+<instructors>J. McManus&#60;br /&#62;
+T. Shaw</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>53</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/V2100-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>25798</call_number>
+
+<class_name>EARTH&#39;S ENVIRO SYST: CLI</class_name>
+
+<course_identifier>EESCV2100</course_identifier>
+
+<course_number>2100</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;703 HAMILTON HALL&#60;br /&#62;Tu 4:00p - 7:00p&#60;br /&#62;558 SCHERMERHORN HALL</days_times>
+
+<instructors>G. Winckler&#60;br /&#62;
+M. Ting</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>44</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/V2100-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2200</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC V2200x</course_identifier_cooked>
+
+<course_name>Earth&#39;s Environmental Systems:  Solid Earth</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Studies plate tectonics: Origin and development of continents, ocean basins, mountain systems on land and sea. Earthquakes, landslides, volcanoes, diamonds, oil. Land-use planning for resource development and conservation. Laboratory exploration of topics through demonstrations, experimentation, computer data analysis, and modeling.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Malinverno, M. Tolstoy, S. Goldstein, S. Hemming</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Malinverno, M. Tolstoy, S. Goldstein, S. Hemming</course_instructors_full>
+
+<classes><class><call_number>22011</call_number>
+
+<class_name>EARTH&#39;S ENV SYSTEM:SOLID</class_name>
+
+<course_identifier>EESCV2200</course_identifier>
+
+<course_number>2200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;555 SCHERMERHORN HALL&#60;br /&#62;Th 4:10p - 7:00p&#60;br /&#62;558 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Malinverno&#60;br /&#62;
+M. Tolstoy</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>33</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/V2200-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>64082</call_number>
+
+<class_name>EARTH&#39;S ENV SYSTEM:SOLID</class_name>
+
+<course_identifier>EESCV2200</course_identifier>
+
+<course_number>2200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;603 SCHERMERHORN HALL&#60;br /&#62;Tu 4:00p - 7:00p&#60;br /&#62;603 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Goldstein&#60;br /&#62;
+S. Hemming</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>38</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/V2200-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2300</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC V2300y</course_identifier_cooked>
+
+<course_name>Earth&#39;s Environmental Systems:  Life Systems</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines role of life in biogeochemical cycles, relationship of biodiversity and evolution to the physical earth, vulnerability of ecosystems to environmental change: causes and effects of extinctions through geologic time (dinosaurs and mammoths) and today. Exploration of topics through laboratories, demonstrations, computer data analysis, modeling, and field trips.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Griffin, M. Palmer, P. Olsen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Griffin, M. Palmer, P. Olsen</course_instructors_full>
+
+<classes><class><call_number>15001</call_number>
+
+<class_name>EARTH&#39;S ENVIRO SYST: LIF</class_name>
+
+<course_identifier>EESCV2300</course_identifier>
+
+<course_number>2300</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;517 HAMILTON HALL</days_times>
+
+<instructors>K. Griffin&#60;br /&#62;
+M. Palmer&#60;br /&#62;
+P. Olsen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>64</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/V2300-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3013</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3013y</course_identifier_cooked>
+
+<course_name>Shorelines</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An interdisciplinary study of shoreline processes, the larger ecosystems of which they are a part, and the geologic events and human impacts that have brought them through time to their current state. A problem-oriented, field-methods course, providing hands-on experience with tools and observational methods in a variety of outdoor environments. Involves sampling and measurement techniques for rocks and minerals, fossils, water, soil, flora, and fauna, as well as field and laboratory work, data interpretation and analysis, and the creation of a sample collection.&#38;nbsp; Emphasis on the writing process through the reading of Rachel Carson&#39;s The Edge of the Sea,&#38;nbsp;a daylong field trip to Montauk Point, and the writing of a term essay on the natural history and origin of a grain of garnet found at the top of the dune at Napeague Bay.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited; students must sign up in 404 Altschul during the program-planning period of the previous term. Four required field trips.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Bower</course_instructors_expected>
+
+<course_instructors_full>P. Bower</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3014</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3014x</course_identifier_cooked>
+
+<course_name>Field Methods in Environmental Science</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Problem-oriented, hands-on approach emphasizing the tools, techniques, and observational skills necessary for the understanding of forest ecology and deer management. Field and laboratory work as well as data analysis and interpretation. Field Methods utilizes the outdoor resources of the Hudson River Valley, especially the forest environment at Black Rock Forest, a 4,000-acre preserve near Cornwall, N.Y.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited; students must sign up in 404 Altschul during the program-planning period of the previous term. Five required field trips.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3016</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3016x</course_identifier_cooked>
+
+<course_name>Environmental Measurements</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Hands-on approach to learning environmental methods. Students take a one-day cruise on the Hudson River to collect environmental samples. These samples are then analyzed throughout the semester to characterize the Hudson River estuary. Standard and advanced techniques to analyze water and sediment samples for nutrients and contaminants are taught. Courseworks Website.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited. Required field trip on first Friday of the semester.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Mailloux</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>B. Mailloux</course_instructors_full>
+
+<classes><class><call_number>06038</call_number>
+
+<class_name>ENVIRONMENTAL MEASUREMENT</class_name>
+
+<course_identifier>EESCX3016</course_identifier>
+
+<course_number>3016</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:10p - 4:00p&#60;br /&#62;405 ALTSCHUL HALL</days_times>
+
+<instructors>B. Mailloux</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3016-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3017</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3017x</course_identifier_cooked>
+
+<course_name>Environmental Data Analysis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Acquisition, analysis, interpretation, and presentation of environmental data, assessment of spatial and temporal variability. Focus on air and water quality issues. Uses existing and student-generated data sets. Basic principles of statistics and GIS, uses standard software packages including EXCEL and ArcGIS.&#38;nbsp; Includes a Saturday half-day field trip.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of college science or EESC V2100 or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Nitsche</course_instructors_actual>
+
+<course_instructors_expected>M. Stute, M. Becker</course_instructors_expected>
+
+<course_instructors_full>F. Nitsche, M. Becker, M. Stute</course_instructors_full>
+
+<classes><class><call_number>03873</call_number>
+
+<class_name>ENVIRONMENTAL DATA ANALYS</class_name>
+
+<course_identifier>EESCX3017</course_identifier>
+
+<course_number>3017</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:10p - 4:00p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>F. Nitsche</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3017-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3019</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3019x</course_identifier_cooked>
+
+<course_name>Energy Resources</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Project-oriented study of the environmental policy implications of energy resources, production, and use in the United States. Present and potential use of fossil fuels (coal, oil, natural gas), nuclear fission, fusion, biomass, hydropower, wind, solar, and geothermal energy.&#38;nbsp; Emphasis on energy efficiency.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of college science or permission of instructor.  Alternate years.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3021</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3021x</course_identifier_cooked>
+
+<course_name>Forests and Environmental Change</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Seminar on forests in global change framework: forest distribution and link to climate, forest ecology, paleoecology, role of forests in global ecosystem, biological invasions, habitat fragmentation, biodiversity, conservation and management strategies. Format: class discussion of readings, student presentations on scientific papers, field trips, data collection and analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 12 students.  One year of college science or permission of instructor. Alternate years.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3025</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3025y</course_identifier_cooked>
+
+<course_name>Hydrology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Hands-on study and discussion of the basic physical principles of the water cycle (evaporation, condensation, precipitation, runoff, and subsurface flow), as well as environmentally relevant applications based on case studies. Special focus on the New York City area, the arid Southwest, and the developing world. Coverage of contemporary global water resources issues, including pollution control, sustainable development, and climate change.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>EESC V2100, physics, or permission of instructor. Includes a weekend field trip. Alternate years.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Stute</course_instructors_expected>
+
+<course_instructors_full>M. Stute</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3026</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>EESC BC3026y (Section 001)</course_identifier_cooked>
+
+<course_name>Case Studies in Land-use/Bird/Plant Dynamics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Three case studies of topics related to land-use change and how they impact the living environment. The three topics are: (1) land-use change over time: a paleoenvironmental perspective, (2) environmental transformations: impact of exotic and invasive plants and birds on local environments, and (3) migration of neotropical songbirds between their wintering and breeding grounds: land-use, crisis, and conservation. Field trips include Jamaica Bay, Black Rock Forest, Sterling Forest, Central Park, Empire State Building. Format: lecture, student presentations, field trips and data collection/analysis.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 12 students.  Permission of the instructor required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Maenza-Gmelch</course_instructors_actual>
+
+<course_instructors_expected>Terryanne Maenza-Gmelch</course_instructors_expected>
+
+<course_instructors_full>T. Maenza-Gmelch</course_instructors_full>
+
+<classes><class><call_number>05192</call_number>
+
+<class_name>CASE STUD LAND-USE DYNAMI</class_name>
+
+<course_identifier>EESCX3026</course_identifier>
+
+<course_number>3026</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;403 ALTSCHUL HALL</days_times>
+
+<instructors>T. Maenza-Gmelch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3026-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3032</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3032y</course_identifier_cooked>
+
+<course_name>Agricultural and Urban Land Use: Human-Environment Interactions</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Human transformation of the terrestrial environment since Paleolithic times. Physical process involved in human-environment interactions. Guidelines for sustainable development using present and past examples of environmental use and abuse.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One year of college science or permission of instructor. Alternate years.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Rosenzweig</course_instructors_expected>
+
+<course_instructors_full>C. Rosenzweig</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3033</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3033x</course_identifier_cooked>
+
+<course_name>Waste Management</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Project-oriented study of waste management issues and policy.&#38;nbsp; Cradle-to-grave analysis of product and waste streams. Analysis of municipal solid waste, landfills, incineration, recycling, sewage waste and sewage treatment.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Alternate years.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3040</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3040y</course_identifier_cooked>
+
+<course_name>Environmental Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Process-oriented introduction to the law and its use in environmental policy and decision-making. Origins and structure of the U.S. legal system. Emphasis on litigation process and specific cases that elucidate the common law and toxic torts, environmental administrative law, and environmental regulation through application and testing of statutory law in the courts. Emphasis also on the development of legal literacy, research skills, and writing.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Peter Bower</course_instructors_expected>
+
+<course_instructors_full>P. Bower</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3043</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3043y</course_identifier_cooked>
+
+<course_name>Water, Sanitation, and Health</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course focuses on understanding water, sanitation and health in the developing world and how these factors interact to afect people&#39;s lives.&#38;nbsp; Specifically, what are the options for providing cleaner water and improved sanitation in order to reduce the incidence of waterborne diseases in the developing world?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Mailloux</course_instructors_actual>
+
+<course_instructors_expected>B. Mailloux</course_instructors_expected>
+
+<course_instructors_full>B. Mailloux</course_instructors_full>
+
+<classes><class><call_number>07713</call_number>
+
+<class_name>WATER, SANITATION &#38; HEAL</class_name>
+
+<course_identifier>EESCX3043</course_identifier>
+
+<course_number>3043</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>B. Mailloux</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3043-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3045</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC V3045y</course_identifier_cooked>
+
+<course_name>Responding to Climate Change</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis of climate change adaptations, responses, and mitigation options.&#38;nbsp; Consideration of impacts of projected climate changes including global water, food and health complemented by regional case studies.&#38;nbsp; Scientific, technologic, economic, political, and behavioral aspects of potential solutions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>One of the following courses that introduces the structure and functioning of the climate system and processes underlying climate change: EESC V1002, Climate and Society: Case Studies; EESC V2100 Earth&#39;s Environmental Systems: Climate; EESC W2330, Science of Sustainable Development; or EAEE E1100, A Better Plant by Design.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Stephanie Pfirman, Juerg Matter, Peter Schlosser</course_instructors_expected>
+
+<course_instructors_full>J. Matter, P. Schlosser, S. Pfirman</course_instructors_full>
+
+</course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3200</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3200x</course_identifier_cooked>
+
+<course_name>Ecotoxicology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The study of anthropogenic contaminants within our natural environment and their subsequent effects on biological organisms. Effects to be examined: the molecular scale (biochemical pathways of metabolism and detoxification), the organismal scale (target organs, behavioral effects), and the ecosystem scale (species viability). Lectures and hands-on activities are used to teach the material.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CHEM BC1601, BIOL BC2002, or permission of instructor. Alternate years.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Mailloux</course_instructors_actual>
+
+<course_instructors_expected>B. Mailloux</course_instructors_expected>
+
+<course_instructors_full>B. Mailloux</course_instructors_full>
+
+<classes><class><call_number>08331</call_number>
+
+<class_name>ECOTOXICOLOGY</class_name>
+
+<course_identifier>EESCX3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>B. Mailloux</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3200-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3300</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3300x</course_identifier_cooked>
+
+<course_name>Workshop in Sustainable Development</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Students address real-world issues in sustainable development by working in groups for an external client agency.&#38;nbsp; Instruction in communication, collaboration, and management; meetings with and presentations to clients and academic community.&#38;nbsp; Projects vary from year to year.&#38;nbsp; Readings in the course are project-specific and are identified by the student research teams.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Stute</course_instructors_actual>
+
+<course_instructors_expected>M. Stute</course_instructors_expected>
+
+<course_instructors_full>M. Stute</course_instructors_full>
+
+<classes><class><call_number>05986</call_number>
+
+<class_name>WORKSHOP SUSTAINABLE DEVE</class_name>
+
+<course_identifier>EESCX3300</course_identifier>
+
+<course_number>3300</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;201 LEHMAN HALL</days_times>
+
+<instructors>M. Stute</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3300-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04398</call_number>
+
+<class_name>WORKSHOP SUSTAINABLE DEVE</class_name>
+
+<course_identifier>EESCX3300</course_identifier>
+
+<course_number>3300</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>M. Stute</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3300-20123-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3800</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3800x</course_identifier_cooked>
+
+<course_name>Senior Research Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Guided, independent, in-depth research culminating in the senior thesis. Includes discussions about scientific presentations and posters, data analysis, library research methods, and scientific writing. Students review work in progress and share results through oral and written reports. Fall Semester Course Website.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Senior majors (juniors with permission of instructor). Provides credit for the senior thesis.  The Senior Research Seminar can be taken in the Spring/Fall or Fall/Spring sequence.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Stute</course_instructors_actual>
+
+<course_instructors_expected>M. Stute, S. Pfirman, B. Mailloux</course_instructors_expected>
+
+<course_instructors_full>B. Mailloux, M. Stute, S. Pfirman</course_instructors_full>
+
+<classes><class><call_number>05632</call_number>
+
+<class_name>ENVIR SCIENCE SENIOR SEMI</class_name>
+
+<course_identifier>EESCX3800</course_identifier>
+
+<course_number>3800</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>M. Stute</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>35</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3800-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3801</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3801y</course_identifier_cooked>
+
+<course_name>Senior Research Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Guided, independent, in-depth research culminating in the senior thesis. Includes discussions about scientific presentations and posters, data analysis, library research methods, and scientific writing. Students review work in progress and share results through oral and written reports. Spring Semester Course Website.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Senior majors (juniors with permission of instructor). Provides credit for the senior thesis.  The Senior Research Seminar can be taken in the Spring/Fall or Fall/Spring sequence.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Pfirman</course_instructors_actual>
+
+<course_instructors_expected>M. Stute, S. Pfirman</course_instructors_expected>
+
+<course_instructors_full>M. Stute, S. Pfirman</course_instructors_full>
+
+<classes><class><call_number>03167</call_number>
+
+<class_name>ENVIR SCIENCE SENIOR SEM</class_name>
+
+<course_identifier>EESCX3801</course_identifier>
+
+<course_number>3801</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>S. Pfirman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>38</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/BC3801-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>ENSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3999</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>EESC BC3999x and y</course_identifier_cooked>
+
+<course_name>Independent Study</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>6</course_points_max>
+
+<course_points_notes>Variable points to a maximum of 6.</course_points_notes>
+
+<course_points_cooked>1-6 pts.  Variable points to a maximum of 6.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Advanced projects for students who have adequate backgrounds to work independently with guidance from a member of the faculty.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the chair required. Does not provide major credit.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course></courses>

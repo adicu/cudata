@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>ARCY</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ACLG</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Engineering -- Chemical Engineering</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2028</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ACLG V2028y</course_identifier_cooked>
+
+<course_name>Pasts, Presents &#38; Futures: An Introduction to 21st Century Archaeology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course provides a comprehensive introduction to archaeology. We start with a critical overview of the origins of the discipline in the 18th and 19th centuries, and then move on to consider key themes in current archaeological thinking. These include &#38;lsquo;time and the past: what is the difference&#38;rsquo;? What are archaeological sites and how do we &#38;lsquo;discover&#38;rsquo; them? How is the relationship between the living and the dead negotiated through archaeological practice? What are the ethical issues? How do we create narratives from archaeological evidence? Who gets written in and out of these histories? Archaeology in film and media is also covered.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>There are no prerequisites for this course.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Boyd</course_instructors_actual>
+
+<course_instructors_expected>B. Boyd</course_instructors_expected>
+
+<course_instructors_full>B. Boyd</course_instructors_full>
+
+<classes><class><call_number>83048</call_number>
+
+<class_name>INTRO TO 21ST CENT ARCH</class_name>
+
+<course_identifier>ACLGV2028</course_identifier>
+
+<course_number>2028</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;614 SCHERMERHORN HALL</days_times>
+
+<instructors>B. Boyd</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>100</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>94</student_enrollment_count>
+
+<subject_area_code>ACLG</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ACLG/V2028-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

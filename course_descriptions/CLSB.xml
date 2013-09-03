@@ -1,0 +1,6723 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2>1102</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V1101x-V1102y</course_identifier_cooked>
+
+<course_name>Elementary Full-Year Course</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Grammar, composition, and reading.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GREK V1101 is prerequisite to GREK V1102.  No credit is given for GERK V1101 unless GREK V1102 is completed.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Worman, S. Kaczor</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>N. Worman, S. Kaczor</course_instructors_full>
+
+<classes><class><call_number>28943</call_number>
+
+<class_name>ELEMENTARY GREEK I</class_name>
+
+<course_identifier>GREKV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:10a - 11:25a&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>S. Kaczor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>4</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1101-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01666</call_number>
+
+<class_name>ELEMENTARY GREEK I</class_name>
+
+<course_identifier>GREKV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 6:10p - 8:00p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>N. Worman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1101-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>23391</call_number>
+
+<class_name>ELEMENTARY GREEK II</class_name>
+
+<course_identifier>GREKV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:10a - 11:25a&#60;br /&#62;406 HAMILTON HALL</days_times>
+
+<instructors>S. Kaczor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1102-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>03337</call_number>
+
+<class_name>ELEMENTARY GREEK II</class_name>
+
+<course_identifier>GREKV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 6:10p - 8:00p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>N. Worman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>8</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1102-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1101</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2>1102</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V1101x or y-V1102</course_identifier_cooked>
+
+<course_name>Elementary Full-Year Course</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>V 1101: Grammar, composition and reading. V 1102: Complete review of grammar and syntax; emphasis on representative readings.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LATN V1101 is normally prerequisite to LATN V1102.  LATN V1102 may be taken without LATN V1101 by permission of the instructor.  No credit is given for LATN V1101 until LATN V1102 is completed.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. McNamara, E. Papathanasopoulou, K. Brassel, M. Allen, N. Rynearson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. McNamara, E. Papathanasopoulou, K. Brassel, M. Allen, N. Rynearson</course_instructors_full>
+
+<classes><class><call_number>13954</call_number>
+
+<class_name>ELEMENTARY LATIN I</class_name>
+
+<course_identifier>LATNV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 10:10a - 11:25a&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>E. Papathanasopoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1101-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>73677</call_number>
+
+<class_name>ELEMENTARY LATIN I</class_name>
+
+<course_identifier>LATNV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>K. Brassel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1101-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>19703</call_number>
+
+<class_name>ELEMENTARY LATIN I</class_name>
+
+<course_identifier>LATNV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;522A KENT HALL</days_times>
+
+<instructors>N. Rynearson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1101-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>12003</call_number>
+
+<class_name>ELEMENTARY LATIN II</class_name>
+
+<course_identifier>LATNV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 8:40a - 9:55a&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>M. Allen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1102-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>70363</call_number>
+
+<class_name>ELEMENTARY LATIN I</class_name>
+
+<course_identifier>LATNV1101</course_identifier>
+
+<course_number>1101</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 8:40a - 9:55a&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>C. McNamara</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1101-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>70760</call_number>
+
+<class_name>ELEMENTARY LATIN II</class_name>
+
+<course_identifier>LATNV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 10:10a - 11:25a&#60;br /&#62;607 HAMILTON HALL</days_times>
+
+<instructors>E. Papathanasopoulou</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1102-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>17221</call_number>
+
+<class_name>ELEMENTARY LATIN II</class_name>
+
+<course_identifier>LATNV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>K. Brassel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1102-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>86206</call_number>
+
+<class_name>ELEMENTARY LATIN II</class_name>
+
+<course_identifier>LATNV1102</course_identifier>
+
+<course_number>1102</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;509 HAMILTON HALL</days_times>
+
+<instructors>N. Rynearson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1102-20131-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1120</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V1120</course_identifier_cooked>
+
+<course_name>Preparation for Intermediate Latin</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A one-term intensive review of basic grammar and reading skills; designed for students who have had some Latin in the past, but need further instruction to qualify for LATN V1201.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1121</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V1121x or y</course_identifier_cooked>
+
+<course_name>Intensive Elementary Course</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed to cover all of Greek grammar and syntax in one semester in order to prepare a student to enter third-semester Greek.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Irwin, J. Wasson</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Irwin, J. Wasson</course_instructors_full>
+
+<classes><class><call_number>68045</call_number>
+
+<class_name>INTENSIVE ELEMENTARY GREE</class_name>
+
+<course_identifier>GREKV1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 11:40a - 12:55p&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>J. Wasson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1121-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>88005</call_number>
+
+<class_name>INTENSIVE ELEMENTARY GREE</class_name>
+
+<course_identifier>GREKV1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:10a - 11:25a&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>E. Irwin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1121-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1121</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V1121</course_identifier_cooked>
+
+<course_name>Intensive Elementary Latin</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Designed to cover all of Latin grammar and syntax in one semester in order to prepare student to enter third-semester Latin.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Carbone, M. Hanses</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Carbone, M. Hanses</course_instructors_full>
+
+<classes><class><call_number>77230</call_number>
+
+<class_name>INTENSIVE ELEMENTARY COUR</class_name>
+
+<course_identifier>LATNV1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 8:40a - 9:55a&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>L. Carbone</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1121-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>10153</call_number>
+
+<class_name>INTENSIVE ELEMENTARY COUR</class_name>
+
+<course_identifier>LATNV1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 8:40a - 9:55a&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>M. Hanses</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1121-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1201</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V1201x or y</course_identifier_cooked>
+
+<course_name>Intermediate Greek: Prose and Poetry</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Selections from Plato.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GREK V1101 - V1102 or V1121.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Foley</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>H. Foley</course_instructors_full>
+
+<classes><class><call_number>09867</call_number>
+
+<class_name>INTERMDTE GREEK:PROSE &#38; P</class_name>
+
+<course_identifier>GREKV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;306 MILBANK HALL&#60;br /&#62;F 11:40a - 12:55p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>H. Foley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1201-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1201</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V1201y</course_identifier_cooked>
+
+<course_name>Intermediate Latin I</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Selections from Catullus and from Cicero or Caesar.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LATN V1101 - V1102 or 2 - 3 years of high school Latin.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Catenaccio, J. Wasson, M. Hanses</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Catenaccio, J. Wasson, M. Hanses</course_instructors_full>
+
+<classes><class><call_number>71023</call_number>
+
+<class_name>INTERMEDIATE LATIN I</class_name>
+
+<course_identifier>LATNV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 11:40a - 12:55p&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>C. Catenaccio</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1201-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>21533</call_number>
+
+<class_name>INTERMEDIATE LATIN I</class_name>
+
+<course_identifier>LATNV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 6:10p - 8:00p&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>M. Hanses</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1201-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>10486</call_number>
+
+<class_name>INTERMEDIATE LATIN I</class_name>
+
+<course_identifier>LATNV1201</course_identifier>
+
+<course_number>1201</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 11:40a - 12:55p&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>J. Wasson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1201-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1202</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V1202x or y</course_identifier_cooked>
+
+<course_name>Selections from Homer</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Detailed grammatical and literary study of several books of the Iliad and introduction to the techniques of oral poetry, to the Homeric hexameter, and to the historical background of Homer.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GREK V1101-V1102 or V1121, or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Steiner</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>D. Steiner, H. Foley</course_instructors_full>
+
+<classes><class><call_number>63442</call_number>
+
+<class_name>INTERMEDIATE GREEK II: HO</class_name>
+
+<course_identifier>GREKV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 11:40a - 12:55p&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>D. Steiner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V1202-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>1202</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V1202y</course_identifier_cooked>
+
+<course_name>Intermediate Latin II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Selections from Ovid, Metamorphoses, and Sallust, Livy, Seneca, or Phiny.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LATN V1201 or 3 - 4 years of high school Latin.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Catenaccio, C. McNamara, M. Fantuzzi</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Catenaccio, C. McNamara, M. Fantuzzi</course_instructors_full>
+
+<classes><class><call_number>25522</call_number>
+
+<class_name>INTERMEDIATE LATIN II</class_name>
+
+<course_identifier>LATNV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 8:40a - 9:55a&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>C. McNamara</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1202-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>72497</call_number>
+
+<class_name>INTERMEDIATE LATIN II</class_name>
+
+<course_identifier>LATNV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuThF 8:40a - 9:55a&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>C. Catenaccio</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1202-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>26323</call_number>
+
+<class_name>INTERMEDIATE LATIN II</class_name>
+
+<course_identifier>LATNV1202</course_identifier>
+
+<course_number>1202</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>TuTh 6:10p - 8:00p&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>M. Fantuzzi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V1202-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3012</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V3012x</course_identifier_cooked>
+
+<course_name>Augustan Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Selections from Virgil and Horace. Combines literary analysis with work in grammar and metrics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LATN V1202 or four years of high school Latin.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Steiner</course_instructors_actual>
+
+<course_instructors_expected>K. Milnor</course_instructors_expected>
+
+<course_instructors_full>D. Steiner, K. Milnor</course_instructors_full>
+
+<classes><class><call_number>68449</call_number>
+
+<class_name>AUGUSTAN POETRY</class_name>
+
+<course_identifier>LATNV3012</course_identifier>
+
+<course_number>3012</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>D. Steiner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3012-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3110</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV V3110</course_identifier_cooked>
+
+<course_name>The Ancient City</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Uses archaeological and literary sources to discuss the beginnings of urbanism in the ancient Mediterranean region, with particular focus on 5th-century Athens and Imperial Rome. Aims not just to study how cities developed, but also how that development affected the ways in which people of the time thought about community living and the meaning of their physical environment.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUCL</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3132</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUCL O3132x and y</course_identifier_cooked>
+
+<course_name>Classical Myth</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of major myths from the ancient Near East to the advent of Christianity, with emphasis upon the content and treatment of myths in classical authors (Homer, Hesiod, Aeschylus, Euripides, Sophocles, Vergil, Livy, Ovid).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Foley</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>H. Foley</course_instructors_full>
+
+<classes><class><call_number>81034</call_number>
+
+<class_name>CLASSICAL MYTH</class_name>
+
+<course_identifier>AUCLO3132</course_identifier>
+
+<course_number>3132</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;TBA</days_times>
+
+<instructors>H. Foley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>AUCL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUCL/O3132-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLLT</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3132</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLLT V3132x and y</course_identifier_cooked>
+
+<course_name>Classical Myth</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Survey of major myths from the ancient Near East to the advent of Christianity, with emphasis upon the content and treatment of myths in classical authors (Homer, Hesiod, Aeschylus, Euripides, Sophocles, Vergil, Livy, Ovid).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Foley</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>H. Foley</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLLT</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3140</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLLT V3140</course_identifier_cooked>
+
+<course_name>Comedy Past and Present: Fantasy, Adventure, and Satire</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines ancient Greek and Roman works of comedy in conjunction with 20th-century texts composed in English. Explores how fantasy and satire grapple with political, social, and cultural issues and the remarkable continuity within this particular comic tradition. Authors include Aristophanes, Petronius, Lucian, Apuleius, Seneca, Tom Stoppard, Thomas Pynchon, Douglas Adams, and John Waters.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Scharffenberger</course_instructors_expected>
+
+<course_instructors_full>E. Scharffenberger</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3158</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV V3158x</course_identifier_cooked>
+
+<course_name>Women in Antiquity</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the role of women in ancient Greek and Latin literature; the portrayal of women in literature as opposed to their actual social status; male and female in ancient Mediterranean cosmologies; readings from ancient epics, lyric drama, history, historical documents, medical texts, oratory, and philosophy, as well as from contemporary sociological and anthropological works that help to analyze the origins of the Western attitude toward women.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Milnor</course_instructors_expected>
+
+<course_instructors_full>K. Milnor</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3162</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV V3162y</course_identifier_cooked>
+
+<course_name>Ancient Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Greek and Roman legal systems; archaic law in its social context; philosophy of law; development of private law in Rome.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Zetzel</course_instructors_expected>
+
+<course_instructors_full>J. Zetzel</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLLT</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3205</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLLT V3205</course_identifier_cooked>
+
+<course_name>Classics in the 20th and 21st Centuries</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Folch</course_instructors_expected>
+
+<course_instructors_full>M. Folch</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLLT</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3230</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLLT V3230</course_identifier_cooked>
+
+<course_name>Classics and Film</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Considers cinematic representations of the ancient Mediterranean world, from early silent film to movies from the present day. Explores films that purport to represent historical events (such as Gladiator) and cinematic versions of ancient texts (Pasolinis Medea). Readings include ancient literature and modern criticism.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3309</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V3309y</course_identifier_cooked>
+
+<course_name>Selections from Greek Literature: Rhetoric</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of this course changes year to year; it may be taken in consecutive years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Greek V1201-1202, or their equivalents.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Worman</course_instructors_expected>
+
+<course_instructors_full>N. Worman</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3309</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V3309y</course_identifier_cooked>
+
+<course_name>Selections from Latin Literature: Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of course changes from year to year, it may be taken for credit in consecutive years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LATN V3012 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Glauthier</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>P. Glauthier</course_instructors_full>
+
+<classes><class><call_number>18035</call_number>
+
+<class_name>LATIN LIT SELECTIONS: LIV</class_name>
+
+<course_identifier>LATNV3309</course_identifier>
+
+<course_number>3309</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>P. Glauthier</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3309-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3310</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V3310</course_identifier_cooked>
+
+<course_name>Selections from Greek Literature: Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of course changes each year; it may be taken in consecutive years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Fields</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Fields</course_instructors_full>
+
+<classes><class><call_number>71643</call_number>
+
+<class_name>GREEK LIT SELEC II:GREEK</class_name>
+
+<course_identifier>GREKV3310</course_identifier>
+
+<course_number>3310</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>D. Fields</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3310-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3310</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V3310x</course_identifier_cooked>
+
+<course_name>Selections from Latin Literature: Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of course changes from year to year; it may be taken for credit in consecutive years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Prerequisite: LATN V3012 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Milnor</course_instructors_actual>
+
+<course_instructors_expected>K. Milnor</course_instructors_expected>
+
+<course_instructors_full>K. Milnor</course_instructors_full>
+
+<classes><class><call_number>08709</call_number>
+
+<class_name>SELECTNS LATIN LIT: EPIC</class_name>
+
+<course_identifier>LATNV3310</course_identifier>
+
+<course_number>3310</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3310-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3320</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V3320</course_identifier_cooked>
+
+<course_name>Intensive Reading Course</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>M. Fantuzzi</course_instructors_expected>
+
+<course_instructors_full>M. Fantuzzi</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3320</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V3320y</course_identifier_cooked>
+
+<course_name>Intensive Reading Course</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUCC</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>3535</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUCC O3535</course_identifier_cooked>
+
+<course_name>Identity and Society in Ancient Egypt</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The lives of ancient Egyptians varied greatly according to their age, gender, class, ethnicity, profession and spatial and temporal locality.&#38;nbsp; Using material and textual evidence, we examine selected individuals, communities, and specific topics.&#38;nbsp; The latter include public and private religious life, law, human lifecycles, social revolution, and the living dead.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Morris</course_instructors_actual>
+
+<course_instructors_expected>E. Morris</course_instructors_expected>
+
+<course_instructors_full>E. Morris</course_instructors_full>
+
+<classes><class><call_number>11785</call_number>
+
+<class_name>IDENTITY &#38; SOCIETY ANC EG</class_name>
+
+<course_identifier>AUCCO3535</course_identifier>
+
+<course_number>3535</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;TBA</days_times>
+
+<instructors>E. Morris</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>AUCC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUCC/O3535-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3535</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV V3535</course_identifier_cooked>
+
+<course_name>Identity and Society in Ancient Egypt</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The lives of ancient Egyptians varied greatly according to their age, gender, class, ethnicity, profession and spatial and temporal locality.&#38;nbsp; Using material and textual evidence, we examine selected individuals, communities, and specific topics.&#38;nbsp; The latter include public and private religious life, law, human lifecycles, social revolution, and the living dead.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Morris</course_instructors_actual>
+
+<course_instructors_expected>E. Morris</course_instructors_expected>
+
+<course_instructors_full>E. Morris</course_instructors_full>
+
+<classes><class><call_number>08819</call_number>
+
+<class_name>IDENTITY &#38; SOCIETY ANC EG</class_name>
+
+<course_identifier>CLCVV3535</course_identifier>
+
+<course_number>3535</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>E. Morris</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CLCV/V3535-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<subject_area_name>Ancient Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3995</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ANCS V3995x</course_identifier_cooked>
+
+<course_name>Senior Seminar in Ancient Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Howley</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Howley</course_instructors_full>
+
+<classes><class><call_number>27589</call_number>
+
+<class_name>MAJORS SEMINAR</class_name>
+
+<course_identifier>ANCSV3995</course_identifier>
+
+<course_number>3995</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 2:10p - 4:00p&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3995-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3996</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V3996</course_identifier_cooked>
+
+<course_name>The Major Seminar</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Required for all majors in classics and classical studies.&#38;nbsp; The topic will change from year to year, but will always be broad enough to accommodate students in the languages as well as those in the interdisciplinary major.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Howley</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Howley</course_instructors_full>
+
+<classes><class><call_number>66084</call_number>
+
+<class_name>THE MAJOR SEMINAR</class_name>
+
+<course_identifier>LATNV3996</course_identifier>
+
+<course_number>3996</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 2:10p - 4:00p&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3996-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<subject_area_name>Ancient Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ANCS V3997x and y</course_identifier_cooked>
+
+<course_name>Directed Readings in Ancient Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Program of readings in some aspect of Ancient Studies, supervised by an appropriate faculty member chosen from the departments offering Ancient Studies courses. Testing by a series of essays, one long paper, or oral or written examination(s).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the departmental representative required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Irwin, E. Scharffenberger, G. Williams, J. Howley, J. Zetzel, K. Milnor, K.
+Volk, P. Glauthier, S. Schwartz</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Irwin, E. Scharffenberger, G. Williams, J. Howley, J. Zetzel, K. Milnor, K.
+Volk, P. Glauthier, S. Schwartz</course_instructors_full>
+
+<classes><class><call_number>62593</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>66749</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>67899</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>71304</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Glauthier</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>72997</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>06529</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>88098</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Irwin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-007</university_web_bulletin_url>
+
+</class>
+<class><call_number>73604</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>008</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Scharffenberger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-008</university_web_bulletin_url>
+
+</class>
+<class><call_number>76900</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Schwartz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20123-009</university_web_bulletin_url>
+
+</class>
+<class><call_number>12458</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>19909</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>11163</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>76247</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Glauthier</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>72879</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>01398</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>92297</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Irwin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-007</university_web_bulletin_url>
+
+</class>
+<class><call_number>95798</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>008</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Scharffenberger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-008</university_web_bulletin_url>
+
+</class>
+<class><call_number>97098</call_number>
+
+<class_name>DIRCTD READING-ANCIENT ST</class_name>
+
+<course_identifier>ANCSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Schwartz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3997-20131-009</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V3997</course_identifier_cooked>
+
+<course_name>Directed Readings in Latin Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>To be tested by a series of short papers, one long paper, or an oral or written examination.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the department chair required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Williams, J. Howley, J. Zetzel, K. Milnor, K. Volk, P. Glauthier</course_instructors_actual>
+
+<course_instructors_expected>K. Milnor</course_instructors_expected>
+
+<course_instructors_full>G. Williams, J. Howley, J. Zetzel, K. Milnor, K. Volk, P. Glauthier</course_instructors_full>
+
+<classes><class><call_number>22544</call_number>
+
+<class_name>DIRECTED READINGS IN LATI</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>29704</call_number>
+
+<class_name>DIRECTED READINGS IN LATI</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>63650</call_number>
+
+<class_name>DIRECTED READINGS IN LATI</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>76408</call_number>
+
+<class_name>DIRECTED READINGS IN LATI</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Glauthier</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>77652</call_number>
+
+<class_name>DIRECTED READINGS IN LATI</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>01887</call_number>
+
+<class_name>DIRECTED READINGS IN LATI</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>22599</call_number>
+
+<class_name>DIRECTED READINGS IN LAT</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>77243</call_number>
+
+<class_name>DIRECTED READINGS IN LAT</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>22454</call_number>
+
+<class_name>DIRECTED READINGS IN LAT</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>66811</call_number>
+
+<class_name>DIRECTED READINGS IN LAT</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Glauthier</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>13159</call_number>
+
+<class_name>DIRECTED READINGS IN LAT</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>04631</call_number>
+
+<class_name>DIRECTED LATIN READINGS</class_name>
+
+<course_identifier>LATNV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3997-20131-006</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<subject_area_name>Ancient Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ANCS V3998x</course_identifier_cooked>
+
+<course_name>Directed Research in Ancient Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Program of research in Ancient Studies. Research paper required. The topic must be submitted to the department representative and the appropriate adviser decided upon by April 1 of the semester preceding that in which the student will be enrolled in the course. The student and the departmental representative will request supervision of the research paper from an appropriate faculty member in a department offering Ancient Studies courses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the departmental representative required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Irwin, E. Scharffenberger, F. de Angelis, G. Williams, J. Howley, J. Zetzel,
+K. Milnor, K. Volk, P. Glauthier, S. Schwartz</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Irwin, E. Scharffenberger, F. de Angelis, G. Williams, J. Howley, J. Zetzel,
+K. Milnor, K. Volk, P. Glauthier, S. Schwartz</course_instructors_full>
+
+<classes><class><call_number>86402</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>86748</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>17270</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>68112</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>26680</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>86281</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>P. Glauthier</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>70688</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>07939</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>27348</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Irwin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-007</university_web_bulletin_url>
+
+</class>
+<class><call_number>27846</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>008</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Scharffenberger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-008</university_web_bulletin_url>
+
+</class>
+<class><call_number>81762</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Schwartz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-009</university_web_bulletin_url>
+
+</class>
+<class><call_number>90907</call_number>
+
+<class_name>DIRCTD RSRCH-ANCIENT STUD</class_name>
+
+<course_identifier>ANCSV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>010</course_section_code>
+
+<days_times></days_times>
+
+<instructors>F. de Angelis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/ANCS/V3998-20131-010</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK V3998</course_identifier_cooked>
+
+<course_name>Supervised Research in Greek Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Requires direct approval from instructor and department.</course_points_notes>
+
+<course_points_cooked>3 pts.  Requires direct approval from instructor and department.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Program of research in Greek literature, with the composition of a paper embodying results.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Steiner, E. Irwin, E. Scharffenberger, F. de Angelis, G. Williams, H. Foley,
+J. Howley, J. Zetzel, K. Milnor, M. Fantuzzi, S. Schwartz</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>D. Steiner, E. Irwin, E. Scharffenberger, F. de Angelis, G. Williams, H. Foley,
+J. Howley, J. Zetzel, K. Milnor, M. Fantuzzi, S. Schwartz</course_instructors_full>
+
+<classes><class><call_number>72622</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>71990</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>64729</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Scharffenberger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>66511</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Steiner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>18199</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>F. de Angelis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>29602</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>70915</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Fantuzzi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>05025</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times></days_times>
+
+<instructors>H. Foley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-009</university_web_bulletin_url>
+
+</class>
+<class><call_number>07205</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>010</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-010</university_web_bulletin_url>
+
+</class>
+<class><call_number>18944</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>011</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Schwartz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-011</university_web_bulletin_url>
+
+</class>
+<class><call_number>11774</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>012</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Irwin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-012</university_web_bulletin_url>
+
+</class>
+<class><call_number>63930</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>013</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-013</university_web_bulletin_url>
+
+</class>
+<class><call_number>13255</call_number>
+
+<class_name>SUPERVISED RSRCH IN GREEK</class_name>
+
+<course_identifier>GREKV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>014</course_section_code>
+
+<days_times></days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/V3998-20131-014</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3998</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN V3998</course_identifier_cooked>
+
+<course_name>Supervised Research in Latin Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A program of research in Latin literature with the composition of a paper embodying results.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Requires direct approval from instructor and department.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Franklin, D. Steiner, E. Irwin, E. Scharffenberger, F. de Angelis, G.
+Williams, H. Foley, J. Howley, J. Zetzel, K. Milnor, K. Volk, M. Fantuzzi, M.
+Folch, S. Schwartz</course_instructors_actual>
+
+<course_instructors_expected>K. Milnor</course_instructors_expected>
+
+<course_instructors_full>C. Franklin, D. Steiner, E. Irwin, E. Scharffenberger, F. de Angelis, G.
+Williams, H. Foley, J. Howley, J. Zetzel, K. Milnor, K. Volk, M. Fantuzzi, M.
+Folch, S. Schwartz</course_instructors_full>
+
+<classes><class><call_number>72135</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>Instructor To Be Announced</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>23335</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>1</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>68428</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Scharffenberger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>1</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>76998</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times></days_times>
+
+<instructors>D. Steiner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>1</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>77656</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Folch</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>62833</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>61625</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times></days_times>
+
+<instructors>M. Fantuzzi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>98463</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times></days_times>
+
+<instructors>F. de Angelis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-007</university_web_bulletin_url>
+
+</class>
+<class><call_number>13062</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>008</course_section_code>
+
+<days_times></days_times>
+
+<instructors>C. Franklin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-008</university_web_bulletin_url>
+
+</class>
+<class><call_number>04519</call_number>
+
+<class_name>SUPERVSD RESRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times></days_times>
+
+<instructors>H. Foley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-009</university_web_bulletin_url>
+
+</class>
+<class><call_number>03205</call_number>
+
+<class_name>SUPERVSD RESRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>010</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Milnor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-010</university_web_bulletin_url>
+
+</class>
+<class><call_number>23729</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>011</course_section_code>
+
+<days_times></days_times>
+
+<instructors>S. Schwartz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-011</university_web_bulletin_url>
+
+</class>
+<class><call_number>19218</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>012</course_section_code>
+
+<days_times></days_times>
+
+<instructors>E. Irwin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-012</university_web_bulletin_url>
+
+</class>
+<class><call_number>25848</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>013</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-013</university_web_bulletin_url>
+
+</class>
+<class><call_number>98748</call_number>
+
+<class_name>SUPERVISED RSRCH IN LATIN</class_name>
+
+<course_identifier>LATNV3998</course_identifier>
+
+<course_number>3998</course_number>
+
+<course_section_code>014</course_section_code>
+
+<days_times></days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>0</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/V3998-20131-014</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>ANCS</subject_area_code>
+
+<subject_area_name>Ancient Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3999</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>ANCS V3999y</course_identifier_cooked>
+
+<course_name>Directed Research in Ancient Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Program of research in Ancient Studies. Research paper required. The topic must be submitted to the departmental representative and the appropriate adviser decided upon by November 15 of the semester preceding that in which the student will be enrolled in the course. The student and the departmental representative wil request supervision of the research paper from an appropriate faculty member in a department offering Ancient Studies courses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of departmental representative required.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4009</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK W4009y</course_identifier_cooked>
+
+<course_name>Selections from Greek Literature: Prose</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of course changes from year to year; it may be taken in consecutive years. Fall 2010: Aeschylus</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Steiner</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>D. Steiner, H. Foley</course_instructors_full>
+
+<classes><class><call_number>11845</call_number>
+
+<class_name>GREEK LIT SELECTIONS: PLA</class_name>
+
+<course_identifier>GREKW4009</course_identifier>
+
+<course_number>4009</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;617B HAMILTON HALL</days_times>
+
+<instructors>D. Steiner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/W4009-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4009</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN W4009x</course_identifier_cooked>
+
+<course_name>Selections from Latin Literature: Prose</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of course changes year to year; it may be taken in consecutive years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LATN V3012 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Volk</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Volk</course_instructors_full>
+
+<classes><class><call_number>23143</call_number>
+
+<class_name>SEL FROM LATIN LIT: THYES</class_name>
+
+<course_identifier>LATNW4009</course_identifier>
+
+<course_number>4009</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>K. Volk</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/W4009-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK W4010x</course_identifier_cooked>
+
+<course_name>Selections from Greek Literature: Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of course changes from year to year; it may be taken in consecutive years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GREK V 1201 - 1202; or their equivalents.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Foley</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>H. Foley</course_instructors_full>
+
+<classes><class><call_number>06986</call_number>
+
+<class_name>SEL GREEK LIT: ARISTOPHAN</class_name>
+
+<course_identifier>GREKW4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>H. Foley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/W4010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN W4010y</course_identifier_cooked>
+
+<course_name>Selections from Latin Literature: Poetry</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Content of course changes from year to year; it may be taken in consecutive years.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>LATN V3012 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Howley</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Howley</course_instructors_full>
+
+<classes><class><call_number>13092</call_number>
+
+<class_name>2ND CENTURY PROSE</class_name>
+
+<course_identifier>LATNW4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;609 HAMILTON HALL</days_times>
+
+<instructors>J. Howley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/W4010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4015</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV W4015</course_identifier_cooked>
+
+<course_name>Roman Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the history of the development of Roman law and legal thought. The role of law in Roman society. Introductions to Roman methods of legal analysis, with emphasis on study and class discussion of cases from the Roman jurists.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4105</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK W4105x</course_identifier_cooked>
+
+<course_name>History of Greek Literature I</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lectures based on extensive readings in Greek literature from Homer to the 4th century C.E.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least two terms of Greek beyond GREK V1201, V1202.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Scharffenberger</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Scharffenberger</course_instructors_full>
+
+<classes><class><call_number>61479</call_number>
+
+<class_name>HISTORY OF GREEK LITERATU</class_name>
+
+<course_identifier>GREKW4105</course_identifier>
+
+<course_number>4105</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 9:00a - 10:50a&#60;br /&#62;616 HAMILTON HALL</days_times>
+
+<instructors>E. Scharffenberger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/W4105-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4105</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN W4105x</course_identifier_cooked>
+
+<course_name>Latin Literature of the Republic</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lectures based on extensive readings in Latin literature from the beginning to the fourth century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least two terms of Latin beyond LATN V3012.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Zetzel</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Zetzel</course_instructors_full>
+
+<classes><class><call_number>63000</call_number>
+
+<class_name>LATIN LITERATR OF THE REP</class_name>
+
+<course_identifier>LATNW4105</course_identifier>
+
+<course_number>4105</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 6:00p&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>J. Zetzel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/W4105-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4106</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK W4106y</course_identifier_cooked>
+
+<course_name>History of Greek Literature II</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lectures based on extensive readings in Greek literature from Homer to the 4th century C.E.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least two terms of Greek beyond V 1201, V 1202</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Irwin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Irwin</course_instructors_full>
+
+<classes><class><call_number>20221</call_number>
+
+<class_name>HISTORY OF GREEK LITERATU</class_name>
+
+<course_identifier>GREKW4106</course_identifier>
+
+<course_number>4106</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 6:00p&#60;br /&#62;613 HAMILTON HALL</days_times>
+
+<instructors>E. Irwin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>5</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/W4106-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4106</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN W4106y</course_identifier_cooked>
+
+<course_name>Latin Literature of the Empire</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Lectures based on extensive readings in Latin literature from the beginning to the fourth century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least two terms of Latin beyond LATN V3012.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Williams</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Williams</course_instructors_full>
+
+<classes><class><call_number>72252</call_number>
+
+<class_name>LATIN LITERATURE OF THE E</class_name>
+
+<course_identifier>LATNW4106</course_identifier>
+
+<course_number>4106</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 6:00p&#60;br /&#62;607 HAMILTON HALL</days_times>
+
+<instructors>G. Williams</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>LATN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/LATN/W4106-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4108</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK W4108</course_identifier_cooked>
+
+<course_name>History of the Greek and Latin Languages</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the reasons behind the grammatical structures of classical Greek and Latin, based on examination of earlier forms of the languages and on comparison with related languages. The techniques and principles of historical linguistics will also be examined.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Dickey</course_instructors_expected>
+
+<course_instructors_full>E. Dickey</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4110</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV W4110y</course_identifier_cooked>
+
+<course_name>Gender and Sexuality in Ancient Greece</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of the ways in which gender and sexuality are constructed in ancient Greek society and represented in literature and art, with attention to scientific theory, ritual practice, and philosophical speculation.&#38;nbsp; Topics include conceptions of the body, erotic, homoerotic literature and practice, legal constraints, pornography, rape and prostitution. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Sophomore standing or permission of the instructor.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>H. Foley</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>H. Foley</course_instructors_full>
+
+<classes><class><call_number>07539</call_number>
+
+<class_name>GENDER &#38; SEXLTY IN ANC GR</class_name>
+
+<course_identifier>CLCVW4110</course_identifier>
+
+<course_number>4110</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;302 MILBANK HALL</days_times>
+
+<instructors>H. Foley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CLCV/W4110-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLLT</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4115</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLLT W4115</course_identifier_cooked>
+
+<course_name>Tragedy and Performance</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive study of issues relating to the interpretation and performance of Greek and Roman tragedy, including modern stage versions. Special consideration will be given to staging, the changing role of actors and chorus, Aristotles Poetics, and the reception of ancient tragedy, as well as to social and philosophical issues, including gender conflict.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>H. Foley</course_instructors_expected>
+
+<course_instructors_full>H. Foley</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4139</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK W4139</course_identifier_cooked>
+
+<course_name>Elements of Greek Prose Style</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive review of Greek syntax. Writings of sentences and connected passages in Greek.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least four terms of Greek, or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Scharffenberger</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Scharffenberger</course_instructors_full>
+
+<classes><class><call_number>72107</call_number>
+
+<class_name>ELEMENTS OF GREEK PROSE S</class_name>
+
+<course_identifier>GREKW4139</course_identifier>
+
+<course_number>4139</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;617B HAMILTON HALL</days_times>
+
+<instructors>E. Scharffenberger</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>6</student_enrollment_count>
+
+<subject_area_code>GREK</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/GREK/W4139-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LATN</subject_area_code>
+
+<subject_area_name>Latin</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4139</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>LATN W4139</course_identifier_cooked>
+
+<course_name>Elements of Latin Prose Style</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Intensive review of Latin syntax.&#38;nbsp; Writings of sentences and connected passages in Latin.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>At least four terms of Latin or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Milnor</course_instructors_expected>
+
+<course_instructors_full>K. Milnor</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>GREK</subject_area_code>
+
+<subject_area_name>Greek</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4140</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>GREK W4140y</course_identifier_cooked>
+
+<course_name>Greek Stylistics</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The study of the development of Greek prose style through practice in composition.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>GREK W 4139 or the equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4145</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV W4145</course_identifier_cooked>
+
+<course_name>Political Theory in the Ancient World</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Major texts of ancient political theory. Topics include constitutional theory, origins and legitimation of government, ethics, and politics, the regulation of private life, the rule of law, and the cosmopolis. Authors include Sophists, Plato, Aristotle, Cicero, Polybius, Dio of Prusa, and Augustine.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4190</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV W4190</course_identifier_cooked>
+
+<course_name>Virtue and Happiness: Philosophy in Classical Rome</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class provides an introduction to the philosophical texts and practices of Rome&#39;s classical period (1st century BC and 2nd century AD). Readings are in Egnlish translation and include works by Lucretius, Cicero, Horace, Vergil, Seneca, Marcus Aurelius, and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K. Volk</course_instructors_expected>
+
+<course_instructors_full>K. Volk</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>AUCL</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>O</school_bulletin_prefix_code_1>
+
+<course_number_1>4300</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>O</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>AUCL O4300x or y</course_identifier_cooked>
+
+<course_name>Classical Tradition</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Overview of Greek and Roman literature. Close analysis of selected texts from the major genres accompanied by lectures on literary history. Topics include the context of which the genres rose. the suitability of various modern critical approaches to the ancient texts, the problem of translation, and the transmission of the classical authors and their influence on modern literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Worman</course_instructors_actual>
+
+<course_instructors_expected>C. Charles</course_instructors_expected>
+
+<course_instructors_full>C. Charles, N. Worman</course_instructors_full>
+
+<classes><class><call_number>29534</call_number>
+
+<class_name>THE CLASSICAL TRADITION</class_name>
+
+<course_identifier>AUCLO4300</course_identifier>
+
+<course_number>4300</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;214 MILBANK HALL</days_times>
+
+<instructors>N. Worman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>5</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>O</school_bulletin_prefix_code>
+
+<section_type>Auditing</section_type>
+
+<student_enrollment_count>2</student_enrollment_count>
+
+<subject_area_code>AUCL</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/AUCL/O4300-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLLT</subject_area_code>
+
+<subject_area_name>Classical Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4300</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLLT W4300x or y</course_identifier_cooked>
+
+<course_name>Classical Tradition</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Overview of Greek and Roman literature. Close analysis of selected texts from the major genres accompanied by lectures on literary history. Topics include the context of which the genres rose. the suitability of various modern critical approaches to the ancient texts, the problem of translation, and the transmission of the classical authors and their influence on modern literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Worman</course_instructors_actual>
+
+<course_instructors_expected>C. Charles</course_instructors_expected>
+
+<course_instructors_full>C. Charles, N. Worman</course_instructors_full>
+
+</course><course><academic_department_code>CLSB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<subject_area_name>Classical Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4411</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLCV W4411x or y</course_identifier_cooked>
+
+<course_name>Egypt in the Classical World</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class traces Egypt&#39;s evolving integration into the Classical World from the Saite Dynasty (c. 685 BCE) to the suppression of paganism by the Coptic church.&#38;nbsp; We&#39;ll pay close attention to the flashpoints that created conflicts between pagan Egyptians, Greeks, Jews, and Christians and also to integrative aspects of society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Morris</course_instructors_actual>
+
+<course_instructors_expected>E. Morris</course_instructors_expected>
+
+<course_instructors_full>E. Morris</course_instructors_full>
+
+<classes><class><call_number>08510</call_number>
+
+<class_name>EGYPT IN THE CLASSICAL WO</class_name>
+
+<course_identifier>CLCVW4411</course_identifier>
+
+<course_number>4411</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>E. Morris</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>CLCV</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CLCV/W4411-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

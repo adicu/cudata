@@ -1,0 +1,1832 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>2200</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V2200x or y</course_identifier_cooked>
+
+<course_name>Introduction to GIS</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Due to the high demand for our limited-enrollment spatial analysis course (URBS V3200) the Urban Studies program is offering an introductory course to the fundamentals of&#38;nbsp;GIS (Geographic Informational Systems), specifically for non-majors.Students create maps using ArcGIS software, analyze the physical and social processes presented in the digital model, and use the data to solve specific spatial analysis problems. Note: this course does not fulfill the C requirement in Urban Studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. This course does not fulfill the C requirement for Urban Studies majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Meisterlin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Meisterlin</course_instructors_full>
+
+<classes><class><call_number>03078</call_number>
+
+<class_name>INTRODUCTION TO GIS METHO</class_name>
+
+<course_identifier>URBSV2200</course_identifier>
+
+<course_number>2200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>L. Meisterlin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V2200-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3200</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3200x or y</course_identifier_cooked>
+
+<course_name>Spatial Analysis: GIS Methods and Urban Case Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to spatial analysis using state of-the-art GIS (Geographic Information Systems) mapping and analysis software to apply quantitative analytical methods to real-world urban issues. Will include basic coverage of applied statistics. Case studies will focus on subjects like environmental justice, voting patterns, transportation systems, segregation, public health, redevelopment trends, and socio-economic geography.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. Preference to Urban Studies majors. Only 24 admitted.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Sheehan</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Sheehan</course_instructors_full>
+
+<classes><class><call_number>01362</call_number>
+
+<class_name>GIS METHODS &#38; CASE STUD</class_name>
+
+<course_identifier>URBSV3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Sheehan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3200-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04254</call_number>
+
+<class_name>GIS METHODS &#38; CASE STUDIE</class_name>
+
+<course_identifier>URBSV3200</course_identifier>
+
+<course_number>3200</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;18 LEHMAN HALL</days_times>
+
+<instructors>D. Sheehan</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3200-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3308</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3308y</course_identifier_cooked>
+
+<course_name>Introduction to Urban Ethnographies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course explores how scholars from different social science disciplines have used ethnography to understand how immigrants and rural migrants experience as well as affect cities. Community, work, and health, in cities within and outside the US, are used as lenses. Students will also perform their own ethnographic research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must attend first class.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Linn</course_instructors_actual>
+
+<course_instructors_expected>M. Linn</course_instructors_expected>
+
+<course_instructors_full>M. Linn</course_instructors_full>
+
+<classes><class><call_number>08972</call_number>
+
+<class_name>INTRO URBAN ETHNOGRAPHIES</class_name>
+
+<course_identifier>URBSV3308</course_identifier>
+
+<course_number>3308</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;530 ALTSCHUL HALL</days_times>
+
+<instructors>M. Linn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>34</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3308-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3310</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3310x</course_identifier_cooked>
+
+<course_name>Science and Technology in Urban Environments</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the role of science and technology in urban settings, using examples from modern cities. Explores how technology shapes towns and cities, and how urban environments - including politics, economics, culture, and the natural environment - have influenced the development, acceptance, and application of technology. An essential part of the coursework is participation in a community-based learning project, working with local non-profit organizations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must have declared their concentration/major.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3315</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3315y</course_identifier_cooked>
+
+<course_name>Metropolitics of Race and Place</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Course explores how the central cities and suburbs that make up American metropolitan areas are increasingly shaped by race/ethnicity. Class discussion and readings will trace the role of social scientists, foundations, urban planners, government actors, and private economic interests in this transformation of metropolitan American. The current consequences of the conflation of race/ethnicity and space on the regional landscape, such as gentrification, suburban sprawl, the mortgage foreclosure crisis, etc. will be the focus of student research and class projects.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must attend first class.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Johnson</course_instructors_actual>
+
+<course_instructors_expected>K. Johnson</course_instructors_expected>
+
+<course_instructors_full>K. Johnson</course_instructors_full>
+
+<classes><class><call_number>02306</call_number>
+
+<class_name>METROPOLITICS RACE &#38; PLAC</class_name>
+
+<course_identifier>URBSV3315</course_identifier>
+
+<course_number>3315</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;805 ALTSCHUL HALL</days_times>
+
+<instructors>K. Johnson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3315-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3420</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3420y</course_identifier_cooked>
+
+<course_name>Introduction to Urban Sociology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the diverse ways in which sociology has defined and studied cities, focusing on the people who live and work in the city, and the transformations U.S. cities are undergoing today. Sociological methods, including ethnography, survey research, quantitative studies, and participant observation will provide perspectives on key urban questions such as street life, race, immigration, globalization, conflict, and redevelopment.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Students must attend first class.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Dunn</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>K. Dunn</course_instructors_full>
+
+<classes><class><call_number>05401</call_number>
+
+<class_name>INTRO TO URBAN SOCIOLOGY</class_name>
+
+<course_identifier>URBSV3420</course_identifier>
+
+<course_number>3420</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;207 MILBANK HALL</days_times>
+
+<instructors>K. Dunn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>25</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3420-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3530</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3530x or y</course_identifier_cooked>
+
+<course_name>Urban Development: A Rubik&#39;s Cube of Policy Choices</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Using case studies, examines the rationale for urban development, the players involved and how decisions are made about the distribution of public and private resources. Studies the specific components of the development process and the myriad policy questions that large-scale development is meant to address. Examines the disconnect among stakeholders&#39; objectives - the developer, the financial institution that pays for the project, the government and the community.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. Preference to Urban Studies majors. Only 16 admitted.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Fine</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Fine</course_instructors_full>
+
+<classes><class><call_number>02077</call_number>
+
+<class_name>URB DEV:RUBIK CUBE-POL</class_name>
+
+<course_identifier>URBSV3530</course_identifier>
+
+<course_number>3530</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>S. Fine</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3530-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3545</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3545x</course_identifier_cooked>
+
+<course_name>Junior Colloquium: the Shaping of the Modern City</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the historical process and social consequences of urban growth, from the middle of the nineteenth century to the present.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Non-majors admitted by permission of instructor. Students must attend first class.  Enrollment limited to 16 students per section. General Education Requirement: Historical Studies.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Baics, M. Linn</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Baics, M. Linn</course_instructors_full>
+
+<classes><class><call_number>01098</call_number>
+
+<class_name>JUNIOR COLLOQ IN URBAN ST</class_name>
+
+<course_identifier>URBSV3545</course_identifier>
+
+<course_number>3545</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>G. Baics</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3545-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09802</call_number>
+
+<class_name>JUNIOR COLLOQ IN URBAN ST</class_name>
+
+<course_identifier>URBSV3545</course_identifier>
+
+<course_number>3545</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>Th 2:10p - 4:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>M. Linn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3545-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>09334</call_number>
+
+<class_name>JUNIOR COLLOQ IN URBAN ST</class_name>
+
+<course_identifier>URBSV3545</course_identifier>
+
+<course_number>3545</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;407 BARNARD HALL</days_times>
+
+<instructors>M. Linn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3545-20123-003</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3546</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3546x or y</course_identifier_cooked>
+
+<course_name>Junior Colloquium: Contemporary Urban Issues</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Evaluation of current political, economic, social, cultural and physical forces that are shaping urban areas.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Non-majors admitted by permission of instructor. Students must attend first class.  Enrollment limited to 16 students per section.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Davidson, K. Yatrakis, L. Abzug</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>F. Davidson, K. Yatrakis, L. Abzug</course_instructors_full>
+
+<classes><class><call_number>04411</call_number>
+
+<class_name>JUNIOR COLLOQ IN URBAN ST</class_name>
+
+<course_identifier>URBSV3546</course_identifier>
+
+<course_number>3546</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>L. Abzug</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3546-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09660</call_number>
+
+<class_name>JUNIOR COLLOQ IN URBAN ST</class_name>
+
+<course_identifier>URBSV3546</course_identifier>
+
+<course_number>3546</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>K. Yatrakis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3546-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01509</call_number>
+
+<class_name>JUNIOR COLLOQ IN URBAN ST</class_name>
+
+<course_identifier>URBSV3546</course_identifier>
+
+<course_number>3546</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>F. Davidson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3546-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3550</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3550x or y</course_identifier_cooked>
+
+<course_name>Community Building and Economic Development</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Community building has emerged as an important approach to creating an economic base, reducing poverty and improving the quality of life in urban neighborhoods. In this course, students examine the methods, strategies, and impact of community building on the economic, social, and political development of urban neighborhoods.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. Preference to Urban Studies majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>L. Abzug</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>L. Abzug</course_instructors_full>
+
+<classes><class><call_number>00185</call_number>
+
+<class_name>COMMUNITY BUILDING</class_name>
+
+<course_identifier>URBSV3550</course_identifier>
+
+<course_number>3550</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;227 MILBANK HALL</days_times>
+
+<instructors>L. Abzug</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3550-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>05394</call_number>
+
+<class_name>COMMUNITY BUILDING</class_name>
+
+<course_identifier>URBSV3550</course_identifier>
+
+<course_number>3550</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>L. Abzug</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>49</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3550-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3562</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3562x</course_identifier_cooked>
+
+<course_name>The City in Beta: Public Participation in the Design Process</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines local urban planning issues through the use of new technologies to facilitate multi-user, participatory planning and design. Examines the history and theory of the planning process and uses learned techniques to evaluate a live case scenario for which the students prepare recommendations using the Betaville software package.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. Preference is given to Urban Studies majors. Only 20 admitted.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Gladstone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Gladstone</course_instructors_full>
+
+<classes><class><call_number>03848</call_number>
+
+<class_name>CITY IN BETA: PUBLIC PART</class_name>
+
+<course_identifier>URBSV3562</course_identifier>
+
+<course_number>3562</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>S. Gladstone</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3562-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3565</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3565y</course_identifier_cooked>
+
+<course_name>Cities in Developing Countries: Problems and Prospects</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of cities in developing countries, with a focus on environment, employment, and housing. Four cases will be studied: Sao Paulo, Brazil; Johannesburg, South Africa; Bombay, India; and Shanghai, China. We will consider urbanization patterns and the attendant issues, the impact of global economic trends, and governmental and non-governmental responses.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. Preference to Urban Studies majors.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Gladstone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Gladstone</course_instructors_full>
+
+<classes><class><call_number>05717</call_number>
+
+<class_name>CITIES IN DEVELOPNG COUNT</class_name>
+
+<course_identifier>URBSV3565</course_identifier>
+
+<course_number>3565</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>S. Gladstone</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>53</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3565-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3590</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS BC3590x or y</course_identifier_cooked>
+
+<course_name>Theorizing Civic Engagement</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Through a combination of community-based internship, directed reflection, and theoretical readings, students explore the complexities of civic engagement. Issues include: community empowerment; public policy at the grassroots; the relationship between funding and social change; communication and coalition-building across differences of race, gender, class; and leadership development.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. Preference to Urban Studies majors.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3830</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3830y</course_identifier_cooked>
+
+<course_name>Eminent Domain and Neighborhood Change</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An examination of how the politics of eminent domain, as a government strategy for neighborhood change, plays out in the courts, city councils, administrative agencies, media, and the street. Readings drawn from law, history, planning, politics, economics, sociology, and primary sources. Emphasis on the U.S., with some international comparisons. This course will count toward Requirement A of the Urban Studies curriculum as a Sociology course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Intro to Urban Sociology or equivalent or permission of the instructor. Students must attend first class for instructor permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3920</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3920x or y</course_identifier_cooked>
+
+<course_name>Social Entrepreneurship</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the main concepts and processes associated with the creation of new social enterprises, policies, programs, and organizations; criteria for assessing business ventures sponsored by non-profits and socially responsible initiatives undertaken by corporations; specific case studies using New York City as a laboratory.&#38;nbsp;To be offered Fall 2011.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Must attend first class for instructor permission. Preference to Urban Studies majors. General Education Requirement: Social Analysis (SOC).  Only 16 admitted.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>T. Kamber</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>T. Kamber</course_instructors_full>
+
+<classes><class><call_number>04844</call_number>
+
+<class_name>SOCIAL ENTREPENEURSHIP</class_name>
+
+<course_identifier>URBSV3920</course_identifier>
+
+<course_number>3920</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 6:10p - 8:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>T. Kamber</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3920-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3992</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2>3993</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3992x-V3993y</course_identifier_cooked>
+
+<course_name>Senior Seminar: the Built Environment</course_name>
+
+<course_points_min>8</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>(year-long course, 4 points per term)</course_points_notes>
+
+<course_points_cooked>8 pts.  (year-long course, 4 points per term)</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Emphasizes the study of the built environment of cities and suburbs, and the related debates. Readings, class presentations, and written work culminate in major individual projects, under the supervision of faculty trained in architecture, urban design, or urban planning.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Senior standing.  Admission by application only (available at http://urban.barnard.edu/forms-and-resources). Year-long course; participation is for two consecutive terms.  No new students admitted for spring.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Smiley, S. Yildiz</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Smiley, S. Yildiz</course_instructors_full>
+
+<classes><class><call_number>06518</call_number>
+
+<class_name>SENIOR SEM IN URBAN STUDI</class_name>
+
+<course_identifier>URBSV3992</course_identifier>
+
+<course_number>3992</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>D. Smiley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3992-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09977</call_number>
+
+<class_name>SENIOR SEM IN URBAN STUDI</class_name>
+
+<course_identifier>URBSV3992</course_identifier>
+
+<course_number>3992</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>S. Yildiz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3992-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>00823</call_number>
+
+<class_name>THE BUILT ENVIRONMENT</class_name>
+
+<course_identifier>URBSV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>D. Smiley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3993-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>04024</call_number>
+
+<class_name>THE BUILT ENVIRONMENT</class_name>
+
+<course_identifier>URBSV3993</course_identifier>
+
+<course_number>3993</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;406 BARNARD HALL</days_times>
+
+<instructors>S. Yildiz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>10</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3993-20131-002</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3994</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2>3995</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3994x-V3995y</course_identifier_cooked>
+
+<course_name>Senior Seminar: New York Field Research</course_name>
+
+<course_points_min>8</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>(year-long course, 4 points per term)</course_points_notes>
+
+<course_points_cooked>8 pts.  (year-long course, 4 points per term)</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Using New York City as a research laboratory, under the guidance of the faculty coordinator, students clarify basic theoretical issues related to their chosen research problem; find ways of making a series of empirical questions operational; collect evidence to test hypotheses; analyze the data using a variety of social science techniques; and produce reports of basic findings.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Senior standing.  Admission by application only (available at http://urban.barnard.edu/forms-and-resources). Year-long course; participation is for two consecutive terms.  No new students admitted for spring.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Linn</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>M. Linn</course_instructors_full>
+
+<classes><class><call_number>08706</call_number>
+
+<class_name>SR SEM: NEW YORK FIELD RS</class_name>
+
+<course_identifier>URBSV3994</course_identifier>
+
+<course_number>3994</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;307 MILBANK HALL</days_times>
+
+<instructors>M. Linn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3994-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>09801</call_number>
+
+<class_name>SR SEM: NEW YORK FIELD RS</class_name>
+
+<course_identifier>URBSV3995</course_identifier>
+
+<course_number>3995</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 4:10p - 6:00p&#60;br /&#62;102 SULZBERGER ANNEX</days_times>
+
+<instructors>M. Linn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3995-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>UBST</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>URBS</subject_area_code>
+
+<subject_area_name>Urban Studies</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3996</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>V</school_bulletin_prefix_code_2>
+
+<course_number_2>3997</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>URBS V3996x-V3997y</course_identifier_cooked>
+
+<course_name>Senior Seminar:  International Topics in Urban Studies</course_name>
+
+<course_points_min>8</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>(year-long course, 4 points per term)</course_points_notes>
+
+<course_points_cooked>8 pts.  (year-long course, 4 points per term)</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A year-long research seminar for students who wish to conduct a senior thesis project that focuses on cities outside of the United States. Topics relating to the rapid urbanization of Latin America, Africa, and Asia are particularly welcome. Seminar meetings will include discussion of relevant readings, as well as occasional class presentations and peer-editing assignments.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Senior standing.  Admission by application only (available at http://urban.barnard.edu/forms-and-resources). Year-long course; participation is for two consecutive terms.  No new students admitted for spring.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Gladstone</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>S. Gladstone</course_instructors_full>
+
+<classes><class><call_number>04559</call_number>
+
+<class_name>SR SEM:INTL TOPICS URB ST</class_name>
+
+<course_identifier>URBSV3996</course_identifier>
+
+<course_number>3996</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>S. Gladstone</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3996-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>01128</call_number>
+
+<class_name>INTL TOPICS URBAN STUDIES</class_name>
+
+<course_identifier>URBSV3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 11:00a - 12:50p&#60;br /&#62;421 LEHMAN HALL</days_times>
+
+<instructors>S. Gladstone</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>URBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/URBS/V3997-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

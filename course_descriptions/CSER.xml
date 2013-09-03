@@ -1,0 +1,2707 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1010</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>CSER W1010x (Section 001)</course_identifier_cooked>
+
+<course_name>INTRO TO COMPARATIVE ETHNIC STUDIES</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Students MUST register for a Discussion Session</course_points_notes>
+
+<course_points_cooked>4 pts.  Students MUST register for a Discussion Session</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the field of comparative ethnic Astudies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SIPA, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Okihiro</course_instructors_actual>
+
+<course_instructors_expected>G. Okihiro</course_instructors_expected>
+
+<course_instructors_full>G. Okihiro</course_instructors_full>
+
+<classes><class><call_number>71990</call_number>
+
+<class_name>INTRO TO COMP ETHNIC STUD</class_name>
+
+<course_identifier>CSERW1010</course_identifier>
+
+<course_number>1010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;417 INTERNATIONAL AFFAIRS BLDG</days_times>
+
+<instructors>G. Okihiro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>199</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W1010-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1012</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W1012y</course_identifier_cooked>
+
+<course_name>History of Racialization in the United States</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The History of Racialization in the United States examines the development of race and racism through the study of significant historical circumstances that define the institutional structure of American Empire and of the resulting interactions among its peoples. Race is not static. Consequently, it is not an ahistorical object, nor a predetermined identity, nor a uniform category of analysis. Traditionally, the history of American race relations is the contact between racially defined groups over time and space of the effort required to maintain social and economic differences among them. Racialization, then, refers to the process by which one population group or many are &#38;quot;placed&#38;quot; in distinct racial categories.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Okihiro</course_instructors_actual>
+
+<course_instructors_expected>Gary Okihiro</course_instructors_expected>
+
+<course_instructors_full>G. Okihiro</course_instructors_full>
+
+<classes><class><call_number>76483</call_number>
+
+<class_name>HIST-RACIALIZATION IN THE</class_name>
+
+<course_identifier>CSERW1012</course_identifier>
+
+<course_number>1012</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 1:10p - 2:25p&#60;br /&#62;517 HAMILTON HALL</days_times>
+
+<instructors>G. Okihiro</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>73</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W1012-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1040</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W1040y</course_identifier_cooked>
+
+<course_name>CRITICAL APPROACHES TO THE STUDY OF ETHNICITY AND RACE</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course provides an introduction to central approaches and concepts animating the investigation of race and ethnicity. We will not treat either of these categories of difference as a given, nor as separable from other axes of social difference. Rather, we will apply an interdisciplinary and intersectional framework to illuminate how these concepts have come to emerge and cohere within a number of familiar and less familiar socio-cultural and historical contexts. We will consider how racial and ethnic differentiation as fraught but powerful processes have bolstered global labor regimes and imperial expansion projects; parsed, managed and regulated populations; governed sexed and gendered logics of subject and social formation and finally, opened and constrained axes of self-understanding, political organization and social belonging. Special attention will be given to broadening students&#39; understanding of racial and ethnic differentiation beyond examinations of identity. Taken together, theoretical and empirical readings, discussions and outside film screenings will prepare students for further coursework in race and ethnic studies, as well as fields such as literary studies, women&#38;rsquo;s studies, history, sociology and anthropology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Wills</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Wills</course_instructors_full>
+
+<classes><class><call_number>13506</call_number>
+
+<class_name>CRIT APPRO-STUDY OF ETH &#38;</class_name>
+
+<course_identifier>CSERW1040</course_identifier>
+
+<course_number>1040</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 6:10p - 7:25p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>D. Wills</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>3</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W1040-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1600</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W1600y</course_identifier_cooked>
+
+<course_name>Latino/a History</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the historical experience of the Latino peoples of the United States from a comparative cultural perspective. Studies the histories of Mexican, Puerto Rican, Cuban, Dominican, and other Latin American peoples in the United States, focusing on convergence and congruencies along political and cultural lines using written sources and visual and musical examples.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations>AUD</course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1601</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W1601y</course_identifier_cooked>
+
+<course_name>INTRO TO LATINO/A STUDIES</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>STUDENT ENROLLMENT LIMIT: 101 This course provides an introductory, interdisciplinary discussion of the major issues surrounding this nation&#39;s Latino population. The focus is on social scientific perspectives utilized by scholars in the field of Latino Studies. Major demographic, social, economic, and political trends are discussed. Key topics covered in the course include: the evolution of Latino identity and ethnicity; the main Latino sub-populations in the United States; the formation of Latino communities in the United States; Latino immigration; issues of race and ethnicity within the Latino population; socioeconomic status and labor force participation of Latinos; Latino social movements; and the participation of Latinos in U.S. civil society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations>AUD</course_populations>
+
+<course_instructors_actual>F. Negron-Muntaner</course_instructors_actual>
+
+<course_instructors_expected>F. Negr&#195;&#179;n-Muntaner</course_instructors_expected>
+
+<course_instructors_full>F. Negron-Muntaner, F. Negr&#195;&#179;n-Muntaner</course_instructors_full>
+
+<classes><class><call_number>11002</call_number>
+
+<class_name>INTRODUCTION TO LATINO ST</class_name>
+
+<course_identifier>CSERW1601</course_identifier>
+
+<course_number>1601</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;209 HAVEMEYER HALL</days_times>
+
+<instructors>F. Negron-Muntaner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>110</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>110</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W1601-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3200</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER W3200x (Section 1)</course_identifier_cooked>
+
+<course_name>CHE: TEXTS AND CONTEXTS OF A GLOBAL ICON</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>By most accounts, Ernesto Che Guevara is one of the most famous and influential political figures in history. Yet, despite Guevara&#39;s political and cultural status, scholarly study of his life, work, and impact is relatively rare. This course then has three main objectives: to familiarize students with the political trajectory of Ernesto Guevara; examine the key concepts associated with his political praxis; and analyze the complex process by which an arguably failed anti-captitalist guerrilla fighter and statesman became a political inspiration to millions as well as one the most commodified image in the world. In the course, however, we will not be concerned with ascertaining who the &#39;real&#39; Guevara was. Instead, the course will focus on Guevara as a way study to examine the various historical, cultural, technological, and commodification processes by which one person&#39;s life becomes almost anything that a consumer wants it to be.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>F. Negr&#195;&#179;n-Muntaner</course_instructors_expected>
+
+<course_instructors_full>F. Negr&#195;&#179;n-Muntaner</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3220</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER W3220x (Section 1)</course_identifier_cooked>
+
+<course_name>Native Peoples of North America</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course surveys the Native peoples of North America. We focus on their social and cultural diversity since contact with Euro-Americans. This course will also introduce you to key concepts and themes in the study of Native American history, culture, and contemporary issues that are mainly based on indigenous worldviews&#38;mdash;different ways of looking at the world and how human cultures explain their relationship with the natural world. You will gain an understanding of the diversity of Native American cultures and worldviews as well as be able to thoughtfully reflect about how the issues and aspects discussed may affect your own lives and disciplines of study. You will learn how different cultures have their own consistent logical systems and how to analyze them in terms of cause and effect relationships. This class requires you to keep an open mind. You will not be required to subscribe to any of the views presented in the class, but you will be expected to understand the reasons behind various authors&#38;rsquo; views and to present reasoned, not emotional, responses to ideas with which you disagree. You should keep up with both the reading assignments and the lectures. The lectures will be coordinated with the assigned readings, but will include information not in these readings. Exams will test students over both readings and lectures.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Sakakibara</course_instructors_expected>
+
+<course_instructors_full>C. Sakakibara</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3221</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3221y</course_identifier_cooked>
+
+<course_name>AFRICAN AMERICAN HISTORY:FROM SLAVERY TO THE GREAT MIGRATION</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the main currents in African American history from the Atlantic slave trade to the beginning of the twentieth century, focusing on the issues of slavery and freedom, citizenship, Reconstruction, disfranchisement and segregation, and racial uplift.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Milewski</course_instructors_actual>
+
+<course_instructors_expected>Melissa Milewski</course_instructors_expected>
+
+<course_instructors_full>M. Milewski</course_instructors_full>
+
+<classes><class><call_number>21201</call_number>
+
+<class_name>AFR AM HIST:SLVRY/GRT MIG</class_name>
+
+<course_identifier>CSERW3221</course_identifier>
+
+<course_number>3221</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;405 KENT HALL</days_times>
+
+<instructors>M. Milewski</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>7</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3221-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3222</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3222y</course_identifier_cooked>
+
+<course_name>NATURE AND POWER: ENVIRONMENTAL HISTORY OF NORTH AMERICA</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will introduce students to the central concepts and key methodologies of environmental history through a survey of some of the leading episodes of ecological and social change in North America.&#38;nbsp; Topics to be investigated include Indian uses of the environment; the reshaping of ecosystems under European colonization; the transfer of plants, animals, and diseases from Africa and Europe to the Americas; urbanization; eugenics; and the rise of the environmental justice movement. Environmental history casts into particularly sharp relief the ways in which the natural world can serve both to undermine and to reinforce the divisions within human societies.&#38;nbsp; Although all human beings share profound biological similarities, they nonetheless enjoy unequal access to natural resources and to healthy environments&#38;mdash;differences that have frequently been justified by depicting such conditions as &#38;ldquo;natural.&#38;rdquo;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Jacoby</course_instructors_actual>
+
+<course_instructors_expected>KARL</course_instructors_expected>
+
+<course_instructors_full>K. Jacoby, K. KARL</course_instructors_full>
+
+<classes><class><call_number>11652</call_number>
+
+<class_name>NATURE/POWER:ENVIR HIST</class_name>
+
+<course_identifier>CSERW3222</course_identifier>
+
+<course_number>3222</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;703 HAMILTON HALL</days_times>
+
+<instructors>K. Jacoby</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>20</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3222-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3440</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER V3440x (Section 1)</course_identifier_cooked>
+
+<course_name>The Changing American City</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>After decades of economic disinvestment, physical decline and social out-migration, the 1990s ushered in an era of urban revitalization in many U.S. cities, the effects of which resonate today. How can we situate these recent changes within a longer trajectory of urban change in the United States? What do we make of the contested claims on space, belonging and identity made by, or on behalf of, people living in changing urban places? How should we evaluate development interventions whose end results seem so often to diverge from their intentions? &#38;nbsp; &#38;nbsp; This course will develop practical inroads into the problem of the changing American city that will both complement and complicate commonplace intuitions about the urban change we witness unfolding around us. Readings stay close to anthropological and ethnographic perspectives. We will consider how focusing on the meanings and experiences of everyday life in urban spaces can problematize ideals often associated with urban living, including various forms of diversity. Additional readings will introduce students to analytical perspectives on urbanism, race, ethnicity, space and citizenship. Taken together, readings, primary materials, discussions and a field trip will equip students with the tools to approach contemporary urban change with an anthropological lens. &#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Fennell</course_instructors_expected>
+
+<course_instructors_full>C. Fennell</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3490</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>CSER W3490x (Section 001)</course_identifier_cooked>
+
+<course_name>POST 9/11 IMMIGRATION POLICIES</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; STUDENT ENROLLMENT LIMIT: 22 Since September 11, 2001, there has been an avalanche of immigration enforcement policies and initiatives proposed or implemented under the guise of national security. This course will analyze the domino effect of the Patriot Act, the Absconder Initiative, Special Registration, the Real I.D. Act, border security including the building of the 700 mile fence along the U.S./Mexico border, Secured Communities Act-that requires the cooperation of state and local authorities in immigration enforcement, the challenge to birthright citizenship, and now the congressional hearings on Islamic radicalization. Have these policies been effective in combating the war on terrorism and promoting national security? Who stands to benefit from these enforcement strategies? Do immigrant communities feel safer in the U.S.? How have states joined the federal bandwagon of immigration enforcement or created solutions to an inflexible, broken immigration system?</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. OuYang</course_instructors_actual>
+
+<course_instructors_expected>E. OuYang</course_instructors_expected>
+
+<course_instructors_full>E. OuYang</course_instructors_full>
+
+<classes><class><call_number>24622</call_number>
+
+<class_name>POST 9/11 IMMIGRATION POL</class_name>
+
+<course_identifier>CSERW3490</course_identifier>
+
+<course_number>3490</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>E. OuYang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>16</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3490-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3510</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER W3510x (Section 1)</course_identifier_cooked>
+
+<course_name>Immigration, Relocation, and Diaspora</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>COURSE LISTED AS ENGLISH W3510</course_points_notes>
+
+<course_points_cooked>4 pts.  COURSE LISTED AS ENGLISH W3510</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The master narrative of the United States has always vacillated between valorizations of movement and settlement.&#38;nbsp; While ours is a nation of immigrants, one which privileges its history of westward expansion and pioneering, trailblazing adventurers, we also seem to long for what Wallace Stegner called a &#38;ldquo;sense of place,&#38;rdquo; a true belonging within a single locale.&#38;nbsp; Each of these constructions has tended to focus on individuals with a tremendous degree of agency in terms of where and whether they go.&#38;nbsp; However, it is equally important to understand the tension between movement and stasis within communities most frequently subjected to spatial upheavals. To that end, this course is designed to examine narratives of immigration, migration, relocation, and diaspora by authors of color in the United States.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Gamber</course_instructors_expected>
+
+<course_instructors_full>J. Gamber</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3701</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3701y</course_identifier_cooked>
+
+<course_name>US-LATINO CULTURAL PRODUCTION</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>STUDENT ENROLLMENT LIMIT: 22 The course will investigate the possibility that hybrid constructions of identity among Latinos in the U.S. are the principal driving force behind the cultural production of Latinos in literature and film. There will be readings on the linguistic implications of &#38;ldquo;Spanglish&#38;rdquo; and the construction of Latino racial identity followed by examples of literature, film, music and other cultural production that provide evidence for bilingual/bicultural identity as a form of adaptation to the U.S. Examples will be drawn from different Latino ethnicities from the Caribbean, Mexico and the rest of Latin America.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Morales</course_instructors_actual>
+
+<course_instructors_expected>Ed Morales</course_instructors_expected>
+
+<course_instructors_full>E. Morales</course_instructors_full>
+
+<classes><class><call_number>23153</call_number>
+
+<class_name>US-LATINO CULTURAL PROD</class_name>
+
+<course_identifier>CSERW3701</course_identifier>
+
+<course_number>3701</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 2:10p - 4:00p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>E. Morales</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3701-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3705</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER W3705y (Section 1)</course_identifier_cooked>
+
+<course_name>Contemporary Latina/o and Latin American Theatre</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>STUDENT ENROLLMENT LIMIT: 22 &#38;nbsp;seminar course examines Latina/o theatre and performance in the United States from the turbulent 1970s to the present. Students will read plays from the emerging &#39;Latina/o canon&#39; while integrating supplementary texts including reviews, critical analyses, essays, and theoretical studies examining the Latina/o theatre. Plays will be studied using various modes of inquiry including geographic, linguistic, gender studies, exile and immigration status, and borderlands theory. Conceptual terms including latinidad, mestizaje, Nuyorican, &#39;wrighting&#39; ethnicity, latinization, Cubanismo, etc. will help define the plays in relation to their sociological placement as living texts. Video and live performance will be utilized and possible field trips to Repertorio Espanol, INTAR, Puerto Rican Traveling Theatre and Pregones Theatre will be encouraged. &#38;nbsp; &#38;nbsp; Each week we will read essays and two plays. In addition, I include suggested plays and essays to immerse you in the field and to provide possibilities for your research paper. You will be responsible for all weekly readings as well as class participation, Midterm exam, Final exam and a research paper which will examine a(student chosen) topic in Latina/o theatre. The topic will be discussed and cleared with the instructor and the paper will consist of 8-12 pps., double-spaced, with footnotes and bibliography. Required texts will be on Closed Reserve in Butler Library (unless provided by instructor). They are also available for purchase in bookstores and online.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Ramirez</course_instructors_expected>
+
+<course_instructors_full>J. Ramirez</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3900</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3900x</course_identifier_cooked>
+
+<course_name>Seminar in Asian American Studies</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Undergraduate reading and research seminar on island societies, including Hawai`i, Puerto Rico, Guam, Okinawa, and the Philippines, and their relations with the continental U.S. Topics include the social geographies of islands and continents, empire and trade, militarism, tourism, and indigenous decolonization movements.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Gary Okihiro</course_instructors_expected>
+
+<course_instructors_full>G. Okihiro</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3901</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3901y</course_identifier_cooked>
+
+<course_name>SEX, DRUGS AND WOMEN OF COLOR</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>STUDENT ENROLLMENT LIMIT: 22 This course examines &#38;ldquo;women of color&#38;rdquo; as a socio-political constituency within historical and contemporary U.S. nation-state formation. How has and does the U.S. continually (re)-constitute itself through the use/exploitation/objectification/exoticization of women of color? Women of color will also be interrogated in relation to racial stratification, socio-economic inequities, and feminization of poverty. What are the ramifications for women of color in terms of health and well-being, including mortality/morbidity, sexual expression, physical and mental health outcomes, HIV risk, and substance/drug use? The positionality of Native American, African American, Latina, and Asian/Pacific Islander women will be examined through historical, social scientific, and public health literature. The category of &#38;ldquo;women of color&#38;rdquo; will also be scrutinized and unpacked, in which various imbrications and divergences among anatomically-female-born and anatomically-male-born women of color (including the identities of women, two-spirit, lesbian/bisexual, WSW/M, transwomen/transfeminine-spectrum, fem queens, travestis, transvestites, aggressives/AGs, transmasculine-spectrum/masculine of center) will also be discussed.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Hwahng</course_instructors_actual>
+
+<course_instructors_expected>Sel H. Hwahng</course_instructors_expected>
+
+<course_instructors_full>S. H. Hwahng, S. Hwahng</course_instructors_full>
+
+<classes><class><call_number>87548</call_number>
+
+<class_name>SEX, DRUGS, AND WOMEN OF</class_name>
+
+<course_identifier>CSERW3901</course_identifier>
+
+<course_number>3901</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>S. Hwahng</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3901-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3904</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER W3904x (Section 1)</course_identifier_cooked>
+
+<course_name>Rumor and Racial Conflict</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will take a transnational look at the strange that race and mass rumors have interacted. From the judicial and popular riots in the U.S. justified by recurrent rumors of African-American insurrection, to accusations that French Jews were players in the &#39;white slave trade,&#39; to tales of white fat-stealing monsters among indigenous people of Bolivia and Peru, rumors play a key role in constructing, enforcing and contesting regimes of racial identity and domination. In order to grasp rumor&#39;s importance for race, we will need to understand how it works, so our readings will cover both instances of racialized rumor-telling, conspiracy theories and mass panics, and some key approaches to how rumors work as a social phenomenon. I will expect you to post a response to the reading on Courseworks each week and to engage actively in class discussion. There will be an in-class midterm exam, and you will be able to choose between writing an independent research project or doing a take-home exam.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Rockefeller</course_instructors_expected>
+
+<course_instructors_full>S. Rockefeller</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3905</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3905x</course_identifier_cooked>
+
+<course_name>ASIAN AMERICAS AND THE PSYCHOLOGY OF RACE</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This seminar provides an introduction to mental health issues for Asian Americans.&#38;nbsp; In particular, it focuses on the psychology of Asian Americans as racial/ethnic minorities in the United States by exploring a number of key concepts: immigration, racialization, prejudice, family, identity, pathology, and loss.&#38;nbsp; We will examine the development of identity in relation to self, family, college, and society.&#38;nbsp; Quantitative investigation, qualitative research, psychology theories of multiculturalism, and Asian American literature will also be integrated into the course.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Han</course_instructors_actual>
+
+<course_instructors_expected>S. Han</course_instructors_expected>
+
+<course_instructors_full>S. Han</course_instructors_full>
+
+<classes><class><call_number>20740</call_number>
+
+<class_name>ASIAN AMERICAN &#38; PSYCH OF</class_name>
+
+<course_identifier>CSERW3905</course_identifier>
+
+<course_number>3905</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;408A PHILOSOPHY HALL</days_times>
+
+<instructors>S. Han</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>18</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3905-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3906</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3906y</course_identifier_cooked>
+
+<course_name>Race in Scientific and Social Practice</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This class presents a genealogy of the development the race concept since the 19th century. Most centrally, we will examine the ways in which race been conceptualized, substantiated, classified, managed and &#34;observed&#34; in (social) science and medicine.&#38;nbsp;&#38;nbsp; We will read that history of science in tandem with philosophical, anthropological and historical literatures on race and the effects of racial practices in the social and political world writ large. This class will address a series of questions, historical and contemporary.&#38;nbsp; For example, how has the relationship between &#34;race&#34; and &#34;culture&#34; been articulated in the history of anthropology in particular, and in racial theory more broadly?&#38;nbsp; How and why were particular phenotypes understood to signify meaningful biological and social differences?&#38;nbsp; Can there be a concept of race without phenotype&#38;mdash;a solely genotypic racial grouping? More broadly, we will examine how particular scientific projects have intersected with, authorized or enabled specific social and political imaginations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Fennell</course_instructors_expected>
+
+<course_instructors_full>C. Fennell</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3914</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3914y</course_identifier_cooked>
+
+<course_name>APPROACHES TO CONTEMPORARY NATIVE AMERICAN EDUCATION</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The seminar will examine the very high drop-out rate at high schools on Indian Reservations in this country and among indigenous populations in other countries and will explore possible approaches for addressing the problem. In seeking causes and solutions, the course will approach the drop-out rate both as an education issue and as a microcosm of the larger issues confronting tribal governments and Native populations. The course will explore a broad range of possible explanations and solutions, looking both at issues in the education system and ones in the broader Native American society. Students will be asked to use the lessons from these various explanations and approaches to conceptualize new ways to approach both the drop-out rate and the larger issues confronting Indian reservations.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Press</course_instructors_actual>
+
+<course_instructors_expected>DANIEL PRESS</course_instructors_expected>
+
+<course_instructors_full>D. PRESS, D. Press</course_instructors_full>
+
+<classes><class><call_number>60954</call_number>
+
+<class_name>APP TO CONTEMP NATIVE AME</class_name>
+
+<course_identifier>CSERW3914</course_identifier>
+
+<course_number>3914</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 4:10p - 6:00p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>D. Press</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>11</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3914-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3917</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3917x</course_identifier_cooked>
+
+<course_name>Social Theory &#38; Radical Critique in Ethnic Studies</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The analytic categories and theoretical concepts of &#226;race,&#226; &#226;nation,&#226; and &#226;colonialism&#226; as well as the related notions of &#226;culture,&#226; &#226;ethnicity,&#226; &#226;the state,&#226; &#226;society,&#226; or &#226;social formation&#226; have been among the foremost and defining conceptual frameworks and presuppositions of various formulations of critical inquiry in Ethnic Studies. Furthermore, inasmuch as many Ethnic Studies scholars&#226; intellectual work is explicitly devoted not merely to the academic analysis of their manifold topics of study but also to the various formulations of radical social and political critique, one routinely encounters whole bodies of theoretical literature that plays a constitutive role in the most elementary framing of Ethnic Studies topics and themes. However, these theoretical foundations of Ethnic Studies seldom receive the methodical and judicious exposition and critical scrutiny that they deserve and require for the most rigorous possible consideration of the author&#226;s arguments and conclusions. In short, there is in Ethnic Studies scholarship a heterogeneous but effectively canonical theoretical literature concerned with the most foundational contentions about &#226;society&#226; and politics, which seldom adequately emerges as an explicit and central concern for careful, detailed, and extended discussion and debate. This course will pursue a thorough investigation into the theoretical genealogies, intellectual histories, and ultimate analytical status of these operative and organizing conceptual rubrics.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. DeGenova</course_instructors_expected>
+
+<course_instructors_full>N. DeGenova</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3918</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3918x</course_identifier_cooked>
+
+<course_name>Transnational Transgender Social Formations: Political Economies and Health Disparaties</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course contextualizes contemporary transgender identities and communities within global social formations. Contemporary transgender social formations in South America, Central America, South Asia, and East Asia will be examined along with indigenous transgender communities in North America and Western Europe. Discussions of transgender social formations will be framed by historical, political, and economic contexts, and how transnational flows of global capital have impacted transgender identities. There will also be comparative analyses between transgender social formations and other sexual mintority communities and between transgender communities from various geographies. Particular attention will also be paid to health disparities among transgender communities, especially in relation to HIV/STI and mental health vulnerabilities. Health disparities will be seen as a manifestation of transgender stigma, social marginalization, and racial stratifications (that often lead to survival sex work) that affect many transgender communities globally. The class will end with an examination of the construction of whiteness and how transgender identities have been normalized as &#34;white&#34; in the West.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Sel Hwahng</course_instructors_expected>
+
+<course_instructors_full>S. Hwahng</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3922</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3922x</course_identifier_cooked>
+
+<course_name>Asian American Cinema</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>STUDENT ENROLLMENT LIMIT: 22 &#38;nbsp;seminar focuses on the critical analysis of Asian representation and participation in Hollywood by taking a look at how mainstream American cinema continues to essentialize the Asian and how Asian American filmmakers have responded to Hollywood Orientalist stereotypes. We will analyze various issues confronting the Asian American, including yellowface, white patriarchy, male and female stereotypes, the &#38;ldquo;model minority&#38;rdquo; myth, depictions of &#38;ldquo;Chinatowns,&#38;rdquo; panethnicity, the changing political interpretations of the term Asian American throughout American history, gender and sexuality, and cultural hegemonies and privileging within the Asian community.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Gamalinda</course_instructors_actual>
+
+<course_instructors_expected>Eric Gamalinda</course_instructors_expected>
+
+<course_instructors_full>E. Gamalinda</course_instructors_full>
+
+<classes><class><call_number>70041</call_number>
+
+<class_name>ASIAN AMERICAN CINEMA</class_name>
+
+<course_identifier>CSERW3922</course_identifier>
+
+<course_number>3922</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:10p - 8:00p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>E. Gamalinda</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3922-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3923</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>CSER W3923 (Section 001)</course_identifier_cooked>
+
+<course_name>LATINO AND ASIAN AMERICAN MEMOIR</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In this class, we will explore Latino and Asian American memoir, focusing on themes of immigration and duality. How do we construct identity and homeland when we are &#38;lsquo;multiple&#38;rsquo;? How do we define ourselves and how do others define us? By reading some of the most challenging and exciting memoirs by Latino and Asian Americans, we will attempt to answer these questions and/or at least try to understand these transnational and multicultural experiences. This class combines the critical with the creative&#38;mdash;students have to read and critic memoirs as well as write a final 10page nonfiction creative writing piece. *Students will also have the opportunity to speak to some Latino and Asian authors in class or via SKYPE. Students will be asked to prepare questions in advance for the author&#38;mdash;whose work(s) we will have read and discussed. This usually arises interesting and thought-provoking conversations and debates. This &#39;Dialogue Series&#39; within the class exposes students to a wide-range of voices and offers them a deeper understanding of the complexity of duality.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Handal</course_instructors_actual>
+
+<course_instructors_expected>N. Handal</course_instructors_expected>
+
+<course_instructors_full>N. Handal</course_instructors_full>
+
+<classes><class><call_number>67097</call_number>
+
+<class_name>LATINO &#38; ASIAN AMER MEMO</class_name>
+
+<course_identifier>CSERW3923</course_identifier>
+
+<course_number>3923</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>N. Handal</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3923-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3924</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER W3924y (Section 1)</course_identifier_cooked>
+
+<course_name>LATIN AMERICAN AND LATINO SOCIAL MOVEMENTS</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In Latin America, a wave of new popular social movements have been transforming politics and social reality. In the United States, latino/as are building on decades of organizing and demographic growth to claim a new public persona and challenge their marginal status. What are the significant areas of political action, and how can we understand them? What claims can those disenfranchised for reasons of race, class or national origin make on societies? Indigenous survival movements in Brazil, multi-ethnic electoral alliances in Bolivia, growing Afro-Colombian assertion, Dominican community organizing in New York City, and poetic post-marxist guerrillas in Mexico are just a few of the new forms of social activism that are transforming class, ethnic identity and citizenship throughout the Americas, and combating the dominance of free-market social and economic policies. We will discuss a number of important social movements throughout the region, while developing tools for understanding social movements and their possibilities. This class is designed to give you an opportunity to do independent research; as a result, it will demand your intensive engagement, and your willingness both to master the information and tools we go over in class, and to pursue a specific topic of your own choosing. You will all write a term paper based on independent research.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Rockefeller</course_instructors_actual>
+
+<course_instructors_expected>S. Rockefeller</course_instructors_expected>
+
+<course_instructors_full>S. Rockefeller</course_instructors_full>
+
+<classes><class><call_number>20503</call_number>
+
+<class_name>LAT AMER &#38; LATINO SOC MOV</class_name>
+
+<course_identifier>CSERW3924</course_identifier>
+
+<course_number>3924</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>S. Rockefeller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3924-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3926</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER W3926x (Section 1)</course_identifier_cooked>
+
+<course_name>LATIN MUSIC AND IDENTITY</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Latin music has had a historically strained relationship with mainstream music tastes, exploding in occasional &#39;boom&#39; periods, and receding into invisibility in others. What if this were true because it is a space for hybrid construction of identity that directly reflects a mixture of traditions across racial lines in Latin America. This course will investigate Latin music&#39;s transgression of binary views of race in Anglo-American society, even as it directly affects the development of pop music in America. From New Orleans jazz to Texas corridos, salsa, rock, and reggaeton, Latin music acts as both as a soundtrack and a structural blueprint for the 21st century&#39;s multicultural experiment. There will be a strong focus on studying Latin music&#39;s political economy, and investigating the story it tells about migration and globalization.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Morales</course_instructors_actual>
+
+<course_instructors_expected>E. Morales</course_instructors_expected>
+
+<course_instructors_full>E. Morales</course_instructors_full>
+
+<classes><class><call_number>71176</call_number>
+
+<class_name>LATIN MUSIC AND IDENTITY</class_name>
+
+<course_identifier>CSERW3926</course_identifier>
+
+<course_number>3926</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 2:10p - 4:00p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>E. Morales</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>23</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3926-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3927</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3927y</course_identifier_cooked>
+
+<course_name>Asian American Racialization</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course examines the racialization of Asians in the United States from the late nineteenth century to the present.&#38;nbsp; We begin with the premise that racialization is a process by which a population is constructed (and constructs itself) as a group with specific attributes and characteristics.&#38;nbsp; As such, what it means to identify or be identified as a member of a racial group is historically contingent and constantly changing.&#38;nbsp; &#38;nbsp; The ways in which Asians in the U.S. have been racialized have stemmed from a number of mechanisms, and have had social and political consequences, as well.&#38;nbsp; We will look at several historical moments to investigate how immigration laws, public health regulations, social movements, and popular culture have shaped the ways in which Asian Americans have understood themselves and been seen by others.&#38;nbsp; At the same time, race has interacted with other categories of difference, including gender, sexuality, class, immigrant status, and nation, to influence this process.&#38;nbsp; While the topics we focus on during this class will be necessarily selective, our goal will be to understand the racialization of Asian Americans within the larger context of both U.S. history and, at some points, global political events. &#38;nbsp; We will read a variety of primary and secondary sources this semester, including novels, memoirs, and historical monographs.&#38;nbsp; Several films will be assigned for screening outside of class.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Mei</course_instructors_expected>
+
+<course_instructors_full>L. Mei</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3928</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3928x and y</course_identifier_cooked>
+
+<course_name>COLONIZATION/DECOLONIZATION</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>STUDENT ENROLLMENT LIMIT: 22 This course explores the centrality of colonialism in the making of the modern world, emphasizing cross-cultural and social contact, exchange, and relations of power; dynamics of conquest and resistance; and discourses of civilization, empire, freedom, nationalism, and human rights, from 1500 to 2000. Topics include pre-modern empires; European exploration, contact, and conquest in the new world; Atlantic-world slavery and emancipation; European and Japanese colonialism in Asia, Africa, the Middle East. The course ends with a section on decolonization and post-colonialism in the period after World War II. Intensive reading and discussion of primary documents.</course_description>
+
+<corequisites>CSER W3928 is open only to CSER majors/concentrators.  Others may be allowed to register with permission of the instructor.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Lomnitz, E. Saada, K. Jacoby, T. Hughes</course_instructors_actual>
+
+<course_instructors_expected>K. Jacoby, T. Hughes, C. Lomnitz, E. Saada, M. Ngai</course_instructors_expected>
+
+<course_instructors_full>C. Lomnitz, E. Saada, K. Jacoby, M. Ngai, T. Hughes</course_instructors_full>
+
+<classes><class><call_number>23513</call_number>
+
+<class_name>COLONIZATION/DECOLONIZAT</class_name>
+
+<course_identifier>CSERW3928</course_identifier>
+
+<course_number>3928</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>K. Jacoby&#60;br /&#62;
+T. Hughes</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>20</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>18</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3928-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>11638</call_number>
+
+<class_name>COLONIZATION/DECOLONIZAT</class_name>
+
+<course_identifier>CSERW3928</course_identifier>
+
+<course_number>3928</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 12:50p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>C. Lomnitz&#60;br /&#62;
+E. Saada</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3928-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3935</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3935y</course_identifier_cooked>
+
+<course_name>Sex in the Tropics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>In most of the world, to say the Caribbean is to say sex. &#226;Sex in the Tropics&#226; is an interdisciplinary course that focuses on how specific sexualized discourses and practices have had a major impact on the region&#226;s history, politics, economy, and global relations. Through the examination of literary and critical texts from and/or about Cuba, Puerto Rico, Dominican Republic, Haiti, Jamaica, and Martinique, among other countries, this course will examine the power dynamics of sexuality in the context of conquest and slavery; the use of anti-gay policies and rape as means to crush dissent in Cuba and Haiti respectively; the development of sexual tourist economies; the role of literature and music in creating alternative discourses about sexuality; and the link between sexuality, power and freedom.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Lomnitz</course_instructors_actual>
+
+<course_instructors_expected>F. Negr&#195;&#179;n-Muntaner</course_instructors_expected>
+
+<course_instructors_full>C. Lomnitz, F. Negr&#195;&#179;n-Muntaner</course_instructors_full>
+
+<classes><class><call_number>14476</call_number>
+
+<class_name>HIST ANTH OF US-MEXICAN</class_name>
+
+<course_identifier>CSERW3935</course_identifier>
+
+<course_number>3935</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>C. Lomnitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3935-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3935</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3935x</course_identifier_cooked>
+
+<course_name>HISTORICAL ANTHROPOLOGY OF THE US-MEXICO BORDER</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Lomnitz</course_instructors_actual>
+
+<course_instructors_expected>C. Lomnitz</course_instructors_expected>
+
+<course_instructors_full>C. Lomnitz</course_instructors_full>
+
+<classes><class><call_number>14476</call_number>
+
+<class_name>HIST ANTH OF US-MEXICAN</class_name>
+
+<course_identifier>CSERW3935</course_identifier>
+
+<course_number>3935</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 9:00a - 10:50a&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>C. Lomnitz</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>40</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>21</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3935-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3940</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3940y</course_identifier_cooked>
+
+<course_name>Comparative Study of Constitutional Challenges Affecting African, Latino and Asian American Communities</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will examine how American legal system decided constitutional challenges affecting the empowerment of African, Latino, and Asian American communities from the 19th century to the present. Focus will be on the role that race, citizenship, capitalism/labor, property and ownership played in the court decision in the context of the historical, social and political conditions existing at the time. Topics include the denial of citizenship and naturalization to slaves and immigrants, goverment sanctioned segregation, the struggle for reparations for descendants of slavery and Japanese Americans during World War II.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. OuYang</course_instructors_actual>
+
+<course_instructors_expected>Elizabeth OuYang</course_instructors_expected>
+
+<course_instructors_full>E. OuYang</course_instructors_full>
+
+<classes><class><call_number>23458</call_number>
+
+<class_name>COMP STUDY OF CONSTITUTNL</class_name>
+
+<course_identifier>CSERW3940</course_identifier>
+
+<course_number>3940</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 11:00a - 12:50p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>E. OuYang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3940-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3943</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3943x or y</course_identifier_cooked>
+
+<course_name>Urban Ethnography</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This advanced seminar will focus on urban ethnography, examining the significance of place to daily practices, social relations, and broader social norms. Students will explore the processes of urban life, the ways in which individuals and places shape one another, by reading contemporary urban ethnographies and conducting their own fieldwork projects. Focusing on the global moment, the readings will underscore the urban as a process that brings together (and redefines) diverse groups of people. The course will also emphasize knowledge production, how the ways we study the city inform its shape, categorizing its different populations and affecting how they relate to another. Urban ethnography began in an attempt to understand the pathologies of city life, often honing in on marginalized and minority groups. These assumptions of pathology endured, influencing not just whom ethnographers studied, but the questions they asked, and in fact, their conclusions. Including an important fieldwork component, this course allows students firsthand experience in the process of knowledge production and underscores the importance of these processes to the ways we see and understand social life.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3970</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>N</school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3970y</course_identifier_cooked>
+
+<course_name>ARAB AMERICANS AND THE ARAB DIASPORA TROUGH LITERATURE AND THEATER</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course explores&#38;nbsp;contemporary Arab American and the Arab Diaspora culture and history through literature and film produced by writers and filmmakers of these communities. As a starting historical point, the course explores the idea of Arabness,&#38;nbsp;and examines the Arab migration globally, in particular to the U.S., focusing on three periods, 1875-1945, 1945-early 1960s, and late 1960s-present. By reading and viewing the most exciting and best-known literary works and films produced by these writers and filmmakers, students will attain an awareness of the richness and complexity of these societies. Additionally, students will read historical and critical works to help them have a deeper understanding of theses creative works. Discussions revolve around styles and aesthetics as well as identity and cultural politics. Some of the writers the class will cover include, Wajdi Mouawad, Diana Abu Jaber,&#38;nbsp; Amin Maalouf, Tahar Ben Jelloun, Anthony Shadid, Hisham Matar and Adhaf Soueif.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Handal</course_instructors_actual>
+
+<course_instructors_expected>Nathalie Handal</course_instructors_expected>
+
+<course_instructors_full>N. Handal</course_instructors_full>
+
+<classes><class><call_number>17279</call_number>
+
+<class_name>ARABS IN LITERATURE &#38; FIL</class_name>
+
+<course_identifier>CSERW3970</course_identifier>
+
+<course_number>3970</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 2:10p - 4:00p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>N. Handal</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3970-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>3990</course_number_1>
+
+<course_term_offered_1>xy</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W3990xy</course_identifier_cooked>
+
+<course_name>SENIOR PROJECT SEMINAR</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The Senior Paper Colloquium will focus primarily on developing students&#39; ideas for their research projects and discussing their written work. The course is designed to develop and hone the skills necessary to complete the senior paper. Students will receive guidance in researching for and writing and advanced academic paper. Conducted as a seminar, the colloquium provides the students a forum in which to discuss their work with each other. The CSER preceptor, who facilitates the colloquium, will also provide students with additional academic support, supplementary to the advice they receive from their individual faculty sponsors. While most of the course will be devoted to the students&#39; work, during the first weeks of the term, students will read and discuss several ethnic studies-oriented texts to gain insight into the kinds of research projects done in the field.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>K. Heupel</course_instructors_actual>
+
+<course_instructors_expected>Katherine Heupel, F. Negr&#195;&#179;n-Muntaner</course_instructors_expected>
+
+<course_instructors_full>F. Negr&#195;&#179;n-Muntaner, K. Heupel</course_instructors_full>
+
+<classes><class><call_number>20236</call_number>
+
+<class_name>SENIOR PROJECT SEMINAR</class_name>
+
+<course_identifier>CSERW3990</course_identifier>
+
+<course_number>3990</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>M 9:00a - 10:50a&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>K. Heupel</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>13</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W3990-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4030</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CSER G4030x (Section 1)</course_identifier_cooked>
+
+<course_name>Sound: The Sacred, The Secular</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Currently, there is no course in the ethnomusicology program that explores the relation between sound, the secular, and the sacred.&#38;nbsp; This is largely a reflection of the general trend of the past two decades in the field in which the study of popular music has been privileged.&#38;nbsp; However, historically and today, sound, music, and the acoustic more generally, have been a central arena for the negotiation of the relationship between the sacred and the secular, the definition of the idea of religion and the structure and significance of ritual. Recently, we have seen an intensification of scholarship on the question of religion from the social sciences and the humanities that recasts the question of the relation between the secular and the sacred through critical theory.&#38;nbsp; Yet the acoustical overtones of this critical &#34;turn&#34; to religion have seldom have explored.&#38;nbsp; This course seeks to explore the acoustic dimensions of critically thinking the idea of sound for understanding different aspects of the secular and the sacred.&#38;nbsp; The term sound is used instead of music because in many expressive traditions, the Western concept of music does not necessarily encompass notions of recitation, chant, or other modalities of sound.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, GS, GSAS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Ochoa</course_instructors_expected>
+
+<course_instructors_full>A. Ochoa</course_instructors_full>
+
+</course><course><academic_department_code>CSER</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CSER</subject_area_code>
+
+<subject_area_name>Center for the Study of Ethnicity and Race</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4481</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CSER W4481y</course_identifier_cooked>
+
+<course_name>IMMIGRANTS, INDIGENOUS PEOPLES AND CITIZENSHIP</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>in this class we will look at what the experiences of immigrants and indigenous peoples tell us about the nature of citizenship, and learn how currents such as the DREAM Act movement, the idea of &#38;ldquo;cultural citizenship&#38;rdquo; and newly powerful indigenous movements in South America are removing control of citizenship from states, and transforming citizenship for everyone.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>S. Rockefeller</course_instructors_actual>
+
+<course_instructors_expected>Stuart Rockefeller</course_instructors_expected>
+
+<course_instructors_full>S. Rockefeller</course_instructors_full>
+
+<classes><class><call_number>86038</call_number>
+
+<class_name>IMMIGRANTS,INDIGENOUS PEO</class_name>
+
+<course_identifier>CSERW4481</course_identifier>
+
+<course_number>4481</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 11:00a - 12:50p&#60;br /&#62;420 HAMILTON HALL</days_times>
+
+<instructors>S. Rockefeller</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>12</student_enrollment_count>
+
+<subject_area_code>CSER</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CSER/W4481-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

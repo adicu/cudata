@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>CLMS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4400</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>EESC W4400x</course_identifier_cooked>
+
+<course_name>Dynamics of Climate Variability and Climate Change</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An overview of how the climate system works on large scales of space and time, with particular attention to the science and methods underlying forecasts of climate variability and climate change. This course serves as the basic physical science course for the M.A. Program in Climate and Society.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>permission of the instructor for students who are not enrolled in the M.A. Program in Climate and Society; an undergraduate-level course on climate or a related topic; knowledge of calculus.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. Lyons, M. Cane</course_instructors_actual>
+
+<course_instructors_expected>L. Goddard</course_instructors_expected>
+
+<course_instructors_full>B. Lyons, L. Goddard, M. Cane</course_instructors_full>
+
+<classes><class><call_number>61287</call_number>
+
+<class_name>DYN-CLIMATE VAR &#38; CLIMATE</class_name>
+
+<course_identifier>EESCW4400</course_identifier>
+
+<course_number>4400</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;603 SCHERMERHORN HALL</days_times>
+
+<instructors>B. Lyons&#60;br /&#62;
+M. Cane</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>52</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>48</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4400-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLMS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4401</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>EESC W4401x</course_identifier_cooked>
+
+<course_name>Quantitative Models of ClimateSensitive Natural and Human Systems</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>An overview of how climate-societal and intra-societal relationships can be evaluated and quantified using relevant data sets, statistical tools, and dynamical models. Concepts and methods in quantitative modeling, data organization, and statistical analysis, with applications to climate and climate impacts. Students will also do some simple model experiments and evaluate the results.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>permission of the instructor for students who are not enrolled in the M.A. Program in Climate and Society; undergraduate-level coursework in Introductory Statistics or Data Analysis; knowledge of calculus.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Ting, T. Barnston</course_instructors_actual>
+
+<course_instructors_expected>M. Ting</course_instructors_expected>
+
+<course_instructors_full>M. Ting, T. Barnston</course_instructors_full>
+
+<classes><class><call_number>17047</call_number>
+
+<class_name>MODELS-CLIM-SENS NAT/HUM</class_name>
+
+<course_identifier>EESCW4401</course_identifier>
+
+<course_number>4401</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;603 SCHERMERHORN HALL&#60;br /&#62;W 4:10p - 7:00p&#60;br /&#62;558 SCHERMERHORN HALL</days_times>
+
+<instructors>M. Ting&#60;br /&#62;
+T. Barnston</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>52</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>46</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4401-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CLMS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4402</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>4403</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>EESC G4402x-G4403y</course_identifier_cooked>
+
+<course_name>Managing and Adapting to Climate</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes>Two semesters; 3 points each semester.</course_points_notes>
+
+<course_points_cooked>3 pts.  Two semesters; 3 points each semester.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A two-semester exploration of ideas, methods and tools required to analyze climate-related problems, and to craft policies for reducing societal vulnerability and build resilience to climate variability and change. The course is structured to bridge several &#38;ldquo;divides&#38;rdquo;: the social and natural sciences, temporal scales of variability and change, developing and industrialized countries, spatial scales of the local, national and international, and socio-political, economic and ecological dimensions of development. Students will be encouraged to contextualize learning from the other more climate-focused courses in the M.A. Program in Climate and Society.</course_description>
+
+<corequisites>concurrent enrollment in EESC W4400</corequisites>
+
+<prerequisites>previous social science course or experience in policy and administration; permission of the instructor for students who are not enrolled in the M.A. Program in Climate and Society.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>S. Someshwar</course_instructors_expected>
+
+<course_instructors_full>S. Someshwar</course_instructors_full>
+
+</course><course><academic_department_code>CLMS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>EESC</subject_area_code>
+
+<subject_area_name>Earth &#38; Environmental Sciences</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4404</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>EESC W4404y</course_identifier_cooked>
+
+<course_name>Regional Climate and Climate Impacts</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The dynamics of environment and society interact with climate and can be modified through use of modern climate information. To arrive at the best use of climate information, there is a need to see climate in a balanced way, amongst the myriad of factors at play. Equally, there is a need to appreciate the range of climate information available and to grasp its underlying basis and the reasons for varying levels of certainty. Many decisions in society are at more local scales, and regional climate information considered at appropriate scales and in appropriate forms (e.g., transformed into vegetation stress) is key. Building a sufficient understanding of the science behind the information, and providing examples of how the information can and is being used, mean this course seeks to contribute toward the holistic understanding needed for wise use of climate information.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor for students not enrolled in the M.A. Program in Climate and Society; EESC W4400 and EESC W4401.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Giannini, A. Robertson</course_instructors_actual>
+
+<course_instructors_expected>M.N. Ward</course_instructors_expected>
+
+<course_instructors_full>A. Giannini, A. Robertson, M. Ward</course_instructors_full>
+
+<classes><class><call_number>63608</call_number>
+
+<class_name>REGIONL CLIM &#38; CLIMATE</class_name>
+
+<course_identifier>EESCW4404</course_identifier>
+
+<course_number>4404</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;603 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Giannini&#60;br /&#62;
+A. Robertson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>EESC</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4404-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

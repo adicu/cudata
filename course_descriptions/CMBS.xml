@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4010</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CMBS G4010</course_identifier_cooked>
+
+<course_name>Responsible Conduct of Research and Related Policy Issues</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores a variety of ethical and political issues that arise during the conduct of basic and clinical scientific research. Course sessions include lectures, discussion periods, and analyses of case studies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Rubin, P. Spitalnik, R. Kessin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Rubin, P. Spitalnik, R. Kessin</course_instructors_full>
+
+<classes><class><call_number>13450</call_number>
+
+<class_name>RESP COND OF RES/REL PLCY</class_name>
+
+<course_identifier>CMBSG4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 12:00p - 1:00p&#60;br /&#62;TBA</days_times>
+
+<instructors>J. Rubin&#60;br /&#62;
+P. Spitalnik</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>17</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G4010-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>86096</call_number>
+
+<class_name>RESP COND OF RES/REL PLCY</class_name>
+
+<course_identifier>CMBSG4010</course_identifier>
+
+<course_number>4010</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>J. Rubin&#60;br /&#62;
+P. Spitalnik&#60;br /&#62;
+R. Kessin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>54</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G4010-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4110</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CMBS G4110</course_identifier_cooked>
+
+<course_name>Responsible Conduct of Research and Related Policy Issues Discussion Sections</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussion of issues pertaining to ethical conduct of research based upon case studies presented in class and upon lectures in Cell Biology G4010 (Responsible conduct of research and related policy issues).</course_description>
+
+<corequisites>CMBS G4010. Restricted to first-year CMBS and Pharmacology students.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4150</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4150</course_identifier_cooked>
+
+<course_name>Microbial Molecular Genetics</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Basic aspects of prokaryotic molecular biology and genetics. Regulation of gene expression, molecular genetics of bacterial viruses, plasmids and transposable elements.&#38;nbsp; Modern molecular genetic approaches to complex biological phenomena.&#38;nbsp; Format: four to five hours of lectures and discussions per week.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>basic biology and biochemistry and instructors permission.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>F. Chang</course_instructors_actual>
+
+<course_instructors_expected>C. Waldburger and staff</course_instructors_expected>
+
+<course_instructors_full>C. Waldburger and staff, F. Chang</course_instructors_full>
+
+<classes><class><call_number>89535</call_number>
+
+<class_name>MOLECULAR GENETICS</class_name>
+
+<course_identifier>CMBSG4150</course_identifier>
+
+<course_number>4150</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MWF 10:00a - 11:30a&#60;br /&#62;14-240 VANDERBILT CLINIC</days_times>
+
+<instructors>F. Chang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>30</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G4150-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4250</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4250</course_identifier_cooked>
+
+<course_name>Molecular Biophysics</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Methods and principles involved in studying the structure and function of proteins, nucleic acids, membranes, and their macromolecular assemblies.&#38;nbsp; Noncovalent&#38;nbsp; forces and conformational analysis; ultracentrifugation, viscometry, circular dichroism, fluorescence, magnetic resonance; conformational changes in proteins and nucleic acids, topological properties of macromolecules. Required for students in Structural Biology and Computational Biology and can serve as an elective for students in Cellular and Molecular Biology.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>basic physical and organic chemistry and instructors permission.&#160;</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>B. Honig and staff</course_instructors_expected>
+
+<course_instructors_full>B. Honig and staff</course_instructors_full>
+
+</course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1></school_bulletin_prefix_code_1>
+
+<course_number_1>4350</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS 4350</course_identifier_cooked>
+
+<course_name>Cellular Membranes and Organelles</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Prerequisite: basic biology and biochemistry and instructor&#38;rsquo;s permission. Co-requisite: Cell Biology G4450.&#38;nbsp; Introduction to eukaryotic cell biology; discussion of modern research approaches and current literature.&#38;nbsp; Format: 3 hours of lecture and 1 hour of student presentation per week.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>C. Bulinsky and staff</course_instructors_expected>
+
+<course_instructors_full>C. Bulinsky and staff</course_instructors_full>
+
+</course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4350</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4350</course_identifier_cooked>
+
+<course_name>Cellular Membranes and Organelles</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>4450</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G4450</course_identifier_cooked>
+
+<course_name>Frontiers In Cell Biology</course_name>
+
+<course_points_min>1</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1 pt.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Co-requisite: participation in other courses offered by the Integrated Program in Cellular, Molecular and Biophysical Studies.&#38;nbsp; Series of five to six seminars presented by invited speakers, well-known leaders in the field of cell and molecular biology.&#38;nbsp; Discussion with the speakers after each seminar.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>G. Gundersen, F. Chang.</course_instructors_expected>
+
+<course_instructors_full>F. Chang., G. Gundersen</course_instructors_full>
+
+</course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>6300</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2>G</school_bulletin_prefix_code_2>
+
+<course_number_2>6301</course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CMBS G6300-G6301</course_identifier_cooked>
+
+<course_name>Biochemistry and Molecular Biology of Eukaryotes, I and II</course_name>
+
+<course_points_min>4.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>For all first year Ph.D. students. Provides a unified curriculum that covers many of the topics that students need to know to successfully carry out research in biological sciences. Topics include basic biochemical principles, processes common to all eukaryotic cells such as transcription, translation and the cell cycle, and mechanism of cell-cell signaling.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>G. Di Paolo, G. Gundersen</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>G. Di Paolo, G. Gundersen</course_instructors_full>
+
+<classes><class><call_number>88397</call_number>
+
+<class_name>BIOCHEM,CELL/MOLECULAR BI</class_name>
+
+<course_identifier>CMBSG6301</course_identifier>
+
+<course_number>6301</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>G. Di Paolo&#60;br /&#62;
+G. Gundersen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>40</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G6301-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>CMBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<subject_area_name>Cellular, Molecular, &#38; Biophysical</subject_area_name>
+
+<school_bulletin_prefix_code_1>G</school_bulletin_prefix_code_1>
+
+<course_number_1>9602</course_number_1>
+
+<course_term_offered_1></course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>CMBS G9602</course_identifier_cooked>
+
+<course_name>Thesis Research In Cellular, Molecular, and Biophysical Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>12</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3-12 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Open only to students in the Integrated Program.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GSAS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>R. Liem</course_instructors_actual>
+
+<course_instructors_expected>Staff</course_instructors_expected>
+
+<course_instructors_full>R. Liem, S. Staff</course_instructors_full>
+
+<classes><class><call_number>92447</call_number>
+
+<class_name>RESEARCH IN CMBS II</class_name>
+
+<course_identifier>CMBSG9602</course_identifier>
+
+<course_number>9602</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times></days_times>
+
+<instructors>R. Liem</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>G</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>52</student_enrollment_count>
+
+<subject_area_code>CMBS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CMBS/G9602-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

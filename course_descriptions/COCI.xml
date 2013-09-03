@@ -1,0 +1,2729 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>COCI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<subject_area_name>Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>C</school_bulletin_prefix_code_2>
+
+<course_number_2>1002</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HUMA C1001x-C1002y</course_identifier_cooked>
+
+<course_name>Masterpieces of Western Literature and Philosophy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Taught by members of the Departments of Classics, English and Comparative Literature, French, German, Italian, Middle East and Asian Languages and Cultures, Philosophy, Religion, Slavic Languages, and Spanish; and members of the Society of Fellows. Major works by over twenty authors, ranging in time, theme, and genre from Homer to Virginia Woolf. Students are expected to write at least two papers, to complete two examinations each semester, and to participate actively in class discussions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Annunziata, A. Diebel, A. Graham, A. Holt, A. Johnson, A. Nersessian, A.
+Salvo, A. Soloski, B. Parker, C. Dance, C. Silva, D. Martin, D. Martinsen, D.
+Russell, D. Tenen, D. Yerkes, E. Calotychos, E. Hayman, E. Lieber, E.
+Mendelson, G. Barlow, G. Williams, I. Lupic, J. Adams, J. Brown, J. Cavallo, J.
+Crawford, J. Dzaman, J. Howley, J. Rosenberg, J. Stalnaker, J. Williams, L.
+Knapp, M. Hanukai, M. Hart, M. Holquist, M. Lilla, M. Rosen, M. Rosenthal, M.
+Shapiro, M. Stanislawski, M. Van De Mieroop, N. Horejsi, N. Pilkington, N.
+Shelley, N. Workman, P. Castagna, P. Ferguson, P. Glauthier, P. Grieve, P.
+Pouncey, P. Watts, R. Sacks, S. Charitos, S. Fulton, S. Kimmel, S. North, S.
+Prior, T. Berzon, T. Lando, T. Myers, T. Wilke, V. Kuiken</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Annunziata, A. Diebel, A. Graham, A. Holt, A. Johnson, A. Nersessian, A.
+Salvo, A. Soloski, B. Parker, C. Dance, C. Silva, D. Martin, D. Martinsen, D.
+Russell, D. Tenen, D. Yerkes, E. Calotychos, E. Hayman, E. Lieber, E.
+Mendelson, G. Barlow, G. Williams, I. Lupic, J. Adams, J. Brown, J. Cavallo, J.
+Crawford, J. Dzaman, J. Howley, J. Rosenberg, J. Stalnaker, J. Williams, L.
+Knapp, M. Hanukai, M. Hart, M. Holquist, M. Lilla, M. Rosen, M. Rosenthal, M.
+Shapiro, M. Stanislawski, M. Van De Mieroop, N. Horejsi, N. Pilkington, N.
+Shelley, N. Workman, P. Castagna, P. Ferguson, P. Glauthier, P. Grieve, P.
+Pouncey, P. Watts, R. Sacks, S. Charitos, S. Fulton, S. Kimmel, S. North, S.
+Prior, T. Berzon, T. Lando, T. Myers, T. Wilke, V. Kuiken</course_instructors_full>
+
+</course><course><academic_department_code>COCI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<subject_area_name>Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>F</school_bulletin_prefix_code_1>
+
+<course_number_1>1001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>F</school_bulletin_prefix_code_2>
+
+<course_number_2>1002</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>HUMA F1001x-F1002y</course_identifier_cooked>
+
+<course_name>Masterpieces of Western Literature and Philosophy</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A year-long course in which the objective is to consider particular conceptions of what it means to be human and to consider the place of such conceptions in the development of critical thought. Readings in Homer, Aeschylus, Sophocles, Euripides,Herodotus,Thucydides, Aristophanes, Plato, Vergil, St. Augustine, Dante, Boccaccio, Montaigne, Shakespeare, Goethe, Austen, and Woolf.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>D. Inbal, P. Awn, S. Fulton</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>D. Inbal, P. Awn, S. Fulton</course_instructors_full>
+
+</course><course><academic_department_code>COCI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>COCI</subject_area_code>
+
+<subject_area_name>Contemporary Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>C</school_bulletin_prefix_code_1>
+
+<course_number_1>1101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>C</school_bulletin_prefix_code_2>
+
+<course_number_2>1102</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>COCI C1101x-C1102y</course_identifier_cooked>
+
+<course_name>Introduction To Contemporary Civilization</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Alvarado-Diaz, A. Antic, A. Kluchin, A. Nathan, A. Taneja, C. Bender, C.
+Coleman, C. Layman, C. Rovane, C. Slade, D. Chalmers, D. Horowitz, D. Johnston,
+D. Milstein, D. Ratzan, E. Daniel, E. Neely, F. Gerlsbeck, G. Gatta, H.
+Mueller, H. Ohaneson, H. Roseman, I. McCready-Flora, J. Cohen, J. Kimpell, J.
+McClellan, J. McWhorter, J. Nordmann, J. Reynolds, J. Rudd, J. Shuttleworth, J.
+Wermuth-Atkinson, K. Eden, K. Keenan, L. MacInnis, M. Ahmed, M. Anderson, M.
+Arjomand, M. Bell, M. Hertzman, M. Moody-Adams, M. Schwartzberg, N. Senocak, N.
+Urbinati, O. Miller, O. Simons, P. Duong, P. Johnson, P. Kitcher, P.
+Pazzaglini, R. Kobrin, R. Montas, R. Neer, R. Thomas, S. Antonova, S. Diagne,
+S. Dwyer, S. Pedersen, S. Ramsey, S. Schneider Reich, S. Taylor, T. Amar, T.
+Bickford, T. Harper, T. Isiksel, W. Deringer, W. Proudfoot</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Alvarado-Diaz, A. Antic, A. Kluchin, A. Nathan, A. Taneja, C. Bender, C.
+Coleman, C. Layman, C. Rovane, C. Slade, D. Chalmers, D. Horowitz, D. Johnston,
+D. Milstein, D. Ratzan, E. Daniel, E. Neely, F. Gerlsbeck, G. Gatta, H.
+Mueller, H. Ohaneson, H. Roseman, I. McCready-Flora, J. Cohen, J. Kimpell, J.
+McClellan, J. McWhorter, J. Nordmann, J. Reynolds, J. Rudd, J. Shuttleworth, J.
+Wermuth-Atkinson, K. Eden, K. Keenan, L. MacInnis, M. Ahmed, M. Anderson, M.
+Arjomand, M. Bell, M. Hertzman, M. Moody-Adams, M. Schwartzberg, N. Senocak, N.
+Urbinati, O. Miller, O. Simons, P. Duong, P. Johnson, P. Kitcher, P.
+Pazzaglini, R. Kobrin, R. Montas, R. Neer, R. Thomas, S. Antonova, S. Diagne,
+S. Dwyer, S. Pedersen, S. Ramsey, S. Schneider Reich, S. Taylor, T. Amar, T.
+Bickford, T. Harper, T. Isiksel, W. Deringer, W. Proudfoot</course_instructors_full>
+
+</course><course><academic_department_code>COCI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>COCI</subject_area_code>
+
+<subject_area_name>Contemporary Civilization</subject_area_name>
+
+<school_bulletin_prefix_code_1>F</school_bulletin_prefix_code_1>
+
+<course_number_1>1101</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2>F</school_bulletin_prefix_code_2>
+
+<course_number_2>1102</course_number_2>
+
+<course_term_offered_2>y</course_term_offered_2>
+
+<course_section_code></course_section_code>
+
+<course_identifier_cooked>COCI F1101x-F1102y</course_identifier_cooked>
+
+<course_name>Contemporary Civilization</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A year-long course designed to introduce students to a wide range of issues of public significance by asking them to read closely texts in various traditions of argument with a focus on selected European traditions of moral, political, religious, and social thought.  Readings in the Bible, the Quran, Plato, Aristotle, St. Augustine, Machiavelli, Descartes, Hobbes, Locke, Rousseau, Smith, Kant, Marx, Darwin, Nietzsche, DuBois, and Freud.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Neely, S. Dasgupta</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Neely, S. Dasgupta</course_instructors_full>
+
+</course><course><academic_department_code>COCI</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<subject_area_name>Humanities</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>1121</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>HUMA W1121x or y</course_identifier_cooked>
+
+<course_name>Masterpieces of Western Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Discussion and analysis of the artistic qualities and significance of selected works of painting, sculpture, and architecture from the Parthenon in Athens to works of the 20th century.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>CC, EN, GS</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Helprin, A. Ng, A. Vazquez, B. Joseph, B. von Preussen, C. Ferando, C.
+Wamsler, D. Delbanco, E. Gollnick, F. Baumgartner, F. Benelli, F. de Angelis,
+H. Klein, I. Oryshkevich, K. Minturn, K. Yee Litt, L. Veneskey, L. Vigotti, M.
+Fluke, M. Sanchez, M. de Lacaze, N. Frobes-Cross, O. Powell, P. Crowley, P.
+Knox, R. Anderson, R. Compton, R. Harrist, R. O&#39;Neill, S. Brisman, S. Choi, S.
+Drimmer, S. Murray, S. Sivard, T. Campbell, Y. Yang</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Helprin, A. Ng, A. Vazquez, B. Joseph, B. von Preussen, C. Ferando, C.
+Wamsler, D. Delbanco, E. Gollnick, F. Baumgartner, F. Benelli, F. de Angelis,
+H. Klein, I. Oryshkevich, K. Minturn, K. Yee Litt, L. Veneskey, L. Vigotti, M.
+Fluke, M. Sanchez, M. de Lacaze, N. Frobes-Cross, O. Powell, P. Crowley, P.
+Knox, R. Anderson, R. Compton, R. Harrist, R. O&#39;Neill, S. Brisman, S. Choi, S.
+Drimmer, S. Murray, S. Sivard, T. Campbell, Y. Yang</course_instructors_full>
+
+<classes><class><call_number>76276</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>K. Yee Litt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>61210</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>C. Ferando</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>13597</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>O. Powell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>11427</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>D. Delbanco</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>27719</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>C. Ferando</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>24891</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Drimmer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>13986</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Compton</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-007</university_web_bulletin_url>
+
+</class>
+<class><call_number>13183</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>008</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>I. Oryshkevich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-008</university_web_bulletin_url>
+
+</class>
+<class><call_number>23160</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Drimmer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-009</university_web_bulletin_url>
+
+</class>
+<class><call_number>26977</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>010</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>B. von Preussen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-010</university_web_bulletin_url>
+
+</class>
+<class><call_number>73420</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>011</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>M. de Lacaze</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-011</university_web_bulletin_url>
+
+</class>
+<class><call_number>12985</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>012</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>Y. Yang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-012</university_web_bulletin_url>
+
+</class>
+<class><call_number>63081</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>013</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Murray</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-013</university_web_bulletin_url>
+
+</class>
+<class><call_number>66156</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>014</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Choi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-014</university_web_bulletin_url>
+
+</class>
+<class><call_number>29785</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>015</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>F. de Angelis</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-015</university_web_bulletin_url>
+
+</class>
+<class><call_number>13899</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>016</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>M. Sanchez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-016</university_web_bulletin_url>
+
+</class>
+<class><call_number>23095</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>017</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>L. Vigotti</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-017</university_web_bulletin_url>
+
+</class>
+<class><call_number>12200</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>018</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Sivard</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-018</university_web_bulletin_url>
+
+</class>
+<class><call_number>72967</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>019</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Helprin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-019</university_web_bulletin_url>
+
+</class>
+<class><call_number>20630</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>020</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>L. Veneskey</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-020</university_web_bulletin_url>
+
+</class>
+<class><call_number>11738</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>021</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>M. Fluke</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-021</university_web_bulletin_url>
+
+</class>
+<class><call_number>13527</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>022</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>B. Joseph</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-022</university_web_bulletin_url>
+
+</class>
+<class><call_number>18339</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>023</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>P. Crowley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-023</university_web_bulletin_url>
+
+</class>
+<class><call_number>74812</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>024</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>M. Fluke</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-024</university_web_bulletin_url>
+
+</class>
+<class><call_number>11665</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>025</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>K. Minturn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-025</university_web_bulletin_url>
+
+</class>
+<class><call_number>64344</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>026</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>P. Crowley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-026</university_web_bulletin_url>
+
+</class>
+<class><call_number>71495</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>027</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Anderson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-027</university_web_bulletin_url>
+
+</class>
+<class><call_number>71849</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>028</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>E. Gollnick</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-028</university_web_bulletin_url>
+
+</class>
+<class><call_number>29478</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>029</course_section_code>
+
+<days_times>TuTh 5:40p - 6:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Vazquez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-029</university_web_bulletin_url>
+
+</class>
+<class><call_number>70614</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>030</course_section_code>
+
+<days_times>TuTh 5:40p - 6:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>T. Campbell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-030</university_web_bulletin_url>
+
+</class>
+<class><call_number>67969</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>031</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Anderson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-031</university_web_bulletin_url>
+
+</class>
+<class><call_number>22768</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>032</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Ng</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-032</university_web_bulletin_url>
+
+</class>
+<class><call_number>11900</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>033</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>R. O&#39;Neill</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-033</university_web_bulletin_url>
+
+</class>
+<class><call_number>10317</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>034</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Ng</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-034</university_web_bulletin_url>
+
+</class>
+<class><call_number>28048</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>035</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>N. Frobes-Cross</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20123-035</university_web_bulletin_url>
+
+</class>
+<class><call_number>66731</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>O. Powell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>14267</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>002</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>Y. Yang</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-002</university_web_bulletin_url>
+
+</class>
+<class><call_number>14005</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>003</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>K. Yee Litt</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-003</university_web_bulletin_url>
+
+</class>
+<class><call_number>64371</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>004</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Drimmer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-004</university_web_bulletin_url>
+
+</class>
+<class><call_number>73098</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>005</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>H. Klein</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-005</university_web_bulletin_url>
+
+</class>
+<class><call_number>73356</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>006</course_section_code>
+
+<days_times>MW 10:10a - 11:25a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Harrist</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-006</university_web_bulletin_url>
+
+</class>
+<class><call_number>15439</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>007</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Drimmer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-007</university_web_bulletin_url>
+
+</class>
+<class><call_number>70417</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>008</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>P. Crowley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-008</university_web_bulletin_url>
+
+</class>
+<class><call_number>63213</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>009</course_section_code>
+
+<days_times>MW 11:40a - 12:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>C. Ferando</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-009</university_web_bulletin_url>
+
+</class>
+<class><call_number>72824</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>010</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Brisman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-010</university_web_bulletin_url>
+
+</class>
+<class><call_number>62198</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>011</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>P. Crowley</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-011</university_web_bulletin_url>
+
+</class>
+<class><call_number>64783</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>012</course_section_code>
+
+<days_times>MW 1:10p - 2:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>C. Ferando</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-012</university_web_bulletin_url>
+
+</class>
+<class><call_number>73741</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>013</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Brisman</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-013</university_web_bulletin_url>
+
+</class>
+<class><call_number>13282</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>014</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Choi</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-014</university_web_bulletin_url>
+
+</class>
+<class><call_number>23188</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>015</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>F. Baumgartner</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-015</university_web_bulletin_url>
+
+</class>
+<class><call_number>77198</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>016</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>I. Oryshkevich</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-016</university_web_bulletin_url>
+
+</class>
+<class><call_number>11642</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>017</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>B. von Preussen</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-017</university_web_bulletin_url>
+
+</class>
+<class><call_number>10006</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>018</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>S. Sivard</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-018</university_web_bulletin_url>
+
+</class>
+<class><call_number>68058</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>019</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>N. Frobes-Cross</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-019</university_web_bulletin_url>
+
+</class>
+<class><call_number>10399</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>020</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>M. Sanchez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-020</university_web_bulletin_url>
+
+</class>
+<class><call_number>73704</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>021</course_section_code>
+
+<days_times>MW 6:10p - 7:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>L. Vigotti</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-021</university_web_bulletin_url>
+
+</class>
+<class><call_number>19755</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>022</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Helprin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-022</university_web_bulletin_url>
+
+</class>
+<class><call_number>61467</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>023</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>M. Fluke</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-023</university_web_bulletin_url>
+
+</class>
+<class><call_number>61887</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>024</course_section_code>
+
+<days_times>TuTh 8:40a - 9:55a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>P. Knox</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-024</university_web_bulletin_url>
+
+</class>
+<class><call_number>64689</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>025</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Anderson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-025</university_web_bulletin_url>
+
+</class>
+<class><call_number>67592</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>026</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>M. Fluke</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-026</university_web_bulletin_url>
+
+</class>
+<class><call_number>61232</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>027</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Ng</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-027</university_web_bulletin_url>
+
+</class>
+<class><call_number>16037</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>028</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>K. Minturn</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-028</university_web_bulletin_url>
+
+</class>
+<class><call_number>66872</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>029</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>L. Veneskey</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-029</university_web_bulletin_url>
+
+</class>
+<class><call_number>18103</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>030</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Ng</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-030</university_web_bulletin_url>
+
+</class>
+<class><call_number>69472</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>031</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>F. Benelli</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-031</university_web_bulletin_url>
+
+</class>
+<class><call_number>29327</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>032</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>M. de Lacaze</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-032</university_web_bulletin_url>
+
+</class>
+<class><call_number>22892</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>033</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>R. O&#39;Neill</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-033</university_web_bulletin_url>
+
+</class>
+<class><call_number>76198</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>034</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>R. Anderson</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-034</university_web_bulletin_url>
+
+</class>
+<class><call_number>18383</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>035</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;607 SCHERMERHORN HALL</days_times>
+
+<instructors>T. Campbell</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-035</university_web_bulletin_url>
+
+</class>
+<class><call_number>98147</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>036</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;608 SCHERMERHORN HALL</days_times>
+
+<instructors>E. Gollnick</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-036</university_web_bulletin_url>
+
+</class>
+<class><call_number>91649</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>037</course_section_code>
+
+<days_times>TuTh 5:40p - 6:55p&#60;br /&#62;604 SCHERMERHORN HALL</days_times>
+
+<instructors>A. Vazquez</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-037</university_web_bulletin_url>
+
+</class>
+<class><call_number>98597</call_number>
+
+<class_name>MASTERPIECES OF WESTERN A</class_name>
+
+<course_identifier>HUMAW1121</course_identifier>
+
+<course_number>1121</course_number>
+
+<course_section_code>038</course_section_code>
+
+<days_times>MW 8:40a - 9:55a&#60;br /&#62;832 SCHERMERHORN HALL</days_times>
+
+<instructors>C. Wamsler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>22</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>W</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count></student_enrollment_count>
+
+<subject_area_code>HUMA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/W1121-20131-038</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>

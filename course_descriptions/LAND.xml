@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>LAND</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>LAND</subject_area_code>
+
+<subject_area_name>Landscape Design</subject_area_name>
+
+<school_bulletin_prefix_code_1>K</school_bulletin_prefix_code_1>
+
+<course_number_1>4103</course_number_1>
+
+<course_term_offered_1>z</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>001</course_section_code>
+
+<course_identifier_cooked>LAND K4103z (Section 001)</course_identifier_cooked>
+
+<course_name>Plant Materials: Woody Trees and Shrubs II</course_name>
+
+<course_points_min>1.5</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>1.5 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The second module of a two-part course on the identification of woody trees and shrubs of the Northeast. Direct field experience expands the working vocabulary of trees and shrubs suitable for residential landscape design, with emphasis on spring characteristics of plant materials and how such characteristics can individually and collectively convey ideas and enhance design intentions. Covers the character, physical characteristics, and maintenance requirements of trees and shrubs, as well as a sense of their optimum uses as elements in landscape design. Ornamental attributes, cultural requirements and tolerances, historical origins, and ecological characteristics of plants used in residential design are considered. Further attention is paid to plant community associations. Additionally, the course takes advantage of the onset of spring to introduce the seasonal concerns such as the preparation of the ground for planting and the optimal time to plant individual plant species. Ornamental, hardy perennials are introduced. The course, which covers both native and introduced species, is conducted in Central Park, the Conservatory Garden, Battery Park City, and the New York Botanical Garden. During the summer term, Plant Materials courses are offered at night, in six weeks.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Landscape K4102 Woody Trees and Shrubs I is not a prerequisite, though 
+it is advisable to begin the plant material sequence with that course.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>CEST</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>Jennifer Horn</course_instructors_expected>
+
+<course_instructors_full>J. Horn</course_instructors_full>
+
+</course></courses>

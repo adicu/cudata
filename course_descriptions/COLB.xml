@@ -1,0 +1,2027 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLT</subject_area_code>
+
+<subject_area_name>Comparative Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3001</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLT BC3001x</course_identifier_cooked>
+
+<course_name>Introduction to Comparative Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the study of literature from a comparative and cross-disciplinary perspective. Readings will be selected to promote reflection on such topics as the relation of literature to the other arts; nationalism and literature; international literary movements; post-colonial literature; gender and literature; and issues of authorship, influence, originality, and intertextuality.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. O&#39;Keeffe</course_instructors_actual>
+
+<course_instructors_expected>B. O&#39;Keeffe</course_instructors_expected>
+
+<course_instructors_full>B. O&#39;Keeffe</course_instructors_full>
+
+<classes><class><call_number>02326</call_number>
+
+<class_name>INTRO TO COMPARATIVE LITE</class_name>
+
+<course_identifier>CPLTX3001</course_identifier>
+
+<course_number>3001</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 11:40a - 12:55p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>B. O&#39;Keeffe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>29</student_enrollment_count>
+
+<subject_area_code>CPLT</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CPLT/BC3001-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLT</subject_area_code>
+
+<subject_area_name>Comparative Literature</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3110</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLT BC3110x</course_identifier_cooked>
+
+<course_name>Introduction to Translation Studies</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Introduction to the major theories and methods of translation in the Western tradition, along with practical work in translating.&#38;nbsp; Topics include translation in the context of postcolonialism, globalization and immigration, the role of translators in war and zones of conflict, gender and translation, the importance of translation to contemporary writers.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Completion of the Language Requirement or equivalent.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Connor</course_instructors_actual>
+
+<course_instructors_expected>P. Connor</course_instructors_expected>
+
+<course_instructors_full>P. Connor</course_instructors_full>
+
+<classes><class><call_number>09674</call_number>
+
+<class_name>INTRO TO TRANSLATION STUD</class_name>
+
+<course_identifier>CPLTX3110</course_identifier>
+
+<course_number>3110</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 2:40p - 3:55p&#60;br /&#62;504 Diana Center</days_times>
+
+<instructors>P. Connor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>77</student_enrollment_count>
+
+<subject_area_code>CPLT</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CPLT/BC3110-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CRLS</subject_area_code>
+
+<subject_area_name>Comparative Literature - Russian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3119</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CRLS V3119x</course_identifier_cooked>
+
+<course_name>The Novel in the US &#38; USSR, 1925-1940: Literature Confronts Crisis</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Using Novels as our primary sources, we will examine the massive social upheavals experienced in the US and USSR during the onslaught of the Great Depression and the rise of High Stalinism.&#38;nbsp; The syllabus includes texts by F. Scott Fitsgerald, Yuri Olesha, William Faulkner, Abdrei Platonov, John Dos Passos, Valentine Kataev, Mikhail Bulgakov, and Richard Wright, as well as supplementary readings in history and literary theory.&#38;nbsp; All readings in English.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>K Holt</course_instructors_expected>
+
+<course_instructors_full>K. Holt</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3120</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3120x or y</course_identifier_cooked>
+
+<course_name>Poetics of the Mouth</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the imagery of eating, drinking, spitting, choking, sucking (and other unmentionables) in relation to insults and excessive behaviors. Readings from Greek poetry (e.g., Homer, Aristophones) to modern theory (e.g., Kristeva, Powers of Horror, Bakhtin, Rabelais and His World), including modern novels and films.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3122</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3122y</course_identifier_cooked>
+
+<course_name>Big Brother: Poetics of Power</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the representation of institutional power and personal authority in world literature and international cinema through the lens of contemporary theory and with an emphasis on the fantasies of &#38;quot;Big Brother&#38;quot;. Readings and screenings include Orwell, Nabokov, Kafka, Lucan, Winterson as well as Coppola, Hitchcock, Chaplin and Godard.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Usher</course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3123</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3123x or y</course_identifier_cooked>
+
+<course_name>Friend or Foe? World Literature and the Question of Justice</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>With an emphasis on equality and social justice, this course examines and compares significant 19th c./20th c. literary approaches to friendship as intermediary between individualism and communal life. Discussion of culturally formed concepts and attitudes in modern or postcolonial setting. Reading of Dickens, Hesse, Woolf, Ocampo, Puig, Fugard, Emerson, Derrida, Rawls.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CPLS BC3001 Intro to Comp. Lit.; completion of intermediate language courses.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Grimm</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+<classes><class><call_number>04825</call_number>
+
+<class_name>FRIEND/FOE? WRLD LIT&#38;JUST</class_name>
+
+<course_identifier>CPLSX3123</course_identifier>
+
+<course_number>3123</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 10:10a - 11:25a&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>E. Grimm</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>1</student_enrollment_count>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CPLS/BC3123-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLEN</subject_area_code>
+
+<subject_area_name>Comparative Literature - English</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3125</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>1</course_section_code>
+
+<course_identifier_cooked>CLEN BC3125y (Section 1)</course_identifier_cooked>
+
+<course_name>Opera and Literature/Opera as Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>What is an operatic text and how do we &#38;quot;read&#38;quot; it?&#38;nbsp; An examination of the changing relationship between text and music in opera; operatic transformations of&#38;nbsp; literature; opera&#39;s representation in literature; critical readings of opera (psychoanalytic, feminist, queer).&#38;nbsp; Works by Monteverdi, Gluck, Mozart, Donizetti, Verdi, Wagner, Strauss, Debussy, and Britten.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>J. Crapotta</course_instructors_expected>
+
+<course_instructors_full>J. Crapotta</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3140</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3140y</course_identifier_cooked>
+
+<course_name>Europe Imagined: Images of the New Europe in 20th-Century Literature</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Compares the diverse images of Europe in 20th-century literature, with an emphasis on the forces of integration and division that shape cultural identity in the areas of travel writings and transculturation/cosmopolitanism; mnemonic narratives and constructions of the past; borderland stories and the cultural politics of translation. Readings include M. Kundera, S. Rushdie, H. Boell, C. Toibin and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Permission of the instructor.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3141</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3141y</course_identifier_cooked>
+
+<course_name>Fascism and Resistance: An Examination of Power in Italy and Germany</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores the cultural forces that defined the rise and fall of Italian fascism as well as the rise of Nazism, with a particular focus on the relationship between Germany and Italy and the similarities and differences between the two dictatorships. Readings addressing the question of literary representation and its political message will include &#34;official&#34; newspaper stories, trials, and propaganda films in addition to personal narratives such as diaries and autobiographies.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3142</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3142y</course_identifier_cooked>
+
+<course_name>The Spanish Civil War in Literature and the Visual Arts</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The Spanish Civil War (1936-39), which culminated with the beginning of Francisco Franco&#39;s long dictatorship, foreshadowed the WWII European conflict. It generated unprecedented foreign involvement, as well texts and images by artists from both within and outside Spain - from film (documentary and fictional), through painting (Picasso), to narrative and nonfiction.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>W. Rios-Font</course_instructors_expected>
+
+<course_instructors_full>W. Rios-Font</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3148</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3148y</course_identifier_cooked>
+
+<course_name>TRAGEDY TRANSLATED: FROM GREECE TO AFRICA</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Explores how the great tragedies of Aeschylus, Sophocles, and Euripides have been translated and appropriated by playwrights and thinkers in various countries and periods. Follows how stories about characters like Antigone and Oedipus have become relevant to the culture and politics of places as distant as Italy, France, South Africa, Nigeria, and elsewhere. Readings include Greek tragedies, as well as plays and texts by Seneca, Ovid, Garnier, Corneille, Brecht, Anouilh, Soyinka, Fugard, Butler, Zizek, and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Usher</course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3149</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3149x</course_identifier_cooked>
+
+<course_name>Urchins, Adulteresses, and Orphans: The Specter of the Other in Nineteenth-Century Bourgeois Literature</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploration of the 19th-century bourgeois fascination--as evidenced in narrative texts produced and consumed by that class--with marginalized figures from the fringes of acceptable society. Texts consist mainly of novel/short stories featuring protagonists from the poor urban massess, transgressive females such as the adulteress and the prostitute, and the lineage-less figure so popular in the 19th-century narrative, the orphan outcast.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Not offered in 2008-2009.</prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>TBD</course_instructors_expected>
+
+<course_instructors_full>T. TBD</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3155</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3155y</course_identifier_cooked>
+
+<course_name>Epic Travel: Text to Road Movie</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines how heroes in literature and film &#39;come into being&#39; through the journeys they make. Readings by Virgil, Chr&#38;eacute;tien de Troies, Luiz Vaz de Cam&#38;otilde;es, Aphra Behn, Voltaire and others; films by Jean-Luc Godard, Francis Ford Coppola, Ridley Scott and others.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Usher</course_instructors_expected>
+
+<course_instructors_full>P. Usher</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3156</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3156y</course_identifier_cooked>
+
+<course_name>Figures in a Landscape: Literary Topographies from Homer to H.D.</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Exploration of how and why landscape imagery is deployed in the western literary tradition as a map of cultural values, aesthetic ambitions, ideological critique, and /or artistic authority. Readings will include Aristophanes&#39; Frogs, Plato&#39;s Phaedrus, Shakespeare&#39;s A Midsummer Night&#39;s Dream, Proust&#39;s Under the Shadow of Young Girls in Flower, and H.D.&#39;s poems. These will be supplemented with images from different periods of landscape painting. Secondary readings will take advantage of the recent explosion of interest in landscape and topographical imagery in many fields, including cultural geography and landscape architecture.&#38;nbsp;</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>N. Worman</course_instructors_expected>
+
+<course_instructors_full>N. Worman</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3162</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3162x</course_identifier_cooked>
+
+<course_name>The Novella from Cervantes to Kafka</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The novella, older than the novel, painstakingly crafted, links the worlds of ideas and fiction.&#38;nbsp; The readings present the novella as a genre, tracing its progress from the 17th century to the 20th.&#38;nbsp; Each text read in the comparative milieu, grants the reader access to the intellectual concerns of an era.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. MacAdam</course_instructors_expected>
+
+<course_instructors_full>A. MacAdam</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3170</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>CPLS BC3170y (Section 01)</course_identifier_cooked>
+
+<course_name>Translating Madness:  The Sciences and Fictions of Pathology</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the discursive exchanges between fictional and scientific accounts of &#34;madness,&#34; with an emphasis on how modern literature renders the new diagnostic discourse and how literary portrayals of &#34;madness&#34; were &#34;translated back&#34; into the diagnostic language of psychology. Discussions revolve around the &#34;medical gaze&#34; and its influence on the writers&#39; literary style, motifs and technique; relevant questions concern interdisciplinary issues such as the relationship between genre and case study; hysteria and sexuality; gender construction and psychoanalysis. Readings include texts by Flaubert, Wilde, Daudet, Sacher-Masoch; excerpts from Freud, Charcot, Foucault, Deleuze; and visual documents.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>M. Mimran</course_instructors_actual>
+
+<course_instructors_expected>M. Mimran</course_instructors_expected>
+
+<course_instructors_full>M. Mimran</course_instructors_full>
+
+<classes><class><call_number>06349</call_number>
+
+<class_name>TRANSLATING MADNESS</class_name>
+
+<course_identifier>CPLSX3170</course_identifier>
+
+<course_number>3170</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 2:40p - 3:55p&#60;br /&#62;327 MILBANK HALL</days_times>
+
+<instructors>M. Mimran</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>22</student_enrollment_count>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CPLS/BC3170-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLEN</subject_area_code>
+
+<subject_area_name>Comparative Literature - English</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3190</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>01</course_section_code>
+
+<course_identifier_cooked>CLEN V3190x (Section 01)</course_identifier_cooked>
+
+<course_name>Aesthetics of the Grotesque</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of the grotesque in different cultural contexts from late Renaissance to the postmodern period comparing modes of transgression and excess in Western literature and film.&#38;nbsp; Particular emphasis on exaggeration in style and on fantastic representations of the body, from the ornate and corpulent to the laconic and anorexic.&#38;nbsp; Readings in Rabelais, Swift, Richardson, Poe, Gogol, Kafka, Meyrink, Pirandello, Greenaway, and M. Python.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3200</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3200x</course_identifier_cooked>
+
+<course_name>The Visual and Verbal Arts</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Analysis and discussion of the relation of literature to painting, photography, and film. Emphasis on artistic and literary concepts concerning the visual dimension of narrative and poetic texts from Homer to Burroughs. Explores the role of description, illustration, and montage in realist and modern literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLSP</subject_area_code>
+
+<subject_area_name>Comparative Literature - Spanish</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3215</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLSP BC3215y</course_identifier_cooked>
+
+<course_name>The Colonial Encounter: Conquest, Landscape, and Subject in the Hispanic New World</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>This course will move across and over the geopolitical landscape of the Tudor and Habsburg Empires in Europe and the New World in order to explore and compare the diverse symbolic and political roles the colonial encounter had in the signification of the relationship between the subject and the landscape.</course_description>
+
+<corequisites>Enrollment limited to 15.</corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>O. Bentancor</course_instructors_actual>
+
+<course_instructors_expected>O. Betancor</course_instructors_expected>
+
+<course_instructors_full>O. Bentancor, O. Betancor</course_instructors_full>
+
+<classes><class><call_number>06293</call_number>
+
+<class_name>ENCOUNTERS HISP NEW WORLD</class_name>
+
+<course_identifier>CLSPX3215</course_identifier>
+
+<course_number>3215</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>TuTh 4:10p - 5:25p&#60;br /&#62;237 MILBANK HALL</days_times>
+
+<instructors>O. Bentancor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>19</student_enrollment_count>
+
+<subject_area_code>CLSP</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CLSP/BC3215-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3235</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS V3235x or y</course_identifier_cooked>
+
+<course_name>Imagining the Self</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the literary construction of the self by comparing autobiographical and fictional texts from antiquity to the present. Focus on how the narrating self is masked, illusory, ventriloquized, or otherwise problematic. Works include Homer, Virgil, Rousseau, Wordsworth, Dostoevsky, Nabokov, and theoretical texts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3280</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS V3280y</course_identifier_cooked>
+
+<course_name>Contemplation and Experimental Knowledge in Modern Literature and Art</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Origin of the concept of contemplation in Plato and Neoplatonists; contemplation as a form of spiritual practice in the 16th century; the place of contemplation in the industrialized world, with emphasis on its role in literature and the visual arts. Selections from Plato, Plotinus, Augustine, Ignatius, Weber, Proust, Weil, Heidegger; Beckett, Arendt; films by Eisenstein, Marker, and others; and various art works.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3510</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3510y</course_identifier_cooked>
+
+<course_name>Advanced Workshop in Translation</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>A deep immersion in the theory and practice of translation with a focus on translating into English. The first half of the course is devoted to discussing readings in the history of translation theory while translating brief practical exercises; in the second half, translation projects are submitted to the class for critical discussion. The foreign texts for these projects, chosen in consultation with the instructor, will be humanistic, not only literature as conventionally defined (prose fiction and poetry, memoir and travel writing), but also the gamut of text types in the human sciences, including philosophy, history, and ethnography. The aim is not just to translate, but to think deeply about translating, to develop writing practices by drawing on the resources of theory, past and present, and by examining translations written by professionals.&#38;nbsp; Enrollment in this workshop is limited to 12 students. Admission into the class is by permission of the instructor. CPLT BC 3011 &#34;Introduction to Translation Studies&#34; is a recommended prerequisite, plus, normally, two advanced courses beyond the language requirement in the language from which you intend to translate. Preference will be given to seniors and to comparative literature majors.&#38;nbsp; Please submit an application to pconnor@barnard.edu by 30 November 2012 with the following information: your name, year of graduation, and major; a list of courses you have taken in the language from which you intend to translate; any other pertinent courses you have taken; any further relevant information relating to your language ability; a brief (max 300 word) explanation of why you wish to take this workshop. You will be notified of admission by 18 December. &#38;nbsp; N.B. This course cannot be substituted for the required Senior Seminar CPLS BC3997</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>CPLT BC 3110 Introduction to Translation Studies is a recommended prerequisite.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>P. Connor</course_instructors_actual>
+
+<course_instructors_expected>P. Connor</course_instructors_expected>
+
+<course_instructors_full>P. Connor</course_instructors_full>
+
+<classes><class><call_number>08835</call_number>
+
+<class_name>ADVANCED WORKSHOP TRANSLA</class_name>
+
+<course_identifier>CPLSX3510</course_identifier>
+
+<course_number>3510</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 4:10p - 6:00p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>P. Connor</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CPLS/BC3510-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLIA</subject_area_code>
+
+<subject_area_name>Comparative Literature - Italian</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3660</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLIA V3660y</course_identifier_cooked>
+
+<course_name>Mafia Movies: From Sicily to The Sopranos</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines representations of the mafia in American and Italian film and literature. Special attention to questions of ethnic identity and immigration. Comparison of the different histories and myths of the mafia in the U.S. and Italy. Readings includes novels, historical studies, and film criticism. Limit 25</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>N. Moe</course_instructors_actual>
+
+<course_instructors_expected>N. Moe</course_instructors_expected>
+
+<course_instructors_full>N. Moe</course_instructors_full>
+
+<classes><class><call_number>01766</call_number>
+
+<class_name>MAFIA MOVIES</class_name>
+
+<course_identifier>CLIAV3660</course_identifier>
+
+<course_number>3660</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 10:00p&#60;br /&#62;324 MILBANK HALL</days_times>
+
+<instructors>N. Moe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>46</student_enrollment_count>
+
+<subject_area_code>CLIA</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CLIA/V3660-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3675</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS V3675x</course_identifier_cooked>
+
+<course_name>Mad Love</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>The history of irrational love as embodied in literary and non-literary texts throughout the Western tradition. Readings include the Bible, Greek, Roman, Medieval, and modern texts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>A. Mac Adam</course_instructors_expected>
+
+<course_instructors_full>A. Mac Adam</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3680</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS V3680y</course_identifier_cooked>
+
+<course_name>Freud</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Origins and major concepts of psychoanalysis through close analysis of Freud&#39;s writings. Topics include: the unconscious, repression, infantile sexuality, hysteria, neurosis, psychosis, parapraxes, the theory of dreams, and fetishism. Readings include The Interpretation of Dreams, the case histories (Anna O., Dora, Rat Man, Wolf Man, Schreber), and a number of metapsychological papers.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>P. Connor</course_instructors_expected>
+
+<course_instructors_full>P. Connor</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>V</school_bulletin_prefix_code_1>
+
+<course_number_1>3950</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS V3950y</course_identifier_cooked>
+
+<course_name>Colloquium in Literary Theory</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examination of concepts and assumptions present in contemporary views of literature. Theory of meaning and interpretation (hermeneutics); questions of genre (with discussion of representative examples); a critical analysis of formalist, psychoanalytic, structuralist, post-structuralist, Marxist, and feminist approaches to literature.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites>Enrollment limited to 18 students.</prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>B. O&#39;Keeffe</course_instructors_actual>
+
+<course_instructors_expected>B. O&#39;Keeffe</course_instructors_expected>
+
+<course_instructors_full>B. O&#39;Keeffe</course_instructors_full>
+
+<classes><class><call_number>02345</call_number>
+
+<class_name>COLLOQUIUM IN LITERARY TH</class_name>
+
+<course_identifier>CPLSV3950</course_identifier>
+
+<course_number>3950</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>MW 4:10p - 5:25p&#60;br /&#62;237 MILBANK HALL</days_times>
+
+<instructors>B. O&#39;Keeffe</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>V</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>14</student_enrollment_count>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CPLS/V3950-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3997</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3997y</course_identifier_cooked>
+
+<course_name>Senior Seminar</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>&#38;nbsp; &#38;nbsp; &#38;nbsp; &#38;nbsp; Designed for students writing a senior thesis and doing advanced research on two central literary fields in the student&#39;s major. The course of study and reading material will be determined by the instructor(s) in consultation with students(s).</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Grimm</course_instructors_actual>
+
+<course_instructors_expected>E. Grimm</course_instructors_expected>
+
+<course_instructors_full>E. Grimm</course_instructors_full>
+
+<classes><class><call_number>08889</call_number>
+
+<class_name>SENIOR SEMINAR IN COMP LI</class_name>
+
+<course_identifier>CPLSX3997</course_identifier>
+
+<course_number>3997</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 6:10p - 8:00p&#60;br /&#62;306 MILBANK HALL</days_times>
+
+<instructors>E. Grimm</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>BC</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>9</student_enrollment_count>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/CPLS/BC3997-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>BC</school_bulletin_prefix_code_1>
+
+<course_number_1>3999</course_number_1>
+
+<course_term_offered_1>x and y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS BC3999x and y</course_identifier_cooked>
+
+<course_name>Independent Research</course_name>
+
+<course_points_min>4</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>4 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Independent research, primarily for the senior essay, directed by a chosen faculty adviser and with the chair&#39;s permission. The senior seminar for majors writing senior essays will be taught in the Spring term.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, CE</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLEN</subject_area_code>
+
+<subject_area_name>Comparative Literature - English</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4011</course_number_1>
+
+<course_term_offered_1>x</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLEN W4011x</course_identifier_cooked>
+
+<course_name>Dostoevysky, Tolstoy, and the Enlgish Novel</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Close reading of works by Dostoevsky, (Netochka Nezvanova; The Idiot, &#38;quot;A Gentle Creature&#38;quot;) and Tolstoy (Childhood, Boyhood, Youth; &#38;quot;Family Happiness&#38;quot;, Anna Karenina; &#38;quot;The Kreutzer Sonata&#38;quot;) in conjunction with related English novels (Br&#246;nte&#39;s Jane Eyre, Eliot&#39;s Middlemarch, Woolf&#39;s Mrs. Dalloway).&#38;nbsp; No knowledge of Russian is required; all works read in English.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Knapp</course_instructors_expected>
+
+<course_instructors_full>L. Knapp</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CLEN</subject_area_code>
+
+<subject_area_name>Comparative Literature - English</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4012</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CLEN W4012x or y</course_identifier_cooked>
+
+<course_name>Russian, French and American Novels of Adultery</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Adultery is a driving concern of the works read.&#38;nbsp; Authors include Pushkin, Turgenev, Tolstoy, Chekhov; Lafayette, Flaubert; Hawthorne, Chopin.&#38;nbsp; As we study the nineteenth-century novels that define the novel of adultery as a literary category, as well as some precursors and later offshoots, we articulate a morphology of the novel of adultery.&#38;nbsp; We also focus on the narrative techniques used to represent the consciousness of the protagonists, in an effort to determine how the subject matter and the poetics of the novel of adultery interact. No knowledge of Russian is required; all works read in English.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>N</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SOA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>L. Knapp</course_instructors_expected>
+
+<course_instructors_full>L. Knapp</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CPLS</subject_area_code>
+
+<subject_area_name>Comparative Literature and Society</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4080</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CPLS W4080y</course_identifier_cooked>
+
+<course_name>Magic and Modernity</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines literary treatments of magic produced at five pivotal moments in (mostly) European intellectual history, and inquires: How does the depiction of magic relate to the idea of &#34;modernity&#34; and its attendant anxieties? How do texts produce magical effects? How does magic function as a way of understanding the world?&#38;nbsp; Readings include works by Ovid, Apuleius, Marie de France, Chaucer, Shakespeare, Goethe, Pushkin, Bulgakov and others, as well as folklore and theoretical texts.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Stanton</course_instructors_expected>
+
+<course_instructors_full>R. Stanton</course_instructors_full>
+
+</course><course><academic_department_code>COLB</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>CRLS</subject_area_code>
+
+<subject_area_name>Comparative Literature - Russian</subject_area_name>
+
+<school_bulletin_prefix_code_1>W</school_bulletin_prefix_code_1>
+
+<course_number_1>4190</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>CRLS W4190y</course_identifier_cooked>
+
+<course_name>Race, Ethnicity, and Narrative in the Russian/Soviet Empire</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description>Examines the literary construction of ethnic and cultural identity in texts drawn from the non-Russian literatures of ethnic minorities and non-Slavic nationalities that co-exist within the Russian and Soviet imperial space, with attention to the historical and political context in which literary discourses surrounding racial, ethnic, and cultural particularity develop. Organized around three major regions -- the Caucasus, Central Asia, and the Russian Far East -- readings include canonical &#34;classics&#34; by Aitmatov, Iskander, and Rytkheu as well as less-known texts, both &#34;official&#34; and censored.</course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>BC, CC, EN, GS, GSAS, CE, SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected>R. Stanton</course_instructors_expected>
+
+<course_instructors_full>R. Stanton</course_instructors_full>
+
+</course></courses>

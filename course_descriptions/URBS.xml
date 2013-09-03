@@ -1,0 +1,689 @@
+<?xml version="1.0"?>
+<courses><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>4112</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A4112y</course_identifier_cooked>
+
+<course_name>Physical Structure of Cities</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>E. Sclar</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>E. Sclar</course_instructors_full>
+
+<classes><class><call_number>95948</call_number>
+
+<class_name>PHYSICAL STRUCTURE OF CIT</class_name>
+
+<course_identifier>PLANA4112</course_identifier>
+
+<course_number>4112</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Tu 3:00p - 5:00p&#60;br /&#62;114 AVERY HALL</days_times>
+
+<instructors>E. Sclar</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>A</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PLAN/A4112-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>4381</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A4381y</course_identifier_cooked>
+
+<course_name>Sustainable Urban Development - International Perspective</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>4381</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A4381y</course_identifier_cooked>
+
+<course_name>Sustainable Urban Development - International Perspective</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>4540</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A4540y</course_identifier_cooked>
+
+<course_name>Interdisciplinary Planning for Health</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>6010</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A6010y</course_identifier_cooked>
+
+<course_name>Planning for Urban Ecosystems</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>Instructor To Be Announced</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>Instructor To Be Announced</course_instructors_full>
+
+</course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>6052</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A6052x or y</course_identifier_cooked>
+
+<course_name>Planning Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>A. Scherer</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>A. Scherer</course_instructors_full>
+
+<classes><class><call_number>67647</call_number>
+
+<class_name>PLANNING LAW</class_name>
+
+<course_identifier>PLANA6052</course_identifier>
+
+<course_number>6052</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 11:00a - 1:00p&#60;br /&#62;115 AVERY HALL</days_times>
+
+<instructors>A. Scherer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>A</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>32</student_enrollment_count>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PLAN/A6052-20123-001</university_web_bulletin_url>
+
+</class>
+<class><call_number>26447</call_number>
+
+<class_name>PLANNING LAW</class_name>
+
+<course_identifier>PLANA6052</course_identifier>
+
+<course_number>6052</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 9:00a - 11:00a&#60;br /&#62;600 AVERY HALL</days_times>
+
+<instructors>A. Scherer</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>A</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>15</student_enrollment_count>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PLAN/A6052-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>6108</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A6108y</course_identifier_cooked>
+
+<course_name>Land Use Planning</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Martin</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Martin</course_instructors_full>
+
+<classes><class><call_number>24782</call_number>
+
+<class_name>LAND USE PLANNING</class_name>
+
+<course_identifier>PLANA6108</course_identifier>
+
+<course_number>6108</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>F 11:00a - 1:00p&#60;br /&#62;300 N BUELL HALL</days_times>
+
+<instructors>J. Martin</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>25</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>A</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>24</student_enrollment_count>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PLAN/A6108-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>6333</course_number_1>
+
+<course_term_offered_1>x or y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A6333x or y</course_identifier_cooked>
+
+<course_name>Real Estate Development Law</course_name>
+
+<course_points_min>3</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked>3 pts.</course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>J. Douvas, J. Stockton, R. Leland</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>J. Douvas, J. Stockton, R. Leland</course_instructors_full>
+
+<classes><class><call_number>63048</call_number>
+
+<class_name>REAL ESTATE DEVELOPMENT L</class_name>
+
+<course_identifier>PLANA6333</course_identifier>
+
+<course_number>6333</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>W 9:00a - 11:00a&#60;br /&#62;113 AVERY HALL</days_times>
+
+<instructors>J. Douvas&#60;br /&#62;
+J. Stockton&#60;br /&#62;
+R. Leland</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>999</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>A</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>89</student_enrollment_count>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<term_identifier>20123</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PLAN/A6333-20123-001</university_web_bulletin_url>
+
+</class>
+</classes></course><course><academic_department_code>URBS</academic_department_code>
+
+<academic_department_name></academic_department_name>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<subject_area_name>Planning</subject_area_name>
+
+<school_bulletin_prefix_code_1>A</school_bulletin_prefix_code_1>
+
+<course_number_1>6354</course_number_1>
+
+<course_term_offered_1>y</course_term_offered_1>
+
+<school_bulletin_prefix_code_2></school_bulletin_prefix_code_2>
+
+<course_number_2></course_number_2>
+
+<course_term_offered_2></course_term_offered_2>
+
+<course_section_code>0</course_section_code>
+
+<course_identifier_cooked>PLAN A6354y</course_identifier_cooked>
+
+<course_name>Political Environment of Development</course_name>
+
+<course_points_min>0</course_points_min>
+
+<course_points_max>0</course_points_max>
+
+<course_points_notes></course_points_notes>
+
+<course_points_cooked></course_points_cooked>
+
+<course_preface></course_preface>
+
+<course_description></course_description>
+
+<corequisites></corequisites>
+
+<prerequisites></prerequisites>
+
+<not_offered_flag>Y</not_offered_flag>
+
+<course_bulletins>SIPA</course_bulletins>
+
+<course_populations></course_populations>
+
+<course_instructors_actual>C. Weisbrod, J. Alschuler</course_instructors_actual>
+
+<course_instructors_expected></course_instructors_expected>
+
+<course_instructors_full>C. Weisbrod, J. Alschuler</course_instructors_full>
+
+<classes><class><call_number>19704</call_number>
+
+<class_name>POLTCL ENVIRONMNT OF DEVL</class_name>
+
+<course_identifier>PLANA6354</course_identifier>
+
+<course_number>6354</course_number>
+
+<course_section_code>001</course_section_code>
+
+<days_times>Th 6:00p - 8:00p&#60;br /&#62;200 S FAYERWEATHER</days_times>
+
+<instructors>C. Weisbrod&#60;br /&#62;
+J. Alschuler</instructors>
+
+<last_updated></last_updated>
+
+<maximum_enrollment_count>60</maximum_enrollment_count>
+
+<school_bulletin_prefix_code>A</school_bulletin_prefix_code>
+
+<section_type>Credit</section_type>
+
+<student_enrollment_count>28</student_enrollment_count>
+
+<subject_area_code>PLAN</subject_area_code>
+
+<term_identifier>20131</term_identifier>
+
+<subterm_code></subterm_code>
+
+<university_web_bulletin_url>http://www.columbia.edu/cu/bulletin/uwb/subj/PLAN/A6354-20131-001</university_web_bulletin_url>
+
+</class>
+</classes></course></courses>
